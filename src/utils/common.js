@@ -44,32 +44,12 @@ export const useHelper = () => {
             loc,
         };
     };
-    const creatFavicon = ({ url, rel, id }) => {
-        const link = document.createElement('link');
-        link.rel = rel || 'apple-touch-icon';
-        link.type = 'image/x-icon';
-        link.id = id;
-        // link.href = url //SUrl() + initialState?.merchantConfig?.Favicon;
-        link.href = `${url}?timestamp=${Date.now()}`;
-        const head = document.getElementsByTagName('head')[ 0 ];
-        const favicon = document.getElementById(id);
-        !favicon && head.appendChild(link);
-    };
-    const addMeta = (name, content) => {
-        const meta = document.createElement('meta');
-        meta.name = name;
-        meta.content = content;
-        document.getElementsByTagName('head')[ 0 ].appendChild(meta);
-        return this;
-    };
     const sleep = (time) => new Promise(resolve => setTimeout(resolve, time))
     return {
         copyText,
         linkTo,
         getMobileModel,
         switchIoLeaveID,
-        creatFavicon,
-        addMeta,
         sleep
     };
 };

@@ -2,6 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react-swc';
 import path from 'path';
 import WindiCSS from 'vite-plugin-windicss';
+import proxy from './viteConfig/proxy' // 代理配置
 
 export default defineConfig({
   // 基本路径
@@ -40,13 +41,13 @@ export default defineConfig({
     host: '0.0.0.0', // 支持局域网访问
     port: 9527, // 自定义端口
     open: false, // 启动后自动打开浏览器
-    proxy: {
-      '/api': {
-        target: 'http://localhost:5000', // 代理地址
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, '') // 重写路径
-      }
-    }
+    proxy: proxy
+  },
+
+  preview: {
+    port: 6666, // 你希望使用的端口
+    strictPort: false,
+    // open: true, // 预览时自动打开浏览器
   },
 
   // CSS 相关配置

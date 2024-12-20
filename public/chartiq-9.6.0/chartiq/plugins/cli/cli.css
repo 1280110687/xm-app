@@ -1,0 +1,47 @@
+div.ciq-cli-button {
+	float: left;
+	box-sizing: border-box;
+	display: inline-flex;
+	line-height: 40px;
+	cursor: pointer;
+	color: #575757;
+	position: relative;
+	padding: 1px 10px;
+	opacity: 0.8;
+	transition: opacity 0.2s 0s;
+	font-weight: 400;
+	html:not([ciq-last-interaction="touch"]) &:hover {
+		& {
+			color: #000000;
+		}
+		opacity: 1;
+	}
+	&:active {
+		color: #000000;
+	}
+	&.stxMenuActive {
+		color: #000000;
+		.break-sm & {
+			border-bottom: solid 3px #398dff;
+		}
+	}
+}
+
+div.ciq-cli-button,
+.ciq-cli-button .icon {
+	box-sizing: border-box;
+	display: inline-block;
+	width: 33px;
+	height: 32px;
+	margin: 4px;
+	background-image: url(../cli/cli.svg);
+	background-position: 4px 10px;
+	background-repeat: no-repeat;
+	opacity: 0.85;
+	transition: opacity 0.2s 0s;
+	filter: invert(1);
+}
+
+.ciq-night .ciq-cli-button .icon {
+	filter: invert(0);
+}

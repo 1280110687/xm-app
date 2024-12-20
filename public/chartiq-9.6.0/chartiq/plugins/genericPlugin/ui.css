@@ -1,0 +1,23 @@
+.stx-genericPlugin span {
+	background: url(img/logo-day.png) no-repeat;
+	background-size: 27px 27px;
+	background-position: 0px 0px;
+}
+
+.ciq-night .stx-genericPlugin span {
+	background-image: url(img/logo-night.png);
+}
+
+.ciq-genericPlugin[disabled] {
+	display: none !important;
+}
+
+.ciq-genericPlugin.top {
+	width: 100%;
+	height: 50px;
+}
+
+.ciq-genericPlugin.right {
+	width: 50px;
+	height: 100%;
+}

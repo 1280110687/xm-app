@@ -1,0 +1,33433 @@
+/**!
+ *	9.6.0
+ *	Generation date: 2024-12-12T14:37:46.880Z
+ *	Package Type: Core alacarte
+ *	Build descriptor: v9.6.0-0-g23f1744fc
+ */
+
+/***********************************************************!
+ * Copyright © 2024 S&P Global All rights reserved
+ *************************************************************/
+/*************************************! DO NOT MAKE CHANGES TO THIS LIBRARY FILE!! !*************************************
+ * If you wish to overwrite default functionality, create a separate file with a copy of the methods you are overwriting *
+ * and load that file right after the library has been loaded, but before the chart engine is instantiated.              *
+ * Directly modifying library files will prevent upgrades and the ability for ChartIQ to support your solution.          *
+ *************************************************************************************************************************/
+/* eslint-disable no-extra-parens */
+
+/* eslint-disable */ /* jshint ignore:start */ /* ignore jslint start */
+U6BfN[494738] = (function () {
+  var P = 2;
+  for (; P !== 9; ) {
+    switch (P) {
+      case 5:
+        var B;
+        try {
+          var W = 2;
+          for (; W !== 6; ) {
+            switch (W) {
+              case 9:
+                delete B["\x62\x6b\x5f\x37\x37"];
+                var u =
+                  Object["\u0070\x72\x6f\u0074\u006f\u0074\u0079\u0070\x65"];
+                delete u["\x52\u0071\u0053\x4c\x41"];
+                W = 6;
+                break;
+              case 2:
+                Object[
+                  "\u0064\u0065\x66\x69\u006e\x65\x50\x72\u006f\x70\u0065\u0072\x74\u0079"
+                ](
+                  Object["\x70\u0072\u006f\u0074\x6f\x74\u0079\x70\u0065"],
+                  "\x52\x71\u0053\u004c\x41",
+                  {
+                    "\u0067\u0065\x74": function () {
+                      return this;
+                    },
+                    "\u0063\x6f\x6e\u0066\x69\x67\u0075\x72\x61\u0062\x6c\x65": true,
+                  },
+                );
+                B = RqSLA;
+                W = 5;
+                break;
+              case 3:
+                throw "";
+                W = 9;
+                break;
+              case 5:
+                B["\u0062\x6b\x5f\x37\x37"] = B;
+                W = 4;
+                break;
+              case 4:
+                W =
+                  typeof bk_77 ===
+                  "\u0075\x6e\x64\u0065\u0066\u0069\x6e\x65\x64"
+                    ? 3
+                    : 9;
+                break;
+            }
+          }
+        } catch (Q) {
+          B = window;
+        }
+        return B;
+        break;
+      case 1:
+        return globalThis;
+        break;
+      case 2:
+        P = typeof globalThis === "\u006f\u0062\x6a\u0065\x63\u0074" ? 1 : 5;
+        break;
+    }
+  }
+})();
+U6BfN.G2n3q = G2n3q;
+o$_j1(U6BfN[494738]);
+U6BfN[272497] = (function () {
+  var Z9 = 2;
+  for (; Z9 !== 5; ) {
+    switch (Z9) {
+      case 2:
+        var U = {
+          O0Livj0: (function (U$) {
+            var R3 = 2;
+            for (; R3 !== 18; ) {
+              switch (R3) {
+                case 14:
+                  A += W1(l4(Y) ^ b5(M));
+                  R3 = 13;
+                  break;
+                case 2:
+                  var U_ = function (f9) {
+                    var Y9 = 2;
+                    for (; Y9 !== 11; ) {
+                      switch (Y9) {
+                        case 3:
+                          Y9 = C9 < f9.length ? 9 : 7;
+                          break;
+                        case 5:
+                          var T3 = [];
+                          Y9 = 4;
+                          break;
+                        case 6:
+                          p5 = U6BfN.x9(
+                            U6BfN.c9(T3, function () {
+                              var w4 = 2;
+                              for (; w4 !== 1; ) {
+                                switch (w4) {
+                                  case 2:
+                                    return 0.5 - M9();
+                                    break;
+                                }
+                              }
+                            }),
+                            "",
+                          );
+                          x8 = U6BfN[p5];
+                          Y9 = 13;
+                          break;
+                        case 9:
+                          T3[C9] = m6(f9[C9] + 3);
+                          Y9 = 8;
+                          break;
+                        case 2:
+                          var m6 = U6BfN.I2();
+                          var M9 = U6BfN.l0();
+                          Y9 = 5;
+                          break;
+                        case 4:
+                          var C9 = 0;
+                          Y9 = 3;
+                          break;
+                        case 13:
+                          Y9 = !x8 ? 6 : 12;
+                          break;
+                        case 8:
+                          C9++;
+                          Y9 = 3;
+                          break;
+                        case 12:
+                          return x8;
+                          break;
+                        case 7:
+                          var p5, x8;
+                          Y9 = 6;
+                          break;
+                      }
+                    }
+                  };
+                  var A = "",
+                    q = U6BfN.c1()(U_([47, 68, 48, 107, 110])());
+                  var W1 = U6BfN.I2();
+                  var l4 = U6BfN.x$().bind(q);
+                  var b5 = U6BfN.x$().bind(U$);
+                  R3 = 9;
+                  break;
+                case 9:
+                  var Y = 0,
+                    M = 0;
+                  R3 = 8;
+                  break;
+                case 6:
+                  M = 0;
+                  R3 = 14;
+                  break;
+                case 7:
+                  R3 = M === U$.length ? 6 : 14;
+                  break;
+                case 8:
+                  R3 = Y < q.length ? 7 : 12;
+                  break;
+                case 12:
+                  A = U6BfN.o_(A, "?");
+                  var I = 0;
+                  R3 = 10;
+                  break;
+                case 19:
+                  return r3;
+                  break;
+                case 10:
+                  var r3 = function (K8) {
+                    var D6 = 2;
+                    for (; D6 !== 35; ) {
+                      switch (D6) {
+                        case 2:
+                          D6 = I === 0 && K8 === 45 ? 1 : 3;
+                          break;
+                        case 1:
+                          I += 1;
+                          D6 = 5;
+                          break;
+                        case 8:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -10, 10), 0, 8),
+                          );
+                          D6 = 4;
+                          break;
+                        case 12:
+                          I += 1;
+                          D6 = 11;
+                          break;
+                        case 9:
+                          I += 1;
+                          D6 = 8;
+                          break;
+                        case 16:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -10, 10), 0, 8),
+                          );
+                          D6 = 4;
+                          break;
+                        case 15:
+                          D6 = I === 6 && K8 === 14 ? 27 : 25;
+                          break;
+                        case 5:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -5, 5), 0, 3),
+                          );
+                          D6 = 4;
+                          break;
+                        case 23:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -6, 6), 0, 4),
+                          );
+                          D6 = 4;
+                          break;
+                        case 24:
+                          I += 1;
+                          D6 = 23;
+                          break;
+                        case 20:
+                          I += 1;
+                          D6 = 19;
+                          break;
+                        case 26:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -3, 3), 0, 2),
+                          );
+                          D6 = 4;
+                          break;
+                        case 6:
+                          I += 1;
+                          D6 = 14;
+                          break;
+                        case 7:
+                          D6 = I === 2 && K8 === 34 ? 6 : 13;
+                          break;
+                        case 11:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -9, 9), 0, 8),
+                          );
+                          D6 = 4;
+                          break;
+                        case 18:
+                          D6 = I === 5 && K8 === 8 ? 17 : 15;
+                          break;
+                        case 22:
+                          U.O0Livj0 = b3;
+                          D6 = 21;
+                          break;
+                        case 4:
+                          return I;
+                          break;
+                        case 19:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -10, 10), 0, 8),
+                          );
+                          D6 = 4;
+                          break;
+                        case 27:
+                          I += 1;
+                          D6 = 26;
+                          break;
+                        case 21:
+                          return b3(K8);
+                          break;
+                        case 14:
+                          U6BfN.M_(
+                            U6BfN.f7(),
+                            A,
+                            U6BfN.C6(U6BfN.C6(A, -3, 3), 0, 1),
+                          );
+                          D6 = 4;
+                          break;
+                        case 10:
+                          D6 = I === 4 && K8 === 23 ? 20 : 18;
+                          break;
+                        case 3:
+                          D6 = I === 1 && K8 === 47 ? 9 : 7;
+                          break;
+                        case 25:
+                          D6 = I === 7 && K8 === 21 ? 24 : 22;
+                          break;
+                        case 17:
+                          I += 1;
+                          D6 = 16;
+                          break;
+                        case 13:
+                          D6 = I === 3 && K8 === 25 ? 12 : 10;
+                          break;
+                      }
+                    }
+                  };
+                  var b3 = function (u8) {
+                    var r_ = 2;
+                    for (; r_ !== 1; ) {
+                      switch (r_) {
+                        case 2:
+                          return A[u8];
+                          break;
+                      }
+                    }
+                  };
+                  R3 = 19;
+                  break;
+                case 13:
+                  Y++, M++;
+                  R3 = 8;
+                  break;
+              }
+            }
+          })("01PT8M"),
+        };
+        return U;
+        break;
+    }
+  }
+})();
+U6BfN.L5 = function () {
+  return typeof U6BfN[272497].O0Livj0 === "function"
+    ? U6BfN[272497].O0Livj0.apply(U6BfN[272497], arguments)
+    : U6BfN[272497].O0Livj0;
+};
+U6BfN.u5 = function () {
+  return typeof U6BfN[272497].O0Livj0 === "function"
+    ? U6BfN[272497].O0Livj0.apply(U6BfN[272497], arguments)
+    : U6BfN[272497].O0Livj0;
+};
+var E1uUQ = 2;
+for (; E1uUQ !== 13; ) {
+  switch (E1uUQ) {
+    case 1:
+      U6BfN.i3 = 74;
+      E1uUQ = 5;
+      break;
+    case 2:
+      E1uUQ = U6BfN.L5(45) !== U6BfN.L5(47) ? 1 : 5;
+      break;
+    case 6:
+      E1uUQ = U6BfN.u5(14) <= U6BfN.L5(21) ? 14 : 13;
+      break;
+    case 3:
+      E1uUQ = U6BfN.u5(25) !== U6BfN.L5(23) ? 9 : 8;
+      break;
+    case 7:
+      U6BfN.n4 = 68;
+      E1uUQ = 6;
+      break;
+    case 8:
+      E1uUQ = U6BfN.L5(8) != 65 ? 7 : 6;
+      break;
+    case 5:
+      E1uUQ = U6BfN.L5(34) != 62 ? 4 : 3;
+      break;
+    case 9:
+      U6BfN.c8 = 71;
+      E1uUQ = 8;
+      break;
+    case 4:
+      U6BfN.G1 = 4;
+      E1uUQ = 3;
+      break;
+    case 14:
+      U6BfN.p8 = -1;
+      E1uUQ = 13;
+      break;
+  }
+}
+U6BfN[631144] = (function (S$$) {
+  return {
+    g7kAwqc: function () {
+      var r0z,
+        y17 = arguments;
+      switch (S$$) {
+        case 19:
+          r0z = y17[1] - y17[2] - y17[0];
+          break;
+        case 112:
+          r0z = (y17[1] * y17[2]) % y17[0];
+          break;
+        case 45:
+          r0z = y17[3] * y17[1] + y17[2] * y17[0];
+          break;
+        case 108:
+          r0z = (y17[0] / y17[3] - y17[4]) / y17[1] + y17[2];
+          break;
+        case 141:
+          r0z = y17[0] - (y17[1] >> y17[2]);
+          break;
+        case 115:
+          r0z = (y17[1] + y17[3]) * y17[0] - y17[4] - y17[2];
+          break;
+        case 49:
+          r0z = y17[3] - (y17[0] << y17[2]) + y17[1];
+          break;
+        case 157:
+          r0z = +y17[3] * (y17[0] / y17[1] - y17[2]) + y17[4];
+          break;
+        case 98:
+          r0z = -y17[0] + y17[2] - y17[1];
+          break;
+        case 139:
+          r0z = y17[0] * y17[6] * y17[5] + (y17[4] - y17[1] * y17[2]) * y17[3];
+          break;
+        case 143:
+          r0z = y17[1] * y17[3] * y17[0] * y17[2];
+          break;
+        case 138:
+          r0z = y17[1] / (y17[2] + y17[0]);
+          break;
+        case 72:
+          r0z = -(y17[0] - y17[2]) * y17[3] + y17[1];
+          break;
+        case 104:
+          r0z = -y17[2] * y17[1] + y17[0];
+          break;
+        case 114:
+          r0z = y17[2] + y17[3] - y17[4] + y17[0] + y17[1];
+          break;
+        case 56:
+          r0z = ((y17[1] + y17[3]) * y17[2]) / y17[4] - y17[0];
+          break;
+        case 116:
+          r0z = ((y17[4] - y17[0]) * y17[3]) / (y17[1] + y17[2]);
+          break;
+        case 3:
+          r0z = y17[0] * y17[1];
+          break;
+        case 64:
+          r0z = ((-y17[4] - y17[0]) * y17[1]) / y17[3] + y17[2];
+          break;
+        case 99:
+          r0z = -y17[2] - y17[1] + y17[3] + y17[0];
+          break;
+        case 33:
+          r0z = (y17[0] - y17[1]) * y17[3] + y17[2];
+          break;
+        case 66:
+          r0z = ((y17[4] / y17[0]) * y17[3]) / y17[1] + y17[2];
+          break;
+        case 9:
+          r0z = y17[0] / y17[1] / y17[3] - y17[2];
+          break;
+        case 60:
+          r0z = y17[0] + +y17[1];
+          break;
+        case 68:
+          r0z = (y17[1] + y17[2]) / y17[0];
+          break;
+        case 36:
+          r0z = y17[1] * (y17[0] - +y17[2]);
+          break;
+        case 134:
+          r0z = (y17[1] + y17[2]) * y17[3] * y17[4] - y17[0];
+          break;
+        case 135:
+          r0z = (y17[4] * y17[0] + y17[2]) * y17[3] - y17[1];
+          break;
+        case 102:
+          r0z = (y17[1] / y17[2] / y17[4]) * y17[0] + y17[3];
+          break;
+        case 106:
+          r0z = (y17[3] | y17[0]) / (y17[1] * y17[2]);
+          break;
+        case 77:
+          r0z =
+            (-y17[3] / y17[4]) *
+              (y17[7] * (y17[5] - +y17[0]) - (y17[2] << y17[1])) +
+            y17[6];
+          break;
+        case 136:
+          r0z = (y17[1] - y17[0]) * y17[4] + y17[3] + y17[2];
+          break;
+        case 96:
+          r0z = y17[0] === y17[1];
+          break;
+        case 7:
+          r0z = -y17[1] + y17[0];
+          break;
+        case 11:
+          r0z = y17[1] / y17[0];
+          break;
+        case 0:
+          r0z = y17[0] + y17[1];
+          break;
+        case 140:
+          r0z = y17[0] + (y17[2] << y17[1]);
+          break;
+        case 153:
+          r0z = y17[0] / y17[2] / (y17[3] | y17[1]);
+          break;
+        case 94:
+          r0z = y17[0] | y17[2] | y17[1];
+          break;
+        case 155:
+          r0z = y17[2] - (y17[0] ^ y17[1]);
+          break;
+        case 105:
+          r0z = y17[0] - y17[1] - y17[2] - y17[3];
+          break;
+        case 40:
+          r0z = (y17[2] * y17[1]) / y17[3] - y17[0];
+          break;
+        case 73:
+          r0z = (y17[2] + y17[3]) * y17[1] - y17[0];
+          break;
+        case 144:
+          r0z = y17[2] * y17[1] + y17[0];
+          break;
+        case 70:
+          r0z = y17[1] / y17[2] - y17[0] + y17[4] + y17[3];
+          break;
+        case 34:
+          r0z = y17[4] - (y17[2] * +y17[3] * y17[1]) / y17[0];
+          break;
+        case 156:
+          r0z =
+            (y17[4] - y17[6]) * (y17[5] - y17[7]) +
+            (y17[2] - y17[3]) * (y17[0] - y17[1]);
+          break;
+        case 39:
+          r0z = -y17[1] - y17[2] + y17[0];
+          break;
+        case 107:
+          r0z = (y17[2] + y17[0] + y17[1]) / y17[3] + y17[4];
+          break;
+        case 74:
+          r0z =
+            y17[0] +
+            ((y17[2] - y17[5]) / (y17[1] - y17[4])) * (y17[3] - y17[6]);
+          break;
+        case 78:
+          r0z = (y17[2] / y17[0]) * y17[5] * y17[3] * y17[4] + y17[1];
+          break;
+        case 86:
+          r0z = y17[0] << (y17[1] ^ y17[2]);
+          break;
+        case 89:
+          r0z = y17[0] > y17[1];
+          break;
+        case 25:
+          r0z = y17[2] + y17[3] - y17[1] - y17[0] + y17[4];
+          break;
+        case 32:
+          r0z = y17[1] - +y17[0];
+          break;
+        case 148:
+          r0z = (y17[4] * y17[1]) / y17[0] + y17[2] + y17[3];
+          break;
+        case 76:
+          r0z = (y17[0] / y17[4]) * y17[3] * y17[1] + y17[2];
+          break;
+        case 8:
+          r0z = (y17[2] - y17[4] + y17[0]) * y17[3] - y17[1];
+          break;
+        case 63:
+          r0z = (-y17[3] / y17[1]) * y17[0] + y17[2];
+          break;
+        case 47:
+          r0z = y17[2] - y17[1] / y17[0];
+          break;
+        case 93:
+          r0z = y17[2] | y17[3] | y17[0] | y17[1];
+          break;
+        case 12:
+          r0z = (y17[2] - y17[1]) * y17[0];
+          break;
+        case 124:
+          r0z = y17[2] + y17[3] - y17[0] + y17[4] - y17[1];
+          break;
+        case 26:
+          r0z = y17[0] + y17[2] - y17[1];
+          break;
+        case 128:
+          r0z = (y17[3] + y17[2]) / y17[0] / y17[1] + y17[4];
+          break;
+        case 67:
+          r0z = y17[0] * y17[3] - y17[1] - y17[2];
+          break;
+        case 30:
+          r0z = -y17[1] + y17[2] + y17[0];
+          break;
+        case 44:
+          r0z = ((y17[3] + y17[0]) / y17[2]) * y17[1] - y17[4];
+          break;
+        case 35:
+          r0z = y17[0] !== y17[1];
+          break;
+        case 46:
+          r0z = y17[1] + y17[0] / y17[2];
+          break;
+        case 52:
+          r0z = (-y17[3] * y17[1]) / y17[2] / y17[0] + y17[4];
+          break;
+        case 131:
+          r0z = y17[4] * y17[1] + y17[3] + y17[0] - y17[2];
+          break;
+        case 57:
+          r0z = (y17[0] + y17[2]) / y17[4] / y17[1] - y17[3];
+          break;
+        case 4:
+          r0z = y17[1] - y17[3] / y17[2] + y17[0];
+          break;
+        case 5:
+          r0z = y17[0] + y17[3] / +y17[2] - y17[1];
+          break;
+        case 6:
+          r0z = y17[0] ^ y17[1];
+          break;
+        case 58:
+          r0z = y17[3] + y17[1] + y17[0] - y17[2];
+          break;
+        case 22:
+          r0z = ((y17[2] - y17[3]) * y17[1]) / y17[4] + y17[0];
+          break;
+        case 50:
+          r0z = y17[2] + y17[3] - y17[1] + y17[0];
+          break;
+        case 59:
+          r0z = y17[3] / y17[1] + y17[0] + y17[2];
+          break;
+        case 17:
+          r0z = y17[0] / +y17[1];
+          break;
+        case 62:
+          r0z = (y17[2] + y17[4]) * y17[3] + y17[1] - y17[0];
+          break;
+        case 100:
+          r0z = y17[2] + y17[1] - y17[3] - y17[0];
+          break;
+        case 147:
+          r0z = (y17[3] - y17[4]) * y17[1] - y17[0] - y17[2];
+          break;
+        case 23:
+          r0z = y17[0] | y17[1];
+          break;
+        case 113:
+          r0z = (y17[1] - y17[2]) * y17[3] * y17[0] + y17[4];
+          break;
+        case 29:
+          r0z = y17[2] / y17[0] - y17[1];
+          break;
+        case 120:
+          r0z = y17[0] / y17[1] / y17[3] + y17[4] + y17[2];
+          break;
+        case 51:
+          r0z = y17[0] - y17[1] + y17[3] + y17[2];
+          break;
+        case 161:
+          r0z = (y17[3] + y17[1] / y17[0]) * y17[2];
+          break;
+        case 79:
+          r0z =
+            (y17[6] / (y17[0] >> y17[4])) *
+              (y17[5] * y17[3] * y17[2] + y17[1]) +
+            y17[7];
+          break;
+        case 97:
+          r0z = y17[1] - (y17[0] - y17[2]);
+          break;
+        case 133:
+          r0z = (y17[0] - y17[3]) / y17[2] - y17[1] + y17[4];
+          break;
+        case 65:
+          r0z = -y17[1] / y17[0] + y17[2];
+          break;
+        case 159:
+          r0z = y17[1] - y17[2] * y17[0];
+          break;
+        case 109:
+          r0z = (y17[0] / y17[3] - y17[2]) * y17[1] + y17[4];
+          break;
+        case 101:
+          r0z = y17[2] * y17[1] + y17[0] - y17[3];
+          break;
+        case 31:
+          r0z = (y17[2] * y17[1]) / +y17[0];
+          break;
+        case 126:
+          r0z = y17[1] / y17[3] / y17[0] + y17[2];
+          break;
+        case 119:
+          r0z = (y17[3] + y17[2] + y17[4]) * y17[1] - y17[0];
+          break;
+        case 28:
+          r0z = y17[2] * y17[0] - y17[1];
+          break;
+        case 146:
+          r0z = y17[0] - y17[3] + y17[4] + y17[2] - y17[1];
+          break;
+        case 18:
+          r0z = (y17[0] * y17[2]) / y17[1];
+          break;
+        case 91:
+          r0z = +y17[1] << (y17[0] ^ y17[2]);
+          break;
+        case 75:
+          r0z = y17[1] == y17[0];
+          break;
+        case 83:
+          r0z = y17[0] + y17[4] + y17[2] + y17[3] + y17[1];
+          break;
+        case 69:
+          r0z = y17[2] / y17[3] - y17[0] + y17[1];
+          break;
+        case 149:
+          r0z = y17[1] / (y17[2] >> y17[0]);
+          break;
+        case 127:
+          r0z = y17[1] - y17[2] - y17[0] - y17[3] + y17[4];
+          break;
+        case 71:
+          r0z = y17[0] - y17[1] + y17[3] - y17[2];
+          break;
+        case 137:
+          r0z = (y17[1] / y17[4]) * y17[0] + y17[3] + y17[2];
+          break;
+        case 130:
+          r0z = y17[2] - (y17[0] - y17[1]) - y17[3];
+          break;
+        case 154:
+          r0z = y17[0] - y17[2] - y17[3] + y17[1];
+          break;
+        case 142:
+          r0z = (-y17[0] + y17[2]) / y17[1] - y17[3];
+          break;
+        case 123:
+          r0z = ((y17[2] + y17[4]) * y17[1]) / y17[0] + y17[3];
+          break;
+        case 84:
+          r0z = y17[0] != y17[1];
+          break;
+        case 117:
+          r0z = y17[3] / y17[2] + y17[0] - y17[1];
+          break;
+        case 42:
+          r0z = y17[2] - y17[0] * y17[3] + y17[1];
+          break;
+        case 129:
+          r0z = y17[1] / (y17[2] * y17[0]);
+          break;
+        case 48:
+          r0z = y17[1] + y17[0] + y17[2] + y17[3];
+          break;
+        case 10:
+          r0z = y17[1] - y17[0];
+          break;
+        case 21:
+          r0z = y17[1] >> y17[0];
+          break;
+        case 88:
+          r0z = y17[0] * y17[1];
+          break;
+        case 13:
+          r0z = (y17[1] + y17[2]) / (y17[0] - y17[3]);
+          break;
+        case 145:
+          r0z = y17[0] * ((y17[4] - y17[2]) / y17[3] + y17[1]);
+          break;
+        case 16:
+          r0z = ((y17[4] * y17[0]) / y17[1]) * y17[2] - y17[3];
+          break;
+        case 158:
+          r0z = y17[1] + y17[2] * y17[0];
+          break;
+        case 151:
+          r0z = (y17[3] - y17[2]) / y17[0] - y17[1];
+          break;
+        case 80:
+          r0z = y17[4] * (y17[2] * y17[0] * y17[1] + y17[3]) + y17[5];
+          break;
+        case 38:
+          r0z = y17[0] * y17[3] * y17[2] - y17[1];
+          break;
+        case 1:
+          r0z = y17[1] << y17[0];
+          break;
+        case 24:
+          r0z = (y17[2] / y17[1]) * y17[3] - y17[0];
+          break;
+        case 152:
+          r0z = (y17[1] - y17[3]) / y17[4] + y17[0] + y17[2];
+          break;
+        case 37:
+          r0z = y17[0] * y17[2] * y17[1];
+          break;
+        case 15:
+          r0z = y17[4] / y17[2] / y17[0] - y17[1] + y17[3];
+          break;
+        case 14:
+          r0z = (y17[4] / y17[1]) * y17[2] + y17[0] - y17[3];
+          break;
+        case 2:
+          r0z = y17[0] + y17[1] + y17[2];
+          break;
+        case 53:
+          r0z = y17[4] - y17[3] - y17[0] + y17[1] - y17[2];
+          break;
+        case 95:
+          r0z = y17[0] | y17[3] | y17[1] | y17[2] | y17[4];
+          break;
+        case 41:
+          r0z = y17[2] + (y17[0] ^ y17[1]);
+          break;
+        case 150:
+          r0z = y17[1] / y17[2] / y17[0] + y17[4] - y17[3];
+          break;
+        case 55:
+          r0z = (y17[2] - y17[0]) / y17[3] + y17[1];
+          break;
+        case 118:
+          r0z = y17[1] + (y17[2] | y17[0]);
+          break;
+        case 160:
+          r0z = (y17[3] - y17[4] / (y17[1] ^ y17[2])) * y17[0];
+          break;
+        case 125:
+          r0z = (y17[3] - y17[0] - y17[1]) * y17[4] - y17[2];
+          break;
+        case 54:
+          r0z = -y17[1] / y17[2] + y17[0] - y17[3] + y17[4];
+          break;
+        case 81:
+          r0z = y17[0] % y17[1];
+          break;
+        case 122:
+          r0z = y17[2] * (y17[0] + y17[1] / y17[3]);
+          break;
+        case 110:
+          r0z = y17[3] - y17[0] - y17[2] + y17[1] + y17[4];
+          break;
+        case 92:
+          r0z = y17[2] << (y17[1] << y17[0]);
+          break;
+        case 103:
+          r0z = (y17[2] / y17[4] + y17[3]) / y17[0] + y17[1];
+          break;
+        case 27:
+          r0z = (y17[3] + y17[1]) / y17[0] - y17[2];
+          break;
+        case 111:
+          r0z = -y17[4] + y17[1] - y17[3] + y17[2] + y17[0];
+          break;
+        case 82:
+          r0z = y17[0] <= y17[1];
+          break;
+        case 85:
+          r0z = (y17[2] >> y17[0]) << y17[1];
+          break;
+        case 87:
+          r0z = y17[1] < y17[0];
+          break;
+        case 43:
+          r0z = y17[0] + y17[2] - +y17[1];
+          break;
+        case 90:
+          r0z = y17[0] >= y17[1];
+          break;
+        case 20:
+          r0z = y17[2] - y17[0] + y17[1];
+          break;
+        case 121:
+          r0z = y17[0] / y17[1] + y17[2];
+          break;
+        case 132:
+          r0z = y17[4] + y17[0] + y17[3] + y17[1] - y17[2];
+          break;
+        case 61:
+          r0z = (y17[1] - y17[2]) / (y17[0] - y17[3]);
+          break;
+      }
+      return r0z;
+    },
+    u7Y4kHN: function (U8k) {
+      S$$ = U8k;
+    },
+  };
+})();
+U6BfN[11142] = false;
+U6BfN[294995] = (function () {
+  var Q5v = function (B5t, c7t) {
+      var p7q = c7t & 0xffff;
+      var K2k = c7t - p7q;
+      return (((K2k * B5t) | 0) + ((p7q * B5t) | 0)) | 0;
+    },
+    e3ulEkn = function (I5O, o9d, e9x) {
+      var h_K = 0xcc9e2d51,
+        z0v = 0x1b873593;
+      var E88 = e9x;
+      var L$X = o9d & ~0x3;
+      for (var x9S = 0; x9S < L$X; x9S += 4) {
+        var W1M =
+          (U6BfN.x$(I5O, x9S) & 0xff) |
+          ((U6BfN.x$(I5O, x9S + 1) & 0xff) << 8) |
+          ((U6BfN.x$(I5O, x9S + 2) & 0xff) << 16) |
+          ((U6BfN.x$(I5O, x9S + 3) & 0xff) << 24);
+        W1M = Q5v(W1M, h_K);
+        W1M = ((W1M & 0x1ffff) << 15) | (W1M >>> 17);
+        W1M = Q5v(W1M, z0v);
+        E88 ^= W1M;
+        E88 = ((E88 & 0x7ffff) << 13) | (E88 >>> 19);
+        E88 = (E88 * 5 + 0xe6546b64) | 0;
+      }
+      W1M = 0;
+      switch (o9d % 4) {
+        case 3:
+          W1M = (U6BfN.x$(I5O, L$X + 2) & 0xff) << 16;
+        case 2:
+          W1M |= (U6BfN.x$(I5O, L$X + 1) & 0xff) << 8;
+        case 1:
+          W1M |= U6BfN.x$(I5O, L$X) & 0xff;
+          W1M = Q5v(W1M, h_K);
+          W1M = ((W1M & 0x1ffff) << 15) | (W1M >>> 17);
+          W1M = Q5v(W1M, z0v);
+          E88 ^= W1M;
+      }
+      E88 ^= o9d;
+      E88 ^= E88 >>> 16;
+      E88 = Q5v(E88, 0x85ebca6b);
+      E88 ^= E88 >>> 13;
+      E88 = Q5v(E88, 0xc2b2ae35);
+      E88 ^= E88 >>> 16;
+      return E88;
+    };
+  return { e3ulEkn: e3ulEkn };
+})();
+U6BfN[494738].E1vv = U6BfN;
+U6BfN.B$D = function () {
+  return typeof U6BfN[631144].g7kAwqc === "function"
+    ? U6BfN[631144].g7kAwqc.apply(U6BfN[631144], arguments)
+    : U6BfN[631144].g7kAwqc;
+};
+U6BfN.C2v = function () {
+  return typeof U6BfN[631144].u7Y4kHN === "function"
+    ? U6BfN[631144].u7Y4kHN.apply(U6BfN[631144], arguments)
+    : U6BfN[631144].u7Y4kHN;
+};
+U6BfN.s8u = function () {
+  return typeof U6BfN[595683].a$mdTan === "function"
+    ? U6BfN[595683].a$mdTan.apply(U6BfN[595683], arguments)
+    : U6BfN[595683].a$mdTan;
+};
+U6BfN.S$ = function () {
+  return typeof U6BfN[265666].L4e9iwW === "function"
+    ? U6BfN[265666].L4e9iwW.apply(U6BfN[265666], arguments)
+    : U6BfN[265666].L4e9iwW;
+};
+function o$_j1(M3c) {
+  function E5X(L5i) {
+    var y8w = 2;
+    for (; y8w !== 5; ) {
+      switch (y8w) {
+        case 2:
+          var f7U = [arguments];
+          return f7U[0][0].Function;
+          break;
+      }
+    }
+  }
+  function m8T(E7a) {
+    var q5G = 2;
+    for (; q5G !== 5; ) {
+      switch (q5G) {
+        case 2:
+          var M8h = [arguments];
+          return M8h[0][0].RegExp;
+          break;
+      }
+    }
+  }
+  function X2W(A$A) {
+    var O9a = 2;
+    for (; O9a !== 5; ) {
+      switch (O9a) {
+        case 2:
+          var T$u = [arguments];
+          return T$u[0][0];
+          break;
+      }
+    }
+  }
+  function T83(L3d) {
+    var a$J = 2;
+    for (; a$J !== 5; ) {
+      switch (a$J) {
+        case 2:
+          var g6g = [arguments];
+          return g6g[0][0].String;
+          break;
+      }
+    }
+  }
+  var E$t = 2;
+  for (; E$t !== 132; ) {
+    switch (E$t) {
+      case 10:
+        p0k[1] = "";
+        p0k[1] = "";
+        p0k[1] = "M";
+        p0k[8] = "";
+        E$t = 17;
+        break;
+      case 6:
+        p0k[9] = "$";
+        p0k[4] = "f";
+        p0k[2] = "";
+        p0k[2] = "_";
+        p0k[5] = "I";
+        E$t = 10;
+        break;
+      case 118:
+        G_P(g_m, "sort", p0k[44], p0k[95], p0k[29]);
+        E$t = 117;
+        break;
+      case 116:
+        G_P(X2W, "String", p0k[29], p0k[20], p0k[29]);
+        E$t = 115;
+        break;
+      case 3:
+        p0k[3] = "1";
+        p0k[7] = "";
+        p0k[7] = "c";
+        p0k[9] = "";
+        E$t = 6;
+        break;
+      case 37:
+        p0k[45] = "stra";
+        p0k[13] = "3";
+        p0k[89] = "__opti";
+        p0k[63] = "u";
+        E$t = 52;
+        break;
+      case 111:
+        G_P(T83, "charCodeAt", p0k[44], p0k[67], p0k[29]);
+        E$t = 110;
+        break;
+      case 17:
+        p0k[30] = "9";
+        p0k[8] = "6";
+        p0k[34] = "";
+        p0k[34] = "C";
+        p0k[92] = "";
+        p0k[92] = "__";
+        E$t = 24;
+        break;
+      case 95:
+        p0k[20] += p0k[8];
+        p0k[72] = p0k[28];
+        p0k[72] += p0k[30];
+        p0k[95] = p0k[7];
+        E$t = 91;
+        break;
+      case 58:
+        p0k[59] += p0k[13];
+        p0k[83] = p0k[91];
+        p0k[83] += p0k[45];
+        p0k[83] += p0k[47];
+        p0k[58] = p0k[55];
+        p0k[58] += p0k[76];
+        E$t = 75;
+        break;
+      case 24:
+        p0k[27] = "";
+        p0k[87] = "residu";
+        p0k[27] = "q";
+        p0k[53] = "";
+        E$t = 35;
+        break;
+      case 31:
+        p0k[61] = "";
+        p0k[61] = "2";
+        p0k[76] = "";
+        p0k[50] = "8";
+        E$t = 44;
+        break;
+      case 35:
+        p0k[46] = "o";
+        p0k[53] = "";
+        p0k[28] = "x";
+        p0k[53] = "ize";
+        E$t = 31;
+        break;
+      case 117:
+        G_P(g_m, "join", p0k[44], p0k[72], p0k[29]);
+        E$t = 116;
+        break;
+      case 108:
+        G_P(E5X, "apply", p0k[44], p0k[85], p0k[29]);
+        E$t = 107;
+        break;
+      case 115:
+        G_P(T83, "fromCharCode", p0k[29], p0k[77], p0k[29]);
+        E$t = 114;
+        break;
+      case 105:
+        G_P(X2W, p0k[60], p0k[29], p0k[16], p0k[29]);
+        E$t = 135;
+        break;
+      case 114:
+        G_P(X2W, "Math", p0k[29], p0k[82], p0k[29]);
+        E$t = 113;
+        break;
+      case 67:
+        p0k[86] += p0k[51];
+        p0k[86] += p0k[27];
+        p0k[80] = p0k[92];
+        p0k[80] += p0k[87];
+        E$t = 88;
+        break;
+      case 135:
+        G_P(g_m, "push", p0k[44], p0k[58], p0k[29]);
+        E$t = 134;
+        break;
+      case 112:
+        G_P(X2W, "decodeURI", p0k[29], p0k[78], p0k[29]);
+        E$t = 111;
+        break;
+      case 113:
+        G_P(H83, "random", p0k[29], p0k[19], p0k[29]);
+        E$t = 112;
+        break;
+      case 48:
+        p0k[33] = "G";
+        p0k[44] = 4;
+        p0k[51] = "5";
+        p0k[98] = "7";
+        p0k[44] = 1;
+        E$t = 64;
+        break;
+      case 133:
+        G_P(m8T, "test", p0k[44], p0k[57], p0k[29]);
+        E$t = 132;
+        break;
+      case 71:
+        p0k[60] = p0k[89];
+        p0k[60] += p0k[48];
+        p0k[60] += p0k[53];
+        p0k[86] = p0k[84];
+        E$t = 67;
+        break;
+      case 119:
+        var G_P = function (k9e, K3b, u19, C8X, q4Y) {
+          var Q$2 = 2;
+          for (; Q$2 !== 5; ) {
+            switch (Q$2) {
+              case 2:
+                var M5x = [arguments];
+                o_j(
+                  p0k[0][0],
+                  M5x[0][0],
+                  M5x[0][1],
+                  M5x[0][2],
+                  M5x[0][3],
+                  M5x[0][4],
+                );
+                Q$2 = 5;
+                break;
+            }
+          }
+        };
+        E$t = 118;
+        break;
+      case 88:
+        p0k[80] += p0k[75];
+        p0k[94] = p0k[34];
+        p0k[94] += p0k[8];
+        p0k[85] = p0k[1];
+        p0k[85] += p0k[2];
+        p0k[11] = p0k[4];
+        p0k[11] += p0k[98];
+        E$t = 81;
+        break;
+      case 109:
+        G_P(g_m, "unshift", p0k[44], p0k[11], p0k[29]);
+        E$t = 108;
+        break;
+      case 100:
+        p0k[82] = p0k[46];
+        p0k[82] += p0k[3];
+        p0k[77] = p0k[5];
+        p0k[77] += p0k[61];
+        p0k[20] = p0k[63];
+        E$t = 95;
+        break;
+      case 81:
+        p0k[71] = p0k[46];
+        p0k[71] += p0k[2];
+        p0k[67] = p0k[28];
+        p0k[67] += p0k[9];
+        E$t = 104;
+        break;
+      case 107:
+        G_P(g_m, "splice", p0k[44], p0k[94], p0k[29]);
+        E$t = 106;
+        break;
+      case 110:
+        G_P(T83, "split", p0k[44], p0k[71], p0k[29]);
+        E$t = 109;
+        break;
+      case 64:
+        p0k[29] = 0;
+        p0k[57] = p0k[33];
+        p0k[57] += p0k[98];
+        p0k[57] += p0k[63];
+        p0k[59] = p0k[84];
+        p0k[59] += p0k[51];
+        E$t = 58;
+        break;
+      case 106:
+        G_P(X2W, p0k[80], p0k[29], p0k[86], p0k[29]);
+        E$t = 105;
+        break;
+      case 91:
+        p0k[95] += p0k[30];
+        E$t = 119;
+        break;
+      case 134:
+        G_P(X2W, p0k[83], p0k[29], p0k[59], p0k[29]);
+        E$t = 133;
+        break;
+      case 44:
+        p0k[76] = "0";
+        p0k[75] = "al";
+        p0k[47] = "";
+        p0k[65] = "B";
+        p0k[47] = "ct";
+        p0k[45] = "";
+        p0k[48] = "m";
+        E$t = 37;
+        break;
+      case 2:
+        var p0k = [arguments];
+        p0k[6] = "";
+        p0k[6] = "l";
+        p0k[3] = "";
+        E$t = 3;
+        break;
+      case 52:
+        p0k[96] = "R";
+        p0k[55] = "t";
+        p0k[84] = "s";
+        p0k[91] = "__ab";
+        E$t = 48;
+        break;
+      case 75:
+        p0k[58] += p0k[96];
+        p0k[16] = p0k[65];
+        p0k[16] += p0k[61];
+        p0k[16] += p0k[50];
+        E$t = 71;
+        break;
+      case 104:
+        p0k[78] = p0k[7];
+        p0k[78] += p0k[3];
+        p0k[19] = p0k[6];
+        p0k[19] += p0k[76];
+        E$t = 100;
+        break;
+    }
+  }
+  function H83(Z7x) {
+    var X69 = 2;
+    for (; X69 !== 5; ) {
+      switch (X69) {
+        case 2:
+          var y0h = [arguments];
+          return y0h[0][0].Math;
+          break;
+      }
+    }
+  }
+  function g_m(L9I) {
+    var D5Q = 2;
+    for (; D5Q !== 5; ) {
+      switch (D5Q) {
+        case 2:
+          var N$2 = [arguments];
+          return N$2[0][0].Array;
+          break;
+      }
+    }
+  }
+  function o_j(l2x, l92, W0S, A8K, P3O, U2S) {
+    var L9H = 2;
+    for (; L9H !== 7; ) {
+      switch (L9H) {
+        case 8:
+          try {
+            var R7O = 2;
+            for (; R7O !== 11; ) {
+              switch (R7O) {
+                case 8:
+                  R7O = I6d[0][5] !== p0k[29] ? 7 : 6;
+                  break;
+                case 3:
+                  R7O =
+                    I6d[1].hasOwnProperty(I6d[0][4]) &&
+                    I6d[1][I6d[0][4]] === I6d[1][I6d[0][2]]
+                      ? 9
+                      : 8;
+                  break;
+                case 12:
+                  try {
+                    var L_z = 2;
+                    for (; L_z !== 3; ) {
+                      switch (L_z) {
+                        case 2:
+                          I6d[5] = I6d[3];
+                          I6d[5] += I6d[6];
+                          I6d[5] += I6d[2];
+                          I6d[0][0].Object[I6d[5]](I6d[9], I6d[0][4], I6d[4]);
+                          L_z = 3;
+                          break;
+                      }
+                    }
+                  } catch (f2m) {}
+                  R7O = 11;
+                  break;
+                case 4:
+                  I6d[9] = I6d[0][5] === p0k[29] ? U6BfN : I6d[1];
+                  R7O = 3;
+                  break;
+                case 2:
+                  I6d[4] = {};
+                  I6d[8] = (1, I6d[0][1])(I6d[0][0]);
+                  I6d[1] = [I6d[8], I6d[8].prototype][I6d[0][3]];
+                  R7O = 4;
+                  break;
+                case 9:
+                  return;
+                  break;
+                case 7:
+                  I6d[1][I6d[0][4]] = I6d[1][I6d[0][2]];
+                  R7O = 6;
+                  break;
+                case 6:
+                  I6d[4].set = function (Q9x) {
+                    var B$6 = 2;
+                    for (; B$6 !== 5; ) {
+                      switch (B$6) {
+                        case 2:
+                          var D4M = [arguments];
+                          I6d[1][I6d[0][2]] = D4M[0][0];
+                          B$6 = 5;
+                          break;
+                      }
+                    }
+                  };
+                  I6d[4].get = function () {
+                    var I9r = 2;
+                    for (; I9r !== 10; ) {
+                      switch (I9r) {
+                        case 2:
+                          var p3s = [arguments];
+                          p3s[9] = "fine";
+                          p3s[2] = "d";
+                          p3s[5] = "";
+                          p3s[5] = "unde";
+                          p3s[8] = p3s[5];
+                          p3s[8] += p3s[9];
+                          I9r = 7;
+                          break;
+                        case 12:
+                          return undefined;
+                          break;
+                        case 7:
+                          p3s[8] += p3s[2];
+                          I9r = 6;
+                          break;
+                        case 13:
+                          I9r = typeof I6d[1][I6d[0][2]] == p3s[8] ? 12 : 11;
+                          break;
+                        case 14:
+                          return (...A2I) => {
+                            var W1t = 1;
+                            W1t = null;
+                            if (A2I.length > p0k[29]) {
+                              if (I6d[0][3] === p0k[29])
+                                return I6d[1][I6d[0][2]].apply(I6d[8], A2I);
+                              return (
+                                A2I[p0k[29]] === W1t ||
+                                A2I[p0k[29]] === undefined
+                                  ? I6d[8]
+                                  : A2I[p0k[29]]
+                              )[I6d[0][2]](...A2I.slice(p0k[44]));
+                            }
+                            return I6d[1][I6d[0][2]];
+                          };
+                          break;
+                        case 6:
+                          I9r = I6d[0][5] === p0k[29] ? 14 : 13;
+                          break;
+                        case 11:
+                          return I6d[1][I6d[0][2]];
+                          break;
+                      }
+                    }
+                  };
+                  I6d[4].enumerable = I6d[7];
+                  R7O = 12;
+                  break;
+              }
+            }
+          } catch (R10) {}
+          L9H = 7;
+          break;
+        case 2:
+          var I6d = [arguments];
+          I6d[6] = "";
+          I6d[2] = "erty";
+          I6d[6] = "ineProp";
+          I6d[7] = false;
+          I6d[3] = "def";
+          L9H = 8;
+          break;
+      }
+    }
+  }
+}
+U6BfN.Y51 = function () {
+  return typeof U6BfN[631144].g7kAwqc === "function"
+    ? U6BfN[631144].g7kAwqc.apply(U6BfN[631144], arguments)
+    : U6BfN[631144].g7kAwqc;
+};
+U6BfN.D9u = function () {
+  return typeof U6BfN[294995].e3ulEkn === "function"
+    ? U6BfN[294995].e3ulEkn.apply(U6BfN[294995], arguments)
+    : U6BfN[294995].e3ulEkn;
+};
+U6BfN.C6S = function () {
+  return typeof U6BfN[294995].e3ulEkn === "function"
+    ? U6BfN[294995].e3ulEkn.apply(U6BfN[294995], arguments)
+    : U6BfN[294995].e3ulEkn;
+};
+U6BfN[265666] = (function () {
+  var P9 = 2;
+  for (; P9 !== 1; ) {
+    switch (P9) {
+      case 2:
+        return {
+          L4e9iwW: function () {
+            var v4 = 2;
+            for (; v4 !== 8; ) {
+              switch (v4) {
+                case 1:
+                  v4 = C0 !== 1 ? 5 : 9;
+                  break;
+                case 4:
+                  (function () {
+                    var g9 = 2;
+                    for (; g9 !== 38; ) {
+                      switch (g9) {
+                        case 27:
+                          g9 = p3 === 7 ? 26 : 21;
+                          break;
+                        case 5:
+                          g9 = p3 === 2 ? 4 : 12;
+                          break;
+                        case 1:
+                          g9 = p3 !== 22 ? 5 : 38;
+                          break;
+                        case 18:
+                          w0 += B_;
+                          g9 = 17;
+                          break;
+                        case 23:
+                          o0 += k_;
+                          g9 = 22;
+                          break;
+                        case 31:
+                          o0 += k_;
+                          o0 += F6;
+                          o0 += v7;
+                          g9 = 28;
+                          break;
+                        case 34:
+                          g9 = p3 === 24 ? 33 : 32;
+                          break;
+                        case 11:
+                          c0[o0] = function () {};
+                          g9 = 10;
+                          break;
+                        case 32:
+                          g9 = p3 === 12 ? 31 : 43;
+                          break;
+                        case 12:
+                          g9 = p3 === 23 ? 11 : 20;
+                          break;
+                        case 20:
+                          g9 = p3 === 19 ? 19 : 27;
+                          break;
+                        case 26:
+                          var o0 = p4;
+                          g9 = 25;
+                          break;
+                        case 33:
+                          return;
+                          break;
+                        case 15:
+                          p3 = 15;
+                          g9 = 1;
+                          break;
+                        case 28:
+                          var w0 = p4;
+                          g9 = 44;
+                          break;
+                        case 39:
+                          p3 = 25;
+                          g9 = 1;
+                          break;
+                        case 2:
+                          var p3 = 2;
+                          g9 = 1;
+                          break;
+                        case 4:
+                          var F6 = "L";
+                          var p4 = "S";
+                          var v7 = "w";
+                          var Y7 = 494738;
+                          var k_ = "1";
+                          var a6 = "4";
+                          var B_ = "X";
+                          g9 = 13;
+                          break;
+                        case 25:
+                          o0 += a6;
+                          o0 += B_;
+                          g9 = 23;
+                          break;
+                        case 44:
+                          p3 = 19;
+                          g9 = 1;
+                          break;
+                        case 21:
+                          g9 = p3 === 25 ? 35 : 34;
+                          break;
+                        case 35:
+                          p3 = c0[w0] ? 24 : 23;
+                          g9 = 1;
+                          break;
+                        case 17:
+                          w0 += k_;
+                          w0 += k_;
+                          g9 = 15;
+                          break;
+                        case 43:
+                          g9 = p3 === 15 ? 42 : 1;
+                          break;
+                        case 22:
+                          p3 = 12;
+                          g9 = 1;
+                          break;
+                        case 13:
+                          p3 = 7;
+                          g9 = 1;
+                          break;
+                        case 42:
+                          w0 += F6;
+                          w0 += v7;
+                          var c0 = U6BfN[Y7];
+                          g9 = 39;
+                          break;
+                        case 10:
+                          p3 = 22;
+                          g9 = 1;
+                          break;
+                        case 19:
+                          w0 += a6;
+                          g9 = 18;
+                          break;
+                      }
+                    }
+                  })();
+                  v4 = 3;
+                  break;
+                case 3:
+                  C0 = 1;
+                  v4 = 1;
+                  break;
+                case 9:
+                  v4 = true ? 9 : 8;
+                  break;
+                case 2:
+                  var C0 = 2;
+                  v4 = 1;
+                  break;
+                case 5:
+                  v4 = C0 === 2 ? 4 : 1;
+                  break;
+              }
+            }
+          },
+        };
+        break;
+    }
+  }
+})();
+U6BfN[595683] = (function () {
+  var e9u = 2;
+  for (; e9u !== 9; ) {
+    switch (e9u) {
+      case 2:
+        var m$P = [arguments];
+        m$P[8] = undefined;
+        m$P[4] = {};
+        m$P[4].a$mdTan = function () {
+          var o0K = 2;
+          for (; o0K !== 90; ) {
+            switch (o0K) {
+              case 67:
+                m$P[8] = 73;
+                return 29;
+                break;
+              case 2:
+                var I$M = [arguments];
+                o0K = 1;
+                break;
+              case 71:
+                I$M[56]++;
+                o0K = 76;
+                break;
+              case 76:
+                o0K = I$M[56] < I$M[19][I$M[24]].length ? 75 : 70;
+                break;
+              case 68:
+                o0K = 51 ? 68 : 67;
+                break;
+              case 33:
+                I$M[37].F6S = ["i3g"];
+                I$M[37].T0V = function () {
+                  var Q5L = typeof U6BfN.s5q() === "function";
+                  return Q5L;
+                };
+                I$M[36] = I$M[37];
+                I$M[84] = {};
+                I$M[84].F6S = ["i3g"];
+                I$M[84].T0V = function () {
+                  var L$G = typeof U6BfN.B28() === "function";
+                  return L$G;
+                };
+                o0K = 44;
+                break;
+              case 69:
+                o0K = (function (B$$) {
+                  var A0R = 2;
+                  for (; A0R !== 22; ) {
+                    switch (A0R) {
+                      case 20:
+                        e$M[2][e$M[6][I$M[53]]].h += true;
+                        A0R = 19;
+                        break;
+                      case 2:
+                        var e$M = [arguments];
+                        A0R = 1;
+                        break;
+                      case 1:
+                        A0R = e$M[0][0].length === 0 ? 5 : 4;
+                        break;
+                      case 8:
+                        e$M[5] = 0;
+                        A0R = 7;
+                        break;
+                      case 12:
+                        U6BfN.t0R(e$M[9], e$M[6][I$M[53]]);
+                        A0R = 11;
+                        break;
+                      case 4:
+                        e$M[2] = {};
+                        e$M[9] = [];
+                        e$M[5] = 0;
+                        A0R = 8;
+                        break;
+                      case 5:
+                        return;
+                        break;
+                      case 13:
+                        e$M[2][e$M[6][I$M[53]]] = U6BfN.M_(
+                          function () {
+                            var q1t = 2;
+                            for (; q1t !== 9; ) {
+                              switch (q1t) {
+                                case 3:
+                                  return s4O[1];
+                                  break;
+                                case 2:
+                                  var s4O = [arguments];
+                                  s4O[1] = {};
+                                  s4O[1].h = 0;
+                                  s4O[1].t = 0;
+                                  q1t = 3;
+                                  break;
+                              }
+                            }
+                          },
+                          this,
+                          arguments,
+                        );
+                        A0R = 12;
+                        break;
+                      case 17:
+                        e$M[5] = 0;
+                        A0R = 16;
+                        break;
+                      case 7:
+                        A0R = e$M[5] < e$M[0][0].length ? 6 : 18;
+                        break;
+                      case 14:
+                        A0R =
+                          typeof e$M[2][e$M[6][I$M[53]]] === "undefined"
+                            ? 13
+                            : 11;
+                        break;
+                      case 11:
+                        e$M[2][e$M[6][I$M[53]]].t += true;
+                        A0R = 10;
+                        break;
+                      case 15:
+                        e$M[3] = e$M[9][e$M[5]];
+                        e$M[1] = e$M[2][e$M[3]].h / e$M[2][e$M[3]].t;
+                        A0R = 26;
+                        break;
+                      case 6:
+                        e$M[6] = e$M[0][0][e$M[5]];
+                        A0R = 14;
+                        break;
+                      case 16:
+                        A0R = e$M[5] < e$M[9].length ? 15 : 23;
+                        break;
+                      case 23:
+                        return e$M[7];
+                        break;
+                      case 19:
+                        e$M[5]++;
+                        A0R = 7;
+                        break;
+                      case 25:
+                        e$M[7] = true;
+                        A0R = 24;
+                        break;
+                      case 24:
+                        e$M[5]++;
+                        A0R = 16;
+                        break;
+                      case 18:
+                        e$M[7] = false;
+                        A0R = 17;
+                        break;
+                      case 26:
+                        A0R = e$M[1] >= 0.5 ? 25 : 24;
+                        break;
+                      case 10:
+                        A0R = e$M[6][I$M[12]] === I$M[14] ? 20 : 19;
+                        break;
+                    }
+                  }
+                })(I$M[91])
+                  ? 68
+                  : 67;
+                break;
+              case 24:
+                I$M[49] = I$M[68];
+                I$M[30] = {};
+                o0K = 22;
+                break;
+              case 57:
+                o0K = I$M[54] < I$M[9].length ? 56 : 69;
+                break;
+              case 59:
+                I$M[53] = "j6F";
+                o0K = 58;
+                break;
+              case 77:
+                I$M[56] = 0;
+                o0K = 76;
+                break;
+              case 15:
+                I$M[2] = I$M[5];
+                I$M[68] = {};
+                I$M[68].F6S = ["i3g"];
+                I$M[68].T0V = function () {
+                  var i9s = typeof U6BfN.s53() === "function";
+                  return i9s;
+                };
+                o0K = 24;
+                break;
+              case 1:
+                o0K = m$P[8] ? 5 : 4;
+                break;
+              case 22:
+                I$M[30].F6S = ["E_1"];
+                I$M[30].T0V = function () {
+                  var r7e = function () {
+                    return "a".anchor("b");
+                  };
+                  var s0d = U6BfN.G7u(/(\x3c|\x3e)/, r7e + []);
+                  return s0d;
+                };
+                I$M[28] = I$M[30];
+                I$M[37] = {};
+                o0K = 33;
+                break;
+              case 52:
+                U6BfN.t0R(I$M[9], I$M[28]);
+                U6BfN.t0R(I$M[9], I$M[36]);
+                U6BfN.t0R(I$M[9], I$M[57]);
+                U6BfN.t0R(I$M[9], I$M[2]);
+                U6BfN.t0R(I$M[9], I$M[64]);
+                U6BfN.t0R(I$M[9], I$M[39]);
+                U6BfN.t0R(I$M[9], I$M[8]);
+                o0K = 45;
+                break;
+              case 63:
+                I$M[32] = "f7B";
+                I$M[24] = "F6S";
+                I$M[12] = "d3R";
+                I$M[43] = "T0V";
+                o0K = 59;
+                break;
+              case 58:
+                I$M[54] = 0;
+                o0K = 57;
+                break;
+              case 18:
+                I$M[5] = {};
+                I$M[5].F6S = ["E_1"];
+                I$M[5].T0V = function () {
+                  var F03 = function () {
+                    return btoa("=");
+                  };
+                  var l1R = !U6BfN.G7u(/\x62\164\x6f\u0061/, F03 + []);
+                  return l1R;
+                };
+                o0K = 15;
+                break;
+              case 41:
+                I$M[38].T0V = function () {
+                  var D0g = false;
+                  var m58 = [];
+                  try {
+                    for (var P$n in console) U6BfN.t0R(m58, P$n);
+                    D0g = m58.length === 0;
+                  } catch (Z33) {}
+                  var w6O = D0g;
+                  return w6O;
+                };
+                I$M[64] = I$M[38];
+                I$M[45] = {};
+                I$M[45].F6S = ["E_1"];
+                o0K = 37;
+                break;
+              case 70:
+                I$M[54]++;
+                o0K = 57;
+                break;
+              case 12:
+                I$M[8] = I$M[3];
+                I$M[7] = {};
+                I$M[7].F6S = ["E_1"];
+                I$M[7].T0V = function () {
+                  var J$u = function () {
+                    return [] + "a".concat("a");
+                  };
+                  var T0C =
+                    !U6BfN.G7u(/\133\u005d/, J$u + []) &&
+                    U6BfN.G7u(/\u0061\x61/, J$u + []);
+                  return T0C;
+                };
+                I$M[6] = I$M[7];
+                o0K = 18;
+                break;
+              case 75:
+                I$M[77] = {};
+                I$M[77][I$M[53]] = I$M[19][I$M[24]][I$M[56]];
+                I$M[77][I$M[12]] = I$M[27];
+                U6BfN.t0R(I$M[91], I$M[77]);
+                o0K = 71;
+                break;
+              case 56:
+                I$M[19] = I$M[9][I$M[54]];
+                o0K = 55;
+                break;
+              case 14:
+                I$M[3].F6S = ["E_1"];
+                I$M[3].T0V = function () {
+                  var v1o = function () {
+                    return (
+                      "\u0041\u030A".normalize("NFC") ===
+                      "\u212B".normalize("NFC")
+                    );
+                  };
+                  var H3m = U6BfN.G7u(/\u0074\162\165\x65/, v1o + []);
+                  return H3m;
+                };
+                o0K = 12;
+                break;
+              case 5:
+                return 11;
+                break;
+              case 4:
+                I$M[9] = [];
+                I$M[4] = {};
+                I$M[4].F6S = ["E_1"];
+                I$M[4].T0V = function () {
+                  var s9q = function () {
+                    return "x y".slice(0, 1);
+                  };
+                  var v2V = !U6BfN.G7u(/\x79/, s9q + []);
+                  return v2V;
+                };
+                I$M[1] = I$M[4];
+                I$M[3] = {};
+                o0K = 14;
+                break;
+              case 45:
+                U6BfN.t0R(I$M[9], I$M[1]);
+                I$M[91] = [];
+                I$M[14] = "M5b";
+                o0K = 63;
+                break;
+              case 55:
+                try {
+                  I$M[27] = I$M[19][I$M[43]]() ? I$M[14] : I$M[32];
+                } catch (U$1) {
+                  I$M[27] = I$M[32];
+                }
+                o0K = 77;
+                break;
+              case 44:
+                I$M[39] = I$M[84];
+                I$M[38] = {};
+                I$M[38].F6S = ["i3g"];
+                o0K = 41;
+                break;
+              case 37:
+                I$M[45].T0V = function () {
+                  var Z8P = function () {
+                    return "aaaa|a".substr(0, 3);
+                  };
+                  var I7D = !U6BfN.G7u(/\174/, Z8P + []);
+                  return I7D;
+                };
+                I$M[57] = I$M[45];
+                U6BfN.t0R(I$M[9], I$M[6]);
+                U6BfN.t0R(I$M[9], I$M[49]);
+                o0K = 52;
+                break;
+            }
+          }
+        };
+        e9u = 3;
+        break;
+      case 3:
+        return m$P[4];
+        break;
+    }
+  }
+})();
+U6BfN.z$ = function () {
+  return typeof U6BfN[265666].L4e9iwW === "function"
+    ? U6BfN[265666].L4e9iwW.apply(U6BfN[265666], arguments)
+    : U6BfN[265666].L4e9iwW;
+};
+U6BfN[249301] = 325;
+U6BfN.a3_ = function () {
+  return typeof U6BfN[595683].a$mdTan === "function"
+    ? U6BfN[595683].a$mdTan.apply(U6BfN[595683], arguments)
+    : U6BfN[595683].a$mdTan;
+};
+function U6BfN() {}
+U6BfN[316120] = 307;
+U6BfN.w6J = function () {
+  return typeof U6BfN[631144].u7Y4kHN === "function"
+    ? U6BfN[631144].u7Y4kHN.apply(U6BfN[631144], arguments)
+    : U6BfN[631144].u7Y4kHN;
+};
+var p6,
+  c$,
+  B2,
+  H0,
+  w8,
+  W8,
+  z3,
+  N9,
+  v5,
+  m3,
+  e3,
+  t3,
+  w1,
+  c3,
+  G$,
+  R9,
+  g5,
+  F3,
+  O5,
+  k7,
+  t4,
+  i4,
+  D9,
+  K4,
+  O$,
+  J3,
+  P8,
+  O_,
+  A$;
+import {
+  CIQ as j3,
+  SplinePlotter as x_,
+  timezoneJS as m0,
+  $$ as O4,
+  $$$ as x4,
+} from "../js/chartiq.js";
+p6 = (i_) => {
+  var p_L = U6BfN;
+  p_L.a3_();
+  var A0k, F2, o5, L8;
+  A0k = "u";
+  A0k += "ndef";
+  A0k += "ined";
+  F2 = typeof _CIQ !== A0k ? _CIQ : i_.CIQ;
+  o5 = class M6 {
+    get(q7, M0) {
+      p_L.a3_();
+      M0("no storage defined");
+    }
+    set(i8, f6) {}
+    remove(N_) {}
+  };
+  F2.ChartEngine.create = function ({
+    container: S6,
+    config: u4,
+    deferLoad: G8,
+  } = {}) {
+    var l$, W$, L9x, d_3, I5_, B6;
+    if (!S6) {
+      S6 = document.querySelector(".chartContainer") || document.body;
+    }
+    if (!u4) {
+      u4 = {};
+    }
+    p_L.a3_();
+    l$ = Object.assign({ container: S6 }, u4.chartEngineParams);
+    W$ = new this(l$);
+    var {
+      addOns: K9,
+      chartId: X3,
+      marketFactory: e$,
+      multiChartId: Z8,
+      onChartReady: N$,
+      onEngineReady: s6,
+      quoteFeeds: z9,
+    } = u4;
+    if (z9 && W$.attachQuoteFeed) {
+      z9.forEach(({ quoteFeed: I9, behavior: e4, filter: j2 }) => {
+        p_L.a3_();
+        W$.attachQuoteFeed(I9, e4, j2);
+      });
+    }
+    if (e$) {
+      W$.setMarketFactory(e$);
+      if (F2.Market) {
+        F2.Market.definitionAPIs = u4.marketDefinitionAPIs;
+        F2.Market.symbolMapping = u4.marketDefinitionMapping;
+        if (F2.Market.Symbology && F2.Market.Symbology.isAPIBacked) {
+          L9x = -1755977689;
+          d_3 = 489646875;
+          I5_ = +"2";
+          for (
+            var w0m = 1;
+            p_L.C6S(w0m.toString(), w0m.toString().length, 86055) !== L9x;
+            w0m++
+          ) {
+            F2.Market.Symbology.isAPIBacked.defaultAPI =
+              F2.Market.symbolMapping[u4.marketDefinitionDefaultMapping];
+            I5_ += 2;
+          }
+          if (p_L.D9u(I5_.toString(), I5_.toString().length, 54252) !== d_3) {
+            F2.Market.Symbology.isAPIBacked.defaultAPI =
+              F2.Market.symbolMapping[u4.marketDefinitionDefaultMapping];
+          }
+        }
+      }
+    }
+    function G0() {
+      W$.loadChart(u4.initialSymbol, { masterData: u4.initialData }, I4);
+      p_L.s8u();
+      W$.draw();
+    }
+    if (K9) {
+      Object.entries(K9)
+        .filter(([, r0]) => {
+          p_L.s8u();
+          return !!r0;
+        })
+        .forEach(([m1, t6]) => {
+          var Y1;
+          p_L.a3_();
+          if (!u4.enabledAddOns[m1]) {
+            return;
+          }
+          Y1 = t6.moduleName || F2.capitalize(m1);
+          if (F2[Y1]) {
+            var { cssRequired: P6 } = new F2[Y1](
+              Object.assign({ stx: W$ }, t6, { config: u4 }),
+            );
+            if (P6 && F2.UI) {
+              F2.UI.activatePluginUI(W$, Y1);
+            }
+          } else if (F2.debug) {
+            console.log(`${Y1} not available for addons with params:`, t6);
+          }
+        });
+    }
+    B6 = F2.ensureDefaults(u4.callbacks || {}, {
+      layout: this.getSaveLayout(u4),
+      symbolChange: this.getSaveLayout(u4),
+      drawing: this.getSaveDrawings(u4),
+      preferences: this.getSavePreferences(u4),
+      newChart: this.getRetoggleEvents(u4),
+    });
+    for (var h9 in B6) {
+      if (B6[h9]) {
+        W$.addEventListener(h9, B6[h9]);
+      }
+    }
+    L8 = u4.nameValueStore || F2.NameValueStore || o5;
+    L8 = new L8();
+    if (!G8) {
+      if (s6) {
+        s6(W$);
+      }
+      if (u4.restore) {
+        this.restorePreferences(W$, X3, Z8);
+        this.restoreLayout(
+          W$,
+          (f3) => {
+            if (!W$.chart.symbol && u4.initialSymbol) {
+              G0();
+            } else {
+              I4();
+            }
+          },
+          X3,
+          u4,
+        );
+      } else {
+        G0();
+      }
+    }
+    if (F2.Studies && u4.studyOutputAliasList) {
+      F2.Studies.assignAliasesToStudies(u4.studyOutputAliasList);
+    }
+    function I4() {
+      if (!N$) {
+        return;
+      }
+      setTimeout(() => {
+        p_L.a3_();
+        return N$(W$);
+      });
+    }
+    W$.chart.canvasTitleFunc = u4.getCanvasTitle;
+    return W$;
+  };
+  F2.ChartEngine.getSaveLayout = function (l_) {
+    p_L.s8u();
+    return function X5({ stx: E5 }) {
+      var L2;
+      if (l_.restore && E5.exportLayout) {
+        L2 = JSON.stringify(E5.exportLayout(!!1));
+        L8.set("myChartLayout" + (l_.chartId || ""), L2);
+      }
+    };
+  };
+  F2.ChartEngine.restoreLayout = function (J6, g4, q8, T9) {
+    var C$k;
+    C$k = "myChart";
+    p_L.a3_();
+    function T_() {
+      l9(J6, J6.chart.symbol, q8);
+      if (g4) {
+        g4();
+      }
+    }
+    C$k += "La";
+    C$k += "yout";
+    var { restoreDrawings: l9 } = this;
+    if (!q8) {
+      q8 = "";
+    }
+    p_L.C2v(0);
+    L8.get(p_L.Y51(C$k, q8), function (R1, P2) {
+      var e7, H6;
+      if (R1) {
+        return;
+      }
+      try {
+        P2 = JSON.parse(P2);
+      } catch (s9) {}
+      e7 = T9 && T9.restore && T9.restore.symbol === !{};
+      if (P2 && P2.symbols && e7) {
+        H6 =
+          T9.initialSymbol != undefined && T9.initialSymbol.symbol
+            ? T9.initialSymbol
+            : { symbol: T9.initialSymbol };
+        p_L.C2v(1);
+        P2.symbols[p_L.B$D(64, "0")] = P2.symbols[0] || {};
+        Object.assign(P2.symbols[0], { symbol: H6.symbol, symbolObject: H6 });
+        P2.symbols = P2.symbols.filter(({ symbol: t8 }, J4) => {
+          p_L.s8u();
+          return !J4 || t8 !== H6.symbol;
+        });
+      }
+      if (J6.importLayout) {
+        J6.importLayout(P2, { managePeriodicity: !"", cb: T_ });
+      }
+      if (J6.crossSection) {
+        J6.setCandleWidth(1);
+      }
+    });
+  };
+  F2.ChartEngine.getSaveDrawings = function (Z1) {
+    p_L.s8u();
+    return function J9({ stx: d3, symbol: X9 }) {
+      var t5, w9, I$;
+      if (Z1.restore && d3.exportDrawings) {
+        t5 = d3.exportDrawings();
+        w9 = Z1.chartId
+          ? Z1.chartId + (+"657" < 8640 ? "~" : ("886.90" - 0, 5.92e3)) + X9
+          : X9;
+        p_L.C2v(2);
+        I$ = `${Z1.chartId || ""}${p_L.B$D("_d", "r", "awings")}`;
+        L8.get(I$, (F_, S3) => {
+          var Q5;
+          Q5 = S3 || {};
+          if (t5.length === "0" * 1) {
+            L8.remove(w9);
+            delete Q5[w9];
+          } else {
+            L8.set(w9, JSON.stringify(t5));
+            Q5[w9] = t5.length;
+          }
+          p_L.s8u();
+          L8.set(I$, Q5);
+        });
+      }
+    };
+  };
+  F2.ChartEngine.restoreDrawings = function (o4, M4, O8) {
+    var j6;
+    if (!F2.Drawing) {
+      return;
+    }
+    j6 = O8
+      ? O8 +
+        (813.73 != (2430, 1220)
+          ? "~"
+          : (240.96, 7160) != 1399
+            ? (8630, 5040) === 245.27
+              ? (+"0x1667", 79.3)
+              : 141.38
+            : 0x22b4) +
+        M4
+      : M4;
+    L8.get(j6, function (h_, v2) {
+      p_L.s8u();
+      var o4G;
+      if (h_) {
+        return;
+      }
+      try {
+        v2 = JSON.parse(v2);
+      } catch (R_) {}
+      if (v2) {
+        if (o4.chart.hideDrawings) {
+          o4G = "notific";
+          o4G += "ation";
+          o4.dispatch(o4G, "drawingsHidden");
+        }
+        o4.importDrawings(v2);
+        o4.draw();
+      }
+    });
+  };
+  F2.ChartEngine.getSavePreferences = function (e9) {
+    return function G2({ stx: A4 }) {
+      var I5t, Z7;
+      if (e9.restore && A4.exportPreferences) {
+        I5t = "myCh";
+        I5t += "artPreferences";
+        Z7 = JSON.stringify(A4.exportPreferences());
+        L8.set(I5t + (e9.multiChartId || e9.chartId || ""), Z7);
+      }
+    };
+  };
+  F2.ChartEngine.restorePreferences = function (Y0, K$, y9) {
+    var F8;
+    F8 = y9 || K$ || "";
+    p_L.w6J(0);
+    L8.get(p_L.B$D("myChartPreferences", F8), function (i1, L1) {
+      if (i1) {
+        return;
+      }
+      p_L.a3_();
+      try {
+        L1 = JSON.parse(L1);
+      } catch (O7) {}
+      if (L1 && Y0.importPreferences) {
+        Y0.importPreferences(L1);
+      }
+    });
+  };
+  F2.ChartEngine.getRetoggleEvents = function (E0) {
+    return function z5({ stx: L_ }) {
+      var D4m, Z6, h8;
+      D4m = "UI.ge";
+      D4m += "tMyContext";
+      Z6 = E0.chartId && document.getElementById(E0.chartId);
+      if (!Z6) {
+        Z6 = (F2.getFn(D4m)(L_.container) || {}).topNode;
+      }
+      if (!Z6) {
+        Z6 = document;
+      }
+      h8 = Z6.querySelectorAll(
+        E0.selector.markersMenuItem
+          .split(
+            (200.85, 8890) >= 464.57
+              ? ","
+              : (8670, +"3535") <= ("1586" - 0, +"739.72")
+                ? "455.09" * 1
+                : ("771.46" - 0, 1.57e3),
+          )
+          .map((E8) => {
+            return `${E8}.ciq-active:not(.span-event)`;
+          })
+          .join(9340 > (4110, 5968) ? "," : 0x25c5),
+      );
+      h8.forEach(function (W4) {
+        W4.querySelector(
+          ".ciq-switch, .ciq-checkbox, .ciq-radio",
+        ).dispatchEvent(new Event("stxtap"));
+      });
+    };
+  };
+};
+c$ = (g$) => {
+  var t$N = U6BfN;
+  var y7;
+  y7 = typeof _CIQ !== "undefined" ? _CIQ : g$.CIQ;
+  y7.ChartEngine.prototype.drawHeatmap = function (R7, p7) {
+    var h1, b6, T1, H7, r5, V$, g3, E_, N2, Y2, c2, L7, W7, Y3;
+    if (!p7 || !p7.length) {
+      return;
+    }
+    h1 = R7.panel;
+    if (!h1) {
+      h1 = "chart";
+    }
+    b6 = this.panels[h1];
+    if (!b6) {
+      return;
+    }
+    T1 = R7.yAxis ? R7.yAxis : b6.yAxis;
+    H7 = this.chart.dataSegment;
+    if (!R7.name) {
+      R7.name = "Data";
+    }
+    if (!R7.widthFactor) {
+      R7.widthFactor = +"1";
+    }
+    if (!R7.height) {
+      R7.height = Math.pow(
+        10,
+        1 - (b6.decimalPlaces || b6.chart.decimalPlaces),
+      );
+    }
+    r5 = "stx-float-date";
+    t$N.a3_();
+    V$ = this.chart.context;
+    function X1(u_, G4, j5, V6, R5, m9, m8, I7) {
+      var J1, s0, A9, K6, T6, V4R, Z2, J2, h5, u2, C_, U5, l6, q$, R0;
+      V$.beginPath();
+      V$.fillStyle = G4;
+      V$.strokeStyle = G4;
+      V$.textAlign = "center";
+      J1 = L7.layout.candleWidth * R5;
+      s0 = Math.floor(
+        L7.pixelFromBar("0" ^ 0, b6.chart) - L7.layout.candleWidth,
+      );
+      if (typeof j5 == "number") {
+        t$N.w6J(3);
+        V$.globalAlpha = t$N.B$D(j5, E_);
+      }
+      if (typeof j5 == "object") {
+        T6 = { minOpacity: j5.min || 0, maxOpacity: j5.max || 1 };
+      }
+      for (var E$ = +"0"; E$ < H7.length; E$++) {
+        V4R = "n";
+        V4R += "u";
+        V4R += "mb";
+        V4R += "er";
+        Z2 = H7[E$];
+        if (Z2 && Z2.candleWidth) {
+          if (E$ === 0) {
+            s0 += L7.layout.candleWidth;
+          } else {
+            t$N.C2v(0);
+            var a$6 = t$N.Y51(0, 2);
+            s0 += (Z2.candleWidth + J1 / R5) / a$6;
+          }
+          J1 = Z2.candleWidth * R5;
+        } else {
+          s0 += L7.layout.candleWidth;
+        }
+        t$N.w6J(4);
+        A9 = t$N.B$D(m8, s0, 2, J1);
+        t$N.C2v(5);
+        K6 = t$N.Y51(s0, m8, "2", J1);
+        if (K6 - A9 < 2) {
+          t$N.w6J(0);
+          K6 = t$N.Y51(A9, 1);
+        }
+        if (!Z2) continue;
+        J2 = Z2[u_];
+        if (!J2) continue;
+        if (J2[I7]) {
+          J2 = J2[I7];
+        }
+        if (typeof J2 == V4R) {
+          J2 = [J2];
+        }
+        for (var v9 = +"0"; v9 < J2.length; v9++) {
+          h5 = J2[v9];
+          t$N.C2v(6);
+          u2 = t$N.Y51("0", 0);
+          if (h5 instanceof Array) {
+            if (T6) {
+              t$N.C2v(7);
+              var t5m = t$N.Y51(10, 8);
+              t$N.w6J(8);
+              var Y5X = t$N.B$D(14, 209, 19, 15, 19);
+              t$N.C2v(9);
+              var z3d = t$N.B$D(7, 1, 5, 1);
+              V$.globalAlpha =
+                E_ *
+                (h5[t5m] * T6.maxOpacity + (Y5X - h5[z3d]) * T6.minOpacity);
+            }
+            u2 = h5[1];
+            h5 = h5[0];
+          }
+          C_ = L7.pixelFromPrice(h5, b6, T1);
+          if (!W7) {
+            if (!m9) {
+              m9 = R7.height;
+            }
+            U5 = L7.pixelFromPrice(h5 + m9 * (T1.flipped ? 1 : -1), b6, T1);
+            V$.lineWidth = +"1";
+            t$N.C2v(10);
+            Y2 = t$N.Y51(C_, U5);
+            t$N.C2v(11);
+            c2 = t$N.B$D(2, Y2);
+            W7 = V$.lineWidth;
+          }
+          if (V6) {
+            t$N.w6J(10);
+            l6 = t$N.Y51(c2, C_);
+            t$N.w6J(0);
+            q$ = t$N.Y51(C_, c2);
+            t$N.C2v(10);
+            V$.rect(A9, l6, t$N.Y51(A9, K6), t$N.B$D(l6, q$));
+          } else {
+            t$N.w6J(10);
+            V$.fillRect(A9, t$N.B$D(c2, C_), t$N.B$D(A9, K6), Y2);
+            if (R7.showSize && u2 && g3 <= Y2 - +"2") {
+              R0 = V$.globalAlpha;
+              V$.fillStyle = L7.defaultColor;
+              t$N.C2v(12);
+              V$.globalAlpha = t$N.Y51(E_, 0, "0.5");
+              t$N.C2v(13);
+              V$.fillText(u2, t$N.B$D("2", K6, A9, 0), C_);
+              V$.fillStyle = G4;
+              t$N.w6J(3);
+              V$.globalAlpha = t$N.B$D(R0, E_);
+            }
+          }
+          if (T6 && h5 instanceof Array) {
+            V$.globalAlpha = 0;
+          }
+        }
+      }
+      if (V6) {
+        V$.stroke();
+      }
+      V$.globalAlpha = E_;
+      t$N.a3_();
+      V$.closePath();
+    }
+    this.canvasFont(r5, V$);
+    g3 = this.getCanvasFontSize(r5);
+    E_ = 1;
+    if (!R7.highlight && this.highlightedDraggable) {
+      E_ = 0.3;
+    }
+    N2 = 0.5;
+    if (this.layout.candleWidth * this.candleWidthPercent <= ("1" | 1)) {
+      N2 = 0;
+    }
+    Y2 = null;
+    c2 = null;
+    L7 = this;
+    W7 = null;
+    this.startClip(h1);
+    V$.globalAlpha = E_;
+    for (var A_ = 0; A_ < p7.length; A_++) {
+      Y3 = p7[A_];
+      X1(
+        Y3.field,
+        Y3.color,
+        Y3.opacity,
+        null,
+        R7.widthFactor,
+        Y3.height,
+        Y3.border_color ? N2 : -N2 / +"4",
+        Y3.subField,
+      );
+      if (Y3.border_color && this.layout.candleWidth >= 2) {
+        X1(
+          Y3.field,
+          Y3.border_color,
+          Y3.opacity,
+          !0,
+          R7.widthFactor,
+          Y3.height,
+          N2,
+          Y3.subField,
+        );
+      }
+    }
+    V$.lineWidth = 1;
+    V$.globalAlpha = 1;
+    this.endClip();
+  };
+  t$N.a3_();
+  y7.ChartEngine.prototype.drawCandles = function (N1, A6, X6) {
+    var Y_,
+      B1,
+      A2,
+      o2,
+      U8,
+      d_,
+      a$,
+      a0,
+      w3,
+      o6,
+      D5,
+      E9,
+      c5,
+      l1,
+      A7,
+      i6,
+      N8,
+      T2,
+      Y5,
+      V0,
+      H$,
+      m7,
+      z2,
+      r7,
+      y_$,
+      N9X,
+      s8,
+      V1,
+      e8,
+      X4,
+      O1,
+      e1,
+      Y8,
+      K3,
+      p_,
+      P3,
+      T8,
+      j9,
+      g1,
+      J7,
+      a7,
+      U4,
+      b7,
+      B4,
+      m4,
+      n7,
+      Q6;
+    Y_ = N1.chart;
+    if (!Y_) {
+      Y_ = N1;
+      N1 = N1.chart;
+    }
+    B1 = X6.stretchGaps;
+    if (!B1 && B1 !== !{}) {
+      B1 = this.cleanupGaps === "stretch";
+    }
+    A2 = !{};
+    o2 = !"1";
+    U8 = null;
+    d_ = N1.yAxis;
+    if (X6 && typeof X6 == "object") {
+      A2 = X6.isOutline;
+      o2 = X6.isHistogram;
+      U8 = X6.field;
+      d_ = X6.yAxis;
+    } else {
+      A2 = X6;
+      o2 = arguments[3];
+    }
+    a$ = Y_.dataSegment;
+    a0 = Y_.context;
+    w3 = d_.top;
+    o6 = d_.bottom;
+    l1 = new Array(a$.length);
+    A7 = "transparent";
+    i6 = "transparent";
+    N8 = 0;
+    t$N.w6J(14);
+    var m1H = t$N.Y51(6, 13, 7, 12, 13);
+    T2 = Y_.dataSet.length - Y_.scroll - m1H;
+    Y5 = {};
+    V0 = this.layout.candleWidth;
+    H$ = X6.pixelWidth || V0 * 0.65;
+    t$N.w6J(11);
+    m7 = t$N.Y51(2, H$);
+    t$N.C2v(0);
+    var F$S = t$N.Y51(13, 19);
+    z2 = N1.left - 0.5 * V0 + this.micropixels - ("1" << F$S);
+    r7 = -1;
+    for (var g8 = 0; g8 <= a$.length; g8++) {
+      y_$ = "transpar";
+      y_$ += "en";
+      y_$ += "t";
+      N9X = "cl";
+      N9X += "o";
+      N9X += "se";
+      t$N.C2v(15);
+      var g37 = t$N.B$D(1, 17, 11, 17, 11);
+      t$N.C2v(16);
+      var s1g = t$N.B$D(3, 24, 6, 4, 8);
+      z2 += (this.layout.candleWidth * (g8 - r7 - g37)) / s1g;
+      r7 = g8;
+      s8 = m7;
+      t$N.w6J(17);
+      z2 += t$N.B$D(V0, "2");
+      V0 = this.layout.candleWidth;
+      t$N.C2v(11);
+      z2 += t$N.Y51(2, V0);
+      V1 = !!0;
+      e8 = a$[g8];
+      if (!e8) continue;
+      if (!e8.cache || Y_.pixelCacheExpired) {
+        e8.cache = {};
+      }
+      if (e8.projection) continue;
+      if (e8.candleWidth) {
+        z2 += (e8.candleWidth - V0) / +"2";
+        V0 = e8.candleWidth;
+        if (X6.isVolume || V0 < H$) {
+          t$N.C2v(17);
+          s8 = t$N.B$D(V0, "2");
+        }
+      }
+      X4 = this.getTransformFunction(d_);
+      O1 = this.getTransformedQuote(e8, d_);
+      if (X4 && O1) {
+        if (U8) {
+          e8 = Object.assign(
+            {},
+            e8[U8],
+            O1[U8],
+            { tick: e8.tick },
+            { cache: O1.cache },
+          );
+          V1 = !!"1";
+        } else {
+          e8 = Object.assign({}, e8, O1);
+          delete e8.transform;
+          delete e8.transform_axis;
+        }
+      }
+      e1 = e8.cache;
+      if (e8 && U8 && !V1) {
+        e8 = e8[U8];
+      }
+      if (!e8 && e8 !== +"0") continue;
+      Y8 = "open";
+      K3 = N9X;
+      if (U8) {
+        t$N.w6J(2);
+        Y8 = t$N.Y51(
+          U8,
+          (732.3, 175) !== (+"854.88", +"3404")
+            ? "."
+            : ("6600" | 8, "131.19" * 1) <= (4453, 8915)
+              ? 5.55e3
+              : !1,
+          Y8,
+        );
+        t$N.w6J(2);
+        K3 = t$N.B$D(
+          U8,
+          "238.06" - 0 <= 762
+            ? 605.92 > 380.06
+              ? (8311, 1060) == (3465, 8130)
+                ? ![]
+                : "."
+              : ("x", "A")
+            : (!![], 5.52e2),
+          K3,
+        );
+      }
+      p_ = e8.Close;
+      P3 = e8.Open === undefined ? p_ : e8.Open;
+      if (o2 && Y_.defaultPlotField) {
+        p_ = e8[Y_.defaultPlotField];
+      }
+      if (!p_ && p_ !== 0) continue;
+      t$N.C2v(3);
+      T8 = t$N.B$D("0", 1);
+      if (!X6.isVolume && B1) {
+        while (a$[g8 + 1]) {
+          t$N.C2v(0);
+          j9 = a$[t$N.B$D(g8, 1)][Y_.defaultPlotField || "Close"];
+          if (j9 || j9 === 0 || a$[g8 + 1].futureTick) break;
+          T8++;
+          g8++;
+        }
+        t$N.C2v(18);
+        z2 += t$N.B$D(T8, 2, V0);
+        t$N.C2v(18);
+        s8 += t$N.B$D(T8, 2, V0);
+      }
+      if (!o2 && (P3 == p_ || P3 === null)) continue;
+      g1 = A6(this, e8, A2 ? "outline" : "solid");
+      if (!g1) continue;
+      if (A2) {
+        A7 = g1;
+      } else {
+        i6 = g1;
+      }
+      t$N.w6J(3);
+      Y5[i6] = t$N.B$D("1", 1);
+      J7 = A7 && !y7.isTransparent(A7);
+      if (J7 && !X6.highlight) {
+        N8 = 0.5;
+      }
+      a0.beginPath();
+      a0.fillStyle = i6;
+      t$N.w6J(0);
+      a7 = t$N.B$D(T2, r7);
+      if (a7 < N1.cacheLeft || a7 > N1.cacheRight || !e1[Y8]) {
+        U4 = d_.semiLog
+          ? d_.height *
+            (1 -
+              (Math.log(Math.max(P3, 0)) / Math.LN10 - d_.logLow) /
+                d_.logShadow)
+          : (d_.high - P3) * d_.multiplier;
+        b7 = d_.semiLog
+          ? d_.height *
+            (("1" << 0) -
+              (Math.log(Math.max(p_, 0)) / Math.LN10 - d_.logLow) /
+                d_.logShadow)
+          : (d_.high - p_) * d_.multiplier;
+        if (Math.abs(U4 - b7) < 1) {
+          U4 = b7;
+        }
+        if (d_.flipped) {
+          t$N.C2v(10);
+          U4 = t$N.Y51(U4, o6);
+          t$N.C2v(10);
+          b7 = t$N.Y51(b7, o6);
+        } else {
+          U4 += w3;
+          b7 += w3;
+        }
+        l1[r7] = b7;
+        D5 = o2 ? b7 : Math.min(U4, b7);
+        E9 = o2 ? d_.bottom : Math.max(U4, b7);
+        D5 = Math.floor(D5);
+        E9 = Math.floor(E9);
+        t$N.C2v(10);
+        c5 = t$N.Y51(D5, E9);
+        if (D5 < w3) {
+          if (D5 + c5 < w3) {
+            e1[Y8] = D5;
+            e1[K3] = D5;
+            continue;
+          }
+          t$N.C2v(19);
+          c5 -= t$N.B$D(1, w3, D5);
+          t$N.w6J(10);
+          D5 = t$N.B$D(1, w3);
+        }
+        if (D5 + c5 > o6) {
+          t$N.w6J(20);
+          c5 = t$N.B$D(D5, 1, o6);
+        }
+        e1[Y8] = D5;
+        t$N.w6J(0);
+        e1[K3] = t$N.B$D(D5, c5);
+      }
+      if (e1[Y8] >= o6) continue;
+      if (e1[K3] <= w3) continue;
+      B4 = Math.floor(z2) + (!X6.highlight && 0.5);
+      m4 = Math.floor(B4 - s8) + N8;
+      n7 = Math.round(B4 + s8) - N8;
+      a0.rect(
+        m4,
+        e1[Y8] + N8,
+        Math.max("0" >> 0, n7 - m4),
+        Math.max(0, e1[K3] - e1[Y8]),
+      );
+      if (!X6.highlight && this.highlightedDraggable) {
+        a0.globalAlpha *= 0.3;
+      }
+      if (i6 != y_$) {
+        a0.fill();
+      }
+      if (J7) {
+        a0.lineWidth = 1;
+        if (X6.highlight) {
+          a0.lineWidth *= 2;
+        }
+        a0.strokeStyle = A7;
+        a0.stroke();
+      }
+    }
+    Y_.pixelCacheExpired = !{};
+    Q6 = { colors: [], cache: l1 };
+    for (var o7 in Y5) {
+      if (!X6.hollow || !y7.equals(o7, this.containerColor)) {
+        Q6.colors.push(o7);
+      }
+    }
+    return Q6;
+  };
+  y7.ChartEngine.prototype.drawShadows = function (q4, K2, I_) {
+    var Q7,
+      t_,
+      c7,
+      F0,
+      Y4,
+      k9,
+      j0,
+      Z5,
+      k4,
+      P7,
+      I1,
+      A1,
+      P9e,
+      b8J,
+      A5,
+      b9,
+      S9,
+      S0,
+      V_,
+      j1,
+      l5,
+      o3,
+      S1,
+      r6,
+      P$,
+      M5,
+      u1,
+      N4,
+      c4,
+      w7,
+      y3,
+      H9,
+      q1,
+      o9,
+      s4,
+      E3;
+    if (I_.isHistogram) {
+      return;
+    }
+    Q7 = q4.chart;
+    if (!Q7) {
+      Q7 = q4;
+      q4 = q4.chart;
+    }
+    t_ = I_.stretchGaps;
+    if (!t_ && t_ !== !!"") {
+      t_ = this.cleanupGaps === "stretch";
+    }
+    c7 = Q7.dataSegment;
+    F0 = this.chart.context;
+    t$N.w6J(21);
+    F0.lineWidth = t$N.Y51(64, "1");
+    if (I_.highlight) {
+      F0.lineWidth *= 2;
+    }
+    if (!I_.highlight && this.highlightedDraggable) {
+      F0.globalAlpha *= 0.3;
+    }
+    Y4 = I_.field;
+    k9 = I_.yAxis || q4.yAxis;
+    j0 = k9.top;
+    Z5 = k9.bottom;
+    t$N.C2v(10);
+    var r68 = t$N.B$D(9, 10);
+    k4 = Q7.dataSet.length - Q7.scroll - r68;
+    P7 = this.layout.candleWidth;
+    t$N.C2v(22);
+    var d6M = t$N.Y51(225, 16, 0, 14, 1);
+    I1 = q4.left - 0.5 * P7 + this.micropixels - d6M;
+    t$N.w6J(23);
+    A1 = -t$N.B$D("1", 0);
+    for (var y8 = "0" - 0; y8 <= c7.length; y8++) {
+      P9e = "b";
+      P9e += "ot";
+      P9e += "tom";
+      b8J = "sha";
+      b8J += "d";
+      b8J += "ow";
+      t$N.C2v(24);
+      var p60 = t$N.B$D(15, 5, 5, 16);
+      t$N.w6J(25);
+      var T8F = t$N.B$D(19, 20, 4, 14, 23);
+      I1 += (this.layout.candleWidth * (y8 - A1 - p60)) / ("2" | T8F);
+      A1 = y8;
+      t$N.w6J(11);
+      I1 += t$N.Y51(2, P7);
+      P7 = this.layout.candleWidth;
+      t$N.C2v(11);
+      I1 += t$N.Y51(2, P7);
+      A5 = c7[y8];
+      if (!A5) continue;
+      if (!A5.cache || Q7.pixelCacheExpired) {
+        A5.cache = {};
+      }
+      if (A5.projection) continue;
+      if (A5.candleWidth) {
+        t$N.w6J(0);
+        var L2N = t$N.B$D(0, 2);
+        I1 += (A5.candleWidth - P7) / L2N;
+        P7 = A5.candleWidth;
+      }
+      b9 = K2(this, A5, b8J);
+      if (!b9) continue;
+      S9 = this.getTransformFunction(k9);
+      S0 = this.getTransformedQuote(A5, k9);
+      if (S9 && S0) {
+        A5 = S0;
+      }
+      V_ = A5.cache;
+      if (A5 && Y4) {
+        A5 = A5[Y4];
+      }
+      if (!A5 && A5 !== 0) continue;
+      j1 = "top";
+      l5 = P9e;
+      if (Y4) {
+        t$N.C2v(2);
+        j1 = t$N.Y51(
+          Y4,
+          9040 === 52
+            ? ("K", 0x1556)
+            : (825.97, 175.07) !== 482.66
+              ? "."
+              : 8260 !== (986.26, 6067)
+                ? 112.02
+                : 8.6e2,
+          j1,
+        );
+        t$N.C2v(2);
+        l5 = t$N.B$D(Y4, ".", l5);
+      }
+      o3 = A5.Close;
+      S1 = A5.Open === undefined ? o3 : A5.Open;
+      r6 = A5.High === undefined ? Math.max(o3, S1) : A5.High;
+      P$ = A5.Low === undefined ? Math.min(o3, S1) : A5.Low;
+      if (!o3 && o3 !== ("0" ^ 0)) continue;
+      M5 = I1;
+      if (!I_.isVolume && t_) {
+        u1 = 0;
+        while (c7[y8 + 1]) {
+          N4 = c7[y8 + 1].Close;
+          if (N4 || N4 === +"0" || c7[y8 + 1].futureTick) break;
+          u1++;
+          y8++;
+        }
+        t$N.C2v(18);
+        I1 += t$N.B$D(u1, 2, P7);
+      }
+      t$N.w6J(0);
+      c4 = t$N.Y51(k4, A1);
+      if (c4 < q4.cacheLeft || c4 > q4.cacheRight || !V_[j1]) {
+        w7 = k9.semiLog
+          ? k9.height *
+            (1 -
+              (Math.log(Math.max(r6, 0)) / Math.LN10 - k9.logLow) /
+                k9.logShadow)
+          : (k9.high - r6) * k9.multiplier;
+        y3 = k9.semiLog
+          ? k9.height *
+            (1 -
+              (Math.log(Math.max(P$, +"0")) / Math.LN10 - k9.logLow) /
+                k9.logShadow)
+          : (k9.high - P$) * k9.multiplier;
+        if (Math.abs(y3 - w7) < +"1") {
+          y3 = w7;
+        }
+        w7 = Math.floor(w7);
+        y3 = Math.floor(y3);
+        t$N.w6J(10);
+        H9 = t$N.B$D(w7, y3);
+        if (k9.flipped) {
+          t$N.C2v(10);
+          w7 = t$N.B$D(w7, Z5);
+          t$N.w6J(10);
+          y3 = t$N.Y51(y3, Z5);
+        } else {
+          w7 += j0;
+          y3 += j0;
+        }
+        if (w7 < j0) {
+          if (w7 + H9 < j0) {
+            V_[j1] = w7;
+            V_[l5] = w7;
+            continue;
+          }
+          t$N.w6J(19);
+          H9 -= t$N.Y51(1, j0, w7);
+          t$N.w6J(10);
+          w7 = t$N.B$D(1, j0);
+        }
+        if (w7 + H9 > Z5) {
+          t$N.C2v(20);
+          H9 = t$N.B$D(w7, 1, Z5);
+        }
+        V_[j1] = w7;
+        V_[l5] = V_[j1] + H9;
+      }
+      if (V_[j1] >= Z5) continue;
+      if (V_[l5] <= j0) continue;
+      q1 = Math.floor(M5) + (!I_.highlight && 0.5);
+      F0.beginPath();
+      if (o3 == S1) {
+        o9 = this.offset;
+        if (I_.isVolume) {
+          t$N.C2v(17);
+          o9 = t$N.Y51(P7, "2");
+        }
+        s4 = k9.semiLog
+          ? k9.height *
+            (1 -
+              (Math.log(Math.max(o3, "0" * 1)) / Math.LN10 - k9.logLow) /
+                k9.logShadow)
+          : (k9.high - o3) * k9.multiplier;
+        s4 = Math.floor(s4) + (!I_.highlight && 0.5);
+        if (k9.flipped) {
+          t$N.w6J(10);
+          s4 = t$N.B$D(s4, Z5);
+        } else {
+          s4 += j0;
+        }
+        if (s4 <= Z5 && s4 >= j0) {
+          t$N.C2v(10);
+          E3 = Math.floor(t$N.B$D(M5, I1));
+          t$N.C2v(26);
+          F0.moveTo(t$N.B$D(q1, o9, E3), s4);
+          t$N.C2v(2);
+          F0.lineTo(t$N.Y51(q1, E3, o9), s4);
+        }
+      }
+      if (r6 != P$) {
+        F0.moveTo(q1, V_[j1]);
+        F0.lineTo(q1, V_[l5]);
+      }
+      F0.strokeStyle = b9;
+      F0.stroke();
+    }
+    Q7.pixelCacheExpired = ![];
+  };
+  y7.ChartEngine.prototype.drawBarChart = function (z0, D0, x7, w5) {
+    var x1b,
+      j7,
+      C$,
+      g7,
+      H8,
+      n5,
+      Y6,
+      Q3,
+      A0,
+      s1,
+      d5,
+      p$,
+      n_,
+      u9,
+      E6,
+      L9,
+      s$,
+      e5,
+      D$,
+      y6,
+      w81,
+      K_,
+      k0,
+      L$,
+      i7,
+      b2,
+      H2,
+      z_,
+      J5,
+      M2,
+      N7,
+      r8,
+      M3,
+      J$,
+      F7,
+      T0,
+      C5,
+      k8,
+      b0,
+      s_,
+      b$,
+      W5,
+      S5,
+      d6,
+      q9,
+      N5,
+      y5,
+      y_,
+      K0;
+    x1b = "stre";
+    x1b += "tc";
+    x1b += "h";
+    j7 = z0.chart;
+    if (!j7) {
+      j7 = z0;
+      z0 = z0.chart;
+    }
+    C$ = w5.stretchGaps;
+    if (!C$ && C$ !== ![]) {
+      C$ = this.cleanupGaps === x1b;
+    }
+    g7 = j7.dataSegment;
+    H8 = new Array(g7.length);
+    n5 = j7.context;
+    Y6 = this.canvasStyle(D0);
+    if (Y6.width && parseInt(Y6.width, +"10") <= +"25") {
+      n5.lineWidth = Math.max(1, y7.stripPX(Y6.width));
+    } else {
+      t$N.C2v(3);
+      n5.lineWidth = t$N.Y51("1", 1);
+    }
+    if (w5.highlight) {
+      n5.lineWidth *= 2;
+    }
+    if (!w5.highlight && this.highlightedDraggable) {
+      n5.globalAlpha *= 0.3;
+    }
+    Q3 = w5.field;
+    A0 = w5.yAxis || z0.yAxis;
+    s1 = A0.top;
+    d5 = A0.bottom;
+    t$N.C2v(27);
+    var z8P = t$N.Y51(1, 7, 6, 0);
+    n_ = j7.dataSet.length - j7.scroll - z8P;
+    u9 = {};
+    E6 = this.layout.candleWidth;
+    L9 = w5.pixelWidth || E6 * 0.65;
+    t$N.w6J(11);
+    s$ = t$N.Y51(2, L9);
+    t$N.w6J(28);
+    var Q$A = t$N.B$D(17, 15, 1);
+    e5 = n5.lineWidth / Q$A;
+    t$N.w6J(26);
+    var w5g = t$N.Y51(5, 13, 9);
+    D$ = z0.left - 0.5 * E6 + this.micropixels - w5g;
+    y6 = -1;
+    for (var F5 = 0; F5 <= g7.length; F5++) {
+      w81 = "t";
+      w81 += "o";
+      w81 += "p";
+      t$N.C2v(29);
+      var d$X = t$N.B$D(1, 13, 14);
+      t$N.w6J(30);
+      var W0Y = t$N.B$D(1, 4, 5);
+      D$ += (this.layout.candleWidth * (F5 - y6 - d$X)) / W0Y;
+      y6 = F5;
+      K_ = s$;
+      t$N.C2v(11);
+      D$ += t$N.Y51(2, E6);
+      E6 = this.layout.candleWidth;
+      t$N.w6J(11);
+      D$ += t$N.Y51(2, E6);
+      k0 = g7[F5];
+      if (!k0) continue;
+      if (!k0.cache || j7.pixelCacheExpired) {
+        k0.cache = {};
+      }
+      if (k0.projection) continue;
+      if (k0.candleWidth) {
+        D$ += (k0.candleWidth - E6) / +"2";
+        E6 = k0.candleWidth;
+      }
+      L$ = x7(this, k0);
+      if (!L$) continue;
+      u9[L$] = +"1";
+      n5.strokeStyle = L$;
+      n5.beginPath();
+      i7 = this.getTransformFunction(A0);
+      b2 = this.getTransformedQuote(k0, A0);
+      if (i7 && b2) {
+        k0 = b2;
+      }
+      H2 = k0.cache;
+      if (k0 && Q3) {
+        k0 = k0[Q3];
+      }
+      if (!k0 && k0 !== "0" - 0) continue;
+      z_ = w81;
+      J5 = "bottom";
+      M2 = "open";
+      N7 = "close";
+      if (Q3) {
+        t$N.w6J(2);
+        z_ = t$N.Y51(
+          Q3,
+          (14.34, "886.42" * 1) === +"1463"
+            ? ("D", "P")
+            : +"4020" >= (608, 695)
+              ? (465.78, "8716" ^ 0) <= (927.2, "3786" - 0)
+                ? "j"
+                : "."
+              : (2.57e3, 2.34e3),
+          z_,
+        );
+        t$N.C2v(2);
+        J5 = t$N.B$D(
+          Q3,
+          ("4628" - 0, 9450) == +"7380"
+            ? 6.64e3
+            : +"9690" === (3860, 2343)
+              ? "j"
+              : (6613, 556.39) != 7444
+                ? "."
+                : ("V", 0xc6b),
+          J5,
+        );
+        t$N.C2v(2);
+        M2 = t$N.Y51(
+          Q3,
+          (3980, 3131) == (+"929.47", 5780) ? ("I", 2.18e3) : ".",
+          M2,
+        );
+        t$N.w6J(2);
+        N7 = t$N.Y51(
+          Q3,
+          524 != 995
+            ? (452.32, 2700) === ("8960" ^ 0)
+              ? (8.27e3, "k")
+              : "."
+            : +"0x26cd",
+          N7,
+        );
+      }
+      r8 = k0.Close;
+      M3 = k0.Open === undefined ? r8 : k0.Open;
+      J$ = k0.High === undefined ? Math.max(r8, M3) : k0.High;
+      F7 = k0.Low === undefined ? Math.min(r8, M3) : k0.Low;
+      if (!r8 && r8 !== 0) continue;
+      T0 = D$;
+      if (!w5.isVolume && C$) {
+        C5 = 0;
+        while (g7[F5 + 1]) {
+          k8 = g7[F5 + 1].Close;
+          if (k8 || k8 === 0 || g7[F5 + 1].futureTick) break;
+          C5++;
+          F5++;
+        }
+        t$N.w6J(18);
+        D$ += t$N.B$D(C5, 2, E6);
+        t$N.w6J(31);
+        K_ += t$N.Y51("2", E6, C5);
+      }
+      t$N.C2v(0);
+      b0 = t$N.Y51(n_, y6);
+      if (b0 < z0.cacheLeft || b0 > z0.cacheRight || !H2[z_]) {
+        s_ = this.pixelFromTransformedValue(J$, z0, A0);
+        b$ = this.pixelFromTransformedValue(F7, z0, A0);
+        s_ = Math.floor(s_);
+        b$ = Math.floor(b$);
+        t$N.w6J(10);
+        p$ = t$N.Y51(s_, b$);
+        H2[M2] = A0.semiLog
+          ? A0.height *
+            (1 -
+              (Math.log(Math.max(M3, 0)) / Math.LN10 - A0.logLow) /
+                A0.logShadow)
+          : (A0.high - M3) * A0.multiplier;
+        H2[N7] = A0.semiLog
+          ? A0.height *
+            (1 -
+              (Math.log(Math.max(r8, 0)) / Math.LN10 - A0.logLow) /
+                A0.logShadow)
+          : (A0.high - r8) * A0.multiplier;
+        if (Math.abs(H2[N7] - H2[M2]) < +"1") {
+          H2[N7] = H2[M2];
+        }
+        H2[M2] = Math.floor(H2[M2]);
+        H2[N7] = Math.floor(H2[N7]);
+        if (A0.flipped) {
+          H2[M2] = A0.bottom - H2[M2];
+          H2[N7] = A0.bottom - H2[N7];
+        } else {
+          H2[M2] += A0.top;
+          H2[N7] += A0.top;
+        }
+        H8[y6] = H2[N7];
+        if (s_ < s1) {
+          if (s_ + p$ < s1) {
+            H2[z_] = s_;
+            H2[J5] = s_;
+            continue;
+          }
+          t$N.C2v(19);
+          p$ -= t$N.Y51(1, s1, s_);
+          t$N.w6J(32);
+          s_ = t$N.B$D("1", s1);
+        }
+        if (s_ + p$ > d5) {
+          t$N.C2v(20);
+          p$ = t$N.B$D(s_, 1, d5);
+        }
+        H2[z_] = s_;
+        t$N.C2v(0);
+        H2[J5] = t$N.B$D(s_, p$);
+      }
+      W5 = !w5.highlight && 0.5;
+      S5 = Math.floor(T0) + W5;
+      d6 = H2[M2] + W5;
+      q9 = H2[N7] + W5;
+      N5 = H2[z_] + W5;
+      y5 = H2[J5] + W5;
+      if (N5 < d5 && y5 > s1 && k0.High != k0.Low) {
+        t$N.w6J(10);
+        n5.moveTo(S5, t$N.Y51(e5, N5));
+        t$N.w6J(0);
+        n5.lineTo(S5, t$N.Y51(y5, e5));
+      }
+      t$N.w6J(10);
+      y_ = Math.floor(t$N.Y51(T0, D$));
+      if (w5.type != "hlc" && d6 > s1 && d6 < d5) {
+        n5.moveTo(S5, d6);
+        t$N.C2v(26);
+        n5.lineTo(t$N.Y51(S5, K_, y_), d6);
+      }
+      if (q9 > s1 && q9 < d5) {
+        n5.moveTo(S5, q9);
+        t$N.w6J(2);
+        n5.lineTo(t$N.Y51(S5, y_, K_), q9);
+      }
+      n5.stroke();
+    }
+    n5.lineWidth = 1;
+    j7.pixelCacheExpired = ![];
+    K0 = { colors: [], cache: H8 };
+    for (var S_ in u9) {
+      if (!y7.equals(S_, this.containerColor)) {
+        K0.colors.push(S_);
+      }
+    }
+    return K0;
+  };
+  y7.ChartEngine.prototype.drawWaveChart = function (C8, e2) {
+    var L_C,
+      Y5g,
+      m_,
+      G5,
+      Q0,
+      z7,
+      X$,
+      u0,
+      R6,
+      U9,
+      k2,
+      D2,
+      f5,
+      T7,
+      W9,
+      f8,
+      S7,
+      Z_,
+      D4,
+      C4,
+      B0,
+      v8,
+      a2,
+      M$,
+      a5,
+      M7,
+      g2,
+      i$,
+      R2,
+      P_,
+      F4,
+      Z$,
+      W0;
+    L_C = "s";
+    L_C += "tx_l";
+    L_C += "ine_ch";
+    L_C += "art";
+    Y5g = "s";
+    Y5g += "t";
+    Y5g += "retc";
+    Y5g += "h";
+    m_ = C8.chart;
+    G5 = e2.stretchGaps;
+    if (!G5 && G5 !== !!0) {
+      G5 = this.cleanupGaps === Y5g;
+    }
+    Q0 = m_.dataSegment;
+    z7 = new Array(Q0.length);
+    X$ = m_.context;
+    if (!e2) {
+      e2 = {};
+    }
+    u0 = e2.yAxis || C8.yAxis;
+    this.startClip(C8.name);
+    X$.beginPath();
+    R6 = !{};
+    U9 = !{};
+    k2 = C8.yAxis.top;
+    D2 = C8.yAxis.bottom;
+    function R8(g6) {
+      return W9.pixelFromTransformedValue(g6, C8, u0);
+    }
+    f5 = this.layout.candleWidth;
+    T7 =
+      C8.left + Math.floor(-0.5 * this.layout.candleWidth + this.micropixels);
+    W9 = this;
+    f8 = -1;
+    for (var F$ = 0; F$ <= Q0.length; F$++) {
+      t$N.C2v(10);
+      var Q3E = t$N.Y51(15, 16);
+      t$N.w6J(10);
+      var R5a = t$N.Y51(22, 24);
+      T7 += (this.layout.candleWidth * (F$ - f8 - Q3E)) / R5a;
+      f8 = F$;
+      t$N.C2v(11);
+      T7 += t$N.Y51(2, f5);
+      f5 = this.layout.candleWidth;
+      t$N.C2v(17);
+      T7 += t$N.Y51(f5, "2");
+      S7 = Q0[F$];
+      if (!S7) continue;
+      if (S7.projection) break;
+      if (S7.candleWidth) {
+        t$N.C2v(33);
+        var k9Z = t$N.B$D(0, 3, 23, 7);
+        T7 += (S7.candleWidth - f5) / k9Z;
+        f5 = S7.candleWidth;
+      }
+      Z_ = this.getTransformFunction(u0);
+      D4 = this.getTransformedQuote(S7, u0);
+      if (Z_ && D4) {
+        S7 = D4;
+      }
+      if (S7 && e2.field) {
+        S7 = S7[e2.field];
+      }
+      if (!S7 && S7 !== 0) continue;
+      C4 = S7.Close;
+      B0 = S7.Open === undefined ? C4 : S7.Open;
+      v8 = S7.High === undefined ? Math.max(C4, B0) : S7.High;
+      a2 = S7.Low === undefined ? Math.min(C4, B0) : S7.Low;
+      if (!C4 && C4 !== 0) continue;
+      if (G5) {
+        while (Q0[F$ + 1]) {
+          M$ = Q0[F$ + 1].Close;
+          if (M$ || M$ === "0" >> 64 || Q0[F$ + 1].futureTick) break;
+          t$N.w6J(17);
+          T7 += t$N.Y51(f5, "2");
+          F$++;
+        }
+      }
+      t$N.w6J(20);
+      a5 = t$N.Y51(f8, 1, F$);
+      t$N.C2v(34);
+      M7 = t$N.B$D(8, f5, a5, "3", T7);
+      g2 = R8(B0);
+      if (g2 < k2) {
+        g2 = k2;
+        if (U9) {
+          X$.moveTo(M7, g2);
+          continue;
+        }
+        U9 = !"";
+      } else if (g2 > D2) {
+        g2 = D2;
+        if (U9) {
+          X$.moveTo(M7, g2);
+          continue;
+        }
+        U9 = !![];
+      } else {
+        U9 = !{};
+      }
+      if (!R6) {
+        R6 = !!1;
+        t$N.w6J(10);
+        var r1R = t$N.B$D(11, 12);
+        i$ = m_.dataSet.length - m_.scroll - r1R;
+        if (i$ < 0) {
+          X$.moveTo(M7, g2);
+        } else if (i$ >= 0) {
+          R2 = m_.dataSet[i$];
+          P_ = this.getTransformedQuote(R2, u0);
+          if (P_) {
+            R2 = P_;
+          }
+          F4 = R2.Close;
+          F4 = R8(F4);
+          F4 = Math.min(Math.max(F4, k2), D2);
+          X$.moveTo(
+            C8.left + (F$ - 1) * this.layout.candleWidth + this.micropixels,
+            F4,
+          );
+          X$.lineTo(M7, g2);
+        }
+        X$.moveTo(M7, g2);
+      } else {
+        X$.lineTo(M7, g2);
+      }
+      t$N.w6J(18);
+      M7 += t$N.Y51(a5, 4, f5);
+      if (B0 < C4) {
+        g2 = R8(a2);
+        if (g2 < k2) {
+          g2 = k2;
+        }
+        if (g2 > D2) {
+          g2 = D2;
+        }
+        X$.lineTo(M7, g2);
+        t$N.w6J(18);
+        M7 += t$N.Y51(a5, 4, f5);
+        g2 = R8(v8);
+        if (g2 < k2) {
+          g2 = k2;
+        }
+        if (g2 > D2) {
+          g2 = D2;
+        }
+        X$.lineTo(M7, g2);
+      } else {
+        g2 = R8(v8);
+        if (g2 < k2) {
+          g2 = k2;
+        }
+        if (g2 > D2) {
+          g2 = D2;
+        }
+        X$.lineTo(M7, g2);
+        t$N.C2v(18);
+        M7 += t$N.Y51(a5, 4, f5);
+        g2 = R8(a2);
+        if (g2 < k2) {
+          g2 = k2;
+        }
+        if (g2 > D2) {
+          g2 = D2;
+        }
+        X$.lineTo(M7, g2);
+      }
+      t$N.w6J(31);
+      M7 += t$N.B$D("4", f5, a5);
+      g2 = R8(C4);
+      z7[F$] = g2;
+      if (g2 < k2) {
+        g2 = k2;
+      }
+      if (g2 > D2) {
+        g2 = D2;
+      }
+      X$.lineTo(M7, g2);
+    }
+    Z$ = this.canvasStyle(L_C);
+    if (Z$.width && parseInt(Z$.width, 10) <= 25) {
+      X$.lineWidth = Math.max(1, y7.stripPX(Z$.width));
+    } else {
+      X$.lineWidth = 1;
+    }
+    if (e2.highlight) {
+      X$.lineWidth *= 2;
+    }
+    this.canvasColor("stx_line_chart");
+    if (e2.color) {
+      X$.strokeStyle = e2.color;
+    }
+    if (!e2.highlight && this.highlightedDraggable) {
+      X$.globalAlpha *= +"0.3";
+    }
+    X$.stroke();
+    X$.closePath();
+    t$N.s8u();
+    W0 = { colors: [X$.strokeStyle], cache: z7 };
+    this.endClip();
+    X$.lineWidth = 1;
+    return W0;
+  };
+  y7.ChartEngine.prototype.drawHistogram = function (a8, h3) {
+    var b4v,
+      b5S,
+      b8,
+      j_,
+      Z0,
+      a_,
+      y$,
+      L3,
+      w2,
+      O2,
+      l7,
+      B$,
+      v3,
+      D7,
+      n9,
+      d$,
+      U6,
+      s5,
+      G9,
+      n3,
+      H6o,
+      I3R,
+      o8,
+      F3F,
+      L0,
+      I3,
+      S8,
+      q2,
+      t9,
+      Q1,
+      W6,
+      V5,
+      d9,
+      z8,
+      I5,
+      h7,
+      Q4,
+      f4,
+      S2,
+      u7,
+      P5;
+    b4v = "D";
+    b4v += "a";
+    b4v += "ta";
+    b5S = "c";
+    b5S += "h";
+    b5S += "a";
+    b5S += "rt";
+    if (!h3 || !h3.length) {
+      return;
+    }
+    b8 = a8.panel;
+    if (!b8) {
+      b8 = b5S;
+    }
+    j_ = this.panels[b8];
+    if (!j_) {
+      return;
+    }
+    Z0 = a8.stretchGaps;
+    if (!Z0 && Z0 !== !{}) {
+      Z0 = this.cleanupGaps === "stretch";
+    }
+    a_ = a8.yAxis ? a8.yAxis : j_.yAxis;
+    y$ = a8.type;
+    L3 = this.chart.dataSegment;
+    w2 = ![];
+    O2 = 1;
+    l7 = 1;
+    n9 = 0;
+    for (D7 = "0" << 32; D7 < h3.length; D7++) {
+      if (h3[D7].disabled) continue;
+      w2 |= h3[D7].border_color_up && !y7.isTransparent(h3[D7].border_color_up);
+      w2 |=
+        h3[D7].border_color_down && !y7.isTransparent(h3[D7].border_color_down);
+      O2 = h3[D7].opacity_up;
+      l7 = h3[D7].opacity_down;
+      if (!a8.highlight && this.highlightedDraggable) {
+        O2 *= +"0.3";
+        l7 *= 0.3;
+      }
+      n9 += 1;
+    }
+    if (a8.borders === !!"") {
+      w2 = !!"";
+    }
+    if (!a8.name) {
+      a8.name = b4v;
+    }
+    d$ = a_.multiplier;
+    if (!a8.heightPercentage) {
+      a8.heightPercentage = 0.7;
+    }
+    if (!a8.widthFactor) {
+      a8.widthFactor = 0.8;
+    }
+    U6 = 0;
+    s5 = 0;
+    for (var o$ = 0; o$ < this.chart.maxTicks; o$++) {
+      G9 = L3[o$];
+      if (!G9) continue;
+      n3 = 0;
+      for (D7 = 0; D7 < h3.length; D7++) {
+        H6o = "str";
+        H6o += "etch";
+        I3R = "Cl";
+        I3R += "o";
+        I3R += "s";
+        I3R += "e";
+        if (h3[D7].disabled) continue;
+        B$ = h3[D7].field;
+        v3 = h3[D7].subField || this.chart.defaultPlotField || I3R;
+        o8 = y7.ChartEngine.getQuoteFieldValue(G9, B$, v3);
+        if (!o8 && this.cleanupGaps === H6o) {
+          o8 = this.valueFromInterpolation(o$, B$, v3, j_, a_, !!{});
+        }
+        if (o8 || o8 === 0) {
+          F3F = "st";
+          F3F += "a";
+          F3F += "cke";
+          F3F += "d";
+          if (typeof o8 == "object" && o8[v3]) {
+            o8 = o8[v3];
+          }
+          if (y$ == F3F) {
+            n3 += o8;
+          } else {
+            n3 = o8;
+          }
+          if (n3 > U6) {
+            U6 = n3;
+          }
+          if (n3 < s5) {
+            s5 = n3;
+          }
+        }
+      }
+    }
+    if (U6 === "0" - 0 && s5 === 0) {
+      this.displayErrorAsWatermark(
+        b8,
+        this.translateIf(a8.name + " Not Available"),
+      );
+      return;
+    }
+    I3 = !{};
+    if (!a8.bindToYAxis) {
+      if (a_.flipped) {
+        L0 = Math.floor(a_.top) - 0.5;
+        S8 = Math.floor(a_.bottom) - 0.5;
+      } else {
+        L0 = Math.floor(a_.bottom) + ("0.5" - 0);
+        S8 = Math.floor(a_.top) + 0.5;
+      }
+      d$ = (Math.abs(L0 - S8) * a8.heightPercentage) / (U6 - s5);
+    } else {
+      if (a_.baseline) {
+        s5 = a_.baseline.value;
+        I3 = !![];
+      }
+      L0 =
+        Math.floor(this.pixelFromPrice(s5, j_, a_)) + (a_.flipped ? -0.5 : 0.5);
+    }
+    this.startClip(b8);
+    q2 = this.layout.candleWidth <= 1 || !w2 ? 0 : 0.5;
+    t9 = this.chart.context;
+    if (a_.flipped) {
+      t9.translate(0, 2 * a_.top);
+      t9.scale(1, -1);
+    }
+    Q1 = Math.max(
+      0,
+      ((("1" ^ 0) - a8.widthFactor) * this.layout.candleWidth) / 2,
+    );
+    W6 = new Array(L3.length);
+    V5 = [];
+    d9 = this;
+    z8 = 1;
+    I5 = h3
+      .filter((R4) => {
+        return !R4.disabled;
+      })
+      .slice();
+    I5.sort((L6, m$) => {
+      t$N.a3_();
+      return (m$.clusterPriority || 0) - (L6.clusterPriority || 0);
+    });
+    h7 = I5.length;
+    function a1(W2, T4, j$, D3, k1, H4, n$, n6, J_, B5) {
+      var B9,
+        V3,
+        M1,
+        d60,
+        Q6i,
+        z4,
+        d8,
+        V9,
+        w6,
+        E2,
+        U7,
+        r$,
+        i2,
+        H_,
+        p9,
+        v$,
+        i9,
+        X8,
+        j4,
+        G6,
+        N3,
+        X_,
+        X7,
+        R$,
+        a9,
+        T$,
+        h4,
+        W_,
+        l2,
+        i5,
+        H5,
+        A3;
+      if (!D3) {
+        D3 = 1;
+      }
+      t9.globalAlpha = D3;
+      t9.beginPath();
+      t$N.w6J(0);
+      B9 = t$N.Y51(L0, 0.5);
+      V3 = Math.floor(d9.pixelFromBar(0, j_.chart) - d9.layout.candleWidth / 2);
+      M1 = V3;
+      for (var g_ = 0; g_ < L3.length; g_++) {
+        d60 = "_per";
+        d60 += "io";
+        d60 += "d";
+        d60 += "ic_";
+        Q6i = "c";
+        Q6i += "lus";
+        Q6i += "tered";
+        z4 = 0;
+        d8 = V5[g_] || L0;
+        if (g_ === "0" >> 32) {
+          B9 = d8;
+        }
+        V9 = 0;
+        w6 = L3[g_];
+        E2 = d9.layout.candleWidth;
+        U7 = w6 && w6[W2] && w6[W2]._periodic_end;
+        t$N.w6J(35);
+        r$ = t$N.B$D(U7, null);
+        i2 = r$ ? (U7 + 1) * E2 : 0;
+        if (r$) {
+          if (!g_) {
+            H_ = w6.tick;
+            p9 = d9.chart.dataSet;
+            while (H_ >= 0) {
+              t$N.C2v(10);
+              v$ = p9[t$N.Y51(1, H_)];
+              if (!v$ || !v$[W2] || !v$[W2]._periodic_end) break;
+              V9 += E2;
+              H_--;
+            }
+            i2 += V9;
+            M1 -= V9;
+          }
+        }
+        g_ += U7 || 0;
+        d8 = V5[g_] || L0;
+        i9 = y7.ChartEngine.getQuoteFieldValue(w6, W2, T4);
+        if (i9 === null) {
+          B9 = d8;
+          M1 += i2 || E2;
+          continue;
+        }
+        if ((Z0 || a8.fillGaps === "stretch") && y$ !== Q6i) {
+          while (L3[g_ + 1]) {
+            t$N.C2v(0);
+            X8 = L3[t$N.Y51(g_, 1)];
+            if (W2) {
+              X8 = X8[W2];
+            }
+            if (!X8) break;
+            if (L3[g_ + 1].futureTick || X8.Close || X8.Close === "0" * 1) {
+              break;
+            }
+            z4++;
+            g_++;
+          }
+          d8 = V5[g_] || L0;
+        }
+        t$N.w6J(12);
+        j4 = t$N.B$D(d$, s5, i9);
+        if (w6.candleWidth || w6.lineTravel != null) {
+          E2 = w6.candleWidth || w6.lineTravel;
+          if (w6.lineTravel != null && g_ === L3.length - 1) {
+            E2 = L3[g_ - 2].lineTravel;
+          }
+          if (g_ === 0) {
+            V3 = M1 = Math.floor(d9.pixelFromBar(0, j_.chart) - E2 / 2);
+          }
+        }
+        if (isNaN(j4)) {
+          B9 = d8;
+          M1 += E2;
+          continue;
+        }
+        G6 = Math.floor(d8 - j4) + 0.5;
+        if (G6 > d8 && !I3) {
+          G6 = d8;
+        }
+        t$N.w6J(0);
+        N3 = (typeof w6[W2] == "object" ? w6[W2] : w6)[
+          t$N.Y51(r$ ? "_periodic_" : "", "Close")
+        ];
+        t$N.w6J(0);
+        X_ = (typeof w6[W2] == "object" ? w6[W2] : w6)[
+          t$N.B$D(r$ ? d60 : "", "iqPrevClose")
+        ];
+        if (
+          (B5 && B5.indexOf(g_) == -1) ||
+          (!B5 && ((H4 && N3 < X_) || (!H4 && N3 >= X_)))
+        ) {
+          B9 = G6;
+          M1 += i2 || E2 + d9.layout.candleWidth * z4;
+          continue;
+        }
+        X7 = E2 / d9.layout.candleWidth;
+        if (i2) {
+          t$N.C2v(10);
+          var a0Q = t$N.Y51(26, 28);
+          Q1 = i2 * (("1" - 0 - a8.widthFactor) / a0Q);
+        }
+        R$ = i2 || E2 * X7;
+        a9 = a8.colMargin >= 1 ? a8.colMargin : (a8.colMargin || 0) * R$;
+        t$N.w6J(36);
+        T$ = t$N.Y51(n6, a9, "1");
+        J_ = h4 =
+          a8.subtype === "clustered" ? (R$ - Q1 * 2 - T$) / n6 : R$ - Q1 * 2;
+        W_ = !n$;
+        t$N.w6J(0);
+        l2 = t$N.Y51(M1, Q1);
+        if (a8.subtype === "clustered") {
+          t$N.C2v(37);
+          l2 += t$N.B$D(W_ ? +"0" : a9 + J_, X7, n$);
+        }
+        i5 = Math.round(l2) + (k1 ? 0 : q2);
+        H5 = Math.round(l2 + h4) - (k1 ? 0 : q2);
+        if (H5 - i5 < 2) {
+          t$N.w6J(0);
+          H5 = t$N.B$D(i5, 1);
+        }
+        A3 = k1 ? 0 : 0.5;
+        if (i5 % 1 == A3) {
+          i5 += 0.5;
+        }
+        if (H5 % 1 == A3) {
+          H5 += 0.5;
+        }
+        t$N.w6J(3);
+        H5 += t$N.B$D(J_, z4);
+        t9.moveTo(H5, d8);
+        if (L0 != d8 && k1 && !Q1 && V5[g_ + 1]) {
+          t9.moveTo(H5, Math.max(G6, Math.min(d8, V5[g_ + 1])));
+        }
+        t9.lineTo(H5, G6);
+        t9.lineTo(i5, G6);
+        if (k1 && n$) {
+          if (W6[g_] > G6 || g_ === 0) {
+            t9.lineTo(i5, Math.min(d8, W6[g_]));
+          }
+        } else if (k1 && !Q1 && y$ == "clustered") {
+          if (g_ > 0 && W6[g_ - 1] && W6[g_ - 1] > G6) {
+            t9.lineTo(i5, Math.min(d8, W6[g_ - 1]));
+          }
+        } else if (k1 && !Q1) {
+          if (B9 > G6 || g_ === 0) {
+            t9.lineTo(i5, Math.min(d8, B9));
+          }
+        } else {
+          t9.lineTo(i5, d8);
+        }
+        B9 = G6;
+        M1 += i2 || E2 + d9.layout.candleWidth * z4;
+        if (y$ != "clustered" || k1) {
+          W6[g_] = G6;
+        }
+        for (var T5 = 0; T5 < z4; T5++) {
+          t$N.C2v(10);
+          W6[t$N.Y51(T5, g_)] = W6[g_];
+        }
+      }
+      if (k1) {
+        t9.strokeStyle = !j$ || j$ == "auto" ? d9.defaultColor : j$;
+        t9.stroke();
+      } else {
+        t9.fillStyle = !j$ || j$ == "auto" ? d9.defaultColor : j$;
+        t9.fill();
+      }
+      t9.closePath();
+    }
+    for (D7 = 0; D7 < h7; D7++) {
+      Q4 = I5[D7];
+      z8 = this.layout.candleWidth * a8.widthFactor;
+      if (Q1) {
+        if (this.layout.candleWidth - z8 <= +"2") {
+          w2 = !{};
+        }
+      }
+      f4 = 0;
+      if (y$ == "clustered") {
+        f4 = D7;
+        z8 /= h7;
+      }
+      v3 = Q4.subField || this.chart.defaultPlotField || "Close";
+      if (typeof Q4.color_function == "function") {
+        u7 = {};
+        for (var Q_ = 0; Q_ < L3.length; Q_++) {
+          if (L3[Q_]) {
+            S2 = Q4.color_function(L3[Q_]);
+            if (typeof S2 == "string") {
+              S2 = { fill_color: S2, border_color: S2 };
+            }
+            if (!S2.hasOwnProperty("border_opacity")) {
+              S2.border_opacity = S2.opacity;
+            }
+            P5 = S2.fill_color + "," + S2.border_color;
+            if (P5 in u7) {
+              u7[P5].positions.push(Q_);
+            } else {
+              S2.positions = [Q_];
+              u7[P5] = S2;
+            }
+          }
+        }
+        for (P5 in u7) {
+          S2 = u7[P5];
+          a1(
+            Q4.field,
+            v3,
+            S2.fill_color,
+            S2.opacity,
+            null,
+            null,
+            f4,
+            h7,
+            z8,
+            S2.positions,
+          );
+          a1(
+            Q4.field,
+            v3,
+            S2.border_color,
+            S2.border_opacity,
+            !!{},
+            null,
+            f4,
+            h7,
+            z8,
+            S2.positions,
+          );
+        }
+      } else {
+        a1(Q4.field, v3, Q4.fill_color_up, O2, null, !!{}, f4, h7, z8);
+        a1(Q4.field, v3, Q4.fill_color_down, l7, null, null, f4, h7, z8);
+        if (this.layout.candleWidth >= 2 && w2) {
+          a1(Q4.field, v3, Q4.border_color_up, O2, !!1, !0, f4, h7, z8);
+          a1(Q4.field, v3, Q4.border_color_down, l7, !!1, null, f4, h7, z8);
+        }
+      }
+      if (y$ == "stacked") {
+        V5 = y7.shallowClone(W6);
+      }
+    }
+    t9.globalAlpha = 1;
+    this.endClip();
+  };
+  y7.ChartEngine.prototype.scatter = function (D8, n8) {
+    var l3,
+      U1,
+      h6,
+      Y$,
+      d7,
+      d2,
+      Q2,
+      E1,
+      z6,
+      K7,
+      j8,
+      I6,
+      X2,
+      t7,
+      s2,
+      L4,
+      I0,
+      x5,
+      Z3,
+      k6;
+    l3 = D8.chart;
+    U1 = l3.dataSegment;
+    h6 = new Array(U1.length);
+    Y$ = this.chart.context;
+    this.canvasColor("stx_scatter_chart");
+    if (!n8) {
+      n8 = {};
+    }
+    d7 = n8.field || l3.defaultPlotField;
+    d2 = n8.yAxis || D8.yAxis;
+    Q2 = n8.subField || l3.defaultPlotField || "Close";
+    this.startClip(D8.name);
+    Y$.beginPath();
+    Y$.lineWidth = n8.lineWidth || 4;
+    if (n8.highlight) {
+      Y$.lineWidth *= +"2";
+    }
+    if (!n8.highlight && this.highlightedDraggable) {
+      Y$.globalAlpha *= +"0.3";
+    }
+    if (n8.color) {
+      Y$.strokeStyle = n8.color;
+    }
+    E1 = d2.top;
+    z6 = d2.bottom;
+    K7 = this.layout.candleWidth;
+    t$N.w6J(20);
+    var Q1$ = t$N.B$D(19, 20, 0);
+    t$N.w6J(38);
+    var C8k = t$N.Y51(4, 899, 15, 15);
+    j8 = D8.left - "0.5" * Q1$ * K7 + this.micropixels - C8k;
+    var { tickFilter: g0 } = n8;
+    for (var q6 = 0; q6 <= U1.length; q6++) {
+      t$N.w6J(11);
+      j8 += t$N.Y51(2, K7);
+      K7 = this.layout.candleWidth;
+      t$N.C2v(11);
+      j8 += t$N.Y51(2, K7);
+      I6 = U1[q6];
+      if (!I6) continue;
+      if (I6.candleWidth) {
+        t$N.w6J(39);
+        var y0H = t$N.B$D(19, 7, 10);
+        j8 += (I6.candleWidth - K7) / y0H;
+        K7 = I6.candleWidth;
+      }
+      if (g0) {
+        if (g0.length === 0) break;
+        if (!g0.has(I6.tick)) continue;
+        g0.delete(I6.tick);
+      }
+      if (!I6.projection) {
+        X2 = this.getTransformFunction(d2);
+        t7 = this.getTransformedQuote(I6, d2);
+        if (X2 && t7) {
+          I6 = t7;
+        }
+        s2 = I6[d7];
+        if (s2 && s2[Q2] !== undefined) {
+          s2 = s2[Q2];
+        }
+        if (!(s2 instanceof Array)) {
+          s2 = [s2];
+        }
+        if ("Scatter" in I6) {
+          s2 = I6.Scatter;
+        }
+        for (var X0 = "0" ^ 0; X0 < s2.length; X0++) {
+          if (!s2[X0] && s2[X0] !== 0) continue;
+          L4 = s2[X0];
+          I0 = 0;
+          if (s2[X0] instanceof Array) {
+            L4 = s2[X0][0];
+            I0 = s2[X0][2];
+          }
+          x5 = d2.semiLog
+            ? d2.height *
+              (1 -
+                (Math.log(Math.max(L4, 0)) / Math.LN10 - d2.logLow) /
+                  d2.logShadow)
+            : (d2.high - L4) * d2.multiplier;
+          if (d2.flipped) {
+            t$N.C2v(10);
+            x5 = t$N.Y51(x5, z6);
+          } else {
+            x5 += E1;
+          }
+          if (x5 < E1) continue;
+          if (x5 > z6) continue;
+          Z3 = n8.lineWidth / 2 || +"2";
+          if (n8.highlight) {
+            Z3 *= 2;
+          }
+          if (I0) {
+            t$N.C2v(3);
+            Z3 = t$N.Y51(K7, I0);
+          }
+          t$N.C2v(10);
+          Y$.moveTo(t$N.Y51(Z3, j8), x5);
+          t$N.C2v(0);
+          Y$.lineTo(t$N.Y51(j8, Z3), x5);
+          h6[q6] = x5;
+        }
+      }
+    }
+    Y$.stroke();
+    Y$.closePath();
+    k6 = { colors: [Y$.strokeStyle], cache: h6 };
+    this.endClip();
+    Y$.lineWidth = 1;
+    return k6;
+  };
+};
+B2 = (C3) => {
+  var E1e,
+    m9C,
+    G0E,
+    c2a,
+    l3v,
+    r_w,
+    j1C,
+    l4U,
+    u6G,
+    M7N,
+    H5i,
+    I35,
+    y8L,
+    M8r,
+    P9Y,
+    j4K,
+    p6N,
+    p70,
+    b0T,
+    M22,
+    z7A,
+    K8J,
+    s9U,
+    l2A,
+    t$,
+    N0;
+  E1e = "patt";
+  E1e += "ern";
+  m9C = "fil";
+  m9C += "lColor";
+  G0E = "co";
+  G0E += "lor";
+  c2a = "lin";
+  c2a += "eWid";
+  c2a += "th";
+  l3v = "pa";
+  l3v += "tt";
+  l3v += "e";
+  l3v += "rn";
+  r_w = "lineWid";
+  r_w += "th";
+  j1C = "f";
+  j1C += "o";
+  j1C += "n";
+  j1C += "t";
+  l4U = "a";
+  l4U += "u";
+  l4U += "t";
+  l4U += "o";
+  u6G = "s";
+  u6G += "o";
+  u6G += "l";
+  u6G += "id";
+  M7N = "a";
+  M7N += "u";
+  M7N += "to";
+  H5i = "a";
+  H5i += "u";
+  H5i += "t";
+  H5i += "o";
+  I35 = "so";
+  I35 += "lid";
+  y8L = "s";
+  y8L += "olid";
+  M8r = "s";
+  M8r += "o";
+  M8r += "l";
+  M8r += "id";
+  P9Y = "au";
+  P9Y += "to";
+  j4K = "s";
+  j4K += "o";
+  j4K += "l";
+  j4K += "id";
+  p6N = "a";
+  p6N += "u";
+  p6N += "t";
+  p6N += "o";
+  p70 = "s";
+  p70 += "o";
+  p70 += "lid";
+  b0T = "s";
+  b0T += "o";
+  b0T += "li";
+  b0T += "d";
+  M22 = "a";
+  M22 += "u";
+  M22 += "to";
+  z7A = "so";
+  z7A += "l";
+  z7A += "id";
+  K8J = "s";
+  K8J += "o";
+  K8J += "lid";
+  s9U = "a";
+  s9U += "uto";
+  l2A = "a";
+  l2A += "uto";
+  t$ = typeof _CIQ !== "undefined" ? _CIQ : C3.CIQ;
+  N0 = typeof _timezoneJS !== "undefined" ? _timezoneJS : C3.timezoneJS;
+  t$.ChartEngine.drawingTools = {};
+  t$.ChartEngine.currentVectorParameters = {
+    vectorType: null,
+    pattern: "solid",
+    lineWidth: 1,
+    fillColor: "#7DA6F5",
+    currentColor: l2A,
+    axisLabel: !0,
+    showCallout: !!0,
+    alwaysMagnetize: !"1",
+    spanPanels: !"1",
+    fibonacci: {
+      trend: {
+        color: s9U,
+        parameters: { pattern: "solid", opacity: "0.25" - 0, lineWidth: 1 },
+      },
+      fibs: [
+        {
+          level: -0.786,
+          color: "auto",
+          parameters: { pattern: K8J, opacity: 0.25, lineWidth: +"1" },
+        },
+        {
+          level: -0.618,
+          color: "auto",
+          parameters: { pattern: "solid", opacity: 0.25, lineWidth: 1 },
+          display: !!{},
+        },
+        {
+          level: -0.5,
+          color: "auto",
+          parameters: { pattern: z7A, opacity: 0.25, lineWidth: 1 },
+        },
+        {
+          level: -("0.382" - 0),
+          color: M22,
+          parameters: { pattern: b0T, opacity: 0.25, lineWidth: 1 },
+          display: !![],
+        },
+        {
+          level: -0.236,
+          color: "auto",
+          parameters: { pattern: p70, opacity: +"0.25", lineWidth: 1 },
+        },
+        {
+          level: 0,
+          color: p6N,
+          parameters: { pattern: j4K, lineWidth: 1 },
+          display: !![],
+        },
+        {
+          level: 0.236,
+          color: P9Y,
+          parameters: { pattern: M8r, opacity: 0.25, lineWidth: 1 },
+        },
+        {
+          level: 0.382,
+          color: "auto",
+          parameters: { pattern: "solid", opacity: "0.25" * 1, lineWidth: 1 },
+          display: !0,
+        },
+        {
+          level: 0.5,
+          color: "auto",
+          parameters: { pattern: y8L, opacity: 0.25, lineWidth: 1 },
+          display: !!{},
+        },
+        {
+          level: 0.618,
+          color: "auto",
+          parameters: { pattern: "solid", opacity: 0.25, lineWidth: +"1" },
+          display: !!"1",
+        },
+        {
+          level: +"0.786",
+          color: "auto",
+          parameters: { pattern: I35, opacity: 0.25, lineWidth: 1 },
+        },
+        {
+          level: 1,
+          color: "auto",
+          parameters: { pattern: "solid", lineWidth: "1" - 0 },
+          display: !0,
+        },
+        {
+          level: 1.272,
+          color: H5i,
+          parameters: { pattern: "solid", opacity: 0.25, lineWidth: 1 },
+        },
+        {
+          level: 1.382,
+          color: M7N,
+          parameters: { pattern: "solid", opacity: 0.25, lineWidth: 1 },
+          display: !!{},
+        },
+        {
+          level: 1.618,
+          color: "auto",
+          parameters: { pattern: u6G, opacity: 0.25, lineWidth: 1 },
+          display: !!1,
+        },
+        {
+          level: 2.618,
+          color: "auto",
+          parameters: {
+            pattern: "solid",
+            opacity: +"0.25",
+            lineWidth: "1" << 32,
+          },
+        },
+        {
+          level: 4.236,
+          color: l4U,
+          parameters: { pattern: "solid", opacity: 0.25, lineWidth: 1 },
+        },
+      ],
+      extendLeft: !{},
+      printLevels: !"",
+      printValues: ![],
+      timezone: {
+        color: "auto",
+        parameters: { pattern: "solid", opacity: "0.25" - 0, lineWidth: 1 },
+      },
+    },
+    volumeProfile: { priceBuckets: +"30" },
+    annotation: {
+      font: { style: null, size: null, weight: null, family: null },
+    },
+    measurementline: {
+      calloutOnHover: !!0,
+      displayGroups: {
+        bars: !0,
+        delta: !!{},
+        annpercent: ![],
+        totreturn: ![],
+        volume: !!"",
+        studies: !"1",
+      },
+    },
+  };
+  t$.ChartEngine.registerDrawingTool = function (J0, J8) {
+    U6BfN.s8u();
+    t$.ChartEngine.drawingTools[J0] = J8;
+  };
+  t$.ChartEngine.completeDrawing = function (n0) {
+    var v$_, G_, Y57;
+    v$_ = "draw";
+    v$_ += "ingCom";
+    v$_ += "plete";
+    if (!n0 || !n0.activeDrawing) {
+      return;
+    }
+    G_ = n0.activeDrawing;
+    if (!n0.keepDrawingToolSelected) {
+      if (n0.drawingContainer && n0.drawingContainer.tool) {
+        Y57 = "n";
+        Y57 += "o";
+        Y57 += "tool";
+        n0.drawingContainer.tool({ node: null }, Y57);
+      } else {
+        n0.changeVectorType("");
+      }
+    }
+    n0.dispatch(v$_, { stx: n0, drawing: G_ });
+  };
+  t$.ChartEngine.prototype.keepDrawingToolSelected = !!0;
+  t$.ChartEngine.prototype.setDrawingContainer = function (Q8) {
+    U6BfN.a3_();
+    this.drawingContainer = Q8;
+  };
+  t$.ChartEngine.prototype.exportDrawings = function () {
+    var z1;
+    z1 = [];
+    for (var D_ = 0; D_ < this.drawingObjects.length; D_++) {
+      z1.push(this.drawingObjects[D_].serialize());
+    }
+    return z1;
+  };
+  t$.ChartEngine.prototype.abortDrawings = function (f$) {
+    var e_;
+    if (f$ !== !!"") {
+      f$ = !!1;
+    }
+    U6BfN.a3_();
+    for (var v6 = this.drawingObjects.length - 1; v6 >= 0; v6--) {
+      e_ = this.drawingObjects[v6];
+      e_.abort(!0);
+      if (f$ || !e_.permanent) {
+        this.drawingObjects.splice(v6, 1);
+      }
+    }
+  };
+  t$.ChartEngine.prototype.importDrawings = function (Z4) {
+    var B7, C2, q5;
+    if (!t$.Drawing) {
+      return;
+    }
+    for (var f0 = 0; f0 < Z4.length; f0++) {
+      B7 = Z4[f0];
+      if (B7.name == "fibonacci") {
+        B7.name = "retracement";
+      }
+      C2 = t$.ChartEngine.drawingTools[B7.name];
+      if (!C2) {
+        if (t$.Drawing[B7.name]) {
+          C2 = t$.Drawing[B7.name];
+          t$.ChartEngine.registerDrawingTool(B7.name, C2);
+        }
+      }
+      if (C2) {
+        q5 = new C2();
+        q5.reconstruct(this, B7);
+        this.drawingObjects.push(q5);
+      }
+    }
+  };
+  t$.ChartEngine.prototype.clearDrawings = function (s7, W3) {
+    var b1, B3, j95, G_0;
+    if (W3 !== ![]) {
+      W3 = !!{};
+    }
+    b1 = this.exportDrawings();
+    this.abortDrawings(W3);
+    if (s7) {
+      this.undoStamps = [];
+    } else {
+      this.undoStamp(b1, this.exportDrawings());
+    }
+    this.changeOccurred("vector");
+    this.cancelTouchSingleClick = !!1;
+    U6BfN.a3_();
+    t$.clearCanvas(this.chart.tempCanvas, this);
+    this.draw();
+    B3 = this.controls.mSticky;
+    if (B3) {
+      j95 = ".mStick";
+      j95 += "yI";
+      j95 += "nterior";
+      G_0 = "no";
+      G_0 += "ne";
+      B3.style.display = G_0;
+      B3.querySelector(j95).innerHTML = "";
+    }
+  };
+  t$.ChartEngine.prototype.createDrawing = function (q3, r4) {
+    var y4, u3;
+    if (!t$.Drawing) {
+      return;
+    }
+    y4 = new t$.Drawing[q3]();
+    y4.reconstruct(this, r4);
+    u3 = new t$.Drawing[q3]();
+    u3.stx = this;
+    u3.copyConfig();
+    for (var G3 in u3) {
+      y4[G3] = y4[G3] || u3[G3];
+    }
+    U6BfN.s8u();
+    this.drawingObjects.push(y4);
+    this.draw();
+    return y4;
+  };
+  t$.ChartEngine.prototype.removeDrawing = function (b4) {
+    for (var x6 = 0; x6 < this.drawingObjects.length; x6++) {
+      if (this.drawingObjects[x6] == b4) {
+        this.drawingObjects.splice(x6, +"1");
+        this.changeOccurred("vector");
+        this.draw();
+        return;
+      }
+    }
+  };
+  t$.ChartEngine.prototype.undo = function () {
+    var f$H;
+    if (this.runPrepend("undo", arguments)) {
+      return;
+    }
+    U6BfN.a3_();
+    if (this.activeDrawing) {
+      f$H = "s";
+      f$H += "tx_cro";
+      f$H += "ss";
+      f$H += "hair_drawing";
+      this.editingAnnotation = !{};
+      this.activeDrawing.abort();
+      this.activeDrawing.hidden = !1;
+      this.drawingSnapshot = null;
+      this.activateDrawing(null);
+      t$.clearCanvas(this.chart.tempCanvas, this);
+      this.draw();
+      this.controls.crossX.classList.replace(f$H, "stx_crosshair");
+      this.controls.crossY.classList.replace(
+        "stx_crosshair_drawing",
+        "stx_crosshair",
+      );
+      t$.ChartEngine.drawingLine = !"1";
+      this.cancelTouchSingleClick = !0;
+    }
+    this.runAppend("undo", arguments);
+  };
+  t$.ChartEngine.prototype.undoStamp = function (F9, N6) {
+    U6BfN.s8u();
+    this.undoStamps.push(F9);
+    this.dispatch("undoStamp", { before: F9, after: N6, stx: this });
+  };
+  t$.ChartEngine.prototype.undoLast = function () {
+    U6BfN.a3_();
+    var H1a;
+    if (this.activeDrawing) {
+      this.undo();
+    } else {
+      if (this.undoStamps.length) {
+        H1a = "ve";
+        H1a += "ct";
+        H1a += "or";
+        this.drawingObjects = [];
+        this.importDrawings(this.undoStamps.pop());
+        this.changeOccurred(H1a);
+        this.draw();
+      }
+    }
+  };
+  t$.ChartEngine.prototype.addDrawing = function (P4) {
+    var O0;
+    O0 = this.exportDrawings();
+    this.drawingObjects.push(P4);
+    U6BfN.s8u();
+    this.undoStamp(O0, this.exportDrawings());
+  };
+  t$.ChartEngine.prototype.repositionDrawing = function (U3, C7) {
+    var w$O = U6BfN;
+    var q_, e6, u$, A45, T1s, T2o;
+    if (this.currentPanel.name != U3.panelName && !U3.spanPanels) {
+      return;
+    }
+    q_ = this.panels[U3.panelName];
+    e6 = this.adjustIfNecessary(
+      q_,
+      this.crosshairTick,
+      U3.valueFromPixel(
+        this.backOutY(t$.ChartEngine.crosshairY),
+        q_,
+        this.getYAxisByField(q_, U3.field),
+      ),
+    );
+    u$ = this.chart.tempCanvas;
+    t$.clearCanvas(u$, this);
+    this.startClip(q_.name);
+    if (C7) {
+      w$O.C2v(6);
+      A45 = -w$O.Y51("956076129", 0);
+      T1s = -1991962140;
+      T2o = 2;
+      for (
+        var r_d = 1;
+        w$O.C6S(r_d.toString(), r_d.toString().length, 33025) !== A45;
+        r_d++
+      ) {
+        this.drawingSnapshot = this.exportDrawings();
+        T2o += 2;
+      }
+      if (w$O.D9u(T2o.toString(), T2o.toString().length, 552) !== T1s) {
+        this.drawingSnapshot = this.exportDrawings();
+      }
+      this.drawingSnapshot = this.exportDrawings();
+      if (U3.spanPanels) {
+        U3.originPanelName = U3.panelName;
+        Object.values(this.panels).forEach((a3) => {
+          w$O.s8u();
+          U3.panelName = a3.name;
+          U3.render(u$.context);
+        });
+        U3.panelName = U3.originPanelName;
+      } else {
+        U3.render(u$.context);
+      }
+    } else {
+      U3.reposition(u$.context, U3.repositioner, this.crosshairTick, e6);
+      if (this.drawingSnapshot) {
+        this.undoStamp(
+          t$.shallowClone(this.drawingSnapshot),
+          this.exportDrawings(),
+        );
+      }
+      this.drawingSnapshot = null;
+    }
+    if (this.editingDrawing) {
+      this.editingDrawing.render(u$.context);
+    }
+    this.endClip();
+    if (U3.measure) {
+      U3.measure();
+    }
+  };
+  t$.ChartEngine.prototype.activateRepositioning = function (r1) {
+    var d4;
+    d4 = this.repositioningDrawing = r1;
+    if (r1) {
+      this.draw();
+      this.repositionDrawing(r1, !!1);
+    }
+    this.chart.tempCanvas.style.display = r1 ? "block" : "none";
+  };
+  t$.ChartEngine.prototype.activateDrawing = function (Q$, w$) {
+    var p2;
+    if (!w$) {
+      w$ = this.currentPanel;
+    }
+    this.drawingSnapshot = null;
+    if (!Q$) {
+      this.activeDrawing = null;
+      this.chart.tempCanvas.style.display = "none";
+      A8(this);
+      return !1;
+    }
+    U6BfN.s8u();
+    p2 = t$.ChartEngine.drawingTools[Q$];
+    if (!p2) {
+      if (t$.Drawing[Q$]) {
+        p2 = t$.Drawing[Q$];
+        t$.ChartEngine.registerDrawingTool(Q$, p2);
+      }
+    }
+    if (p2) {
+      this.activeDrawing = new p2();
+      this.activeDrawing.construct(this, w$);
+      if (!this.charts[w$.name]) {
+        if (this.activeDrawing.chartsOnly) {
+          this.activeDrawing = null;
+          A8(this);
+          return !!0;
+        }
+      }
+    }
+    function A8(c6) {
+      U6BfN.a3_();
+      var I8;
+      if (!w$ || !c6.layout.studies) {
+        return;
+      }
+      I8 = c6.layout.studies[w$.name];
+      if (I8 && !I8.overlay) {
+        delete c6.overlays[I8.name];
+      }
+    }
+    this.chart.tempCanvas.style.display = "block";
+    if (this.controls.drawOk) {
+      this.controls.drawOk.style.display = "none";
+    }
+    A8(this);
+    return !!1;
+  };
+  t$.ChartEngine.prototype.drawingClick = function (Q9, k3, F1) {
+    var O6, E7, v_, l8, e0, D1, h6i, T1O, t83;
+    if (!t$.Drawing) {
+      return;
+    }
+    if (!Q9) {
+      return;
+    }
+    if (this.openDialog) {
+      return;
+    }
+    if (this.editingDrawing) {
+      return;
+    }
+    if (!this.activeDrawing) {
+      if (!this.activateDrawing(this.currentVectorParameters.vectorType, Q9)) {
+        return;
+      }
+    }
+    if (this.activeDrawing) {
+      if (this.userPointerDown && !this.activeDrawing.dragToDraw) {
+        if (!t$.ChartEngine.drawingLine) {
+          this.activateDrawing(null);
+        }
+        return;
+      } else if (!this.activeDrawing.p0) {
+        O6 = this.highlightedDataSetField;
+        if (
+          this.magnetizedPrice !== null &&
+          (Q9 !== this.chart.panel ||
+            ["Open", "High", "Low", "Close"].indexOf(this.magneticHold) < 0)
+        ) {
+          O6 = t$.getObjectChainRoot(this.magneticHold);
+        }
+        if (!O6 && Q9 != this.chart.panel) {
+          for (var k$ in this.chart.seriesRenderers) {
+            E7 = this.chart.seriesRenderers[k$];
+            if (E7.params.panel == Q9.name) {
+              O6 = E7.seriesParams[0].field;
+              break;
+            }
+          }
+          for (var H1 in this.layout.studies) {
+            v_ = this.layout.studies[H1];
+            if (v_.panel == Q9.name) {
+              O6 = Object.keys(v_.outputMap)[+"0"];
+              break;
+            }
+          }
+        }
+        this.activeDrawing.field = O6;
+      } else if (this.activeDrawing.moving) {
+        k3 = this.crosshairX - this.left;
+        F1 = this.crosshairY - this.top;
+      }
+      l8 = this.tickFromPixel(k3, Q9.chart);
+      e0 = this.panels[this.activeDrawing.panelName];
+      if (this.magnetizedPrice || this.magnetizedPrice === 0) {
+        D1 = this.adjustIfNecessary(e0, l8, this.magnetizedPrice);
+      } else {
+        D1 = this.adjustIfNecessary(
+          e0,
+          l8,
+          this.activeDrawing.valueFromPixel(
+            F1,
+            e0,
+            this.getYAxisByField(e0, this.activeDrawing.field),
+          ),
+        );
+      }
+      if (this.activeDrawing.click(this.chart.tempCanvas.context, l8, D1)) {
+        if (this.activeDrawing) {
+          h6i = "stx_c";
+          h6i += "rosshair";
+          h6i += "_drawing";
+          t$.ChartEngine.drawingLine = !{};
+          t$.clearCanvas(this.chart.tempCanvas, this);
+          this.addDrawing(this.activeDrawing);
+          t$.ChartEngine.completeDrawing(this);
+          this.activateDrawing(null);
+          this.adjustDrawings();
+          this.draw();
+          this.changeOccurred("vector");
+          this.controls.crossX.classList.replace(
+            "stx_crosshair_drawing",
+            "stx_crosshair",
+          );
+          this.controls.crossY.classList.replace(h6i, "stx_crosshair");
+        }
+      } else {
+        T1O = "stx";
+        T1O += "_";
+        T1O += "crosshai";
+        T1O += "r";
+        t83 = "stx_crossha";
+        t83 += "ir";
+        this.changeOccurred("drawing");
+        t$.ChartEngine.drawingLine = !!{};
+        this.controls.crossX.classList.replace(t83, "stx_crosshair_drawing");
+        this.controls.crossY.classList.replace(T1O, "stx_crosshair_drawing");
+      }
+      return !![];
+    }
+    return !"1";
+  };
+  t$.ChartEngine.prototype.rightClickDrawing = function (H3, w_, O3) {
+    var S2h = U6BfN;
+    S2h.a3_();
+    var a7X, q$n, J96, V3m, C1, M8;
+    if (this.runPrepend("rightClickDrawing", arguments)) {
+      return;
+    }
+    if (H3.permanent) {
+      return;
+    }
+    if (this.callbackListeners.drawingEdit.length) {
+      a7X = 225883434;
+      q$n = 1366167135;
+      J96 = 2;
+      for (
+        var G98 = 1;
+        S2h.C6S(G98.toString(), G98.toString().length, 69166) !== a7X;
+        G98++
+      ) {
+        this.dispatch("drawingEdit", {
+          stx: this,
+          drawing: H3,
+          forceEdit: w_,
+          forceText: O3,
+        });
+        S2h.C2v(21);
+        J96 += S2h.B$D(32, "2");
+      }
+      if (S2h.C6S(J96.toString(), J96.toString().length, "80656" | 0) !== q$n) {
+        this.dispatch("", {
+          stx: this,
+          drawing: H3,
+          forceEdit: w_,
+          forceText: O3,
+        });
+      }
+    } else {
+      V3m = "vec";
+      V3m += "t";
+      V3m += "or";
+      C1 = H3.abort();
+      if (!C1) {
+        M8 = this.exportDrawings();
+        this.removeDrawing(H3);
+        this.undoStamp(M8, this.exportDrawings());
+      }
+      this.changeOccurred(V3m);
+    }
+    this.runAppend("rightClickDrawing", arguments);
+  };
+  t$.ChartEngine.prototype.magnetize = function () {
+    var D$k,
+      U8r,
+      q72,
+      w9F,
+      T_d,
+      x3,
+      r9,
+      h$,
+      U0,
+      h0,
+      G7,
+      a4,
+      V4,
+      m5,
+      S4,
+      O9,
+      i2g,
+      U2,
+      K5,
+      b_,
+      k5,
+      V7,
+      K1,
+      U6$,
+      P0,
+      c_,
+      G1b;
+    D$k = "m";
+    D$k += "agneti";
+    D$k += "z";
+    D$k += "e";
+    U8r = "blo";
+    U8r += "ck";
+    q72 = "Clo";
+    q72 += "se";
+    w9F = "H";
+    w9F += "i";
+    w9F += "gh";
+    T_d = "O";
+    T_d += "p";
+    T_d += "en";
+    x3 = this;
+    this.magnetizedPrice = null;
+    if (
+      !this.preferences.magnet &&
+      !this.currentVectorParameters.alwaysMagnetize
+    ) {
+      return;
+    }
+    if (this.runPrepend("magnetize", arguments)) {
+      return;
+    }
+    if (this.repositioningDrawing || this.editingDrawing) {
+      return;
+    }
+    r9 = this.currentVectorParameters.vectorType;
+    if (!r9 || r9 == "projection" || r9 == "freeform") {
+      return;
+    }
+    if ((r9 == "annotation" || r9 == "callout") && t$.ChartEngine.drawingLine) {
+      return;
+    }
+    h$ = this.activeDrawing
+      ? this.panels[this.activeDrawing.panelName]
+      : this.currentPanel;
+    U0 = h$.chart;
+    h0 = this.crosshairTick;
+    if (h0 > U0.dataSet.length) {
+      return;
+    }
+    G7 = U0.dataSet[h0];
+    if (!G7) {
+      return;
+    }
+    V4 = this.getRenderedItems();
+    m5 = [T_d, w9F, "Low", q72];
+    if (this.activeDrawing && this.activeDrawing.penDown) {
+      if (this.magneticHold) {
+        if (
+          m5.indexOf(this.magneticHold) != -("1" * 1) &&
+          V4.indexOf("High") != -1
+        ) {
+          V4 = m5;
+        } else {
+          V4 = [this.magneticHold];
+        }
+      } else {
+        return;
+      }
+    } else {
+      this.magneticHold = null;
+    }
+    S4 = +"1000000000";
+    O9 = parseFloat(this.preferences.magnet);
+    if (r9 == "measurementline") {
+      O9 = !{};
+    }
+    i2g = function () {
+      var m2G, c8o;
+      U2 = x3.getYAxisByField(h$, V4[E4]) || h$.yAxis;
+      K5 = x3.getTransformFunction(U2);
+      b_ = x3.getTransformedQuote(G7, U2);
+      if (K5 && b_) {
+        G7 = b_;
+      }
+      k5 = G7[V4[E4]];
+      V7 = t$.existsInObjectChain(G7, V4[E4]);
+      if (V7) {
+        k5 = V7.obj[V7.member];
+      }
+      if (k5 || k5 === 0) {
+        K1 = x3.pixelFromTransformedValue(k5, h$, U2);
+        if (Math.abs(x3.cy - K1) < S4) {
+          S4 = Math.abs(x3.cy - K1);
+          if (O9 && O9 <= S4) {
+            return 1;
+          }
+          x3.magnetizedPrice = k5;
+          if (K5) {
+            m2G = x3.getTransformFunction(U2, !!"1");
+            c8o = t$.getObjectChainRoot(V4[E4]);
+            if (m2G && U0.series[c8o]) {
+              x3.updateTransformFunction(
+                (B59, Z_X, U1j, Y1P) => {
+                  return m2G(B59, Z_X, U1j, Y1P, c8o);
+                },
+                U2,
+                !0,
+              );
+            }
+            x3.magnetizedPrice = x3.valueFromPixel(K1, h$);
+            x3.updateTransformFunction(m2G, U2, !0);
+          }
+          a4 = K1;
+          x3.magneticHold = V4[E4];
+        }
+      }
+    };
+    for (var E4 = 0; E4 < V4.length; E4++) {
+      if (i2g()) continue;
+    }
+    U6$ = this.pixelFromTick(h0, U0);
+    P0 = a4;
+    t$.clearCanvas(U0.tempCanvas, this);
+    c_ = U0.tempCanvas.context;
+    c_.beginPath();
+    c_.lineWidth = 1;
+    U6BfN.C2v(2);
+    var v7B = U6BfN.Y51(0, 8, 4);
+    G1b = Math.max(this.layout.candleWidth, v7B) / +"3";
+    c_.arc(U6$, P0, Math.min(G1b, 8), 0, 2 * Math.PI, ![]);
+    c_.fillStyle = "#398dff";
+    c_.strokeStyle = "#398dff";
+    c_.fill();
+    c_.stroke();
+    c_.closePath();
+    U0.tempCanvas.style.display = U8r;
+    if (this.anyHighlighted) {
+      this.container.classList.remove("stx-draggable");
+    }
+    if (this.activeDrawing) {
+      this.startClip(h$.name);
+      this.activeDrawing.move(
+        c_,
+        this.crosshairTick,
+        this.activeDrawing.valueFromPixel(
+          P0,
+          h$,
+          this.getYAxisByField(h$, this.activeDrawing.field),
+        ),
+      );
+      this.endClip();
+    }
+    this.runAppend(D$k, arguments);
+  };
+  t$.ChartEngine.prototype.changeVectorType = function (C$m) {
+    var O3E = U6BfN;
+    var X_E, U$Y, N55;
+    this.currentVectorParameters.vectorType = C$m;
+    O3E.a3_();
+    this.currentVectorParameters.alwaysMagnetize = !!0;
+    if (t$.Drawing) {
+      t$.Drawing.initializeSettings(this, C$m);
+    }
+    if (t$.ChartEngine.drawingLine) {
+      this.undo();
+    }
+    X_E =
+      this.uiContext && this.uiContext.topNode.multiChartContainer
+        ? this.uiContext.topNode.closest("cq-context-wrapper.active")
+        : !0;
+    if (
+      !this.container.classList.contains("stx-crosshair-cursor-on") &&
+      C$m &&
+      X_E
+    ) {
+      var { chart: U4R, left: y9u, top: T0Y } = this;
+      O3E.w6J(10);
+      var G4v = O3E.B$D(18, 20);
+      U$Y = U4R.width / G4v + y9u + U4R.left;
+      O3E.C2v(40);
+      var D$y = O3E.Y51(0, 13, 38, 247);
+      N55 = U4R.height / D$y + T0Y + U4R.top;
+      this.mousemoveinner(U$Y, N55);
+    }
+    this.doDisplayCrosshairs();
+  };
+  t$.ChartEngine.prototype.changeVectorParameter = function (x__, V1p) {
+    var Z4d, K70, E9D, x9U;
+    U6BfN.a3_();
+    Z4d = "u";
+    Z4d += "ndefined";
+    K70 = "axis";
+    K70 += "Lab";
+    K70 += "e";
+    K70 += "l";
+    if (x__ == K70) {
+      V1p = V1p.toString() === "true" || Number(V1p);
+    } else if (x__ == "lineWidth") {
+      V1p = Number(V1p);
+    } else if (x__ == "fontSize") {
+      V1p = parseInt(V1p, "10" - 0) + "px";
+    }
+    E9D = this.currentVectorParameters;
+    if (typeof E9D[x__] !== Z4d) {
+      E9D[x__] = V1p;
+      return !!{};
+    } else if (x__.substr("0" - 0, "4" - 0) == "font") {
+      x9U = "u";
+      x9U += "ndef";
+      x9U += "i";
+      x9U += "ned";
+      x__ = x__.substr("4" ^ 0).toLowerCase();
+      if (x__ == "family" && V1p.toLowerCase() == "default") {
+        V1p = null;
+      }
+      E9D = E9D.annotation.font;
+      if (typeof E9D[x__] !== x9U) {
+        E9D[x__] = V1p;
+        return !!{};
+      }
+    }
+    return !!0;
+  };
+  t$.ChartEngine.prototype.drawVectors = function () {
+    var h3o, p4I, U4s, s0L, x9F, q4R, Z0X, P22;
+    U6BfN.a3_();
+    if (this.vectorsShowing) {
+      return;
+    }
+    if (this.runPrepend("drawVectors", arguments)) {
+      return;
+    }
+    this.vectorsShowing = !0;
+    if (!this.chart.hideDrawings && !this.highlightedDraggable) {
+      h3o = {};
+      for (U4s = 0; U4s < this.drawingObjects.length; U4s++) {
+        s0L = this.drawingObjects[U4s];
+        if (s0L.hidden) continue;
+        if (this.repositioningDrawing === s0L && !this.editingDrawing) continue;
+        p4I = s0L.panelName;
+        if (!this.panels[s0L.panelName] || this.panels[s0L.panelName].hidden)
+          continue;
+        for (var U2_ in this.panels) {
+          if (!h3o[U2_]) {
+            h3o[U2_] = [];
+          }
+          if (s0L.spanPanels || U2_ == p4I) {
+            s0L.originPanelName = s0L.panelName;
+            h3o[U2_].push(s0L);
+          }
+        }
+      }
+      if (this.editingDrawing) {
+        x9F = "bloc";
+        x9F += "k";
+        q4R = this.chart.tempCanvas;
+        t$.clearCanvas(q4R, this);
+        q4R.style.display = x9F;
+      }
+      for (p4I in h3o) {
+        this.startClip(p4I);
+        Z0X = h3o[p4I];
+        for (U4s = 0; U4s < Z0X.length; U4s++) {
+          P22 =
+            Z0X[U4s] === this.editingDrawing
+              ? this.chart.tempCanvas.context
+              : this.chart.context;
+          if (Z0X[U4s].spanPanels) {
+            Z0X[U4s].panelName = p4I;
+            Z0X[U4s].render(P22);
+            Z0X[U4s].panelName = Z0X[U4s].originPanelName;
+          } else {
+            Z0X[U4s].render(P22);
+          }
+        }
+        this.endClip();
+      }
+    }
+    this.runAppend("drawVectors", arguments);
+  };
+  t$.ChartEngine.prototype.adjustDrawings = function () {
+    var K3a;
+    for (var A4E = 0; A4E < this.drawingObjects.length; A4E++) {
+      K3a = this.drawingObjects[A4E];
+      if (this.panels[K3a.panelName]) {
+        K3a.adjust();
+      }
+    }
+  };
+  t$.Drawing =
+    t$.Drawing ||
+    function () {
+      this.chartsOnly = !{};
+      U6BfN.a3_();
+      this.penDown = !!"";
+    };
+  t$.Drawing.getDrawingParameters = function (I_K, O7x) {
+    var e0u, Z82, r6X, T$R;
+    U6BfN.a3_();
+    try {
+      e0u = new t$.Drawing[O7x]();
+    } catch (C2U) {}
+    if (!e0u) {
+      return null;
+    }
+    e0u.stx = I_K;
+    e0u.copyConfig(!!{});
+    Z82 = {};
+    r6X = e0u.configs;
+    for (var Z95 = 0; Z95 < r6X.length; Z95++) {
+      Z82[r6X[Z95]] = e0u[r6X[Z95]];
+    }
+    T$R = I_K.canvasStyle("stx_annotation");
+    if (T$R && Z82.font) {
+      Z82.font.size = T$R.fontSize;
+      Z82.font.family = T$R.fontFamily;
+      Z82.font.style = T$R.fontStyle;
+      Z82.font.weight = T$R.fontWeight;
+    }
+    return Z82;
+  };
+  t$.Drawing.saveConfig = function (k0y, x8W) {
+    var K3w, D1x;
+    if (!x8W) {
+      return;
+    }
+    U6BfN.s8u();
+    K3w = k0y.preferences;
+    if (!K3w.drawings) {
+      K3w.drawings = {};
+    }
+    K3w.drawings[x8W] = {};
+    D1x = new t$.Drawing[x8W]();
+    D1x.stx = k0y;
+    t$.Drawing.copyConfig(D1x);
+    D1x.configs.forEach(function (R5W) {
+      U6BfN.s8u();
+      K3w.drawings[x8W][R5W] = D1x[R5W];
+    });
+    k0y.changeOccurred("preferences");
+  };
+  t$.Drawing.restoreDefaultConfig = function (h$8, h$v, e01) {
+    if (e01) {
+      h$8.preferences.drawings = null;
+    } else {
+      h$8.preferences.drawings[h$v] = null;
+    }
+    h$8.changeOccurred("preferences");
+    h$8.currentVectorParameters = t$.clone(
+      t$.ChartEngine.currentVectorParameters,
+    );
+    h$8.currentVectorParameters.vectorType = h$v;
+  };
+  t$.Drawing.initializeSettings = function (O5N, x2H) {
+    var P2P, Z0j;
+    P2P = t$.Drawing[x2H];
+    U6BfN.a3_();
+    if (P2P) {
+      Z0j = new P2P();
+      if (Z0j.initializeSettings) {
+        Z0j.initializeSettings(O5N);
+      }
+    }
+  };
+  t$.Drawing.updateSource = function (s_j, f58, d94, f40) {
+    var Q$w, k1n, j58;
+    if (!f58) {
+      return;
+    }
+    Q$w = ![];
+    for (var M6h in s_j.drawingObjects) {
+      k1n = s_j.drawingObjects[M6h];
+      if (!k1n.field) continue;
+      if (d94) {
+        if (k1n.field == f58) {
+          k1n.field = d94;
+          Q$w = !![];
+        } else if (
+          k1n.field.indexOf(f58) > -+"1" &&
+          k1n.field.indexOf(f58 + (917 != 177 ? "-" : (0x1294, !"1"))) == -1
+        ) {
+          k1n.field = k1n.field.replace(f58, d94);
+          Q$w = !!"1";
+        }
+      } else {
+        j58 = "--";
+        j58 += ">";
+        if (k1n.field.split(j58)["0" >> 32] == f58 || k1n.panelName == f58) {
+          k1n.panelName = f40;
+          Q$w = !!{};
+        }
+      }
+    }
+    if (Q$w) {
+      s_j.changeOccurred("vector");
+    }
+  };
+  t$.Drawing.prototype.copyConfig = function (a0i) {
+    t$.Drawing.copyConfig(this, a0i);
+  };
+  t$.Drawing.copyConfig = function (F_j, B_Q) {
+    var m9g, m_7, I3B, o4x, x$h, j60, K4J, v92;
+    m9g = F_j.stx.currentVectorParameters;
+    m_7 = F_j.configs;
+    for (I3B = 0; I3B < m_7.length; I3B++) {
+      x$h = "f";
+      x$h += "ont";
+      o4x = m_7[I3B];
+      if (o4x == "color") {
+        F_j.color = m9g.currentColor;
+      } else if (o4x == "parameters") {
+        F_j.parameters = t$.clone(m9g.fibonacci);
+      } else if (o4x == x$h) {
+        F_j.font = t$.clone(m9g.annotation.font);
+      } else {
+        F_j[o4x] = m9g[o4x];
+      }
+    }
+    if (!B_Q) {
+      return;
+    }
+    j60 = F_j.stx.preferences;
+    if (j60 && j60.drawings) {
+      t$.extend(F_j, j60.drawings[m9g.vectorType]);
+      for (I3B = 0; I3B < m_7.length; I3B++) {
+        K4J = "f";
+        K4J += "ont";
+        v92 = "c";
+        v92 += "o";
+        v92 += "lor";
+        o4x = m_7[I3B];
+        if (o4x == v92) {
+          m9g.currentColor = F_j.color;
+        } else if (o4x == "parameters") {
+          m9g.fibonacci = t$.clone(F_j.parameters);
+        } else if (o4x == K4J) {
+          m9g.annotation.font = t$.clone(F_j.font);
+        } else {
+          m9g[o4x] = F_j[o4x];
+        }
+      }
+    }
+  };
+  t$.Drawing.prototype.dragToDraw = !1;
+  t$.Drawing.prototype.permanent = !{};
+  t$.Drawing.prototype.chartsOnly = !{};
+  t$.Drawing.prototype.abort = function (J2e) {};
+  t$.Drawing.prototype.measure = function () {};
+  t$.Drawing.prototype.construct = function (N0v, k8T) {
+    this.stx = N0v;
+    this.panelName = k8T.name;
+  };
+  t$.Drawing.prototype.isAllowed = function (R0c, L0p) {
+    U6BfN.a3_();
+    return !0;
+  };
+  t$.Drawing.prototype.render = function (E6$) {
+    console.warn("must implement render function!");
+  };
+  t$.Drawing.prototype.click = function (O7H, s4U, Z6Q) {
+    console.warn("must implement click function!");
+  };
+  t$.Drawing.prototype.move = function (p5Q, k4R, c$g) {
+    U6BfN.a3_();
+    console.warn("must implement move function!");
+  };
+  t$.Drawing.prototype.reposition = function (x8A, w_s, H41, P5d) {};
+  t$.Drawing.prototype.intersected = function (l3Y, B0Q, a0v) {
+    U6BfN.s8u();
+    console.warn("must implement intersected function!");
+  };
+  t$.Drawing.prototype.reconstruct = function (K$S, t_$) {
+    U6BfN.a3_();
+    console.warn("must implement reconstruct function!");
+  };
+  t$.Drawing.prototype.serialize = function () {
+    console.warn("must implement serialize function!");
+  };
+  t$.Drawing.prototype.adjust = function () {
+    console.warn("must implement adjust function!");
+  };
+  t$.Drawing.prototype.highlight = function (Y2S) {
+    if (Y2S && !this.highlighted) {
+      this.highlighted = Y2S;
+    } else if (!Y2S && this.highlighted) {
+      this.highlighted = Y2S;
+    }
+    return this.highlighted;
+  };
+  t$.Drawing.prototype.littleCircleRadius = function () {
+    var F45;
+    F45 = 6;
+    return F45;
+  };
+  t$.Drawing.prototype.littleCircle = function (S_A, y3x, n0A, u$j) {
+    var F3e, d$T;
+    if (this.permanent) {
+      return;
+    }
+    F3e = this.stx.defaultColor;
+    d$T = t$.chooseForegroundColor(F3e);
+    S_A.beginPath();
+    S_A.lineWidth = 1;
+    S_A.arc(y3x, n0A, this.littleCircleRadius(), 0, +"2" * Math.PI, !{});
+    if (u$j) {
+      S_A.fillStyle = F3e;
+    } else {
+      S_A.fillStyle = d$T;
+    }
+    U6BfN.a3_();
+    S_A.strokeStyle = F3e;
+    S_A.setLineDash([]);
+    S_A.fill();
+    S_A.stroke();
+    S_A.closePath();
+  };
+  t$.Drawing.prototype.rotator = function (Y1c, Y9F, f$4, I$X) {
+    var I29 = U6BfN;
+    var B75, i4g, r13;
+    if (this.permanent) {
+      return;
+    }
+    B75 = this.littleCircleRadius();
+    i4g = this.stx.defaultColor;
+    Y1c.beginPath();
+    I29.C2v(10);
+    Y1c.lineWidth = I29.B$D(0, "2");
+    if (!I$X) {
+      Y1c.globalAlpha = 0.5;
+    }
+    I29.w6J(0);
+    r13 = I29.B$D(4, B75);
+    Y1c.arc(Y9F, f$4, r13, 0, (3 * Math.PI) / +"2", !!0);
+    I29.w6J(2);
+    Y1c.moveTo(I29.B$D(Y9F, 2, r13), I29.Y51("2", 0, f$4, I29.C2v(41)));
+    I29.C2v(0);
+    Y1c.lineTo(I29.Y51(Y9F, r13), f$4);
+    I29.w6J(42);
+    Y1c.lineTo(I29.Y51("2", r13, Y9F, 1), I29.B$D(f$4, 2, I29.w6J(0)));
+    I29.C2v(10);
+    Y1c.moveTo(I29.Y51(2, Y9F), I29.Y51(f$4, r13, 2, I29.C2v(26)));
+    I29.C2v(10);
+    Y1c.lineTo(Y9F, I29.B$D(r13, f$4));
+    I29.w6J(10);
+    Y1c.lineTo(I29.B$D(2, Y9F), I29.B$D(r13, f$4, 2, I29.C2v(19)));
+    Y1c.strokeStyle = i4g;
+    Y1c.stroke();
+    Y1c.closePath();
+    Y1c.globalAlpha = 1;
+  };
+  t$.Drawing.prototype.mover = function (w8F, s4p, o4l, f69) {
+    var n$b = U6BfN;
+    var E4J, o_d, p9a, h5_;
+    if (this.permanent) {
+      return;
+    }
+    E4J = this.littleCircleRadius();
+    o_d = this.stx.defaultColor;
+    p9a = 5;
+    n$b.C2v(0);
+    h5_ = n$b.Y51(E4J, 1);
+    w8F.save();
+    w8F.lineWidth = 2;
+    w8F.strokeStyle = o_d;
+    w8F.translate(s4p, o4l);
+    if (!f69) {
+      n$b.w6J(10);
+      w8F.globalAlpha = n$b.B$D(0, "0.5");
+    }
+    for (var G84 = 0; G84 < +"4"; G84++) {
+      w8F.rotate(Math.PI / 2);
+      w8F.beginPath();
+      w8F.moveTo(0, h5_);
+      n$b.w6J(0);
+      w8F.lineTo(+"0", n$b.Y51(h5_, p9a));
+      n$b.C2v(43);
+      w8F.moveTo(-2, n$b.Y51(h5_, "2", p9a));
+      n$b.C2v(0);
+      w8F.lineTo(0, n$b.B$D(h5_, p9a));
+      n$b.w6J(26);
+      w8F.lineTo(2, n$b.Y51(h5_, 2, p9a));
+      w8F.closePath();
+      w8F.stroke();
+    }
+    w8F.globalAlpha = 1;
+    w8F.restore();
+  };
+  t$.Drawing.prototype.resizer = function (W3$, R9e, B8U, X6l) {
+    var i99 = U6BfN;
+    var h$b, U3y, L3S, g2z;
+    if (this.permanent) {
+      return;
+    }
+    h$b = this.littleCircleRadius();
+    U3y = this.stx.defaultColor;
+    i99.w6J(10);
+    var T5K = i99.B$D(16, 21);
+    i99.s8u();
+    i99.w6J(22);
+    var e0J = i99.B$D(3, 16, 0, 7, 112);
+    L3S = T5K * Math.sqrt(e0J);
+    i99.w6J(0);
+    g2z = i99.Y51(h$b, 1);
+    W3$.save();
+    W3$.lineWidth = 2;
+    W3$.strokeStyle = U3y;
+    W3$.translate(R9e, B8U);
+    W3$.rotate(((-(R9e * B8U) / Math.abs(R9e * B8U)) * Math.PI) / 4);
+    if (!X6l) {
+      W3$.globalAlpha = 0.5;
+    }
+    for (var m0o = 0; m0o < 2; m0o++) {
+      W3$.rotate(Math.PI);
+      W3$.beginPath();
+      W3$.moveTo(0, g2z);
+      i99.C2v(0);
+      W3$.lineTo(0, i99.B$D(g2z, L3S));
+      i99.C2v(43);
+      W3$.moveTo(-2, i99.Y51(g2z, "2", L3S));
+      i99.C2v(0);
+      W3$.lineTo(0, i99.Y51(g2z, L3S));
+      i99.C2v(43);
+      W3$.lineTo(2, i99.Y51(g2z, "2", L3S));
+      W3$.closePath();
+      W3$.stroke();
+    }
+    W3$.globalAlpha = 1;
+    W3$.restore();
+  };
+  t$.Drawing.prototype.pointIntersection = function (h_d, E5U, Q0P, X98) {
+    var j0g, D6N;
+    j0g = this.stx;
+    D6N = j0g.panels[this.panelName];
+    if (!D6N) {
+      return !!"";
+    }
+    U6BfN.a3_();
+    if (this.field && !X98) {
+      E5U = this.pixelFromValue(
+        D6N,
+        h_d,
+        E5U,
+        j0g.getYAxisByField(D6N, this.field),
+      );
+      h_d = j0g.pixelFromTick(h_d, D6N.chart);
+      X98 = !!{};
+    }
+    if (X98) {
+      if (
+        h_d >= Q0P.cx0 &&
+        h_d <= Q0P.cx1 &&
+        E5U >= Q0P.cy0 &&
+        E5U <= Q0P.cy1
+      ) {
+        return !!{};
+      }
+    } else {
+      if (
+        h_d >= Q0P.x0 &&
+        h_d <= Q0P.x1 &&
+        E5U >= Math.min(Q0P.y0, Q0P.y1) &&
+        E5U <= Math.max(Q0P.y0, Q0P.y1)
+      ) {
+        return !0;
+      }
+    }
+    return !{};
+  };
+  t$.Drawing.prototype.setPoint = function (a1N, D$7, f$b, A2_) {
+    var i7_ = U6BfN;
+    var P_z, a8$, M$V, x5v, z_N, X54, G$K, U3Z, B57, V8x, i60, m5n;
+    P_z = "n";
+    P_z += "u";
+    P_z += "mb";
+    P_z += "er";
+    var { stx: h0f } = this;
+    var { maxTicks: J5P = 100, dataSet: e3S = [] } = A2_ || h0f.chart || {};
+    a8$ = -J5P;
+    i7_.C2v(44);
+    i7_.a3_();
+    var z8S = i7_.B$D(8, 16, 1, 6, 223);
+    M$V = e3S.length - z8S + J5P;
+    x5v = null;
+    z_N = null;
+    if (typeof D$7 == P_z) {
+      x5v = D$7;
+    } else if (D$7.length >= +"8") {
+      z_N = D$7;
+    } else {
+      x5v = Number(D$7);
+    }
+    if (f$b || f$b === +"0") {
+      i7_.C2v(0);
+      this[i7_.Y51("v", a1N)] = f$b;
+    }
+    if (x5v !== null) {
+      x5v = Math.max(x5v, a8$);
+      x5v = Math.min(x5v, M$V);
+      X54 = h0f.dateFromTick(x5v, A2_, !!"1");
+      i7_.C2v(0);
+      this[i7_.Y51("tzo", a1N)] = X54.getTimezoneOffset();
+      i7_.C2v(0);
+      this[i7_.B$D((+"733.62", 5140) <= (8280, 7740) ? "d" : +"734.70", a1N)] =
+        t$.yyyymmddhhmmssmmm(X54);
+      i7_.w6J(0);
+      this[
+        i7_.B$D(
+          469.05 <= (181, 8751)
+            ? "p"
+            : (612.94, 224) == "641.17" * 1
+              ? (0x14ce, 9.76e3)
+              : 2.73e3,
+          a1N,
+        )
+      ] = [x5v, f$b];
+    } else if (z_N !== null) {
+      G$K = "tz";
+      G$K += "o";
+      U3Z = "t";
+      U3Z += "z";
+      U3Z += "o";
+      B57 = "t";
+      B57 += "z";
+      B57 += "o";
+      V8x = t$.strToDateTime(z_N);
+      if (!this[B57 + a1N] && this[U3Z + a1N] !== +"0") {
+        i7_.w6J(0);
+        this[i7_.B$D("tzo", a1N)] = V8x.getTimezoneOffset();
+      }
+      i7_.w6J(0);
+      this[
+        i7_.B$D(
+          (194.27, 1295) >= 1840
+            ? 0x1824
+            : (2863, "8301" * 1) <= 7810
+              ? 160
+              : (5370, 7600) == (4897, 6300)
+                ? 457.48
+                : "d",
+          a1N,
+        )
+      ] = z_N;
+      i60 = this[G$K + a1N] - V8x.getTimezoneOffset();
+      V8x.setMinutes(V8x.getMinutes() + i60);
+      m5n = !!"";
+      if (
+        this.name != "freeform" &&
+        !t$.ChartEngine.isDailyInterval(h0f.layout.interval) &&
+        !V8x.getHours() &&
+        !V8x.getMinutes() &&
+        !V8x.getSeconds() &&
+        !V8x.getMilliseconds()
+      ) {
+        m5n = !!1;
+      }
+      i7_.C2v(0);
+      this[i7_.B$D("p", a1N)] = [
+        h0f.tickFromDate(t$.yyyymmddhhmmssmmm(V8x), A2_, null, m5n),
+        f$b,
+      ];
+    }
+  };
+  t$.Drawing.prototype.getLineColor = function (w0C, D_k) {
+    var E2E, i2I, G5e, J6a, k4Y, A6R, o8u, A6f, o1D, W4Y, I1e, p1x;
+    E2E = "a";
+    E2E += "u";
+    E2E += "t";
+    E2E += "o";
+    if (!w0C) {
+      w0C = this.color;
+    }
+    i2I = this.stx;
+    G5e = w0C;
+    U6BfN.s8u();
+    if (!D_k && this.highlighted && this.stx.editingDrawing !== this) {
+      G5e = i2I.getCanvasColor("stx_highlight_vector");
+    } else if (G5e == E2E) {
+      G5e = i2I.defaultColor;
+      if (this.field) {
+        for (J6a in i2I.layout.studies) {
+          k4Y = i2I.layout.studies[J6a];
+          A6R = k4Y.outputs[k4Y.outputMap[this.field]];
+          if (A6R) {
+            G5e = A6R.color || A6R;
+            break;
+          }
+        }
+        for (J6a in i2I.chart.seriesRenderers) {
+          A6f = i2I.chart.seriesRenderers[J6a];
+          for (var N$y = "0" * 1; N$y < A6f.seriesParams.length; N$y++) {
+            o1D = "-";
+            o1D += "-";
+            o1D += ">";
+            W4Y = "C";
+            W4Y += "lo";
+            W4Y += "s";
+            W4Y += "e";
+            I1e = A6f.seriesParams[N$y];
+            p1x = I1e.field;
+            if (!p1x && !A6f.highLowBars) {
+              p1x = this.defaultPlotField || W4Y;
+            }
+            if (I1e.symbol && I1e.subField) {
+              p1x += "-->" + I1e.subField;
+            }
+            if (this.field == p1x) {
+              G5e = I1e.color;
+              break;
+            }
+            if (I1e.field && I1e.field == this.field.split(o1D)[0]) {
+              o8u = I1e.color;
+            }
+          }
+        }
+        if (o8u) {
+          G5e = o8u;
+        }
+      }
+    }
+    if (G5e == "auto") {
+      G5e = i2I.defaultColor;
+    }
+    return G5e;
+  };
+  t$.Drawing.prototype.valueFromPixel = function (L02, M_6, x89) {
+    var y$q, v_v, B0T;
+    y$q = this.stx.getTransformFunction(x89 || M_6.yAxis, !"");
+    v_v = this.field;
+    U6BfN.s8u();
+    if (y$q && M_6.chart.series[v_v]) {
+      this.stx.updateTransformFunction(
+        (u9g, A30, I7P, S1D) => {
+          U6BfN.s8u();
+          return y$q(u9g, A30, I7P, S1D, v_v);
+        },
+        x89,
+        !0,
+      );
+    }
+    B0T = this.stx.valueFromPixel(L02, M_6, x89);
+    this.stx.updateTransformFunction(y$q, x89, !0);
+    return B0T;
+  };
+  t$.Drawing.prototype.pixelFromValue = function (l55, N6U, I$l, H9c) {
+    U6BfN.s8u();
+    var u2i, T3A, Q22;
+    u2i = this.stx.getTransformFunction(H9c || l55.yAxis);
+    T3A = this.field;
+    if (u2i && l55.chart.series[T3A]) {
+      this.stx.updateTransformFunction((h0h, q4l, a77, B7Z) => {
+        U6BfN.a3_();
+        return u2i(h0h, q4l, a77, B7Z, T3A);
+      }, H9c);
+    }
+    Q22 = this.stx.pixelFromValueAdjusted(l55, N6U, I$l, H9c);
+    this.stx.updateTransformFunction(u2i, H9c);
+    return Q22;
+  };
+  t$.Drawing.prototype.boxToPixels = function (q_Q, W7z, d35, q7c) {
+    var E$k, P_q, F7V, b72;
+    E$k = q_Q.panels[W7z];
+    P_q = this.stx.getTransformFunction(q7c || E$k.yAxis);
+    F7V = this.field;
+    if (P_q && E$k.chart.series[F7V]) {
+      this.stx.updateTransformFunction((q$h, M_N, v4Q, u7U) => {
+        return P_q(q$h, M_N, v4Q, u7U, F7V);
+      }, q7c);
+    }
+    b72 = t$.convertBoxToPixels(q_Q, W7z, d35, q7c);
+    this.stx.updateTransformFunction(P_q, q7c);
+    return b72;
+  };
+  t$.Drawing.BaseTwoPoint = function () {
+    U6BfN.a3_();
+    this.p0 = null;
+    this.p1 = null;
+    this.color = "";
+  };
+  t$.inheritsFrom(t$.Drawing.BaseTwoPoint, t$.Drawing);
+  t$.Drawing.BaseTwoPoint.prototype.configs = [];
+  t$.Drawing.BaseTwoPoint.prototype.lineIntersection = function (
+    Q42,
+    n6e,
+    H93,
+    d6o,
+    H1d,
+    f$P,
+    j3k,
+  ) {
+    var M8V, Y8g;
+    if (!H1d) {
+      H1d = this.p0;
+    }
+    if (!f$P) {
+      f$P = this.p1;
+    }
+    M8V = this.stx;
+    if (!(H1d && f$P)) {
+      return !1;
+    }
+    if (H93.cx0 === undefined) {
+      return !{};
+    }
+    Y8g = { x0: H1d[+"0"], x1: f$P["0" | 0], y0: H1d[1], y1: f$P[1] };
+    if (!j3k) {
+      Y8g = this.boxToPixels(
+        M8V,
+        this.panelName,
+        Y8g,
+        M8V.getYAxisByField(M8V.panels[this.panelName], this.field),
+      );
+    }
+    return t$.boxIntersects(
+      H93.cx0,
+      H93.cy0,
+      H93.cx1,
+      H93.cy1,
+      Y8g.x0,
+      Y8g.y0,
+      Y8g.x1,
+      Y8g.y1,
+      d6o,
+    );
+  };
+  t$.Drawing.BaseTwoPoint.prototype.boxIntersection = function (S0I, z4I, a_d) {
+    var t1H, Y2n;
+    if (!this.p0 || !this.p1) {
+      return !{};
+    }
+    var { x0: D_V, x1: O5Y, y0: g1s, y1: D2H, cy0: y9V, cy1: I8P } = a_d;
+    if (
+      D_V > Math.max(this.p0[0], this.p1["0" ^ 0]) ||
+      O5Y < Math.min(this.p0[+"0"], this.p1[0])
+    ) {
+      return !"1";
+    }
+    var { field: i3$, panelName: q70, stx: f0x } = this;
+    if (i3$) {
+      t1H = f0x.panels[q70];
+      Y2n = f0x.getYAxisByField(t1H, i3$);
+      g1s = this.valueFromPixel(y9V, t1H, Y2n);
+      D2H = this.valueFromPixel(I8P, t1H, Y2n);
+    }
+    if (
+      D2H > Math.max(this.p0[1], this.p1["1" ^ 0]) ||
+      g1s < Math.min(this.p0[1], this.p1[1])
+    ) {
+      return ![];
+    }
+    return !!1;
+  };
+  t$.Drawing.BaseTwoPoint.prototype.accidentalClick = function (J9J, w39) {
+    var w_2 = U6BfN;
+    var a6g, m1E, P5w, a4x, K$d, b56, o0k, w_i, q4o, P$6;
+    a6g = this.stx;
+    m1E = a6g.panels[this.panelName];
+    P5w = a6g.pixelFromTick(this.p0[+"0"], m1E.chart);
+    a4x = a6g.pixelFromTick(J9J, m1E.chart);
+    K$d = a6g.getYAxisByField(m1E, this.field);
+    b56 = this.pixelFromValue(m1E, this.p0[0], this.p0[1], K$d);
+    o0k = this.pixelFromValue(m1E, J9J, w39, K$d);
+    w_2.C2v(10);
+    w_i = Math.abs(w_2.Y51(P5w, a4x));
+    w_2.w6J(10);
+    q4o = Math.abs(w_2.Y51(b56, o0k));
+    w_2.C2v(45);
+    P$6 = Math.sqrt(w_2.Y51(q4o, w_i, q4o, w_i));
+    if (P$6 < 10) {
+      this.penDown = ![];
+      a6g.undo();
+      return !!"1";
+    }
+  };
+  t$.Drawing.BaseTwoPoint.prototype.click = function (j07, j89, d_X) {
+    var O0P = U6BfN;
+    var X2q, t6R;
+    this.copyConfig();
+    X2q = this.stx;
+    t6R = X2q.panels[this.panelName];
+    if (!this.penDown) {
+      O0P.C2v(3);
+      this.setPoint(O0P.Y51("0", 1), j89, d_X, t6R.chart);
+      this.penDown = !!{};
+      return !"1";
+    }
+    O0P.s8u();
+    if (this.accidentalClick(j89, d_X)) {
+      return !"";
+    }
+    O0P.C2v(6);
+    this.setPoint(O0P.B$D("1", 0), j89, d_X, t6R.chart);
+    this.penDown = !{};
+    return !![];
+  };
+  t$.Drawing.BaseTwoPoint.prototype.adjust = function () {
+    var G1C;
+    G1C = this.stx.panels[this.panelName];
+    if (!G1C) {
+      return;
+    }
+    this.setPoint(+"0", this.d0, this.v0, G1C.chart);
+    U6BfN.w6J(6);
+    this.setPoint(U6BfN.Y51("1", 0), this.d1, this.v1, G1C.chart);
+  };
+  t$.Drawing.BaseTwoPoint.prototype.move = function (V$U, p0$, i$D) {
+    U6BfN.s8u();
+    if (!this.penDown) {
+      this.moving = ![];
+      return;
+    }
+    this.moving = !"";
+    this.copyConfig();
+    this.p1 = [p0$, i$D];
+    this.render(V$U);
+  };
+  t$.Drawing.BaseTwoPoint.prototype.measure = function () {
+    var q2h, A4n, A7F, L8S, K2_, X$e;
+    q2h = this.stx;
+    U6BfN.a3_();
+    if (this.p0 && this.p1) {
+      q2h.setMeasure(
+        this.p0[1],
+        this.p1[1],
+        this.p0[0],
+        this.p1[0],
+        !"",
+        this.name,
+      );
+      A4n = q2h.controls.mSticky;
+      A7F = A4n && A4n.querySelector(".mStickyInterior");
+      if (A7F) {
+        L8S = "<";
+        L8S += "b";
+        L8S += "r";
+        L8S += ">";
+        K2_ = "C";
+        K2_ += "l";
+        K2_ += "o";
+        K2_ += "se";
+        X$e = [];
+        X$e.push(q2h.translateIf(t$.capitalize(this.name)));
+        if (this.getYValue) {
+          X$e.push(q2h.translateIf(this.field || q2h.defaultPlotField || K2_));
+        }
+        X$e.push(A7F.innerHTML);
+        A7F.innerHTML = X$e.join(L8S);
+      }
+    }
+  };
+  t$.Drawing.BaseTwoPoint.prototype.reposition = function (A1b, g2V, o4i, x2r) {
+    var Q_I, P_A, s84;
+    if (!g2V) {
+      return;
+    }
+    Q_I = this.stx.panels[this.panelName];
+    P_A = g2V.tick - o4i;
+    U6BfN.a3_();
+    s84 = g2V.value - x2r;
+    if (g2V.action == "move") {
+      this.setPoint(0, g2V.p0[0] - P_A, g2V.p0[1] - s84, Q_I.chart);
+      this.setPoint(1, g2V.p1[+"0"] - P_A, g2V.p1[+"1"] - s84, Q_I.chart);
+      this.render(A1b);
+    } else if (g2V.action == "drag") {
+      this[g2V.point] = [o4i, x2r];
+      this.setPoint(0, this.p0[0], this.p0[1], Q_I.chart);
+      this.setPoint(1, this.p1[0], this.p1[+"1"], Q_I.chart);
+      this.render(A1b);
+    }
+  };
+  t$.Drawing.BaseTwoPoint.prototype.drawDropZone = function (
+    l4V,
+    o1y,
+    B3P,
+    N40,
+    g9m,
+  ) {
+    var p55 = U6BfN;
+    var D8s, X3k, l60, S4V, r2h, k$R, V9o, u8_;
+    D8s = "#00";
+    D8s += "800";
+    D8s += "0";
+    X3k = this.stx.panels[this.panelName];
+    if (!X3k) {
+      return;
+    }
+    l60 = this.stx;
+    S4V = X3k.left;
+    r2h = X3k.width;
+    if (N40 || N40 === "0" - 0) {
+      S4V = l60.pixelFromTick(N40, X3k.chart);
+    }
+    if (g9m || g9m === 0) {
+      r2h = l60.pixelFromTick(g9m, X3k.chart);
+    }
+    k$R = l60.getYAxisByField(X3k, this.field);
+    V9o = this.pixelFromValue(X3k, N40, o1y, k$R);
+    u8_ = this.pixelFromValue(X3k, g9m, B3P, k$R);
+    l4V.fillStyle = D8s;
+    p55.w6J(3);
+    l4V.globalAlpha = p55.Y51("0.2", 1);
+    p55.w6J(10);
+    l4V.fillRect(S4V, V9o, p55.B$D(S4V, r2h), p55.B$D(V9o, u8_));
+    p55.s8u();
+    l4V.globalAlpha = 1;
+  };
+  t$.Drawing.BaseTwoPoint.prototype.valueOnDrawingAxis = function (o3J, h65) {
+    var x0I;
+    var { stx: U0B, panelName: a7E, field: x4B } = this;
+    x0I = U0B.panels[a7E];
+    return this.valueFromPixel(
+      U0B.pixelFromValueAdjusted(U0B.currentPanel, o3J, h65),
+      x0I,
+      U0B.getYAxisByField(x0I, x4B),
+    );
+  };
+  t$.Drawing.annotation = function () {
+    var X0d = U6BfN;
+    var p3k, d0H, Q$O, l31;
+    p3k = "annotatio";
+    p3k += "n";
+    this.name = p3k;
+    this.arr = [];
+    this.w = 0;
+    this.h = 0;
+    this.padding = 10;
+    this.text = "";
+    this.ta = null;
+    this.border = !!{};
+    d0H = +"723991064";
+    Q$O = -1752575297;
+    l31 = 2;
+    for (
+      var T7l = 1;
+      X0d.D9u(T7l.toString(), T7l.toString().length, 62238) !== d0H;
+      T7l++
+    ) {
+      this.fontSize = 0;
+      l31 += 2;
+    }
+    if (X0d.C6S(l31.toString(), l31.toString().length, 24056) !== Q$O) {
+      this.fontSize = +"7";
+    }
+    this.font = {};
+    this.defaultWidth = 25;
+    X0d.w6J(23);
+    this.whitespace = X0d.B$D("30", 0);
+    this.fontModifier = 3;
+  };
+  t$.inheritsFrom(t$.Drawing.annotation, t$.Drawing.BaseTwoPoint);
+  t$.Drawing.annotation.prototype.getFontString = function () {
+    var s7C, X9c, W$V;
+    s7C = "s";
+    s7C += "i";
+    s7C += "ze";
+    X9c = "12";
+    X9c += "px";
+    this.fontDef = { style: null, weight: null, size: X9c, family: null };
+    W$V = this.stx.canvasStyle("stx_annotation");
+    if (W$V) {
+      if (W$V.fontStyle) {
+        this.fontDef.style = W$V.fontStyle;
+      }
+      if (W$V.fontWeight) {
+        this.fontDef.weight = W$V.fontWeight;
+      }
+      if (W$V.fontSize) {
+        this.fontDef.size = W$V.fontSize;
+      }
+      if (W$V.fontFamily) {
+        this.fontDef.family = W$V.fontFamily;
+      }
+    }
+    if (this.font.style) {
+      this.fontDef.style = this.font.style;
+    }
+    U6BfN.s8u();
+    if (this.font.weight) {
+      this.fontDef.weight = this.font.weight;
+    }
+    if (this.font.size) {
+      this.fontDef.size = this.font.size;
+    }
+    if (this.font.family) {
+      this.fontDef.family = this.font.family;
+    }
+    this.fontString = ["style", "weight", s7C, "lineHeight", "family"]
+      .map((I1f) => {
+        return this.fontDef[I1f];
+      })
+      .join(
+        708.63 <= (8110, "6170" | 8)
+          ? " "
+          : (4109, "7853" - 0) != (2730, 9670)
+            ? 2071 !== 936
+              ? "A"
+              : (879.97, 0x1570)
+            : +"0x200c",
+      );
+  };
+  t$.Drawing.annotation.prototype.configs = ["color", j1C];
+  t$.Drawing.annotation.prototype.measure = function () {};
+  t$.Drawing.annotation.prototype.render = function (J8z) {
+    var C9$ = U6BfN;
+    var H6C,
+      v_s,
+      g5W,
+      x0r,
+      Q89,
+      f6g,
+      v_S,
+      X4m,
+      S1h,
+      R_D,
+      c9G,
+      X3V,
+      p6p,
+      t57,
+      v$Y,
+      N58;
+    if (this.ta) {
+      return;
+    }
+    H6C = this.stx;
+    v_s = H6C.panels[this.panelName];
+    g5W = H6C.getYAxisByField(v_s, this.field);
+    if (!v_s || (this.field && !g5W)) {
+      return;
+    }
+    C9$.a3_();
+    x0r = H6C.pixelFromTick(this.p0[0], v_s.chart);
+    Q89 = this.pixelFromValue(v_s, this.p0[0], this.p0[1], g5W);
+    J8z.font = this.fontString;
+    J8z.textBaseline = "middle";
+    f6g = x0r;
+    v_S = Q89;
+    X4m = this.w;
+    S1h = this.getTextHeight();
+    R_D = this.getLineColor();
+    if (this.stem) {
+      if (this.stem.d) {
+        c9G = H6C.pixelFromTick(this.stem.t);
+        p6p = this.pixelFromValue(v_s, this.stem.t, this.stem.v, g5W);
+        C9$.w6J(46);
+        X3V = C9$.B$D(X4m, f6g, 2);
+        C9$.C2v(46);
+        t57 = C9$.B$D(S1h, v_S, 2);
+      } else if (this.stem.x) {
+        c9G = f6g;
+        p6p = v_S;
+        f6g += this.stem.x;
+        v_S += this.stem.y;
+        C9$.w6J(46);
+        X3V = C9$.Y51(X4m, f6g, 2);
+        C9$.C2v(46);
+        t57 = C9$.B$D(S1h, v_S, 2);
+      }
+      J8z.beginPath();
+      if (this.borderColor) {
+        J8z.strokeStyle = this.borderColor;
+      } else {
+        J8z.strokeStyle = R_D;
+      }
+      J8z.moveTo(c9G, p6p);
+      J8z.lineTo(X3V, t57);
+      J8z.stroke();
+    }
+    v$Y = J8z.lineWidth;
+    if (this.highlighted) {
+      H6C.canvasColor("stx_annotation_highlight_bg", J8z);
+      C9$.C2v(10);
+      J8z.fillRect(
+        C9$.B$D(v$Y, f6g),
+        v_S - S1h / 2 - v$Y - this.padding / ("2" ^ 0),
+        X4m + +"2" * v$Y,
+        S1h + 2 * v$Y + this.padding,
+      );
+    } else {
+      if (this.fillColor) {
+        J8z.fillStyle = this.getLineColor(this.fillColor, !"");
+        C9$.w6J(47);
+        J8z.fillRect(f6g, C9$.Y51(2, S1h, v_S), X4m, S1h);
+      } else if (this.stem) {
+        J8z.fillStyle = H6C.containerColor;
+        C9$.C2v(47);
+        J8z.fillRect(f6g, C9$.B$D(2, S1h, v_S), X4m, S1h);
+      }
+    }
+    if (this.borderColor) {
+      J8z.beginPath();
+      J8z.strokeStyle = this.highlighted
+        ? H6C.getCanvasColor("stx_highlight_vector")
+        : this.borderColor;
+      C9$.w6J(10);
+      J8z.rect(
+        C9$.B$D(v$Y, f6g),
+        v_S - S1h / 2 - v$Y + this.padding / 2,
+        X4m + 2 * v$Y,
+        S1h + 2 * v$Y + this.padding,
+      );
+      J8z.stroke();
+    }
+    if (this.highlighted) {
+      N58 = "st";
+      N58 += "x_annotation_highlight";
+      H6C.canvasColor(N58, J8z);
+    } else {
+      J8z.fillStyle = R_D;
+    }
+    C9$.C2v(27);
+    var z5k = C9$.B$D(1, 14, 34, 22);
+    v_S += this.padding / z5k;
+    if (!this.ta) {
+      for (var s7B = 0; s7B < this.arr.length; s7B++) {
+        J8z.fillText(
+          this.arr[s7B],
+          f6g + this.padding,
+          v_S - S1h / 2 + this.fontSize / 2,
+        );
+        v_S += this.fontSize + ("2" ^ 0);
+      }
+    }
+    J8z.textBaseline = "alphabetic";
+  };
+  t$.Drawing.annotation.prototype.onChange = function (T5c) {};
+  t$.Drawing.annotation.prototype.edit = function (z4m, V_A) {
+    var G7e = U6BfN;
+    var e7K,
+      L2p,
+      E3_,
+      r_p,
+      f57,
+      m0W,
+      O2u,
+      L1j,
+      T4b,
+      W1g,
+      e4K,
+      o27,
+      S9N,
+      t7s,
+      z15,
+      D9x,
+      D4J,
+      S4h,
+      V8A,
+      d0g,
+      k6J;
+    e7K = "annota";
+    e7K += "tion";
+    function d5I(g8J) {
+      G7e.s8u();
+      return function (O17) {
+        g8J.stx.undo();
+      };
+    }
+    L2p = this.stx.panels[this.panelName];
+    if (!L2p) {
+      return;
+    }
+    E3_ = this.stx.controls.annotationSave;
+    r_p = this.stx.controls.annotationCancel;
+    if (!E3_ || !r_p) {
+      return;
+    }
+    f57 = this.stx;
+    m0W = this.ta;
+    function F5v(a78) {
+      return function (z0p) {
+        var T2p;
+        if (!a78.ta || !a78.ta.value) {
+          return;
+        }
+        a78.text = a78.ta.value;
+        T2p = a78.stx;
+        T2p.editingAnnotation = !"1";
+        a78.adjust();
+        if (T2p.drawingSnapshot) {
+          T2p.undoStamp(
+            t$.shallowClone(T2p.drawingSnapshot),
+            T2p.exportDrawings(),
+          );
+        } else {
+          t$.ChartEngine.completeDrawing(T2p);
+          T2p.addDrawing(a78);
+        }
+        T2p.undo();
+        T2p.changeOccurred("vector");
+      };
+    }
+    f57.editingAnnotation = !![];
+    function t5G(D93) {
+      G7e.a3_();
+      return function (K5B) {
+        var l6Z,
+          x7l,
+          u3B,
+          x6z,
+          D8F,
+          L9s,
+          W9W,
+          G$a,
+          b5X,
+          o4_,
+          h4g,
+          P$0,
+          n6Z,
+          j3z,
+          x7X,
+          w9$;
+        if (K5B) {
+          l6Z = K5B.keyCode;
+          switch (l6Z) {
+            case 27:
+              D93.stx.undo();
+              return;
+          }
+        }
+        x7l = D93.stx;
+        u3B = D93.ta;
+        x6z = D93.measureText();
+        x7l.chart.context.font = D93.fontString;
+        D93.fontSize = t$.stripPX(D93.fontDef.size);
+        D8F = D93.getTextHeight() - D93.padding;
+        if (D93.name === "annotation") {
+          L9s = "p";
+          L9s += "x";
+          u3B.style.width = x6z + D93.whitespace + L9s;
+        } else {
+          if (u3B.scrollHeight > u3B.clientHeight) {
+            W9W = "p";
+            W9W += "x";
+            u3B.style.width = x6z + D93.whitespace + W9W;
+          } else {
+            G7e.w6J(0);
+            u3B.style.width = G7e.Y51(x6z, "px");
+          }
+        }
+        G7e.C2v(0);
+        u3B.style.height = G7e.B$D(D8F, "px");
+        G$a = parseInt(t$.stripPX(u3B.style.top), 10);
+        b5X = Math.max(0, t$.stripPX(u3B.style.left));
+        x6z = u3B.clientWidth;
+        D8F = u3B.clientHeight;
+        u3B.focus();
+        G7e.a3_();
+        if (D93.border === ![]) {
+          u3B.style.border = "none";
+        }
+        if (b5X + x6z + +"100" < D93.stx.chart.canvasWidth) {
+          if (D93.name === "callout") {
+            G7e.w6J(2);
+            E3_.style.top = G7e.Y51(G$a, 3, "px");
+            G7e.w6J(2);
+            r_p.style.top = G7e.B$D(G$a, 3, "px");
+          } else {
+            G7e.w6J(0);
+            E3_.style.top = G7e.B$D(G$a, "px");
+            G7e.C2v(0);
+            r_p.style.top = G7e.B$D(G$a, "px");
+          }
+          G7e.C2v(48);
+          E3_.style.left = G7e.B$D(x6z, b5X, 10, "px");
+          E3_.style.display = "inline-block";
+          G7e.C2v(7);
+          var I$9 = G7e.Y51(19, 9);
+          r_p.style.left = b5X + x6z + E3_.clientWidth + I$9 + "px";
+          r_p.style.display = "inline-block";
+        } else if (G$a + D8F + 30 < D93.stx.chart.canvasHeight) {
+          o4_ = "inli";
+          o4_ += "ne-block";
+          h4g = "p";
+          h4g += "x";
+          P$0 = "i";
+          P$0 += "nl";
+          P$0 += "ine-block";
+          n6Z = "p";
+          n6Z += "x";
+          G7e.w6J(48);
+          E3_.style.top = G7e.Y51(D8F, G$a, 10, n6Z);
+          G7e.w6J(48);
+          r_p.style.top = G7e.B$D(D8F, G$a, 10, "px");
+          G7e.C2v(0);
+          E3_.style.left = G7e.Y51(b5X, "px");
+          E3_.style.display = P$0;
+          r_p.style.left = b5X + E3_.clientWidth + h4g;
+          r_p.style.display = o4_;
+        } else {
+          j3z = "p";
+          j3z += "x";
+          x7X = "inline-";
+          x7X += "block";
+          w9$ = "p";
+          w9$ += "x";
+          G7e.C2v(49);
+          E3_.style.top = G7e.Y51("35", w9$, 96, G$a);
+          G7e.C2v(20);
+          r_p.style.top = G7e.B$D(35, "px", G$a);
+          G7e.C2v(0);
+          E3_.style.left = G7e.Y51(b5X, "px");
+          E3_.style.display = x7X;
+          r_p.style.left = b5X + E3_.clientWidth + j3z;
+          r_p.style.display = "inline-block";
+        }
+      };
+    }
+    function M5c(V5a) {
+      G7e.s8u();
+      return function (J9$) {
+        if (V5a.manageTouchAndMouse && t$.ChartEngine.drawingLine) {
+          V5a.mouseup(J9$);
+        }
+      };
+    }
+    f57.undisplayCrosshairs();
+    if (!f57.openDialog) {
+      f57.openDialog = [];
+    }
+    if (!f57.openDialog.includes(e7K)) {
+      f57.openDialog.push("annotation");
+    }
+    if (!m0W) {
+      O2u = "a";
+      O2u += "b";
+      O2u += "solut";
+      O2u += "e";
+      L1j = "p";
+      L1j += "la";
+      L1j += "ceholder";
+      m0W = this.ta = document.createElement("TEXTAREA");
+      m0W.className = "stx_annotation";
+      m0W.onkeyup = t5G(this);
+      m0W.onmouseup = M5c(f57);
+      m0W.setAttribute("wrap", "hard");
+      if (t$.isIOS7or8) {
+        m0W.setAttribute(L1j, "Enter Text");
+      }
+      f57.chart.container.appendChild(m0W);
+      m0W.style.position = O2u;
+      G7e.C2v(0);
+      var n9E = G7e.B$D(0, 1);
+      G7e.C2v(0);
+      m0W.style.padding = `${this.padding - n9E}${G7e.B$D("p", "x ")}${this.padding}${G7e.Y51("p", "x")}`;
+      m0W.value = this.text;
+      if (t$.touchDevice) {
+        m0W.ontouchstart = function (H7X) {
+          H7X.stopPropagation();
+        };
+      }
+    }
+    T4b = this;
+    m0W.oninput = function (u61) {
+      var j7t, I_$, j3W, t8$, k1J;
+      u61.target.value = f57.emojify(u61.target.value);
+      j7t = 1545342235;
+      I_$ = -1163973581;
+      j3W = 2;
+      for (
+        var s9$ = 1;
+        G7e.D9u(s9$.toString(), s9$.toString().length, +"82325") !== j7t;
+        s9$++
+      ) {
+        t8$ = "historyUn";
+        t8$ += "d";
+        t8$ += "o";
+        if (u61.inputType != t8$ && u61.inputType != "historyRedo") {
+          T4b.onChange(u61);
+        }
+        j3W += 2;
+      }
+      if (G7e.D9u(j3W.toString(), j3W.toString().length, 508) !== I_$) {
+        k1J = "historyRe";
+        k1J += "do";
+        if (u61.inputType == "historyRedo" || u61.inputType !== k1J) {
+          T4b.onChange(u61);
+        }
+      }
+    };
+    m0W.style.font = this.fontString;
+    if (this.color) {
+      if (this.color == "transparent" || this.color == "auto") {
+        W1g = getComputedStyle(m0W);
+        if (W1g && t$.isTransparent(W1g.backgroundColor)) {
+          m0W.style.color = this.getLineColor();
+        } else {
+          m0W.style.color = "#000";
+        }
+      } else {
+        m0W.style.color = this.color;
+      }
+    }
+    e4K = this.getTextHeight();
+    o27 = !isNaN(e4K) ? e4K / 2 : this.defaultHeight;
+    function o_E(D0U) {
+      f57.startClip(L2p.name);
+      T4b.render(D0U);
+      f57.endClip();
+    }
+    S9N = f57.pixelFromTick(this.p0[0], L2p.chart);
+    G7e.C2v(19);
+    var i1b = G7e.Y51(12, 17, 4);
+    t7s =
+      this.pixelFromValue(
+        L2p,
+        this.p0[0],
+        this.p0[i1b],
+        f57.getYAxisByField(L2p, this.field),
+      ) - o27;
+    G7e.w6J(50);
+    var M2f = G7e.Y51(2, 14, 134, 18);
+    z15 = S9N + M2f > f57.chart.canvasRight;
+    G7e.a3_();
+    G7e.w6J(51);
+    var L2o = G7e.Y51(67, 16, 6, 3);
+    D9x = t7s + L2o > f57.chart.canvasHeight;
+    if (z15) {
+      G7e.C2v(10);
+      var i62 = G7e.B$D(2000, 2200);
+      S9N = f57.chart.canvasRight - i62;
+    }
+    if (D9x) {
+      G7e.C2v(10);
+      t7s = G7e.Y51(60, t7s);
+    }
+    G7e.w6J(0);
+    m0W.style.left = G7e.Y51(S9N, "px");
+    if (this.name === "callout") {
+      G7e.w6J(52);
+      var M1h = G7e.Y51(1, 2, 8, 4, 3);
+      m0W.style.top = t7s - this.padding / M1h + "px";
+    } else {
+      m0W.style.top = t7s - this.padding + "px";
+    }
+    if (this.repositionTextArea) {
+      this.repositionTextArea(m0W);
+    }
+    if (m0W !== E3_.ta) {
+      t$.safeClickTouch(E3_, F5v(this));
+      E3_.ta = m0W;
+    }
+    if (m0W !== r_p.ta) {
+      t$.safeClickTouch(r_p, d5I(this));
+      r_p.ta = m0W;
+    }
+    t5G(this)();
+    z4m = f57.chart.tempCanvas.context;
+    t$.clearCanvas(z4m.canvas, f57);
+    z4m.canvas.style.display = "block";
+    if (V_A) {
+      f57.drawingSnapshot = f57.exportDrawings();
+      this.hidden = !!1;
+      f57.activeDrawing = this;
+      t$.ChartEngine.drawingLine = !"";
+      this.highlighted = !{};
+      o_E(z4m);
+      this.edit(z4m);
+      f57.draw();
+    } else {
+      o_E(z4m);
+    }
+    if (t$.isAndroid && !t$.is_chrome && !t$.isFF) {
+      this.priorBottom = f57.container.style.bottom;
+      G7e.C2v(23);
+      D4J = G7e.B$D("400", 16);
+      G7e.C2v(53);
+      var P4X = G7e.B$D(15, 6, 1289, 2, 1400);
+      S4h = f57.resolveY(t7s) + P4X;
+      V8A = f57.container.ownerDocument.defaultView;
+      if (S4h > t$.pageHeight(V8A) - D4J) {
+        d0g = t$.pageHeight(V8A) - S4h;
+        G7e.C2v(10);
+        k6J = G7e.Y51(d0g, D4J);
+        G7e.w6J(0);
+        f57.chart.container.style.bottom = G7e.B$D(k6J, "px");
+      }
+    }
+  };
+  t$.Drawing.annotation.prototype.click = function (e$l, M0U, v98) {
+    U6BfN.s8u();
+    var Q9L;
+    if (this.stx.overXAxis || this.stx.overYAxis) {
+      return;
+    }
+    Q9L = this.stx.panels[this.panelName];
+    this.copyConfig();
+    this.setPoint(0, M0U, v98, Q9L.chart);
+    this.adjust();
+    this.edit(e$l);
+    return !!"";
+  };
+  t$.Drawing.annotation.prototype.reposition = function (E5r, t0x, I3N, J9o) {
+    var y61, Q9_, L1m;
+    if (!t0x) {
+      return;
+    }
+    y61 = this.stx.panels[this.panelName];
+    Q9_ = t0x.tick - I3N;
+    L1m = t0x.value - J9o;
+    this.setPoint(0, t0x.p0[0] - Q9_, t0x.p0[1] - L1m, y61.chart);
+    this.render(E5r);
+  };
+  t$.Drawing.annotation.prototype.intersected = function (Z0n, e8D, I72) {
+    var Y7c = U6BfN;
+    var r8D, L2X, E2W, g3b, W4D, N_k, H4g, O16, a_a, D2E;
+    r8D = this.stx;
+    L2X = r8D.panels[this.panelName];
+    if (!this.p0) {
+      return null;
+    }
+    E2W = r8D.pixelFromTick(this.p0[0], L2X.chart);
+    g3b = r8D.getYAxisByField(L2X, this.field);
+    W4D = this.getTextHeight();
+    Y7c.C2v(39);
+    var F6H = Y7c.Y51(16, 12, 3);
+    Y7c.C2v(54);
+    var c1w = Y7c.B$D(19, 7, 7, 18, 2);
+    N_k = this.pixelFromValue(L2X, this.p0[0], this.p0[F6H], g3b) - W4D / c1w;
+    H4g = E2W + this.w;
+    Y7c.C2v(0);
+    O16 = Y7c.Y51(N_k, W4D);
+    if (this.stem && this.stem.x) {
+      E2W += this.stem.x;
+      H4g += this.stem.x;
+      N_k += this.stem.y;
+      O16 += this.stem.y;
+    }
+    a_a = r8D.pixelFromTick(Z0n, L2X.chart);
+    D2E = r8D.pixelFromValueAdjusted(L2X, Z0n, e8D);
+    if (
+      a_a + I72.r >= E2W &&
+      a_a - I72.r <= H4g &&
+      D2E + I72.r >= N_k &&
+      D2E - I72.r <= O16
+    ) {
+      this.highlighted = !"";
+      return {
+        p0: t$.clone(this.p0),
+        tick: Z0n,
+        value: this.valueOnDrawingAxis(Z0n, e8D),
+      };
+    }
+    return !!0;
+  };
+  t$.Drawing.annotation.prototype.abort = function () {
+    var w5R, i6v, w5l;
+    w5R = this.stx;
+    i6v = w5R.controls.annotationSave;
+    w5l = w5R.controls.annotationCancel;
+    if (i6v) {
+      i6v.style.display = "none";
+    }
+    if (w5l) {
+      w5l.style.display = "none";
+    }
+    if (this.ta) {
+      w5R.chart.container.removeChild(this.ta);
+    }
+    this.ta = null;
+    if (w5R.openDialog) {
+      w5R.openDialog = w5R.openDialog.filter((b5D) => {
+        U6BfN.w6J(35);
+        return U6BfN.B$D(b5D, "annotation");
+      });
+    }
+    if (!w5R.openDialog.length) {
+      w5R.openDialog = "";
+    }
+    U6BfN.a3_();
+    w5R.showCrosshairs();
+    w5R.editingAnnotation = !"1";
+    t$.clearCanvas(w5R.chart.tempCanvas, w5R);
+    if (t$.isAndroid && !t$.is_chrome && !t$.isFF) {
+      w5R.chart.container.style.bottom = this.priorBottom;
+    }
+    t$.fixScreen();
+  };
+  t$.Drawing.annotation.prototype.reconstruct = function (H1S, R3l) {
+    var v45;
+    v45 = "f";
+    v45 += "amily";
+    this.stx = H1S;
+    this.color = R3l.col;
+    this.panelName = R3l.pnl;
+    this.d0 = R3l.d0;
+    this.tzo0 = R3l.tzo0;
+    this.v0 = R3l.v0;
+    this.field = R3l.fld;
+    this.text = H1S.escapeOnSerialize ? decodeURIComponent(R3l.text) : R3l.text;
+    this.stem = R3l.stem;
+    this.borderColor = R3l.bc;
+    this.fillColor = R3l.bg;
+    this.lineWidth = R3l.lw;
+    this.pattern = R3l.ptrn;
+    this.font = t$.replaceFields(R3l.fnt, {
+      st: "style",
+      sz: "size",
+      wt: "weight",
+      fl: v45,
+    });
+    if (!this.font) {
+      this.font = {};
+    }
+    this.hidden = R3l.hdn ? !![] : ![];
+    this.permanent = R3l.prm ? !!1 : !{};
+    this.adjust();
+  };
+  t$.Drawing.annotation.prototype.serialize = function () {
+    var T4W, T2S, v$l, z07;
+    T4W = {
+      name: this.name,
+      pnl: this.panelName,
+      col: this.color,
+      d0: this.d0,
+      tzo0: this.tzo0,
+      v0: this.v0,
+      fld: this.field,
+      text: this.stx.escapeOnSerialize
+        ? encodeURIComponent(this.text)
+        : this.text,
+      hdn: this.hidden ? 1 : 0,
+      prm: this.permanent ? 1 : 0,
+    };
+    if (this.font) {
+      T2S = "w";
+      T2S += "t";
+      v$l = "s";
+      v$l += "z";
+      z07 = t$.removeNullValues(
+        t$.replaceFields(this.font, {
+          style: "st",
+          size: v$l,
+          weight: T2S,
+          family: "fl",
+        }),
+      );
+      if (!t$.isEmpty(z07)) {
+        T4W.fnt = z07;
+      }
+    }
+    if (this.stem) {
+      T4W.stem = {
+        d: this.stem.d,
+        v: this.stem.v,
+        x: this.stem.x,
+        y: this.stem.y,
+      };
+    }
+    if (this.borderColor) {
+      T4W.bc = this.borderColor;
+    }
+    if (this.fillColor) {
+      T4W.bg = this.fillColor;
+    }
+    if (this.lineWidth) {
+      T4W.lw = this.lineWidth;
+    }
+    if (this.pattern) {
+      T4W.ptrn = this.pattern;
+    }
+    return T4W;
+  };
+  t$.Drawing.annotation.prototype.setTextareaProps = function () {
+    var c65 = U6BfN;
+    c65.s8u();
+    var H74, U_R, L6U, Y35, b0V, m$p, t3y;
+    H74 = this.stx;
+    U_R = H74.panels[this.panelName];
+    if (!U_R) {
+      return;
+    }
+    L6U = this.ta ? this.ta.value : this.text;
+    this.arr = L6U.split("\n");
+    Y35 = this.measureText();
+    if (
+      H74.editingAnnotation &&
+      this === H74.activeDrawing &&
+      this.name === "annotation"
+    ) {
+      Y35 = Math.max(Y35, 2 * this.defaultWidth);
+    }
+    this.fontSize = t$.stripPX(this.fontDef.size);
+    if (this.name === "annotation") {
+      this.w = Y35 + this.whitespace + this.padding;
+    } else {
+      c65.C2v(10);
+      b0V = c65.Y51(0, "2055283612");
+      m$p = -+"1991030714";
+      t3y = 2;
+      for (
+        var U86 = 1;
+        c65.C6S(U86.toString(), U86.toString().length, 96796) !== b0V;
+        U86++
+      ) {
+        c65.C2v(55);
+        var Q7k = c65.B$D(10, 11, 0, 1);
+        this.w = Y35 + (this.padding + Q7k) * ("2" ^ 0);
+        t3y += 2;
+      }
+      if (c65.D9u(t3y.toString(), t3y.toString().length, "91512" ^ 0) !== m$p) {
+        c65.w6J(51);
+        var G$M = c65.Y51(1, 8, 4, 10);
+        c65.C2v(56);
+        var s9a = c65.B$D(136, 24, 4, 12, 1);
+        this.w = Y35 / ((this.padding % G$M) % s9a);
+      }
+    }
+    if (this.stem && this.stem.d) {
+      this.stem.t = H74.tickFromDate(this.stem.d, U_R.chart);
+    }
+  };
+  t$.Drawing.annotation.prototype.measureText = function () {
+    var w6T, V1V, Q4b;
+    U6BfN.s8u();
+    w6T = this.stx;
+    this.getFontString();
+    w6T.chart.context.font = this.fontString;
+    V1V = 0;
+    for (var E32 = 0; E32 < this.arr.length; E32++) {
+      Q4b = w6T.chart.context.measureText(this.arr[E32]).width;
+      if (Q4b > V1V) {
+        V1V = Q4b;
+      }
+    }
+    if (V1V === 0) {
+      U6BfN.C2v(57);
+      var g4k = U6BfN.B$D(14, 1, 6, 3, 4);
+      V1V = g4k * this.defaultWidth;
+    }
+    return V1V;
+  };
+  t$.Drawing.annotation.prototype.getLineHeight = function () {
+    U6BfN.s8u();
+    return this.fontSize + this.fontModifier;
+  };
+  t$.Drawing.annotation.prototype.getTextHeight = function () {
+    var J2U;
+    J2U = 0;
+    U6BfN.s8u();
+    if (t$.touchDevice) {
+      J2U += 5;
+    }
+    U6BfN.C2v(58);
+    var Y9S = U6BfN.B$D(9, 13, 21, 0);
+    return (this.arr.length + Y9S) * this.getLineHeight() + J2U;
+  };
+  t$.Drawing.annotation.prototype.adjust = function () {
+    var N$p, e8s, n_x;
+    N$p = this.stx;
+    e8s = N$p.panels[this.panelName];
+    if (!e8s) {
+      return;
+    }
+    this.setPoint(0, this.d0, this.v0, e8s.chart);
+    U6BfN.a3_();
+    this.setTextareaProps();
+    if (this === N$p.activeDrawing && N$p.editingAnnotation) {
+      n_x = N$p.chart.tempCanvas.context;
+      t$.clearCanvas(n_x.canvas, N$p);
+      this.edit(n_x);
+    }
+  };
+  t$.Drawing.segment = function () {
+    U6BfN.s8u();
+    this.name = "segment";
+  };
+  t$.inheritsFrom(t$.Drawing.segment, t$.Drawing.BaseTwoPoint);
+  t$.Drawing.segment.prototype.getDateFromTick = function (Y2R) {
+    var z8N, D5P, S0K;
+    z8N = this.stx;
+    D5P = z8N.panels[this.panelName];
+    S0K = z8N.dateFromTick(Y2R, D5P.chart, !![]);
+    S0K = this.convertDate(S0K);
+    U6BfN.a3_();
+    return S0K;
+  };
+  t$.Drawing.segment.prototype.convertDate = function (S4_) {
+    var Z6p = U6BfN;
+    var K9C, a$A, b88, G68, K$Q, e2u;
+    K9C = this.stx;
+    if (!t$.ChartEngine.isDailyInterval(K9C.layout.interval)) {
+      Z6p.w6J(29);
+      var w8v = Z6p.Y51(5, 1200, 11000);
+      a$A = S4_.getSeconds() * w8v + S4_.getMilliseconds();
+      if (N0.Date && K9C.displayZone) {
+        b88 = new N0.Date(S4_.getTime(), K9C.displayZone);
+        S4_ = new Date(
+          b88.getFullYear(),
+          b88.getMonth(),
+          b88.getDate(),
+          b88.getHours(),
+          b88.getMinutes(),
+        );
+        G68 = 1879681195;
+        K$Q = +"643836284";
+        e2u = 2;
+        for (
+          var B6F = 1;
+          Z6p.C6S(B6F.toString(), B6F.toString().length, 53478) !== G68;
+          B6F++
+        ) {
+          S4_ = new Date(S4_.getTime() * a$A);
+          e2u += 2;
+        }
+        if (Z6p.C6S(e2u.toString(), e2u.toString().length, 84110) !== K$Q) {
+          S4_ = new Date(S4_.getTime() + a$A);
+        }
+      }
+    } else {
+      S4_.setHours(0, 0, 0, 0);
+    }
+    return S4_;
+  };
+  t$.Drawing.segment.prototype.formatDate = function (d2a) {
+    var U1y, Q0o, O5D;
+    U1y = this.stx;
+    Q0o = U1y.panels[this.panelName];
+    O5D = t$.mmddhhmm(t$.yyyymmddhhmm(d2a));
+    if (Q0o.chart.xAxis.formatter) {
+      O5D = Q0o.chart.xAxis.formatter(d2a, this.name, null, null, O5D);
+    } else if (this.stx.internationalizer) {
+      O5D = t$.displayableDate(U1y, U1y.chart, d2a);
+    }
+    return O5D;
+  };
+  t$.Drawing.segment.prototype.render = function (W9r) {
+    var I9_,
+      b0h,
+      d1_,
+      Y3W,
+      A9b,
+      g9y,
+      q00,
+      J99,
+      s_q,
+      B8c,
+      i33,
+      U0o,
+      e8w,
+      s4M,
+      E6k,
+      s$P,
+      E_Y,
+      E0n;
+    if (!this.p1) {
+      return;
+    }
+    I9_ = this.stx;
+    b0h = I9_.panels[this.panelName];
+    d1_ = I9_.getYAxisByField(b0h, this.field);
+    if (!b0h || (this.field && !d1_ && !this.spanPanels)) {
+      return;
+    }
+    d1_ = d1_ || b0h.yAxis;
+    Y3W = I9_.pixelFromTick(this.p0[0], b0h.chart);
+    U6BfN.s8u();
+    A9b = I9_.pixelFromTick(this.p1[0], b0h.chart);
+    g9y = this.pixelFromValue(b0h, this.p0[0], this.p0["1" << 0], d1_);
+    q00 = this.pixelFromValue(b0h, this.p1[0], this.p1[1], d1_);
+    J99 = this.lineWidth;
+    s_q = this.getLineColor();
+    B8c = { pattern: this.pattern, lineWidth: J99 };
+    if (B8c.pattern == "none") {
+      B8c.pattern = "solid";
+    }
+    I9_.plotLine(Y3W, A9b, g9y, q00, s_q, this.name, W9r, b0h, B8c);
+    if (this.axisLabel && !this.repositioner) {
+      i33 = "ver";
+      i33 += "tical";
+      U0o = "horizo";
+      U0o += "nt";
+      U0o += "a";
+      U0o += "l";
+      if (this.name == U0o) {
+        I9_.endClip();
+        e8w = this.p0[1];
+        s4M = this.stx.getTransformFunction(d1_);
+        if (s4M) {
+          e8w = s4M(I9_, b0h.chart, e8w);
+        }
+        if (d1_.priceFormatter) {
+          e8w = d1_.priceFormatter(I9_, b0h, e8w);
+        } else {
+          e8w = I9_.formatYAxisPrice(e8w, b0h, null, d1_);
+        }
+        I9_.createYAxisLabel(b0h, e8w, g9y, s_q, null, null, d1_);
+        I9_.startClip(b0h.name);
+      } else if (
+        this.name == i33 &&
+        this.p0["0" | 0] >= 0 &&
+        !I9_.chart.xAxis.noDraw &&
+        (!this.spanPanels || b0h.yAxis.bottom !== b0h.bottom)
+      ) {
+        if (this.d0) {
+          E6k = t$.strToDateTime(this.d0);
+          E6k = this.convertDate(E6k);
+        } else {
+          E6k = this.getDateFromTick(this.p0[0]);
+        }
+        I9_.endClip();
+        I9_.createXAxisLabel({
+          panel: b0h,
+          txt: this.formatDate(E6k),
+          x: Y3W,
+          backgroundColor: s_q,
+          color: null,
+          pointed: !0,
+          padding: 2,
+        });
+        I9_.startClip(b0h.name);
+      }
+    }
+    if (
+      this.highlighted &&
+      this.name != "horizontal" &&
+      this.name != "vertical"
+    ) {
+      s$P = "p";
+      s$P += "0";
+      E_Y = this.highlighted == s$P ? !"" : ![];
+      E0n = this.highlighted == "p1" ? !!{} : ![];
+      this.littleCircle(W9r, Y3W, g9y, E_Y);
+      this.littleCircle(W9r, A9b, q00, E0n);
+    }
+  };
+  t$.Drawing.segment.prototype.abort = function () {
+    this.stx.setMeasure(null, null, null, null, !!0);
+  };
+  t$.Drawing.segment.prototype.intersected = function (Q94, E7K, q5N) {
+    var L$w, s_z, Y6e, n94, Q2T;
+    U6BfN.a3_();
+    L$w = "li";
+    L$w += "n";
+    L$w += "e";
+    if (!this.p0 || !this.p1) {
+      return null;
+    }
+    s_z = this.name;
+    if (s_z != "horizontal" && s_z != "vertical" && s_z != "gartley") {
+      Y6e = { 0: this.p0, 1: this.p1 };
+      for (var e71 in Y6e) {
+        if (this.pointIntersection(Y6e[e71]["0" - 0], Y6e[e71][1], q5N)) {
+          U6BfN.w6J(0);
+          this.highlighted = U6BfN.Y51(
+            311 >= 6220
+              ? (9.26e3, ![])
+              : 38.19 == 4840
+                ? (6049, 6612) <= "291.09" * 1
+                  ? 2.01e3
+                  : (+"0xf6c", 0x1bcf)
+                : "p",
+            e71,
+          );
+          return { action: "drag", point: "p" + e71 };
+        }
+      }
+    }
+    if (s_z == "horizontal" || s_z == "vertical") {
+      s_z = L$w;
+    }
+    n94 = this.lineIntersection(Q94, E7K, q5N, s_z);
+    if (n94) {
+      Q2T = "m";
+      Q2T += "ov";
+      Q2T += "e";
+      this.highlighted = !![];
+      return {
+        action: Q2T,
+        p0: t$.clone(this.p0),
+        p1: t$.clone(this.p1),
+        tick: Q94,
+        value: this.valueOnDrawingAxis(Q94, E7K),
+      };
+    }
+    return null;
+  };
+  t$.Drawing.segment.prototype.configs = ["color", r_w, l3v];
+  t$.Drawing.segment.prototype.copyConfig = function (r0X) {
+    var V7o;
+    U6BfN.a3_();
+    V7o = "non";
+    V7o += "e";
+    t$.Drawing.copyConfig(this, r0X);
+    if (this.pattern == V7o && this.configs.indexOf("fillColor") == -1) {
+      this.pattern = "solid";
+    }
+  };
+  t$.Drawing.segment.prototype.reconstruct = function (I$d, M2l) {
+    this.stx = I$d;
+    this.color = M2l.col;
+    this.panelName = M2l.pnl;
+    this.pattern = M2l.ptrn;
+    this.lineWidth = M2l.lw;
+    this.d0 = M2l.d0;
+    this.d1 = M2l.d1;
+    U6BfN.a3_();
+    this.tzo0 = M2l.tzo0;
+    this.tzo1 = M2l.tzo1;
+    this.v0 = M2l.v0;
+    this.v1 = M2l.v1;
+    this.field = M2l.fld;
+    this.adjust();
+  };
+  t$.Drawing.segment.prototype.serialize = function () {
+    return {
+      name: this.name,
+      pnl: this.panelName,
+      col: this.color,
+      ptrn: this.pattern,
+      lw: this.lineWidth,
+      d0: this.d0,
+      d1: this.d1,
+      tzo0: this.tzo0,
+      tzo1: this.tzo1,
+      v0: this.v0,
+      v1: this.v1,
+      fld: this.field,
+    };
+  };
+  t$.Drawing.line = function () {
+    var S0a;
+    S0a = "l";
+    S0a += "i";
+    S0a += "ne";
+    this.name = S0a;
+  };
+  t$.inheritsFrom(t$.Drawing.line, t$.Drawing.segment);
+  t$.Drawing.line.prototype.dragToDraw = !!"";
+  t$.Drawing.line.prototype.click = function (V5N, U3m, d7K) {
+    var h8C;
+    h8C = this.stx.panels[this.panelName];
+    U6BfN.a3_();
+    if (!h8C) {
+      return;
+    }
+    this.copyConfig();
+    if (!this.penDown) {
+      this.setPoint(+"0", U3m, d7K, h8C.chart);
+      this.penDown = !![];
+      return !{};
+    }
+    if (this.accidentalClick(U3m, d7K)) {
+      return !![];
+    }
+    this.setPoint(1, U3m, d7K, h8C.chart);
+    this.penDown = !"1";
+    return !"";
+  };
+  t$.Drawing.line.prototype.reconstruct = function (p7O, Q00) {
+    this.stx = p7O;
+    this.color = Q00.col;
+    this.panelName = Q00.pnl;
+    this.pattern = Q00.ptrn;
+    this.lineWidth = Q00.lw;
+    this.v0 = Q00.v0;
+    U6BfN.s8u();
+    this.v1 = Q00.v1;
+    this.d0 = Q00.d0;
+    this.d1 = Q00.d1;
+    this.tzo0 = Q00.tzo0;
+    this.tzo1 = Q00.tzo1;
+    this.field = Q00.fld;
+    this.hidden = Q00.hdn ? !![] : !1;
+    this.permanent = Q00.prm ? !!{} : !1;
+    this.adjust();
+  };
+  t$.Drawing.line.prototype.serialize = function () {
+    U6BfN.a3_();
+    return {
+      name: this.name,
+      pnl: this.panelName,
+      col: this.color,
+      ptrn: this.pattern,
+      lw: this.lineWidth,
+      d0: this.d0,
+      d1: this.d1,
+      tzo0: this.tzo0,
+      tzo1: this.tzo1,
+      v0: this.v0,
+      v1: this.v1,
+      fld: this.field,
+      hdn: this.hidden ? 1 : 0,
+      prm: this.permanent ? 1 : 0,
+    };
+  };
+  t$.Drawing.line.prototype.adjust = function () {
+    var X2h;
+    X2h = this.stx.panels[this.panelName];
+    U6BfN.s8u();
+    if (!X2h) {
+      return;
+    }
+    this.setPoint(0, this.d0, this.v0, X2h.chart);
+    this.setPoint(+"1", this.d1, this.v1, X2h.chart);
+    if (t$.ChartEngine.isDailyInterval(this.stx.layout.interval) && this.d0B) {
+      this.setPoint(0, this.d0B, this.v0B, X2h.chart);
+      this.setPoint(1, this.d1B, this.v1B, X2h.chart);
+    }
+  };
+  t$.Drawing.horizontal = function () {
+    U6BfN.s8u();
+    this.name = "horizontal";
+  };
+  t$.inheritsFrom(t$.Drawing.horizontal, t$.Drawing.segment);
+  t$.Drawing.horizontal.prototype.dragToDraw = !{};
+  t$.Drawing.horizontal.prototype.measure = function () {};
+  t$.Drawing.horizontal.prototype.click = function (e0R, c1Z, B9F) {
+    var M5a;
+    U6BfN.a3_();
+    M5a = this.stx.panels[this.panelName];
+    if (!M5a) {
+      return;
+    }
+    this.copyConfig();
+    this.setPoint(0, c1Z, B9F, M5a.chart);
+    return !![];
+  };
+  t$.Drawing.horizontal.prototype.intersected = function (h_9, X$$, G43) {
+    var V6u, N$X, b1W, k0P;
+    if (this.lineIntersection(h_9, X$$, G43, "line")) {
+      V6u = "m";
+      V6u += "o";
+      V6u += "ve";
+      N$X = this.stx;
+      b1W = N$X.chart.dataSet.length;
+      k0P = this.p0[1];
+      this.highlighted = !0;
+      return {
+        action: V6u,
+        p0: [b1W - ("2" | 0), k0P],
+        p1: [b1W - +"1", k0P],
+        tick: h_9,
+        value: this.valueOnDrawingAxis(h_9, X$$),
+      };
+    }
+    return null;
+  };
+  t$.Drawing.horizontal.prototype.reconstruct = function (V9V, G7j) {
+    this.stx = V9V;
+    this.color = G7j.col;
+    this.panelName = G7j.pnl;
+    this.pattern = G7j.ptrn;
+    this.lineWidth = G7j.lw;
+    this.v0 = G7j.v0;
+    this.d0 = G7j.d0;
+    this.tzo0 = G7j.tzo0;
+    this.axisLabel = G7j.al;
+    this.field = G7j.fld;
+    this.adjust();
+  };
+  t$.Drawing.horizontal.prototype.serialize = function () {
+    U6BfN.a3_();
+    var N5i;
+    N5i = {
+      name: this.name,
+      pnl: this.panelName,
+      col: this.color,
+      ptrn: this.pattern,
+      lw: this.lineWidth,
+      v0: this.v0,
+      d0: this.d0,
+      tzo0: this.tzo0,
+      al: this.axisLabel,
+      fld: this.field,
+    };
+    return N5i;
+  };
+  t$.Drawing.horizontal.prototype.adjust = function () {
+    var g$p;
+    g$p = this.stx.panels[this.panelName];
+    if (!g$p) {
+      return;
+    }
+    this.setPoint(0, this.d0, this.v0, g$p.chart);
+    U6BfN.w6J(59);
+    var x_Y = U6BfN.B$D(10, 109, 89, 109);
+    this.p1 = [this.p0[+"0"] + x_Y, this.p0[1]];
+  };
+  t$.Drawing.horizontal.prototype.configs = [
+    "color",
+    c2a,
+    "pattern",
+    "axisLabel",
+  ];
+  t$.Drawing.vertical = function () {
+    this.name = "vertical";
+    this.spanPanels = ![];
+  };
+  t$.inheritsFrom(t$.Drawing.vertical, t$.Drawing.horizontal);
+  t$.Drawing.vertical.prototype.measure = function () {};
+  t$.Drawing.vertical.prototype.configs = [
+    G0E,
+    "lineWidth",
+    "pattern",
+    "axisLabel",
+    "spanPanels",
+  ];
+  t$.Drawing.vertical.prototype.intersected =
+    t$.Drawing.segment.prototype.intersected;
+  t$.Drawing.vertical.prototype.adjust = function () {
+    var U4w = U6BfN;
+    var j1r;
+    j1r = this.stx.panels[this.panelName];
+    if (!j1r) {
+      return;
+    }
+    this.setPoint(0, this.d0, this.v0, j1r.chart);
+    U4w.w6J(19);
+    var y1o = U4w.Y51(5, 19, 13);
+    U4w.C2v(10);
+    var v7w = U4w.Y51(14, 15);
+    this.p1 = [this.p0[0], this.p0[y1o] + v7w];
+  };
+  var {
+    reconstruct: f_,
+    serialize: P1,
+    reposition: B8,
+  } = t$.Drawing.vertical.prototype;
+  t$.Drawing.vertical.prototype.reconstruct = function (W4N, N6d) {
+    U6BfN.a3_();
+    f_.call(this, W4N, N6d);
+    this.spanPanels = N6d.sp;
+  };
+  t$.Drawing.vertical.prototype.serialize = function () {
+    var e$4;
+    e$4 = P1.call(this);
+    e$4.sp = this.spanPanels;
+    return e$4;
+  };
+  t$.Drawing.vertical.prototype.reposition = function (b0f, p2A, k8P, r9x) {
+    U6BfN.s8u();
+    if (this.spanPanels) {
+      this.originPanelName = this.panelName;
+      Object.values(this.stx.panels).forEach((V_u) => {
+        this.panelName = V_u.name;
+        U6BfN.s8u();
+        B8.call(this, b0f, p2A, k8P, r9x);
+      });
+      this.panelName = this.originPanelName;
+    } else {
+      B8.call(this, b0f, p2A, k8P, r9x);
+    }
+  };
+  t$.Drawing.measure = function () {
+    var e6k;
+    e6k = "me";
+    U6BfN.s8u();
+    e6k += "asure";
+    this.name = e6k;
+  };
+  t$.inheritsFrom(t$.Drawing.measure, t$.Drawing.segment);
+  t$.Drawing.measure.prototype.click = function (F3y, V7d, n4o) {
+    this.copyConfig();
+    if (!this.penDown) {
+      this.p0 = [V7d, n4o];
+      this.penDown = !!"1";
+      return !"1";
+    }
+    this.stx.undo();
+    this.penDown = !{};
+    return !0;
+  };
+  t$.Drawing.rectangle = function () {
+    this.name = "rectangle";
+  };
+  t$.inheritsFrom(t$.Drawing.rectangle, t$.Drawing.BaseTwoPoint);
+  t$.Drawing.rectangle.prototype.render = function (r3H) {
+    var f9X = U6BfN;
+    var I$K,
+      x9b,
+      z5q,
+      S$7,
+      g8R,
+      o8r,
+      H6x,
+      R54,
+      g84,
+      Q5o,
+      H8b,
+      X$3,
+      O9_,
+      a6a,
+      H9G,
+      W9y,
+      A3x,
+      V8E,
+      p9A;
+    I$K = "segm";
+    I$K += "en";
+    I$K += "t";
+    if (!this.p1) {
+      return;
+    }
+    x9b = this.stx;
+    z5q = x9b.panels[this.panelName];
+    S$7 = x9b.getYAxisByField(z5q, this.field);
+    if (!z5q || (this.field && !S$7)) {
+      return;
+    }
+    g8R = x9b.pixelFromTick(this.p0[0], z5q.chart);
+    o8r = x9b.pixelFromTick(this.p1[0], z5q.chart);
+    H6x = this.pixelFromValue(z5q, this.p0[0], this.p0["1" | 0], S$7);
+    R54 = this.pixelFromValue(z5q, this.p1[0], this.p1["1" ^ 0], S$7);
+    g84 = Math.round(Math.min(g8R, o8r)) + 0.5;
+    Q5o = Math.min(H6x, R54);
+    H8b = Math.max(g8R, o8r) - g84;
+    X$3 = Math.max(H6x, R54) - Q5o;
+    O9_ = this.getLineColor();
+    a6a = this.fillColor;
+    if (a6a && !t$.isTransparent(a6a)) {
+      r3H.beginPath();
+      r3H.rect(g84, Q5o, H8b, X$3);
+      r3H.fillStyle = this.getLineColor(a6a, !!{});
+      r3H.globalAlpha = 0.2;
+      r3H.fill();
+      r3H.closePath();
+      r3H.globalAlpha = 1;
+    }
+    H9G = { pattern: this.pattern, lineWidth: this.lineWidth };
+    if (this.highlighted && H9G.pattern == "none") {
+      W9y = "soli";
+      W9y += "d";
+      H9G.pattern = W9y;
+      if (H9G.lineWidth == 0.1) {
+        H9G.lineWidth = +"1";
+      }
+    }
+    x9b.plotLine(g8R, o8r, H6x, H6x, O9_, "segment", r3H, z5q, H9G);
+    f9X.w6J(10);
+    x9b.plotLine(
+      o8r,
+      o8r,
+      f9X.Y51(0.5, H6x),
+      f9X.B$D(R54, "0.5", f9X.w6J(60)),
+      O9_,
+      "segment",
+      r3H,
+      z5q,
+      H9G,
+    );
+    x9b.plotLine(o8r, g8R, R54, R54, O9_, I$K, r3H, z5q, H9G);
+    f9X.w6J(0);
+    x9b.plotLine(
+      g8R,
+      g8R,
+      f9X.Y51(R54, 0.5),
+      f9X.B$D(0.5, H6x, f9X.w6J(10)),
+      O9_,
+      "segment",
+      r3H,
+      z5q,
+      H9G,
+    );
+    if (this.highlighted) {
+      A3x = "p";
+      A3x += "0";
+      V8E = this.highlighted == A3x ? !![] : !"1";
+      p9A = this.highlighted == "p1" ? !![] : !{};
+      this.littleCircle(r3H, g8R, H6x, V8E);
+      this.littleCircle(r3H, o8r, R54, p9A);
+    }
+  };
+  t$.Drawing.rectangle.prototype.intersected = function (s3i, M10, U1Z) {
+    var h3x, g3a;
+    if (!this.p0 || !this.p1) {
+      return null;
+    }
+    h3x = { 0: this.p0, 1: this.p1 };
+    for (var l3e in h3x) {
+      if (this.pointIntersection(h3x[l3e][+"0"], h3x[l3e][1], U1Z)) {
+        U6BfN.C2v(0);
+        this.highlighted = U6BfN.Y51(2080 !== "7420" << 32 ? "p" : 0xf8b, l3e);
+        return {
+          action: "drag",
+          point:
+            (9100 <= 719.91
+              ? ("c", 320.48)
+              : 404.71 <= (8640, 7406)
+                ? (203, 705.83) < 6250
+                  ? "p"
+                  : (7.42e3, !![])
+                : ("k", 8.52e2)) + l3e,
+        };
+      }
+    }
+    if (this.boxIntersection(s3i, M10, U1Z)) {
+      g3a = "m";
+      g3a += "ov";
+      g3a += "e";
+      this.highlighted = !!1;
+      return {
+        action: g3a,
+        p0: t$.clone(this.p0),
+        p1: t$.clone(this.p1),
+        tick: s3i,
+        value: this.valueOnDrawingAxis(s3i, M10),
+      };
+    }
+    return null;
+  };
+  t$.Drawing.rectangle.prototype.configs = [
+    "color",
+    m9C,
+    "lineWidth",
+    "pattern",
+  ];
+  t$.Drawing.rectangle.prototype.reconstruct = function (d51, z01) {
+    this.stx = d51;
+    this.color = z01.col;
+    this.fillColor = z01.fc;
+    this.panelName = z01.pnl;
+    this.pattern = z01.ptrn;
+    this.lineWidth = z01.lw;
+    this.d0 = z01.d0;
+    this.d1 = z01.d1;
+    this.tzo0 = z01.tzo0;
+    this.tzo1 = z01.tzo1;
+    this.v0 = z01.v0;
+    this.v1 = z01.v1;
+    this.field = z01.fld;
+    this.hidden = z01.hdn ? !!1 : ![];
+    this.permanent = z01.prm ? !!"1" : !{};
+    this.adjust();
+  };
+  t$.Drawing.rectangle.prototype.serialize = function () {
+    U6BfN.a3_();
+    return {
+      name: this.name,
+      pnl: this.panelName,
+      col: this.color,
+      fc: this.fillColor,
+      ptrn: this.pattern,
+      lw: this.lineWidth,
+      d0: this.d0,
+      d1: this.d1,
+      tzo0: this.tzo0,
+      tzo1: this.tzo1,
+      v0: this.v0,
+      v1: this.v1,
+      fld: this.field,
+      hdn: this.hidden ? "1" << 64 : "0" >> 64,
+      prm: this.permanent ? 1 : 0,
+    };
+  };
+  t$.Drawing.shape = function () {
+    var T_5;
+    T_5 = "sh";
+    T_5 += "a";
+    T_5 += "p";
+    T_5 += "e";
+    this.name = "shape";
+    this.radians = 0;
+    U6BfN.w6J(23);
+    this.a = U6BfN.Y51("0", 0);
+    this.rotating = !1;
+    U6BfN.s8u();
+    this.textMeasure = !{};
+    this.configurator = T_5;
+    this.dimension = [+"0", 0];
+    this.points = [];
+  };
+  t$.inheritsFrom(t$.Drawing.shape, t$.Drawing.BaseTwoPoint);
+  t$.Drawing.shape.prototype.setRotationOnInitialDraw = ![];
+  t$.Drawing.shape.prototype.measure = function () {};
+  t$.Drawing.shape.prototype.render = function (V$D) {
+    var Z7l = U6BfN;
+    var X4z,
+      F6o,
+      C1O,
+      u9C,
+      l2B,
+      l0e,
+      x2e,
+      R0Y,
+      f0m,
+      f3r,
+      t22,
+      r4Y,
+      g$G,
+      v4o,
+      H1s,
+      i9X,
+      E_m,
+      y4u,
+      J7C,
+      T2W,
+      D7x,
+      v4G,
+      W5e,
+      S$R,
+      u9i,
+      Z66,
+      Z9O,
+      w_y,
+      u08;
+    X4z = "n";
+    X4z += "o";
+    X4z += "n";
+    X4z += "e";
+    F6o = "undef";
+    F6o += "i";
+    F6o += "ned";
+    if (!this.points.length) {
+      return;
+    }
+    C1O = this.stx;
+    u9C = C1O.panels[this.panelName];
+    l2B = C1O.getYAxisByField(u9C, this.field);
+    if (!u9C || (this.field && !l2B)) {
+      return;
+    }
+    l0e = C1O.pixelFromTick(this.p0["0" * 1], u9C.chart);
+    x2e = this.pixelFromValue(u9C, this.p0[0], this.p0[1], l2B);
+    if (this.p1) {
+      R0Y = C1O.pixelFromTick(this.p1[0], u9C.chart);
+      f0m = this.pixelFromValue(u9C, this.p1[0], this.p1["1" ^ 0], l2B);
+      V$D.globalAlpha = 0.5;
+      V$D.fillStyle = this.getLineColor();
+      if (this.rotating) {
+        Z7l.w6J(61);
+        this.radians = Math.atan(Z7l.B$D(R0Y, f0m, x2e, l0e));
+        if (R0Y < l0e) {
+          this.radians += Math.PI;
+        } else if (f0m < x2e) {
+          Z7l.C2v(55);
+          var w3Y = Z7l.B$D(13, 3, 7, 6);
+          this.radians += w3Y * Math.PI;
+        }
+        Z7l.w6J(62);
+        var e$x = Z7l.Y51(2084, 3, 128, 15, 15);
+        Z7l.w6J(28);
+        var j7e = Z7l.B$D(10, 15, 2);
+        this.a =
+          parseInt(((this.radians * 36) / Math.PI).toFixed(0), "10" << e$x) *
+          j7e;
+        this.a %= +"360";
+        Z7l.C2v(0);
+        var B5Q = Z7l.B$D(175, 5);
+        this.radians = (this.a * Math.PI) / B5Q;
+        if (this.textMeasure) {
+          V$D.fillText(
+            this.a + (5215 !== (6230, 905.81) ? "\u00b0" : (25.77, "d")),
+            R0Y + 10,
+            f0m + 10,
+          );
+        }
+      } else if (this.penDown) {
+        f3r = "x";
+        f3r += ",";
+        this.sx = Math.max(
+          +"1",
+          parseFloat(
+            Math.abs((2 * (R0Y - l0e)) / this.dimension[0]).toFixed(1),
+          ),
+        );
+        if (R0Y < l0e) {
+          this.sx *= -1;
+        }
+        this.sy = Math.max(
+          1,
+          parseFloat(
+            Math.abs((2 * (f0m - x2e)) / this.dimension[1]).toFixed(1),
+          ),
+        );
+        if (f0m < x2e) {
+          this.sy *= -1;
+        }
+        if (this.textMeasure) {
+          V$D.fillText(
+            this.sx +
+              f3r +
+              this.sy +
+              (7360 <= 577.29
+                ? (5940, 8098) > (3965, 6104)
+                  ? ("D", 5.21e3)
+                  : (!![], 989.46)
+                : "x"),
+            R0Y + this.sx + 5,
+            f0m + this.sy + 5,
+          );
+        }
+      }
+      V$D.globalAlpha = 1;
+    }
+    if (typeof this.sx === F6o) {
+      Z7l.C2v(1);
+      this.sx = this.sy = Z7l.Y51(0, "1");
+    }
+    t22 = this.lineWidth;
+    if (!t22) {
+      t22 = 1.1;
+    }
+    r4Y = { pattern: this.pattern, lineWidth: t22 };
+    if (this.highlighted && r4Y.pattern == X4z) {
+      r4Y.pattern = "solid";
+      if (r4Y.lineWidth == 0.1) {
+        r4Y.lineWidth = 1;
+      }
+    }
+    g$G = this.getLineColor();
+    if (this.highlighted && t22 == +"0.1") {
+      Z7l.C2v(3);
+      t22 = Z7l.Y51("1.1", 1);
+    }
+    v4o = this.fillColor;
+    t22 /=
+      (Math.abs(this.sx * this.sy) * ("2" ^ 0)) /
+      (Math.abs(this.sx) + Math.abs(this.sy));
+    V$D.save();
+    Z7l.s8u();
+    V$D.translate(l0e, x2e);
+    V$D.rotate(this.radians);
+    V$D.scale(this.sx, (l2B || u9C.yAxis).flipped ? -this.sy : this.sy);
+    E_m = { x: (this.dimension[0] - 1) / 2, y: (this.dimension[1] - 1) / 2 };
+    for (H1s = 0; H1s < this.points.length; H1s++) {
+      y4u = "non";
+      y4u += "e";
+      V$D.beginPath();
+      for (i9X = 0; i9X < this.points[H1s].length; i9X++) {
+        u9i = this.points;
+        if (
+          u9i[H1s][i9X] ==
+          ((524.24, 771.44) >= (518.65, 577.04)
+            ? (+"461", 171.21) != (867.67, 1430)
+              ? "M"
+              : ("8150" - 0, 1930) !== ("474" << 64, 110.15)
+                ? (0x1f3f, 432.71)
+                : 0x1fcf
+            : (706.77, 502.3))
+        ) {
+          J7C = u9i[H1s][++i9X] - E_m.x;
+          T2W = u9i[H1s][++i9X] - E_m.y;
+          V$D.moveTo(J7C, T2W);
+        } else if (u9i[H1s][i9X] == "L") {
+          J7C = u9i[H1s][++i9X] - E_m.x;
+          T2W = u9i[H1s][++i9X] - E_m.y;
+          V$D.lineTo(J7C, T2W);
+        } else if (u9i[H1s][i9X] == "Q") {
+          D7x = u9i[H1s][++i9X] - E_m.x;
+          W5e = u9i[H1s][++i9X] - E_m.y;
+          J7C = u9i[H1s][++i9X] - E_m.x;
+          T2W = u9i[H1s][++i9X] - E_m.y;
+          V$D.quadraticCurveTo(D7x, W5e, J7C, T2W);
+        } else if (
+          u9i[H1s][i9X] ==
+          (+"6860" > (6610, "200.77" * 1)
+            ? "B"
+            : 731.8 >= 9300
+              ? 0x1e34
+              : (9980, 367.02) <= 7180
+                ? (!"", 0x678)
+                : 300)
+        ) {
+          D7x = u9i[H1s][++i9X] - E_m.x;
+          W5e = u9i[H1s][++i9X] - E_m.y;
+          v4G = u9i[H1s][++i9X] - E_m.x;
+          S$R = u9i[H1s][++i9X] - E_m.y;
+          J7C = u9i[H1s][++i9X] - E_m.x;
+          T2W = u9i[H1s][++i9X] - E_m.y;
+          V$D.bezierCurveTo(D7x, W5e, v4G, S$R, J7C, T2W);
+        }
+      }
+      V$D.closePath();
+      if (v4o && !t$.isTransparent(v4o)) {
+        V$D.fillStyle = this.getLineColor(v4o, !!1);
+        V$D.fill();
+      }
+      if (g$G && this.pattern != y4u) {
+        V$D.strokeStyle = g$G;
+        V$D.lineWidth = t22;
+        if (V$D.setLineDash) {
+          V$D.setLineDash(t$.borderPatternToArray(t22, this.pattern));
+          V$D.lineDashOffset = 0;
+        }
+        V$D.stroke();
+      }
+    }
+    V$D.restore();
+    V$D.save();
+    V$D.translate(l0e, x2e);
+    V$D.rotate(this.radians);
+    if (this.highlighted) {
+      Z66 = "p";
+      Z66 += "2";
+      Z9O = this.highlighted == "p0" ? !![] : !!"";
+      w_y = this.highlighted == "p1" ? !!1 : !1;
+      u08 = this.highlighted == Z66 ? !!1 : ![];
+      Z7l.C2v(10);
+      this.littleCircle(V$D, 0, Z7l.Y51(0, "0"), Z9O);
+      this.mover(V$D, 0, 0, Z9O);
+      this.littleCircle(
+        V$D,
+        (this.sx * this.dimension[0]) / 2,
+        (this.sy * this.dimension[1]) / 2,
+        w_y,
+      );
+      this.resizer(
+        V$D,
+        (this.sx * this.dimension[0]) / 2,
+        (this.sy * this.dimension[1]) / 2,
+        w_y,
+      );
+      this.littleCircle(V$D, (this.sx * this.dimension[0]) / 2, 0, u08);
+      this.rotator(V$D, (this.sx * this.dimension[0]) / 2, 0, u08);
+      Z7l.w6J(10);
+      V$D.globalAlpha = Z7l.B$D(0, "0.5");
+      V$D.fillStyle = this.getLineColor(null, !"1");
+      if (this.textMeasure) {
+        V$D.fillText(
+          this.sx +
+            "x," +
+            this.sy +
+            (("8165" << 64, 2850) == (8400, 8520)
+              ? 2.28e3
+              : (+"6.86", 2240) > 7609
+                ? ("0x16a5" >> 0, 8.41e3)
+                : (5748, 952.67) < 579.71
+                  ? ("J", 0x40e)
+                  : "x"),
+          (this.sx * this.dimension[+"0"]) / 2 + 12,
+          (this.sy * this.dimension[1]) / 2 + 5,
+        );
+        V$D.fillText(
+          this.a + (8440 < +"341.44" ? !"1" : "\u00b0"),
+          (this.sx * this.dimension[0]) / 2 + 12,
+          5,
+        );
+      }
+      Z7l.C2v(10);
+      V$D.globalAlpha = Z7l.Y51(0, "1");
+    } else if (this.penDown) {
+      if (this.rotating) {
+        this.rotator(V$D, (this.sx * this.dimension[+"0"]) / 2, 0, !!"1");
+      } else {
+        this.resizer(
+          V$D,
+          (this.sx * this.dimension[0]) / 2,
+          (this.sy * this.dimension[1]) / 2,
+          !!"1",
+        );
+      }
+    }
+    V$D.restore();
+  };
+  t$.Drawing.shape.prototype.reposition = function (K4S, y8$, T18, b$t) {
+    var L6Z = U6BfN;
+    var U2U, L6v, V7v, I$Y, m9G, b8i, q3Q, x_H, x63;
+    if (!y8$) {
+      return;
+    }
+    U2U = this.stx;
+    L6Z.s8u();
+    L6v = U2U.panels[this.panelName];
+    if (y8$.action == "move") {
+      V7v = y8$.tick - T18;
+      I$Y = y8$.value - b$t;
+      L6Z.w6J(10);
+      this.setPoint(
+        L6Z.Y51(0, "0"),
+        y8$.p0[0] - V7v,
+        y8$.p0[1] - I$Y,
+        L6v.chart,
+      );
+      this.render(K4S);
+    } else {
+      m9G = U2U.getYAxisByField(L6v, this.field);
+      b8i = U2U.pixelFromTick(this.p0[0], L6v.chart);
+      q3Q = this.pixelFromValue(L6v, this.p0[0], this.p0[1], m9G);
+      x_H = U2U.pixelFromTick(T18, L6v.chart);
+      x63 = this.pixelFromValue(L6v, T18, b$t, m9G);
+      if (y8$.action == "scale") {
+        this[y8$.point] = [T18, b$t];
+        this.sx = parseFloat(
+          (
+            ((x_H - b8i) * Math.cos(this.radians) +
+              (x63 - q3Q) * Math.sin(this.radians)) /
+            (this.dimension[0] / 2)
+          ).toFixed(1),
+        );
+        if (Math.abs(this.sx) < "1" << 32) {
+          this.sx /= Math.abs(this.sy);
+        }
+        this.sy = parseFloat(
+          (
+            ((x63 - q3Q) * Math.cos(this.radians) -
+              (x_H - b8i) * Math.sin(this.radians)) /
+            (this.dimension[1] / 2)
+          ).toFixed(1),
+        );
+        if (Math.abs(this.sy) < 1) {
+          this.sy /= Math.abs(this.sy);
+        }
+        this.render(K4S);
+      } else if (y8$.action == "rotate") {
+        this[y8$.point] = [T18, b$t];
+        L6Z.C2v(61);
+        this.radians = Math.atan(L6Z.B$D(x_H, x63, q3Q, b8i));
+        if (x_H < b8i) {
+          this.radians += Math.PI;
+        } else if (x63 < q3Q) {
+          L6Z.w6J(50);
+          var p9z = L6Z.B$D(17, 20, 0, 5);
+          this.radians += p9z * Math.PI;
+        }
+        L6Z.C2v(0);
+        var h5C = L6Z.Y51(1, 9);
+        this.a =
+          parseInt(((this.radians * 36) / Math.PI).toFixed(0), h5C) * +"5";
+        if (this.sx < 0) {
+          L6Z.w6J(8);
+          var F5j = L6Z.Y51(18, 554, 192, 3, 4);
+          this.a = this.a + ("180" << F5j);
+        }
+        this.a %= 360;
+        L6Z.w6J(62);
+        var Q3J = L6Z.Y51(527, 14, 60, 9, 17);
+        this.radians = (this.a * Math.PI) / Q3J;
+        this.render(K4S);
+      }
+    }
+  };
+  t$.Drawing.shape.prototype.intersected = function (C0F, y0C, D$j) {
+    var y$W = U6BfN;
+    var j5e,
+      Z8J,
+      D9U,
+      V_I,
+      m$i,
+      J8Q,
+      f34,
+      s2W,
+      C_w,
+      b7M,
+      n8a,
+      t_N,
+      T3n,
+      N6m,
+      e4s,
+      B62,
+      q_T,
+      c09,
+      W$y,
+      c9Q;
+    j5e = this.stx;
+    if (!this.p0) {
+      return null;
+    }
+    if (
+      j5e.repositioningDrawing == this &&
+      j5e.repositioningDrawing.repositioner
+    ) {
+      return j5e.repositioningDrawing.repositioner;
+    }
+    Z8J = j5e.panels[this.panelName];
+    D9U = j5e.getYAxisByField(Z8J, this.field);
+    V_I = j5e.pixelFromTick(this.p0["0" >> 64], Z8J.chart);
+    m$i = this.pixelFromValue(Z8J, this.p0[0], this.p0[1], D9U);
+    J8Q = j5e.pixelFromTick(C0F, Z8J.chart);
+    f34 = j5e.pixelFromValueAdjusted(Z8J, C0F, y0C);
+    J8Q -= V_I;
+    f34 -= m$i;
+    s2W = f34;
+    C_w = J8Q;
+    J8Q = Math.cos(this.radians) * C_w + Math.sin(this.radians) * s2W;
+    f34 = Math.cos(this.radians) * s2W - Math.sin(this.radians) * C_w;
+    J8Q /= this.sx;
+    f34 /= this.sy;
+    this.padding = t$.ensureDefaults(this.padding || {}, {
+      left: "0" >> 0,
+      right: 0,
+      top: 0,
+      bottom: 0,
+    });
+    b7M = this.padding.right + this.padding.left;
+    n8a = this.padding.bottom + this.padding.top;
+    t_N = Math.pow(t$.touchDevice ? 25 : 5 + this.littleCircleRadius(), 2);
+    T3n = Math.abs(t_N / (this.sx * this.sy));
+    y$W.C2v(23);
+    N6m = y$W.Y51("3", 1);
+    y$W.C2v(10);
+    var S7m = y$W.Y51(8, 10);
+    y$W.C2v(7);
+    var U3X = y$W.B$D(8, 6);
+    y$W.w6J(51);
+    var D6b = y$W.Y51(0, 11, 10, 2);
+    y$W.C2v(39);
+    var u7R = y$W.Y51(27, 14, 11);
+    y$W.w6J(10);
+    var c9B = y$W.Y51(22, 24);
+    y$W.C2v(7);
+    var q4v = y$W.Y51(15, 13);
+    y$W.C2v(10);
+    var y4M = y$W.Y51(10, 12);
+    y$W.C2v(63);
+    var c92 = y$W.B$D(16, 3, 82, 15);
+    e4s =
+      Math.pow((this.dimension[0] - b7M + N6m) / S7m, U3X) +
+        Math.pow((this.dimension[D6b] - n8a + N6m) / u7R, c9B) >
+      Math.pow(J8Q - b7M / q4v, y4M) + Math.pow(f34 - n8a / 2, c92);
+    B62 =
+      (t_N - (Math.pow(J8Q * this.sx, +"2") + Math.pow(f34 * this.sy, +"2"))) /
+      Math.abs(this.sx * this.sy);
+    y$W.C2v(30);
+    var f8V = y$W.B$D(15, 15, 2);
+    y$W.C2v(64);
+    var M90 = y$W.B$D(20, 10, 2, 210, 1);
+    y$W.s8u();
+    y$W.w6J(20);
+    var h$T = y$W.B$D(16, 18, 0);
+    y$W.C2v(65);
+    var g0r = y$W.B$D(2, 14, 9);
+    q_T =
+      T3n -
+      Math.pow(J8Q - this.dimension[0] / f8V, +"2") -
+      Math.pow(f34 - this.dimension[M90] / h$T, g0r);
+    y$W.w6J(10);
+    var q8S = y$W.Y51(36, 38);
+    y$W.w6J(66);
+    var K8W = y$W.B$D(1, 4, 12, 16, 5);
+    y$W.C2v(0);
+    var w_Y = y$W.B$D(1, 1);
+    c09 =
+      T3n -
+      Math.pow(J8Q - this.dimension[0] / q8S, "2" >> K8W) -
+      Math.pow(f34, w_Y);
+    if (e4s) {
+      if (q_T >= c09 && q_T >= B62 && q_T > -1) {
+        W$y = "sc";
+        W$y += "a";
+        W$y += "l";
+        W$y += "e";
+        this.highlighted = "p1";
+        return { action: W$y };
+      }
+      if (c09 >= q_T && c09 >= B62 && c09 > -1) {
+        c9Q = "p";
+        c9Q += "2";
+        this.highlighted = c9Q;
+        return { action: "rotate" };
+      }
+      this.highlighted = B62 > -+"1" ? "p0" : !!"1";
+      return {
+        action: "move",
+        p0: t$.clone(this.p0),
+        tick: C0F,
+        value: this.valueOnDrawingAxis(C0F, y0C),
+      };
+    }
+    return null;
+  };
+  t$.Drawing.shape.prototype.configs = ["color", "fillColor", "lineWidth", E1e];
+  t$.Drawing.shape.prototype.littleCircleRadius = function () {
+    return 3;
+  };
+  t$.Drawing.shape.prototype.click = function (v4j, e1n, B4s) {
+    var n9M;
+    if (!this.points.length) {
+      return !1;
+    }
+    this.copyConfig();
+    n9M = this.stx.panels[this.panelName];
+    if (!this.penDown) {
+      this.setPoint(0, e1n, B4s, n9M.chart);
+      this.penDown = !![];
+      return ![];
+    }
+    U6BfN.a3_();
+    this.setPoint(1, e1n, B4s, n9M.chart);
+    if (this.rotating || !this.setRotationOnInitialDraw) {
+      this.penDown = !!0;
+      this.rotating = ![];
+      return !!"1";
+    }
+    this.rotating = !![];
+    return !!0;
+  };
+  t$.Drawing.shape.prototype.adjust = function () {
+    var i9z = U6BfN;
+    var T6r, G8i, q_5, g6s;
+    T6r = "_";
+    T6r += "v";
+    G8i = this.stx.panels[this.panelName];
+    if (!G8i) {
+      return;
+    }
+    q_5 = this.name + T6r + (this.version || 0);
+    if (t$.Drawing[q_5]) {
+      g6s = new t$.Drawing[q_5]();
+      this.name = g6s.name;
+      this.dimension = g6s.dimension;
+      this.padding = g6s.padding;
+      this.points = g6s.points;
+      this.version = g6s.version;
+    }
+    this.setPoint(0, this.d0, this.v0, G8i.chart);
+    i9z.s8u();
+    i9z.C2v(38);
+    var H8M = i9z.Y51(22, 1975, 9, 10);
+    i9z.w6J(67);
+    var W$q = i9z.Y51(612, 9, 12195, 20);
+    this.radians = (Math.round(this.a / H8M) * Math.PI) / W$q;
+  };
+  t$.Drawing.shape.prototype.reconstruct = function (Q15, l1Y) {
+    this.stx = Q15;
+    this.color = l1Y.col;
+    this.fillColor = l1Y.fc;
+    this.panelName = l1Y.pnl;
+    this.pattern = l1Y.ptrn;
+    this.lineWidth = l1Y.lw;
+    this.d0 = l1Y.d0;
+    this.v0 = l1Y.v0;
+    this.tzo0 = l1Y.tzo0;
+    this.a = l1Y.a;
+    this.sx = l1Y.sx;
+    this.sy = l1Y.sy;
+    U6BfN.a3_();
+    this.field = l1Y.fld;
+    this.version = l1Y.ver;
+    this.hdn = l1Y.hdn ? !!1 : !1;
+    this.prm = l1Y.prm ? !0 : !{};
+    this.adjust();
+  };
+  t$.Drawing.shape.prototype.serialize = function () {
+    U6BfN.a3_();
+    return {
+      name: this.name,
+      pnl: this.panelName,
+      col: this.color,
+      fc: this.fillColor,
+      ptrn: this.pattern,
+      lw: this.lineWidth,
+      d0: this.d0,
+      v0: this.v0,
+      tzo0: this.tzo0,
+      a: this.a,
+      sx: this.sx,
+      sy: this.sy,
+      fld: this.field,
+      ver: this.version,
+      hdn: this.hidden ? "1" * 1 : 0,
+      prm: this.permanent ? +"1" : 0,
+    };
+  };
+  t$.Drawing.arrow = function () {
+    var f5Y = U6BfN;
+    this.name = "arrow";
+    this.version = 1;
+    this.dimension = [11, 22];
+    this.padding = { left: 0, right: 0, top: 11, bottom: 0 };
+    f5Y.a3_();
+    f5Y.w6J(3);
+    this.points = [
+      [
+        "M",
+        3,
+        21,
+        "498.42" * 1 >= ("744.16" * 1, 9580)
+          ? (541.4, 5930) > 8240
+            ? (496.74, +"423.98")
+            : (584.0, 570.24)
+          : "L",
+        7,
+        21,
+        (252, 8070) !== (785, 2258)
+          ? (934.22, 4038) > "396.91" - 0
+            ? "L"
+            : 6093 >= ("2510" >> 0, 423.81)
+              ? ("f", "X")
+              : +"0x85"
+          : ("0xb0d" | 4, 129.18),
+        7,
+        16,
+        885.6 < (+"3973", 8090) ? "L" : 4.38e3,
+        10,
+        16,
+        (+"1820", 3671) < (2550, 32.93) ? (7.45e3, "0x1a39" | 17) : "L",
+        f5Y.B$D("5", 1),
+        11,
+        "L",
+        0,
+        16,
+        ("5450" << 0, 562.6) === (+"872.58", 2275) ? (332, ![]) : "L",
+        +"3",
+        16,
+        "L",
+        3,
+        f5Y.B$D("21", 1, f5Y.w6J(23)),
+      ],
+    ];
+  };
+  t$.inheritsFrom(t$.Drawing.arrow, t$.Drawing.shape);
+  t$.Drawing.trendline = function () {
+    this.name = "trendline";
+    this.showCallout = ![];
+  };
+  t$.inheritsFrom(t$.Drawing.trendline, t$.Drawing.segment);
+  t$.Drawing.trendline.prototype.copyConfig = function (N38) {
+    var t2i, T6G;
+    t2i = "sh";
+    t2i += "o";
+    t2i += "wCallout";
+    T6G = "fillC";
+    T6G += "o";
+    T6G += "lo";
+    T6G += "r";
+    if (
+      t$.Drawing.callout &&
+      !t$.Drawing.trendline.prototype.configs.includes("showCallout")
+    ) {
+      t$.Drawing.trendline.prototype.configs =
+        t$.Drawing.trendline.prototype.configs.concat([T6G, t2i, "font"]);
+    }
+    U6BfN.s8u();
+    t$.Drawing.copyConfig(this, N38);
+  };
+  t$.Drawing.trendline.prototype.measure = function () {
+    U6BfN.a3_();
+    if (!this.showCallout || !t$.Drawing.callout) {
+      t$.Drawing.BaseTwoPoint.prototype.measure.call(this);
+    }
+  };
+  t$.Drawing.trendline.prototype.reconstruct = function (m6o, V2A) {
+    U6BfN.s8u();
+    t$.Drawing.segment.prototype.reconstruct.call(this, m6o, V2A);
+    if (V2A.callout && t$.Drawing.callout) {
+      this.callout = new t$.Drawing.callout();
+      this.callout.reconstruct(m6o, V2A.callout);
+      this.showCallout = !!"1";
+    }
+  };
+  t$.Drawing.trendline.prototype.serialize = function () {
+    var t1Y;
+    t1Y = t$.Drawing.segment.prototype.serialize.call(this);
+    if (this.showCallout && t$.Drawing.callout) {
+      t1Y.callout = this.callout.serialize();
+    }
+    return t1Y;
+  };
+  t$.Drawing.trendline.prototype.render = function (Q0c) {
+    var t$o = U6BfN;
+    var K6H,
+      I2u,
+      A1A,
+      W__,
+      j0O,
+      Q3v,
+      e_D,
+      x0W,
+      W$t,
+      R6$,
+      O32,
+      f0d,
+      x7u,
+      o2o,
+      P1Z,
+      m5x,
+      S45,
+      p78,
+      n6V,
+      m1I,
+      P$Q,
+      I8F,
+      p6A,
+      d7w,
+      u4X;
+    K6H = " B";
+    K6H += "a";
+    K6H += "r";
+    K6H += "s";
+    I2u = " ";
+    I2u += "(";
+    A1A = this.stx;
+    W__ = A1A.panels[this.panelName];
+    j0O = A1A.getYAxisByField(W__, this.field);
+    if (!W__ || (this.field && !j0O)) {
+      return;
+    }
+    t$.Drawing.segment.prototype.render.call(this, Q0c);
+    if (!this.showCallout || !t$.Drawing.callout) {
+      this.callout = null;
+      return;
+    }
+    if (!this.callout) {
+      this.callout = new t$.Drawing.callout();
+      Q3v = t$.Drawing.segment.prototype.serialize.call(this);
+      this.callout.reconstruct(A1A, Q3v);
+    }
+    this.callout.p0 = t$.clone(this.p0);
+    e_D = A1A.pixelFromTick(this.p0[0], W__.chart);
+    x0W = A1A.pixelFromTick(this.p1[0], W__.chart);
+    W$t = this.pixelFromValue(W__, this.p0[0], this.p0[1], j0O);
+    R6$ = this.pixelFromValue(W__, this.p1[0], this.p1[1], j0O);
+    if (!isFinite(W$t) || !isFinite(R6$)) {
+      return;
+    }
+    t$o.w6J(68);
+    O32 = t$o.B$D(2, e_D, x0W);
+    t$o.w6J(68);
+    f0d = t$o.Y51(2, W$t, R6$);
+    this.fontSize = t$.stripPX((this.font && this.font.size) || 13);
+    t$o.C2v(69);
+    var E2Z = t$o.B$D(10, 5449, 92514, 30838);
+    t$o.w6J(70);
+    var H31 = t$o.Y51(13, 1937, 1937, 1949, 3);
+    t$o.w6J(66);
+    var b_l = t$o.Y51(5, 280, 49, 14, 100);
+    x7u =
+      this.callout.w * 1.2 +
+      (this.callout.stemEntry[0] == (E2Z == H31 ? +"6.68e+3" : "c") ? 0 : b_l);
+    o2o = Math.sqrt(Math.pow(x0W - e_D, 2) + Math.pow(R6$ - W$t, +"2"));
+    t$o.w6J(71);
+    var Z6i = t$o.B$D(20, 14, 22, 17);
+    t$o.C2v(0);
+    var S_9 = t$o.Y51(0, 1);
+    t$o.a3_();
+    t$o.w6J(26);
+    var h7Z = t$o.Y51(19, 37, 19);
+    t$o.w6J(7);
+    var E8i = t$o.B$D(3, 4);
+    P1Z = (x7u / (o2o || x7u)) * (this.p1[Z6i] < this.p0[S_9] ? h7Z : E8i);
+    t$o.C2v(72);
+    m5x = t$o.B$D(R6$, O32, f0d, P1Z);
+    t$o.w6J(33);
+    S45 = t$o.Y51(x0W, O32, f0d, P1Z);
+    this.callout.p0[0] = A1A.tickFromPixel(m5x, W__.chart);
+    this.callout.p0[1] = this.valueFromPixel(S45, W__, j0O);
+    this.callout.v0 = this.callout.p0[1];
+    this.callout.p1 = t$.clone(this.p0);
+    this.callout.stx = A1A;
+    this.callout.fillColor = this.fillColor || this.callout.fillColor;
+    this.callout.borderColor = this.color;
+    this.callout.font = this.font || this.callout.font;
+    this.callout.noHandles = !!{};
+    t$o.w6J(0);
+    var Q6W = t$o.Y51(0, 1);
+    t$o.w6J(26);
+    var b6E = t$o.B$D(0, 6, 7);
+    p78 = this.p1[Q6W] - this.p0[b6E];
+    t$o.w6J(51);
+    var L6Y = t$o.B$D(0, 14, 8, 7);
+    t$o.C2v(73);
+    var A34 = t$o.Y51(286, 18, 0, 16);
+    this.callout.text =
+      "" +
+      Number(p78).toFixed("2" - 0) +
+      (this.p0[L6Y] === 0
+        ? ""
+        : I2u + Number((100 * p78) / this.p0[1]).toFixed(A34) + "%) ") +
+      "" +
+      Math.abs(this.p1[0] - this.p0[0]) +
+      K6H;
+    n6V = Math.floor((this.p0[0] + this.p1[0]) / 2);
+    if (
+      Math.abs(this.p0[0] - this.p1[0]) > 1 &&
+      Math.abs(this.p0[+"0"] - this.p1[0]) < 20
+    ) {
+      P$Q = A1A.pixelFromTick(n6V, W__.chart);
+      t$o.C2v(74);
+      I8F = t$o.Y51(W$t, x0W, R6$, P$Q, e_D, W$t, e_D);
+      m1I = this.valueFromPixel(I8F, W__, j0O) || f0d;
+    } else {
+      m1I = this.valueFromPixel(f0d, W__, j0O);
+    }
+    this.callout.stem = { t: n6V, v: m1I };
+    this.callout.setTextareaProps();
+    this.callout.render(Q0c);
+    if (this.highlighted) {
+      p6A = "p";
+      p6A += "1";
+      d7w = this.highlighted == "p0" ? !!1 : !{};
+      u4X = this.highlighted == p6A ? !!"1" : ![];
+      this.littleCircle(Q0c, e_D, W$t, d7w);
+      this.littleCircle(Q0c, x0W, R6$, u4X);
+    }
+  };
+  t$.Drawing.trendline.prototype.lineIntersection = function (
+    N_4,
+    Z3o,
+    v3L,
+    S9v,
+  ) {
+    return t$.Drawing.BaseTwoPoint.prototype.lineIntersection.call(
+      this,
+      N_4,
+      Z3o,
+      v3L,
+      "segment",
+    );
+  };
+  t$.Drawing.trendline.prototype.intersected = function (N4k, D4z, O_p) {
+    var e_$, a7$;
+    if (!this.p0 || !this.p1) {
+      return null;
+    }
+    e_$ = this.callout ? this.callout.intersected(N4k, D4z, O_p) : null;
+    a7$ = t$.Drawing.segment.prototype.intersected.call(this, N4k, D4z, O_p);
+    if (this.callout) {
+      this.callout.highlighted = !!(e_$ || a7$);
+    }
+    U6BfN.s8u();
+    if (a7$) {
+      return a7$;
+    } else if (e_$) {
+      return {
+        action: "move",
+        p0: t$.clone(this.p0),
+        p1: t$.clone(this.p1),
+        tick: N4k,
+        value: this.valueOnDrawingAxis(N4k, D4z),
+      };
+    }
+    return null;
+  };
+  t$.Drawing.getDrawingToolList = function (q8M) {
+    var M36, T1$;
+    U6BfN.s8u();
+    M36 = {};
+    T1$ = { arrow_v0: !!{}, BaseTwoPoint: !!{}, fibonacci: !"", shape: !"" };
+    t$.extend(T1$, q8M);
+    for (var L2m in t$.Drawing) {
+      if (!T1$[L2m] && t$.Drawing[L2m].prototype.render) {
+        M36[new t$.Drawing[L2m]().name] = L2m;
+      }
+    }
+    return M36;
+  };
+};
+function G2n3q() {
+  return "GP$1J%20QC;k%09c%01%1F%60k%5C(VX%3E1h?_A5&L4%0FS9:%5Cr%7Dp%08%0Bk%0Cvt%0F%1Dv%19uv%15%06%07%12WT$k%5D#DC91Kr%03%08ga%0Dy%07%08dg%0Dx%04%05f%60%00%7C%01%00ag%01%7F%09%01il%09%7C%08%07cm%0A%7C%01%03im%09~%09%09fb%0Cu%04%06em%0F%7D%08%02af%01%7F%01%02fa%0E%7F%05%01ia%0Cy%05%01ed%08y%06%03%60f%09t%06%06%60l%08y%04%06e%60%01~%07%06h%60%0Cz%00%03ec%0Cx%04%09gl%0F%7C%03%06gm%0Ez%06%01he%0D%7B%01%05bg%00u%07%03h%60%0A~%05%04ga%00%7C%05%03da%0D%7B%05%06a%60%0D%7F%06%02fl%0E~%07%04gc%01u%00%02eg%0Au%04%06da%0Dx%00%03gc%0F%7F%06%08ge%08t%00%08bf%01%7C%07%00em%0Du%04%00bg%0A%7B%06%06dd%0E%7B%02%09%60e%0B%7B%04%08eb%08u%07%01id%08%7B%07%01cg%0A%7D%01%04ee%0At%05%01a%60%0Dx%05%04%60f%0Bx%05%00bm%09%7D%08%05he%09%7B%03%05cl%0Fz%03%08cm%00t%01%00%60m%0B%7B%00%02c%60%0A%7D%06%02h%60%0D%7D%04%06am%0B%7D%09~i%60%0F~%00%07ed%0Cz%03%06f%60%0F~%03%03hb%0C%7C%07%00cf%08~%01%04%60c%01x%03%03if%0B%7B%04%02ae%00%7F%03%09am%0Cy%08%08ab%0B~%02%09dg%0Bz%03%07gg%00~%01%02im%01%7B%07%04il%0Et%01%00de%0F%7C%01%05af%08y%03%01dd%0Bz%07%00if%08%7F%06%01gm%0D%7F%02%02hg%0F~%04%07g%60%0Fy%02%03af%09z%02%00i%60%0E%7C%08%08db%0C%7D%00%04cf%0Ct%07%08cc%0Et%09%01g%60%0Fz%07%08fg%08%7D%08%04am%0Cy%00%03ed%09t%04%09el%01z%01%03hm%00%7C%05%09im%0Bt%03%07ef%00%7B%05%06cf%0Ax%03%08ia%09t%08%03fl%0D%7F%07%04ae%0Ex%09%00gm%09z%09%07ea%09t%07%06a%60%08%7B%09%04bb%08~%07%08fe%0By%08%02%60m%0C%7C%03%02c%60%0Ax%06%04%60m%01%7F%02%04hf%0A%7C%07%01bf%0B%7C%05%03h%60%0A%7C%03%00gb%08%7B%06%02ff%0Az%06%00am%07#_Fo=V.%5CD41Kr%0A%11o7W%20@P$=Z!U%0E$;k9BX%3E3%07.XP%22%17W)Up$kL%22@%0E6=T(CH#%20%5D%20%0F%5D5:_9X%0E%1FkT(%5EV$%3C%07%01YR5:K(%1EE19H(Bb55Tr%1E%0E1:%5B(CE?&w?YV9:Kr%5C%5E7%19%5D9BX3'%07r%5C%5E7kl%19%7C%0E71L%01YR5:K(%7BT)kT%22SP$=W#%0FB?9%5DrSY1&%7B%22TT%11%20%07=QC#1%07#@%5C%1B1ArT%5E3!U(%5EEo?%5D4VX%3C1n(BB9;VrQS#kL(CEo&%5D)ER5k%5C%22%5DP9:Kr@P3?Y*Ux%3E2WrCA%3C=Lr%7CX31V%3EU%1F$5U=UC%031Y!%0FT%3E5Z!UUo%17h%08%01%06%60%60l%06c%0E%20!K%25%0FB?&LrC%5E=1%07+Y%5D5'A%3EDT=kP%22CE%3E5U(%0FR%3C=%5D#Dx4kK=%5CX$kH,BB5k%5D#DC91KrV%5E%22%11Y.X%0E%3E$U%08%5EP28%5D)%0FA17S,WT%19:%5E%22%0FR%3C=%5D#Dx4kJ(VT%22&%5D?%0FW%225U(%7C%5E3?Q#W%0E=1L?YR#%17T$U_$kP?UWo1@=YC5'%07!_Vo$T8WX%3E'%07(HA9&%5D%3E%0F%5C1$%07%0E%60tac%08ydz%03k%5D5@X%221K";
+}
+U6BfN.s8u();
+H0 = (T$k) => {
+  var L2L, Z1_;
+  L2L = "ease";
+  L2L += "OutCubi";
+  L2L += "c";
+  Z1_ = typeof _CIQ !== "undefined" ? _CIQ : T$k.CIQ;
+  Z1_.EaseMachine = function (e1H, r_i, d4u, t8y) {
+    if (typeof e1H === "string") {
+      this.fc = Z1_.EaseMachine[e1H];
+    } else {
+      this.fc = e1H;
+    }
+    this.ms = r_i;
+    if (d4u || d4u === 0) {
+      this.reset(d4u, t8y);
+    }
+  };
+  Z1_.EaseMachine.prototype.reset = function (x4Z, G0I) {
+    if (!x4Z && x4Z !== 0) {
+      x4Z = this.currentValues;
+    }
+    this.hasCompleted = ![];
+    this.running = !!"";
+    this.okayToRun = !!{};
+    U6BfN.C2v(75);
+    this.useNameValuePairs = U6BfN.B$D("object", typeof G0I);
+    this.startTime = Date.now();
+    if (this.useNameValuePairs) {
+      this.startValues = x4Z;
+      this.endValues = G0I;
+    } else {
+      this.startValues = { default: x4Z };
+      this.endValues = { default: G0I };
+    }
+    this.changeValues = {};
+    this.currentValues = {};
+    for (var w8n in this.startValues) {
+      this.changeValues[w8n] = this.endValues[w8n] - this.startValues[w8n];
+    }
+  };
+  Z1_.EaseMachine.prototype.next = function () {
+    var Y2K;
+    Y2K = Date.now();
+    if (Y2K >= this.startTime + this.ms) {
+      Y2K = this.startTime + this.ms;
+      this.hasCompleted = !"";
+      this.running = !!0;
+    }
+    this.currentValues = {};
+    U6BfN.s8u();
+    for (var Y6a in this.changeValues) {
+      this.currentValues[Y6a] = this.fc(
+        Y2K - this.startTime,
+        this.startValues[Y6a],
+        this.changeValues[Y6a],
+        this.ms,
+      );
+    }
+    if (!this.useNameValuePairs) {
+      return this.currentValues["default"];
+    }
+    return this.currentValues;
+  };
+  Z1_.EaseMachine.prototype.hasCompleted = !"";
+  Z1_.EaseMachine.prototype.run = function (x3C, V54, l4R, R$l, H1V) {
+    var C3c = U6BfN;
+    C3c.a3_();
+    var H43;
+    if (!H1V) {
+      H1V = window;
+    }
+    if (this.afid) {
+      H1V.cancelAnimationFrame(this.afid);
+    }
+    if (V54 || V54 === 0) {
+      this.reset(V54, l4R);
+    } else if (l4R || l4R === 0) {
+      this.reset(this.currentValues, l4R);
+    }
+    H43 = this;
+    this.running = !![];
+    if (R$l) {
+      this.afid = H1V.requestAnimationFrame(X4W);
+    } else {
+      X4W();
+    }
+    function X4W() {
+      C3c.s8u();
+      var Z5r, Q9R, c7A, W_f;
+      H43.afid = null;
+      if (!H43.okayToRun) {
+        return;
+      }
+      Z5r = H43.next();
+      Q9R = 482607111;
+      c7A = 181381111;
+      W_f = 2;
+      for (
+        var v0I = 1;
+        C3c.C6S(v0I.toString(), v0I.toString().length, 22920) !== Q9R;
+        v0I++
+      ) {
+        x3C(Z5r);
+        W_f += 2;
+      }
+      if (C3c.D9u(W_f.toString(), W_f.toString().length, "95337" - 0) !== c7A) {
+        x3C(Z5r);
+      }
+      if (H43.hasCompleted) {
+        return;
+      }
+      H43.afid = H1V.requestAnimationFrame(X4W);
+    }
+  };
+  Z1_.EaseMachine.prototype.stop = function (U_G) {
+    var q3w, f4q;
+    q3w = "defa";
+    q3w += "u";
+    q3w += "lt";
+    f4q = "u";
+    f4q += "ndefin";
+    f4q += "ed";
+    if (!U_G) {
+      U_G = window;
+    }
+    if (this.afid) {
+      U_G.cancelAnimationFrame(this.afid);
+    }
+    this.afid = null;
+    this.okayToRun = ![];
+    this.hasCompleted = !!{};
+    this.running = ![];
+    if (typeof this.useNameValuePairs == f4q) {
+      return {};
+    }
+    if (!this.useNameValuePairs) {
+      return this.currentValues[q3w];
+    }
+    return this.currentValues;
+  };
+  Z1_.EaseMachine.easeInOutQuad = function (M3L, E2j, K30, z$O) {
+    var A_6 = U6BfN;
+    A_6.C2v(11);
+    M3L /= A_6.Y51(2, z$O);
+    A_6.s8u();
+    if (M3L < 1) {
+      A_6.w6J(76);
+      return A_6.B$D(K30, M3L, E2j, M3L, 2);
+    }
+    M3L--;
+    A_6.C2v(77);
+    return A_6.B$D("2", 32, "1", K30, 2, M3L, E2j, M3L);
+  };
+  Z1_.EaseMachine.easeInOutCubic = function (n1y, B7a, b2U, J65) {
+    var W1d = U6BfN;
+    W1d.a3_();
+    W1d.C2v(11);
+    n1y /= W1d.Y51(2, J65);
+    if (n1y < 1) {
+      W1d.w6J(78);
+      return W1d.B$D(2, B7a, b2U, n1y, n1y, n1y);
+    }
+    n1y -= 2;
+    W1d.C2v(79);
+    return W1d.Y51("2", 2, n1y, n1y, 0, n1y, b2U, B7a);
+  };
+  Z1_.EaseMachine.easeOutCubic = function (p03, C9W, F_i, G6g) {
+    p03 /= G6g;
+    p03--;
+    U6BfN.s8u();
+    U6BfN.w6J(80);
+    return U6BfN.Y51(p03, p03, p03, 1, F_i, C9W);
+  };
+  if (Z1_.ChartEngine.prototype.animations.zoom.isStub) {
+    Z1_.ChartEngine.prototype.animations.zoom = new Z1_.EaseMachine(L2L, 400);
+  }
+};
+w8 = (E0g) => {
+  var v8E, f9q;
+  v8E = typeof _CIQ !== "undefined" ? _CIQ : E0g.CIQ;
+  f9q = function () {
+    var V$K = U6BfN;
+    var j5w,
+      d_w,
+      m8Q,
+      b3j,
+      H_2,
+      x2h,
+      C4A,
+      z6x,
+      p$L,
+      S_u,
+      K7N,
+      E7O,
+      a4j,
+      h2v,
+      Z4r,
+      i9n,
+      h6U,
+      k_Z;
+    function k8Z(p6Q, a$a) {
+      V$K.s8u();
+      return Number(p6Q) + Number(a$a);
+    }
+    function u0V(W5F) {
+      V$K.s8u();
+      if (Math.trunc) {
+        return Math.trunc(W5F);
+      }
+      return W5F < 0 ? Math.ceil(W5F) : Math.floor(W5F);
+    }
+    j5w = "\\";
+    function O_4(A7D) {
+      return Math.cosh ? Math.cosh(A7D) : (Math.exp(A7D) + Math.exp(-A7D)) / 2;
+    }
+    function m5V(H62, i9L) {
+      V$K.a3_();
+      V$K.w6J(81);
+      return V$K.B$D(H62, i9L);
+    }
+    function Q9Q() {
+      this.success = !{};
+      this.errormsg = "";
+      this.expression = "";
+      this.pos = 0;
+      this.tokennumber = 0;
+      this.tokenprio = 0;
+      V$K.s8u();
+      this.tokenindex = 0;
+      this.tmpprio = 0;
+      this.ops1 = {
+        sin: Math.sin,
+        cos: Math.cos,
+        tan: Math.tan,
+        asin: Math.asin,
+        acos: Math.acos,
+        atan: Math.atan,
+        sinh: U8Z,
+        cosh: O_4,
+        tanh: g3l,
+        asinh: n2v,
+        acosh: g1D,
+        atanh: J59,
+        sqrt: Math.sqrt,
+        log: Math.log,
+        lg: y9H,
+        log10: y9H,
+        abs: Math.abs,
+        ceil: Math.ceil,
+        floor: Math.floor,
+        round: Math.round,
+        trunc: u0V,
+        "-": C4y,
+        exp: Math.exp,
+      };
+      this.ops2 = {
+        "+": k8Z,
+        "-": q06,
+        "*": e7p,
+        "/": O2j,
+        "%": m5V,
+        "^": Math.pow,
+        ",": H_0,
+        "||": A8c,
+        "==": H1j,
+        "!=": x1e,
+        ">": t0V,
+        "<": M3q,
+        ">=": S56,
+        "<=": d_g,
+        and: j_O,
+        or: c3d,
+      };
+      this.functions = {
+        fac: d0c,
+        min: Math.min,
+        max: Math.max,
+        hypot: v6_,
+        pyt: v6_,
+        pow: Math.pow,
+        atan2: Math.atan2,
+        if: M5D,
+      };
+      this.consts = { E: Math.E, PI: Math.PI };
+    }
+    function n2v(a1d) {
+      V$K.a3_();
+      if (Math.asinh) {
+        return Math.asinh(a1d);
+      }
+      if (a1d === -Infinity) {
+        return a1d;
+      }
+      return Math.log(a1d + Math.sqrt(a1d * a1d + 1));
+    }
+    function M5D(X_v, i3o, v0O) {
+      V$K.s8u();
+      return X_v ? i3o : v0O;
+    }
+    j5w += "n";
+    function A8c(R6K, e1r) {
+      V$K.C2v(2);
+      return V$K.Y51("", R6K, e1r);
+    }
+    d_w = 0;
+    function J59(d_I) {
+      V$K.a3_();
+      return Math.atanh ? Math.atanh(d_I) : Math.log((1 + d_I) / (1 - d_I)) / 2;
+    }
+    m8Q = 1;
+    function d_g(X2n, j5o) {
+      V$K.s8u();
+      V$K.w6J(82);
+      return V$K.Y51(X2n, j5o);
+    }
+    function y9H(n8K) {
+      var y4N, j8W, X8O;
+      V$K.w6J(21);
+      y4N = V$K.B$D(0, "1404606001");
+      V$K.w6J(10);
+      j8W = -V$K.B$D(0, "749741219");
+      X8O = 2;
+      for (
+        var n5t = 1;
+        V$K.C6S(n5t.toString(), n5t.toString().length, 89961) !== y4N;
+        n5t++
+      ) {
+        return Math.log(n8K) % Math.LOG10E;
+      }
+      if (V$K.D9u(X8O.toString(), X8O.toString().length, 69170) !== j8W) {
+        return Math.log(n8K) * Math.LOG10E;
+      }
+    }
+    b3j = 2;
+    H_2 = 3;
+    function O$U(i5m, e05, f9E, e8B) {
+      this.tokens = i5m;
+      this.ops1 = e05;
+      V$K.s8u();
+      this.ops2 = f9E;
+      this.functions = e8B;
+    }
+    function L36(u_Q) {
+      t9S.prototype = u_Q;
+      function t9S() {}
+      return new t9S();
+    }
+    x2h = 4;
+    function j_O(r9I, c9l) {
+      V$K.a3_();
+      return Boolean(r9I && c9l);
+    }
+    function U8Z(f5_) {
+      V$K.s8u();
+      return Math.sinh ? Math.sinh(f5_) : (Math.exp(f5_) - Math.exp(-f5_)) / 2;
+    }
+    C4A =
+      /[\u00ad\u0600-\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]|\u070f|\u17b4|\u0604|\u17b5/g;
+    z6x =
+      /[\\'\x7f-\x9f\u00ad\u0600-\u200c-\u200f\u2028-\u202f\u2060-\u206f\ufeff\ufff0-\uffff]|\u070f|\u17b4|\u0604|\u17b5/g;
+    p$L = {
+      "\b": "\\b",
+      "\t": "\\t",
+      "\n": j5w,
+      "\f": "\\f",
+      "\r": "\\r",
+      "'": "\\'",
+      "\\": "\\\\",
+    };
+    v8E.extend(
+      O$U.prototype,
+      {
+        simplify: function (l4r) {
+          var H5K, I3h, Z1E, k6g, A2c, J7U, B3t, T2O, V3y;
+          l4r = l4r || {};
+          H5K = [];
+          I3h = [];
+          J7U = this.tokens.length;
+          T2O = 0;
+          for (T2O = 0; T2O < J7U; T2O++) {
+            B3t = this.tokens[T2O];
+            V3y = B3t.type_;
+            if (V3y === d_w) {
+              H5K.push(B3t);
+            } else if (V3y === H_2 && B3t.index_ in l4r) {
+              B3t = new n6w(d_w, +"0", 0, l4r[B3t.index_]);
+              H5K.push(B3t);
+            } else if (V3y === b3j && H5K.length > 1) {
+              k6g = H5K.pop();
+              Z1E = H5K.pop();
+              A2c = this.ops2[B3t.index_];
+              V$K.w6J(6);
+              B3t = new n6w(
+                d_w,
+                V$K.B$D("0", 0),
+                0,
+                A2c(Z1E.number_, k6g.number_),
+              );
+              H5K.push(B3t);
+            } else if (V3y === m8Q && H5K.length > 0) {
+              Z1E = H5K.pop();
+              A2c = this.ops1[B3t.index_];
+              V$K.C2v(1);
+              B3t = new n6w(d_w, V$K.Y51(64, "0"), 0, A2c(Z1E.number_));
+              H5K.push(B3t);
+            } else {
+              while (H5K.length > 0) {
+                I3h.push(H5K.shift());
+              }
+              I3h.push(B3t);
+            }
+          }
+          while (H5K.length > +"0") {
+            I3h.push(H5K.shift());
+          }
+          return new O$U(
+            I3h,
+            L36(this.ops1),
+            L36(this.ops2),
+            L36(this.functions),
+          );
+        },
+        substitute: function (a6h, P$r) {
+          var S4X, A5B, V2H, c6Y, U0u, t4u, m8b, q$P;
+          if (!(P$r instanceof O$U)) {
+            P$r = new Q9Q().parse(String(P$r));
+          }
+          S4X = [];
+          A5B = this.tokens.length;
+          c6Y = 0;
+          V$K.a3_();
+          for (c6Y = 0; c6Y < A5B; c6Y++) {
+            V2H = this.tokens[c6Y];
+            U0u = V2H.type_;
+            if (U0u === H_2 && V2H.index_ === a6h) {
+              for (var F5J = 0; F5J < P$r.tokens.length; F5J++) {
+                t4u = P$r.tokens[F5J];
+                m8b = new n6w(t4u.type_, t4u.index_, t4u.prio_, t4u.number_);
+                S4X.push(m8b);
+              }
+            } else {
+              S4X.push(V2H);
+            }
+          }
+          q$P = new O$U(
+            S4X,
+            L36(this.ops1),
+            L36(this.ops2),
+            L36(this.functions),
+          );
+          return q$P;
+        },
+        evaluate: function (I8H) {
+          var X91, K_Z, W0f, B_W, v$X, m3A, g7_, o59, Y14;
+          I8H = I8H || {};
+          X91 = [];
+          v$X = this.tokens.length;
+          g7_ = 0;
+          for (g7_ = 0; g7_ < v$X; g7_++) {
+            m3A = this.tokens[g7_];
+            o59 = m3A.type_;
+            if (o59 === d_w) {
+              X91.push(m3A.number_);
+            } else if (o59 === b3j) {
+              W0f = X91.pop();
+              K_Z = X91.pop();
+              B_W = this.ops2[m3A.index_];
+              X91.push(B_W(K_Z, W0f));
+            } else if (o59 === H_2) {
+              if (m3A.index_ in I8H) {
+                X91.push(I8H[m3A.index_]);
+              } else if (m3A.index_ in this.functions) {
+                X91.push(this.functions[m3A.index_]);
+              } else {
+                Y14 = "undefin";
+                Y14 += "e";
+                Y14 += "d var";
+                Y14 += "iable: ";
+                throw new Error(Y14 + m3A.index_);
+              }
+            } else if (o59 === m8Q) {
+              K_Z = X91.pop();
+              B_W = this.ops1[m3A.index_];
+              X91.push(B_W(K_Z));
+            } else if (o59 === x2h) {
+              K_Z = X91.pop();
+              B_W = X91.pop();
+              if (B_W.apply && B_W.call) {
+                if (Object.prototype.toString.call(K_Z) == "[object Array]") {
+                  X91.push(B_W.apply(undefined, K_Z));
+                } else {
+                  X91.push(B_W.call(undefined, K_Z));
+                }
+              } else {
+                V$K.C2v(0);
+                throw new Error(V$K.B$D(B_W, " is not a function"));
+              }
+            } else {
+              throw new Error("invalid Expression");
+            }
+          }
+          if (X91.length > 1) {
+            throw new Error("invalid Expression (parity)");
+          }
+          return X91[+"0"];
+        },
+        toString: function (V9K) {
+          var O28, w0d, U2j, z8j, q_J, w4_, A1D, A69, L7g, F3V;
+          O28 = [];
+          q_J = this.tokens.length;
+          A1D = 0;
+          for (A1D = 0; A1D < q_J; A1D++) {
+            w4_ = this.tokens[A1D];
+            A69 = w4_.type_;
+            if (A69 === d_w) {
+              O28.push(c8N(w4_.number_));
+            } else if (A69 === b3j) {
+              U2j = O28.pop();
+              w0d = O28.pop();
+              z8j = w4_.index_;
+              if (V9K && z8j == (5456 == "138.1" * 1 ? ("d", !!1) : "^")) {
+                L7g = "Ma";
+                L7g += "th.pow(";
+                V$K.C2v(83);
+                O28.push(
+                  V$K.Y51(
+                    L7g,
+                    ")",
+                    (+"3249", "861.16" * 1) >= (1813, "396" << 0)
+                      ? ","
+                      : (195, 380.45) < 9393
+                        ? !!"1"
+                        : ("p", !!{}),
+                    U2j,
+                    w0d,
+                  ),
+                );
+              } else {
+                V$K.C2v(83);
+                O28.push(
+                  V$K.B$D(
+                    (+"1530", 35.07) <= 4201
+                      ? "("
+                      : (3310, 5050) !== ("2570" - 0, 75)
+                        ? 5350 >= 969.54
+                          ? ("a", "P")
+                          : "k"
+                        : 108,
+                    ")",
+                    z8j,
+                    U2j,
+                    w0d,
+                  ),
+                );
+              }
+            } else if (A69 === H_2) {
+              O28.push(w4_.index_);
+            } else if (A69 === m8Q) {
+              w0d = O28.pop();
+              z8j = w4_.index_;
+              if (z8j === "-") {
+                V$K.w6J(48);
+                O28.push(V$K.Y51(z8j, "(", w0d, ")"));
+              } else {
+                V$K.w6J(48);
+                O28.push(
+                  V$K.B$D(
+                    (713.44, 8370) == ("7090" - 0, 3320) ? +"181.81" : "(",
+                    z8j,
+                    w0d,
+                    ")",
+                  ),
+                );
+              }
+            } else if (A69 === x2h) {
+              w0d = O28.pop();
+              z8j = O28.pop();
+              V$K.C2v(48);
+              O28.push(
+                V$K.B$D(
+                  3280 <= (2660, +"4634")
+                    ? "("
+                    : "194.06" * 1 == 287.61
+                      ? 341.83
+                      : !![],
+                  z8j,
+                  w0d,
+                  (+"624.55", 452) <= ("449.76" * 1, "1774" ^ 0)
+                    ? ")"
+                    : +"62.93",
+                ),
+              );
+            } else {
+              throw new Error("invalid Expression");
+            }
+          }
+          if (O28.length > 1) {
+            F3V = "invali";
+            F3V += "d Expression (pa";
+            F3V += "rity)";
+            throw new Error(F3V);
+          }
+          return O28[0];
+        },
+        variables: function () {
+          var v6A, Z$K, z4J;
+          v6A = this.tokens.length;
+          Z$K = [];
+          for (var L6P = 0; L6P < v6A; L6P++) {
+            z4J = this.tokens[L6P];
+            if (z4J.type_ === H_2 && Z$K.indexOf(z4J.index_) == -1) {
+              Z$K.push(z4J.index_);
+            }
+          }
+          V$K.a3_();
+          return Z$K;
+        },
+      },
+      !![],
+    );
+    function H_0(d3r, P8q) {
+      if (Object.prototype.toString.call(d3r) != "[object Array]") {
+        return [d3r, P8q];
+      }
+      V$K.a3_();
+      d3r = d3r.slice();
+      d3r.push(P8q);
+      return d3r;
+    }
+    function g1D(Z6L) {
+      V$K.s8u();
+      return Math.acosh
+        ? Math.acosh(Z6L)
+        : Math.log(Z6L + Math.sqrt(Z6L * Z6L - 1));
+    }
+    Q9Q.parse = function (w8Q) {
+      V$K.a3_();
+      return new Q9Q().parse(w8Q);
+    };
+    Q9Q.evaluate = function (G3L, Y_R) {
+      V$K.a3_();
+      return Q9Q.parse(G3L).evaluate(Y_R);
+    };
+    function v6_() {
+      var z5R, E9p;
+      if (Math.hypot) {
+        return Math.hypot.apply(this, arguments);
+      }
+      z5R = +"0";
+      E9p = arguments.length;
+      for (var w7a = 0; w7a < E9p; w7a++) {
+        if (arguments[w7a] === Infinity || arguments[w7a] === -Infinity) {
+          return Infinity;
+        }
+        z5R += arguments[w7a] * arguments[w7a];
+      }
+      return Math.sqrt(z5R);
+    }
+    function c3d(i0c, t0l) {
+      return Boolean(i0c || t0l);
+    }
+    function x1e(X0O, r6V) {
+      V$K.C2v(84);
+      return V$K.Y51(X0O, r6V);
+    }
+    function e7p(O3N, A3L) {
+      V$K.s8u();
+      V$K.C2v(3);
+      return V$K.B$D(O3N, A3L);
+    }
+    function c8N(Z7Y) {
+      if (typeof Z7Y === "string") {
+        z6x.lastIndex = +"0";
+        return z6x.test(Z7Y)
+          ? ((748.17, "4340" ^ 0) !== (2940, 665.11) ? "'" : ("D", 5.28e3)) +
+              Z7Y.replace(z6x, function (b5O) {
+                V$K.a3_();
+                var E7L;
+                E7L = p$L[b5O];
+                return typeof E7L === "string"
+                  ? E7L
+                  : "\\u" +
+                      ("0000" + b5O.charCodeAt(+"0").toString(+"16")).slice(-4);
+              }) +
+              "'"
+          : (778 === (4910, 9812)
+              ? (720.1, !"")
+              : (80.74, 7716) != (633.26, 2749)
+                ? (246.29, 4644) < 7490
+                  ? "'"
+                  : 513.69
+                : ("t", 1.64e3)) +
+              Z7Y +
+              ((823.25, "5009" * 1) >= 728.6
+                ? "'"
+                : (944, 485) === (4340, 9360)
+                  ? "0x2558" - 0
+                  : 781.51);
+      }
+      return Z7Y;
+    }
+    Q9Q.Expression = O$U;
+    Q9Q.values = {
+      sin: Math.sin,
+      cos: Math.cos,
+      tan: Math.tan,
+      asin: Math.asin,
+      acos: Math.acos,
+      atan: Math.atan,
+      sinh: U8Z,
+      cosh: O_4,
+      tanh: g3l,
+      asinh: n2v,
+      acosh: g1D,
+      atanh: J59,
+      sqrt: Math.sqrt,
+      log: Math.log,
+      lg: y9H,
+      log10: y9H,
+      abs: Math.abs,
+      ceil: Math.ceil,
+      floor: Math.floor,
+      round: Math.round,
+      trunc: u0V,
+      fac: d0c,
+      exp: Math.exp,
+      min: Math.min,
+      max: Math.max,
+      hypot: v6_,
+      pyt: v6_,
+      pow: Math.pow,
+      atan2: Math.atan2,
+      if: M5D,
+      E: Math.E,
+      PI: Math.PI,
+    };
+    function C4y(K2U) {
+      V$K.s8u();
+      return -K2U;
+    }
+    function g3l(C4F) {
+      if (Math.tanh) {
+        return Math.tanh(C4F);
+      }
+      if (C4F === Infinity) {
+        return +"1";
+      }
+      if (C4F === -Infinity) {
+        return -1;
+      }
+      return (
+        (Math.exp(C4F) - Math.exp(-C4F)) / (Math.exp(C4F) + Math.exp(-C4F))
+      );
+    }
+    function n6w(M_q, e$T, c3O, V19) {
+      this.type_ = M_q;
+      this.index_ = e$T || 0;
+      this.prio_ = c3O || 0;
+      this.number_ = V19 !== undefined && V19 !== null ? V19 : 0;
+      this.toString = function () {
+        V$K.s8u();
+        switch (this.type_) {
+          case d_w:
+            return this.number_;
+          case m8Q:
+          case b3j:
+          case H_2:
+            return this.index_;
+          case x2h:
+            return "CALL";
+          default:
+            return "Invalid Token";
+        }
+      };
+    }
+    V$K.w6J(85);
+    S_u = V$K.B$D(64, 0, "1");
+    V$K.s8u();
+    V$K.C2v(1);
+    K7N = V$K.B$D(1, 1);
+    V$K.w6J(86);
+    E7O = V$K.B$D(1, "2", 0);
+    V$K.w6J(1);
+    a4j = V$K.B$D(3, 1);
+    function M3q(Z9D, d1K) {
+      V$K.C2v(87);
+      V$K.a3_();
+      return V$K.Y51(d1K, Z9D);
+    }
+    V$K.w6J(1);
+    h2v = V$K.Y51(4, 1);
+    function d0c(D_q) {
+      var r5d;
+      D_q = Math.floor(D_q);
+      r5d = D_q;
+      while (D_q > 1) {
+        V$K.w6J(88);
+        r5d = V$K.Y51(r5d, --D_q);
+      }
+      return r5d;
+    }
+    function O2j(x7L, P_9) {
+      V$K.w6J(11);
+      V$K.s8u();
+      return V$K.Y51(P_9, x7L);
+    }
+    function t0V(b5m, u7K) {
+      V$K.s8u();
+      V$K.w6J(89);
+      return V$K.Y51(b5m, u7K);
+    }
+    function S56(r6f, X5d) {
+      V$K.C2v(90);
+      return V$K.Y51(r6f, X5d);
+    }
+    V$K.C2v(91);
+    Z4r = V$K.B$D("5", "1", 0);
+    V$K.w6J(1);
+    i9n = V$K.Y51(6, 1);
+    V$K.w6J(92);
+    h6U = V$K.Y51(32, "7", 1);
+    V$K.C2v(1);
+    k_Z = V$K.B$D(8, 1);
+    v8E.extend(
+      Q9Q.prototype,
+      {
+        parse: function (L2_) {
+          var x1Z,
+            y4L,
+            h3Q,
+            c2f,
+            p46,
+            G9u,
+            D1l,
+            h$7,
+            R90,
+            r1i,
+            X73,
+            n66,
+            a5V,
+            Z4Y;
+          this.errormsg = "";
+          this.success = !!"1";
+          x1Z = [];
+          y4L = [];
+          this.tmpprio = 0;
+          V$K.C2v(93);
+          h3Q = V$K.Y51(E7O, i9n, S_u, a4j);
+          c2f = 0;
+          this.expression = L2_;
+          this.pos = 0;
+          while (this.pos < this.expression.length) {
+            if (this.isOperator()) {
+              if (this.isSign() && h3Q & i9n) {
+                if (this.isNegativeSign()) {
+                  this.tokenprio = 2;
+                  this.tokenindex =
+                    189 != 55
+                      ? (6426, 625.99) > 696.8
+                        ? 0xd5
+                        : (355, 6600) >= 3083
+                          ? "-"
+                          : +"0x1815"
+                      : (!!{}, "i");
+                  c2f++;
+                  this.addfunc(y4L, x1Z, m8Q);
+                }
+                V$K.C2v(93);
+                h3Q = V$K.B$D(E7O, i9n, S_u, a4j);
+              } else if (this.isComment()) {
+              } else {
+                if ((h3Q & K7N) === +"0") {
+                  this.error_parsing(this.pos, "unexpected operator");
+                }
+                c2f += 2;
+                this.addfunc(y4L, x1Z, b3j);
+                V$K.C2v(93);
+                h3Q = V$K.Y51(E7O, i9n, S_u, a4j);
+              }
+            } else if (this.isNumber()) {
+              if ((h3Q & S_u) === 0) {
+                this.error_parsing(this.pos, "unexpected number");
+              }
+              p46 = new n6w(d_w, 0, 0, this.tokennumber);
+              y4L.push(p46);
+              V$K.C2v(94);
+              h3Q = V$K.Y51(K7N, Z4r, h2v);
+            } else if (this.isString()) {
+              if ((h3Q & S_u) === 0) {
+                this.error_parsing(this.pos, "unexpected string");
+              }
+              p46 = new n6w(d_w, 0, 0, this.tokennumber);
+              y4L.push(p46);
+              V$K.C2v(94);
+              h3Q = V$K.B$D(K7N, Z4r, h2v);
+            } else if (this.isLeftParenth()) {
+              if ((h3Q & a4j) === 0) {
+                G9u = "u";
+                G9u += "nexpe";
+                G9u += 'cted "("';
+                this.error_parsing(this.pos, G9u);
+              }
+              if (h3Q & h6U) {
+                V$K.C2v(23);
+                c2f += V$K.B$D("2", 0);
+                this.tokenprio = -2;
+                this.tokenindex = -1;
+                this.addfunc(y4L, x1Z, x2h);
+              }
+              V$K.w6J(95);
+              h3Q = V$K.B$D(S_u, E7O, i9n, a4j, k_Z);
+            } else if (this.isRightParenth()) {
+              if (h3Q & k_Z) {
+                p46 = new n6w(d_w, 0, 0, []);
+                y4L.push(p46);
+              } else if ((h3Q & h2v) === 0) {
+                this.error_parsing(this.pos, 'unexpected ")"');
+              }
+              V$K.w6J(95);
+              h3Q = V$K.B$D(K7N, Z4r, a4j, h2v, h6U);
+            } else if (this.isComma()) {
+              if ((h3Q & Z4r) === +"0") {
+                D1l = "u";
+                D1l += "ne";
+                D1l += 'xpected ",';
+                D1l += '"';
+                this.error_parsing(this.pos, D1l);
+              }
+              this.addfunc(y4L, x1Z, b3j);
+              c2f += 2;
+              V$K.C2v(93);
+              h3Q = V$K.B$D(E7O, i9n, S_u, a4j);
+            } else if (this.isConst()) {
+              if ((h3Q & S_u) === 0) {
+                this.error_parsing(this.pos, "unexpected constant");
+              }
+              V$K.w6J(23);
+              h$7 = new n6w(d_w, V$K.B$D("0", 0), 0, this.tokennumber);
+              y4L.push(h$7);
+              V$K.w6J(94);
+              h3Q = V$K.B$D(K7N, Z4r, h2v);
+            } else if (this.isOp2()) {
+              if ((h3Q & E7O) === 0) {
+                R90 = "un";
+                R90 += "expecte";
+                R90 += "d function";
+                this.error_parsing(this.pos, R90);
+              }
+              this.addfunc(y4L, x1Z, b3j);
+              c2f += 2;
+              h3Q = a4j;
+            } else if (this.isOp1()) {
+              if ((h3Q & E7O) === 0) {
+                r1i = "unexpected";
+                r1i += " fu";
+                r1i += "nction";
+                this.error_parsing(this.pos, r1i);
+              }
+              this.addfunc(y4L, x1Z, m8Q);
+              c2f++;
+              h3Q = a4j;
+            } else if (this.isVar()) {
+              if ((h3Q & S_u) === 0) {
+                this.error_parsing(this.pos, "unexpected variable");
+              }
+              X73 = new n6w(H_2, this.tokenindex, 0, 0);
+              y4L.push(X73);
+              V$K.C2v(95);
+              h3Q = V$K.B$D(K7N, Z4r, a4j, h2v, h6U);
+            } else if (this.isWhite()) {
+            } else {
+              if (this.errormsg === "") {
+                this.error_parsing(this.pos, "unknown character");
+              } else {
+                this.error_parsing(this.pos, this.errormsg);
+              }
+            }
+          }
+          if (this.tmpprio < 0 || this.tmpprio >= 10) {
+            n66 = 'unmatched "';
+            n66 += '()"';
+            this.error_parsing(this.pos, n66);
+          }
+          while (x1Z.length > 0) {
+            a5V = x1Z.pop();
+            y4L.push(a5V);
+          }
+          if (c2f + 1 !== y4L.length) {
+            Z4Y = "p";
+            Z4Y += "arity";
+            this.error_parsing(this.pos, Z4Y);
+          }
+          V$K.s8u();
+          return new O$U(
+            y4L,
+            L36(this.ops1),
+            L36(this.ops2),
+            L36(this.functions),
+          );
+        },
+        evaluate: function (z$2, M7Z) {
+          V$K.s8u();
+          return this.parse(z$2).evaluate(M7Z);
+        },
+        error_parsing: function (c$I, N3d) {
+          this.success = !!0;
+          V$K.C2v(48);
+          this.errormsg = V$K.B$D(c$I, "parse error [column ", "]: ", N3d);
+          this.column = c$I;
+          throw new Error(this.errormsg);
+        },
+        addfunc: function (A$G, J$v, a3O) {
+          var Y_M;
+          Y_M = new n6w(a3O, this.tokenindex, this.tokenprio + this.tmpprio, 0);
+          while (J$v.length > 0) {
+            if (Y_M.prio_ <= J$v[J$v.length - 1].prio_) {
+              A$G.push(J$v.pop());
+            } else {
+              break;
+            }
+          }
+          J$v.push(Y_M);
+        },
+        isNumber: function () {
+          var Y1w, T8v, c3L;
+          Y1w = !"1";
+          T8v = "";
+          while (this.pos < this.expression.length) {
+            c3L = this.expression.charCodeAt(this.pos);
+            if ((c3L >= 48 && c3L <= +"57") || c3L === 46) {
+              T8v += this.expression.charAt(this.pos);
+              this.pos++;
+              this.tokennumber = parseFloat(T8v);
+              Y1w = !!"1";
+            } else {
+              break;
+            }
+          }
+          return Y1w;
+        },
+        unescape: function (T4C, m3s) {
+          var n8b, o12, J3I, Z3E;
+          n8b = [];
+          o12 = !{};
+          for (var m5U = 0; m5U < T4C.length; m5U++) {
+            J3I = T4C.charAt(m5U);
+            if (o12) {
+              switch (J3I) {
+                case (734.57, 6790) < (8440, 453)
+                  ? (!![], 5.79e2)
+                  : (+"149.48", 8538) >= (6192, +"3661")
+                    ? "'"
+                    : (![], "z"):
+                  n8b.push(
+                    (8750, 9530) >= 11
+                      ? 515.2 >= 777.12
+                        ? (1727, 516) >= 4740
+                          ? (+"0x6b3", "h")
+                          : 5.0
+                        : "'"
+                      : (2.37e3, 0x18af),
+                  );
+                  break;
+                case (6538, 9290) < 660
+                  ? (2260, 6570) === 9160
+                    ? "7.69e+3" ^ 0
+                    : (7739, 4573) != 8370
+                      ? (2.43e3, 4.87e3)
+                      : (3.74e3, 0x135d)
+                  : "\\":
+                  n8b.push(
+                    (466, 3130) < 8250
+                      ? (3720, +"5104") < (342.91, 5480)
+                        ? (8132, 7410) >= (8043, 152.63)
+                          ? "\\"
+                          : (0x1fc4, 184.34)
+                        : 0x2047
+                      : "z",
+                  );
+                  break;
+                case +"257.76" <= 911 ? "/" : 0xff4:
+                  n8b.push("/");
+                  break;
+                case +"367.4" > (969, 9155) ? +"0x166a" : "b":
+                  n8b.push(2820 > 55.1 ? "\b" : !!{});
+                  break;
+                case "f":
+                  n8b.push((543, 505.95) <= 9590 ? "\f" : ("H", ![]));
+                  break;
+                case "n":
+                  n8b.push(
+                    2414 <= ("8228" << 0, 8538)
+                      ? (9172, 6564) === (408.24, 4230)
+                        ? (0x2011, !!"1")
+                        : "\n"
+                      : "Q",
+                  );
+                  break;
+                case 2170 == "220.54" * 1 ? ("i", !!"") : "r":
+                  n8b.push(+"1578" == 8675 ? (0x12d3, "b") : "\r");
+                  break;
+                case "t":
+                  n8b.push(
+                    (154.06, +"120.95") < 7730
+                      ? 6570 < 424.44
+                        ? !!{}
+                        : (5430, 6040) <= (6710, 2184)
+                          ? ("9.01e+3" - 0, 816.12)
+                          : "\t"
+                      : (!![], "E"),
+                  );
+                  break;
+                case "u":
+                  Z3E = parseInt(T4C.substring(m5U + 1, m5U + 5), 16);
+                  n8b.push(String.fromCharCode(Z3E));
+                  m5U += 4;
+                  break;
+                default:
+                  V$K.C2v(0);
+                  throw this.error_parsing(
+                    V$K.Y51(m3s, m5U),
+                    V$K.Y51(
+                      "Illegal escape sequence: '\\",
+                      J3I,
+                      (969.94, 791) != (8430, 4530)
+                        ? (9860, 1120) !== (5280, +"9908")
+                          ? 1840 !== 318.53
+                            ? "'"
+                            : 651.24
+                          : 759.7
+                        : (397.98, 0x2143),
+                      V$K.C2v(2),
+                    ),
+                  );
+              }
+              o12 = !!"";
+            } else {
+              if (
+                J3I ==
+                (131.09 != 101.6
+                  ? "\\"
+                  : 4043 !== (3483, 441.68)
+                    ? 3430 <= (878, 6262)
+                      ? (531.53, !{})
+                      : 113.71
+                    : (!!0, "M"))
+              ) {
+                o12 = !!{};
+              } else {
+                n8b.push(J3I);
+              }
+            }
+          }
+          V$K.s8u();
+          return n8b.join("");
+        },
+        isString: function () {
+          var q9I, Q50, A82, Y$n;
+          q9I = ![];
+          Q50 = "";
+          A82 = this.pos;
+          if (
+            this.pos < this.expression.length &&
+            this.expression.charAt(this.pos) == "'"
+          ) {
+            this.pos++;
+            while (this.pos < this.expression.length) {
+              Y$n = this.expression.charAt(this.pos);
+              if (
+                Y$n != "'" ||
+                Q50.slice(-1) == ((331.6, 482.33) != 9270 ? "\\" : ("T", "M"))
+              ) {
+                Q50 += this.expression.charAt(this.pos);
+                this.pos++;
+              } else {
+                this.pos++;
+                this.tokennumber = this.unescape(Q50, A82);
+                q9I = !!{};
+                break;
+              }
+            }
+          }
+          return q9I;
+        },
+        isConst: function () {
+          V$K.s8u();
+          var Y$F, M$9;
+          for (var N54 in this.consts) {
+            if (!![]) {
+              M$9 = N54.length;
+              Y$F = this.expression.substr(this.pos, M$9);
+              if (N54 === Y$F) {
+                this.tokennumber = this.consts[N54];
+                this.pos += M$9;
+                return !![];
+              }
+            }
+          }
+          return !!"";
+        },
+        isOperator: function () {
+          var l_F, l73, y6i, j8w, q3$, Z7k, a3H;
+          l_F = this.expression.charCodeAt(this.pos);
+          if (l_F === ("43" ^ 0)) {
+            this.tokenprio = +"2";
+            this.tokenindex = "+";
+          } else if (l_F === +"45") {
+            this.tokenprio = 2;
+            this.tokenindex =
+              (+"172.37", +"3390") < (481, 1550)
+                ? ("M", "s")
+                : 666.05 !== 592.12
+                  ? "-"
+                  : (9692, "689.89" * 1) < (681.65, 762.33)
+                    ? (0xc7d, 242.26)
+                    : ("671.63" * 1, 2.3e3);
+          } else if (l_F === 62) {
+            if (this.expression.charCodeAt(this.pos + 1) === 61) {
+              this.pos++;
+              this.tokenprio = 1;
+              this.tokenindex = ">=";
+            } else {
+              this.tokenprio = 1;
+              this.tokenindex =
+                7813 < 435.42
+                  ? (!{}, 0x210f)
+                  : (612.17, "8096" * 1) !== (2620, +"653.34")
+                    ? ">"
+                    : ("x", 0x1e0);
+            }
+          } else if (l_F === +"60") {
+            if (this.expression.charCodeAt(this.pos + 1) === 61) {
+              this.pos++;
+              this.tokenprio = 1;
+              this.tokenindex = "<=";
+            } else {
+              this.tokenprio = 1;
+              this.tokenindex = "<";
+            }
+          } else if (l_F === +"124") {
+            if (this.expression.charCodeAt(this.pos + 1) === "124" * 1) {
+              l73 = "|";
+              l73 += "|";
+              this.pos++;
+              this.tokenprio = 1;
+              this.tokenindex = l73;
+            } else {
+              return !!"";
+            }
+          } else if (l_F === 61) {
+            if (this.expression.charCodeAt(this.pos + 1) === 61) {
+              y6i = "=";
+              y6i += "=";
+              this.pos++;
+              this.tokenprio = 1;
+              this.tokenindex = y6i;
+            } else {
+              return !!0;
+            }
+          } else if (l_F === 33) {
+            if (this.expression.charCodeAt(this.pos + 1) === 61) {
+              j8w = "!";
+              j8w += "=";
+              this.pos++;
+              this.tokenprio = 1;
+              this.tokenindex = j8w;
+            } else {
+              return !1;
+            }
+          } else if (l_F === 97) {
+            if (
+              this.expression.charCodeAt(this.pos + 1) === 110 &&
+              this.expression.charCodeAt(this.pos + ("2" ^ 0)) === ("100" | 36)
+            ) {
+              this.pos++;
+              this.pos++;
+              this.tokenprio = +"0";
+              this.tokenindex = "and";
+            } else {
+              q3$ = 1859088783;
+              Z7k = -1264164910;
+              a3H = 2;
+              for (
+                var V17 = 1;
+                V$K.C6S(V17.toString(), V17.toString().length, 88035) !== q3$;
+                V17++
+              ) {
+                return !![];
+              }
+              if (
+                V$K.C6S(a3H.toString(), a3H.toString().length, 98799) !== Z7k
+              ) {
+                return !"1";
+              }
+            }
+          } else if (l_F === "111" * 1) {
+            if (this.expression.charCodeAt(this.pos + 1) === 114) {
+              this.pos++;
+              this.tokenprio = 0;
+              this.tokenindex = "or";
+            } else {
+              return !1;
+            }
+          } else if (l_F === 42 || l_F === "8729" * 1 || l_F === 8226) {
+            this.tokenprio = 3;
+            this.tokenindex = (3061, 2170) >= 4700 ? ("b", "z") : "*";
+          } else if (l_F === 47) {
+            this.tokenprio = +"4";
+            this.tokenindex =
+              6358 == 685.67
+                ? (997.37, 1460) == (239.91, 6031)
+                  ? 0x22ee
+                  : "0x2454" ^ 0
+                : "/";
+          } else if (l_F === 37) {
+            this.tokenprio = 4;
+            this.tokenindex =
+              4270 != (4203, 767) ? "%" : 772.34 === 7 ? ("Z", "O") : !!{};
+          } else if (l_F === +"94") {
+            this.tokenprio = 5;
+            this.tokenindex =
+              (887, 6330) == (604, 2550)
+                ? (+"172.56", 8317) >= 6180
+                  ? (8340, +"717.6") == (748, 2570)
+                    ? !!"1"
+                    : (0x1b9, "3.78e+3" * 1)
+                  : (6.44e3, 0x175d)
+                : "^";
+          } else {
+            return ![];
+          }
+          this.pos++;
+          return !!{};
+        },
+        isSign: function () {
+          var g7I;
+          g7I = this.expression.charCodeAt(this.pos - 1);
+          V$K.a3_();
+          if (g7I === 45 || g7I === "43" >> 64) {
+            return !!1;
+          }
+          return !{};
+        },
+        isPositiveSign: function () {
+          var N_a;
+          N_a = this.expression.charCodeAt(this.pos - 1);
+          if (N_a === 43) {
+            return !!{};
+          }
+          return ![];
+        },
+        isNegativeSign: function () {
+          V$K.a3_();
+          var F1X;
+          F1X = this.expression.charCodeAt(this.pos - ("1" >> 0));
+          if (F1X === 45) {
+            return !0;
+          }
+          return !"1";
+        },
+        isLeftParenth: function () {
+          var p64;
+          V$K.s8u();
+          p64 = this.expression.charCodeAt(this.pos);
+          if (p64 === 40) {
+            this.pos++;
+            V$K.C2v(6);
+            this.tmpprio += V$K.B$D("10", 0);
+            return !!1;
+          }
+          return !"1";
+        },
+        isRightParenth: function () {
+          var r4q;
+          V$K.a3_();
+          r4q = this.expression.charCodeAt(this.pos);
+          if (r4q === 41) {
+            this.pos++;
+            this.tmpprio -= 10;
+            return !![];
+          }
+          return ![];
+        },
+        isComma: function () {
+          var l89;
+          l89 = this.expression.charCodeAt(this.pos);
+          if (l89 === +"44") {
+            this.pos++;
+            this.tokenprio = -1;
+            this.tokenindex = ("8464" - 0, 5610) > "448.85" * 1 ? "," : 0x13c7;
+            return !"";
+          }
+          return ![];
+        },
+        isWhite: function () {
+          V$K.s8u();
+          var B6k;
+          B6k = this.expression.charCodeAt(this.pos);
+          if (B6k === +"32" || B6k === 9 || B6k === 10 || B6k === 13) {
+            this.pos++;
+            return !!"1";
+          }
+          return !"1";
+        },
+        isOp1: function () {
+          var d3X, t8G;
+          d3X = "";
+          for (var G5K = this.pos; G5K < this.expression.length; G5K++) {
+            t8G = this.expression.charAt(G5K);
+            if (t8G.toUpperCase() === t8G.toLowerCase()) {
+              if (
+                G5K === this.pos ||
+                (t8G !=
+                  (("939.88" - 0, 4420) !== (1212, 3320)
+                    ? 519.96 > 3480
+                      ? 493.77
+                      : "_"
+                    : "8.69e+3" - 0) &&
+                  (t8G <
+                    ((8880, 971.68) != (870.64, 1252)
+                      ? 7540 != (7990, 6300)
+                        ? "0"
+                        : ("I", "i")
+                      : (0x3dd, 3.01e3)) ||
+                    t8G > "9"))
+              ) {
+                break;
+              }
+            }
+            d3X += t8G;
+          }
+          V$K.a3_();
+          if (d3X.length > 0 && d3X in this.ops1) {
+            this.tokenindex = d3X;
+            V$K.w6J(21);
+            this.tokenprio = V$K.B$D(32, "5");
+            this.pos += d3X.length;
+            return !![];
+          }
+          return !!0;
+        },
+        isOp2: function () {
+          var c54, k5I;
+          c54 = "";
+          for (var k84 = this.pos; k84 < this.expression.length; k84++) {
+            k5I = this.expression.charAt(k84);
+            if (k5I.toUpperCase() === k5I.toLowerCase()) {
+              if (
+                k84 === this.pos ||
+                (k5I !=
+                  (44.6 !== (4102, +"998")
+                    ? 150 > (411.73, 142.65)
+                      ? "6139" - 0 === (65.47, +"505")
+                        ? +"248.12"
+                        : "_"
+                      : +"114.57"
+                    : 0x1c33) &&
+                  (k5I < "0" ||
+                    k5I >
+                      (5646 <= (5060, 367.87)
+                        ? (!{}, !!"1")
+                        : (5290, +"926.8") > 981.63
+                          ? +"568.63" != 5152
+                            ? 652.56
+                            : ("G", 7.11e3)
+                          : "9")))
+              ) {
+                break;
+              }
+            }
+            c54 += k5I;
+          }
+          if (c54.length > 0 && c54 in this.ops2) {
+            this.tokenindex = c54;
+            this.tokenprio = 5;
+            this.pos += c54.length;
+            return !!"1";
+          }
+          return !{};
+        },
+        isVar: function () {
+          var A9r, g7q;
+          A9r = "";
+          for (var x7c = this.pos; x7c < this.expression.length; x7c++) {
+            g7q = this.expression.charAt(x7c);
+            if (g7q.toUpperCase() === g7q.toLowerCase()) {
+              if (
+                x7c === this.pos ||
+                (g7q != "_" &&
+                  (g7q < "0" ||
+                    g7q >
+                      (7681 <= 8790
+                        ? (2050, 6760) == 248.9
+                          ? (0x215c, "P")
+                          : (554.98, 5841) === ("3100" | 20)
+                            ? ("7.29e+3" << 32, 0x10c)
+                            : "9"
+                        : (0x2495, 0x17e))))
+              ) {
+                break;
+              }
+            }
+            A9r += g7q;
+          }
+          if (A9r.length > 0) {
+            this.tokenindex = A9r;
+            this.tokenprio = 4;
+            this.pos += A9r.length;
+            return !!"1";
+          }
+          V$K.s8u();
+          return !!0;
+        },
+        isComment: function () {
+          var o0B, l4q, h4A, q8h;
+          o0B = -1272495649;
+          l4q = 743735549;
+          V$K.C2v(23);
+          h4A = V$K.B$D("2", 0);
+          for (
+            var p0a = 1;
+            V$K.D9u(p0a.toString(), p0a.toString().length, 44457) !== o0B;
+            p0a++
+          ) {
+            q8h = this.expression.charCodeAt(this.pos * 0);
+            h4A += 2;
+          }
+          if (
+            V$K.D9u(h4A.toString(), h4A.toString().length, "77837" ^ 0) !== l4q
+          ) {
+            q8h = this.expression.charCodeAt(this.pos - 1);
+          }
+          if (q8h === 47 && this.expression.charCodeAt(this.pos) === 42) {
+            V$K.w6J(20);
+            var M3z = V$K.B$D(12, 13, 1);
+            this.pos = this.expression.indexOf("*/", this.pos) + M3z;
+            if (this.pos === "1" * 1) {
+              this.pos = this.expression.length;
+            }
+            return !![];
+          }
+          V$K.s8u();
+          return !{};
+        },
+      },
+      !!1,
+    );
+    function q06(r2j, A0S) {
+      V$K.a3_();
+      V$K.w6J(10);
+      return V$K.Y51(A0S, r2j);
+    }
+    function H1j(K3s, I7y) {
+      V$K.a3_();
+      V$K.w6J(75);
+      return V$K.B$D(I7y, K3s);
+    }
+    return Q9Q;
+  };
+  v8E.computeEquationChart = function (O7Z, L5K) {
+    var W35 = U6BfN;
+    var I_l,
+      t_o,
+      t3d,
+      H3z,
+      F6L,
+      g9X,
+      H_L,
+      p2L,
+      T7Q,
+      F0z,
+      D2$,
+      G_d,
+      j92,
+      r46,
+      z92,
+      W1k,
+      C2e,
+      O7Y,
+      h2k,
+      P5A,
+      L1A,
+      W07,
+      l$2;
+    O7Z = O7Z.replace(
+      /[:]/,
+      556.05 != (+"450.38", 8640) ? "/" : 1020 < 1437 ? "t" : +"175.61",
+    );
+    I_l = 0;
+    for (var w07 in L5K) {
+      t_o = "\\";
+      t_o += "]";
+      t3d = "\\";
+      t3d += "]";
+      H3z = "\\";
+      H3z += "[";
+      F6L = new RegExp(
+        "\\[" +
+          w07
+            .replace(/\[/g, H3z)
+            .replace(/\]/g, t3d)
+            .replace(/\$/g, "\\$")
+            .replace(/\^/g, "\\^")
+            .replace(/[+\-*/%()]/g, "\\$&") +
+          t_o,
+        216.76 <= 9210 ? "g" : (72.79, +"7.75e+3"),
+      );
+      W35.C2v(0);
+      O7Z = O7Z.replace(F6L, W35.B$D("symbol", I_l));
+      I_l++;
+    }
+    g9X = f9q().parse(O7Z);
+    H_L = [];
+    p2L = {};
+    T7Q = 0;
+    D2$ = null;
+    function e_y(u2I) {
+      u2I.i++;
+      if (L5K[u2I.s]) {
+        if (u2I.i >= L5K[u2I.s].length) {
+          W35.C2v(1);
+          return W35.Y51(0, "0");
+        }
+        F0z = L5K[u2I.s][u2I.i];
+      }
+      if (!F0z.DT) {
+        F0z.DT = v8E.strToDateTime(F0z.Date);
+      }
+      u2I.d = F0z.DT;
+      return 1;
+    }
+    G_d = ![];
+    j92 = [];
+    for (w07 in L5K) {
+      r46 = { sym: w07, map: L5K[w07] };
+      if (L5K[w07]) {
+        j92.unshift(r46);
+      } else {
+        j92.push(r46);
+      }
+    }
+    function d21() {
+      var b6f, h5f;
+      b6f = null;
+      h5f = null;
+      for (var h9G in p2L) {
+        if (!h5f) {
+          h5f = p2L[h9G];
+        } else if (p2L[h9G].d.getTime() < h5f.d.getTime()) {
+          b6f = h5f = p2L[h9G];
+        } else if (p2L[h9G].d.getTime() > h5f.d.getTime()) {
+          b6f = h5f;
+        }
+      }
+      if (b6f) {
+        if (!e_y(b6f)) {
+          return 0;
+        }
+        return -+"1";
+      }
+      return 1;
+    }
+    for (var S9F = 0; S9F < j92.length; S9F++) {
+      z92 = j92[S9F];
+      p2L[z92.sym] = { i: 0, s: z92.sym };
+      if (z92.map) {
+        T7Q++;
+        W35.w6J(21);
+        F0z = z92.map[W35.Y51(0, "0")];
+      } else if (T7Q == 1) {
+        G_d = z92.sym;
+      }
+      if (!F0z.DT) {
+        F0z.DT = v8E.strToDateTime(F0z.Date);
+      }
+      p2L[z92.sym].d = F0z.DT;
+      if (!D2$) {
+        D2$ = p2L[z92.sym];
+      }
+    }
+    W35.w6J(96);
+    W1k = W35.Y51(T7Q, 0);
+    C2e =
+      T7Q == 1 && O7Z.indexOf((486.26, 677.6) >= 5380 ? (![], !{}) : "%") == -1;
+    a: while (!![]) {
+      O7Y = d21();
+      if (!O7Y) break;
+      if (O7Y == 1) {
+        if (G_d) {
+          P5A = L5K[D2$.s][D2$.i][G_d];
+          if (P5A && (P5A.Close || P5A.Close === 0)) {
+            P5A = P5A.Close;
+          }
+          L1A = g9X.evaluate({
+            symbol0: L5K[D2$.s][D2$.i].Close,
+            symbol1: P5A,
+          });
+          L1A = Number(L1A.toFixed("8" ^ 0));
+          h2k = { DT: D2$.d, Close: L1A, Adj_Close: L1A };
+          h2k[D2$.s] = L5K[D2$.s][D2$.i].Close;
+          if (!isNaN(L1A) && L1A != Infinity) {
+            H_L.push(h2k);
+          }
+        } else if (W1k) {
+          W07 = g9X.evaluate({});
+          W35.w6J(2);
+          v8E.alert(
+            W35.B$D(
+              O7Z,
+              ("4760" << 64, 8690) >= (831.13, 245.42) ? "=" : 9.27e3,
+              W07,
+            ),
+          );
+          throw { name: "NoException", message: "" };
+        } else {
+          I_l = 0;
+          l$2 = {
+            Adj_Close: {},
+            Close: {},
+            Open: {},
+            High: {},
+            Low: {},
+            Volume: {},
+          };
+          for (w07 in L5K) {
+            for (var e96 in l$2) {
+              W35.C2v(0);
+              l$2[e96][W35.B$D("symbol", I_l)] = L5K[w07][p2L[w07].i][e96];
+            }
+            I_l++;
+          }
+          h2k = { DT: D2$.d };
+          h2k.Adj_Close = g9X.evaluate(l$2.Adj_Close);
+          h2k.Close = g9X.evaluate(l$2.Close);
+          h2k.Open = g9X.evaluate(l$2.Open);
+          h2k.Volume = g9X.evaluate(l$2.Volume);
+          if (isNaN(h2k.Volume)) {
+            h2k.Volume = 0;
+          }
+          if (C2e) {
+            h2k.High = g9X.evaluate(l$2.High);
+            h2k.Low = g9X.evaluate(l$2.Low);
+          } else {
+            h2k.High = Math.max(h2k.Open, h2k.Close);
+            h2k.Low = Math.min(h2k.Open, h2k.Close);
+          }
+          if (!isNaN(h2k.Close) && h2k.Close != Infinity) {
+            H_L.push(h2k);
+          }
+          if (!isNaN(h2k.High)) {
+            h2k.High = Number(h2k.High.toFixed(8));
+          }
+          if (!isNaN(h2k.Low)) {
+            h2k.Low = Number(h2k.Low.toFixed(8));
+          }
+          if (!isNaN(h2k.Open)) {
+            h2k.Open = Number(h2k.Open.toFixed("8" * 1));
+          }
+          if (!isNaN(h2k.Close)) {
+            h2k.Close = Number(h2k.Close.toFixed(8));
+          }
+          if (!isNaN(h2k.Adj_Close)) {
+            h2k.Adj_Close = Number(h2k.Adj_Close.toFixed(8));
+          } else {
+            h2k.Adj_Close = h2k.Close;
+          }
+        }
+        for (w07 in L5K) {
+          if (!e_y(p2L[w07])) break a;
+        }
+      }
+    }
+    return H_L;
+  };
+};
+W8 = (m5S) => {
+  var z7s;
+  z7s = typeof _CIQ !== "undefined" ? _CIQ : m5S.CIQ;
+  z7s.ChartEngine.prototype.addEvent = function (f1U, B1I, p8f) {
+    var C7F = U6BfN;
+    if (!f1U) {
+      return;
+    }
+    var { chart: D8O } = this;
+    B1I = B1I || {};
+    C7F.a3_();
+    B1I.isEvent = !![];
+    if (!B1I.processResults) {
+      B1I.processResults = this.processEventResults;
+    }
+    if (!B1I.takedownResults) {
+      B1I.takedownResults = this.takedownEventResults;
+    }
+    B1I.responseHandler = (H8v) => {
+      C7F.a3_();
+      return (f7b) => {
+        C7F.a3_();
+        var Z1s, Y8H;
+        Z1s = D8O.series[f1U];
+        var { quotes: O_2 } = f7b;
+        if (!O_2 || !O_2.length) {
+          return;
+        }
+        if (!f7b.error) {
+          Z1s.loading = ![];
+          Z1s.moreAvailable = f7b.moreAvailable;
+          Z1s.upToDate = f7b.upToDate;
+        }
+        Y8H = [
+          f7b.beginDate || O_2[0].DT,
+          f7b.endDate || O_2[O_2.length - 1].DT,
+        ];
+        if (!Z1s.endPoints.begin || Z1s.endPoints.begin > Y8H[0]) {
+          C7F.C2v(6);
+          Z1s.endPoints.begin = Y8H[C7F.Y51("0", 0)];
+        }
+        if (!Z1s.endPoints.end || Z1s.endPoints.end < Y8H[+"1"]) {
+          Z1s.endPoints.end = Y8H[1];
+        }
+        if (Z1s.parameters.processResults) {
+          Z1s.parameters.processResults(this, f7b.error, Z1s, O_2);
+        }
+      };
+    };
+    this.addSeries(f1U, B1I, p8f);
+  };
+  z7s.ChartEngine.prototype.processEventResults = function (
+    L5e,
+    C3n,
+    q_E,
+    g$P,
+  ) {
+    U6BfN.a3_();
+    if (!C3n && z7s.Marker) {
+      for (var I4O of g$P) {
+        if (I4O.data) {
+          I4O.data.type = q_E.id;
+          z7s.Marker({
+            stx: L5e,
+            label: q_E.id,
+            x: I4O.DT,
+            node: new z7s.Marker.Simple(I4O.data),
+          });
+        }
+      }
+    }
+  };
+  z7s.ChartEngine.prototype.takedownEventResults = function (q09, g_2) {
+    U6BfN.s8u();
+    if (z7s.Marker) {
+      z7s.Marker.removeByLabel(q09, g_2);
+    }
+  };
+  z7s.ChartEngine.prototype.removeEvent = function (y2E) {
+    U6BfN.a3_();
+    this.removeSeries(y2E);
+  };
+  U6BfN.s8u();
+  z7s.ChartEngine.prototype.removeAllEvents = function () {
+    var { series: N3P } = this.chart;
+    if (N3P) {
+      for (var v8U in N3P) {
+        if (N3P[v8U].parameters.isEvent) {
+          this.removeEvent(v8U);
+        }
+      }
+    }
+  };
+};
+z3 = (Q2h) => {
+  var a16, v54;
+  a16 = "undefine";
+  a16 += "d";
+  v54 = typeof _CIQ !== a16 ? _CIQ : Q2h.CIQ;
+  v54.ChartEngine.prototype.setLocale = function (h_R, x6B) {
+    var t4E = U6BfN;
+    var q6Q, R6Q, r6m, h3f, q5d, h9W, C0B, g90, m0X;
+    q6Q = "nu";
+    q6Q += "meri";
+    q6Q += "c";
+    R6Q = "h";
+    R6Q += "2";
+    R6Q += "3";
+    t4E.a3_();
+    r6m = "h";
+    r6m += "2";
+    r6m += "3";
+    h3f = "numer";
+    h3f += "ic";
+    if (typeof Intl == "undefined") {
+      return;
+    }
+    if (this.locale != h_R) {
+      this.locale = h_R;
+    } else {
+      return;
+    }
+    h9W = this.internationalizer = {};
+    h9W.hourMinute = new Intl.DateTimeFormat(this.locale, {
+      hour: "numeric",
+      minute: h3f,
+      hourCycle: r6m,
+    });
+    h9W.hourMinuteSecond = new Intl.DateTimeFormat(this.locale, {
+      hour: "numeric",
+      minute: "numeric",
+      second: "numeric",
+      hourCycle: R6Q,
+    });
+    h9W.mdhm = {
+      format: (W5V) => {
+        var u4y, H4u, F58, q$S, S5H, n$0;
+        u4y = 342267052;
+        H4u = 1633142062;
+        F58 = 2;
+        for (
+          var t46 = 1;
+          t4E.D9u(t46.toString(), t46.toString().length, "39836" ^ 0) !== u4y;
+          t46++
+        ) {
+          q$S = "2";
+          q$S += "-d";
+          q$S += "igit";
+          return new Intl.DateTimeFormat(this.locale, {
+            year: "2-digit",
+            month: "2-digit",
+            day: q$S,
+            hour: "2-digit",
+            minute: "2-digit",
+          })
+            .format(W5V)
+            .replace(/\u200f/g, "2-digit");
+        }
+        if (t4E.D9u(F58.toString(), F58.toString().length, 51576) !== H4u) {
+          S5H = "2";
+          S5H += "-dig";
+          S5H += "i";
+          S5H += "t";
+          n$0 = "2-d";
+          n$0 += "igit";
+          return new Intl.DateTimeFormat(this.locale, {
+            year: "2-digit",
+            month: n$0,
+            day: "2-digit",
+            hour: S5H,
+            minute: "2-digit",
+          })
+            .format(W5V)
+            .replace(/\u200f/g, "");
+        }
+      },
+    };
+    h9W.monthDay = {
+      format: (f3F) => {
+        var z8B;
+        z8B = "nume";
+        t4E.s8u();
+        z8B += "ric";
+        return new Intl.DateTimeFormat(this.locale, {
+          month: z8B,
+          day: "numeric",
+        })
+          .format(f3F)
+          .replace(/\u200f/g, "");
+      },
+    };
+    h9W.yearMonthDay = {
+      format: (h0D) => {
+        var W58;
+        W58 = "n";
+        W58 += "ume";
+        t4E.a3_();
+        W58 += "ric";
+        return new Intl.DateTimeFormat(this.locale, {
+          year: "numeric",
+          month: "numeric",
+          day: W58,
+        })
+          .format(h0D)
+          .replace(/\u200f/g, "");
+      },
+    };
+    h9W.yearMonth = new Intl.DateTimeFormat(this.locale, {
+      year: "numeric",
+      month: q6Q,
+    });
+    h9W.month = new Intl.DateTimeFormat(this.locale, { month: "short" });
+    h9W.numbers = new Intl.NumberFormat(this.locale);
+    h9W.priceFormatters = [];
+    if (!x6B) {
+      x6B = 8;
+    }
+    for (q5d = "0" - 0; q5d < x6B + 1; q5d++) {
+      h9W.priceFormatters.push(
+        new Intl.NumberFormat(this.locale, {
+          maximumFractionDigits: q5d,
+          minimumFractionDigits: q5d,
+        }),
+      );
+    }
+    for (q5d = 0; q5d < +"5"; q5d++) {
+      C0B = "e";
+      C0B += "x";
+      C0B += "ce";
+      C0B += "ptZero";
+      g90 = q5d;
+      m0X = q5d;
+      if (!q5d) {
+        g90 = "";
+        m0X = 2;
+      }
+      t4E.w6J(0);
+      h9W[t4E.Y51("percent", g90)] = new Intl.NumberFormat(this.locale, {
+        style: "percent",
+        minimumFractionDigits: m0X,
+        maximumFractionDigits: m0X,
+        signDisplay: C0B,
+      });
+    }
+    if (v54.I18N.createMonthArrays) {
+      v54.I18N.createMonthArrays(this, h9W.month, this.locale);
+    }
+  };
+  v54.ChartEngine.prototype.translateUI = function (I4q) {
+    if (v54.I18N.localized) {
+      v54.I18N.translateUI(this.preferences.language, I4q);
+    }
+  };
+  v54.I18N = function () {};
+  v54.I18N.hereDoc = function (r_6) {
+    U6BfN.s8u();
+    return r_6
+      .toString()
+      .replace(/^[^/]+\/\*!?/, "")
+      .replace(/ {4,10}/g, "")
+      .replace(/\*\/[^/]+$/, "");
+  };
+  v54.I18N.language = "en";
+  v54.I18N.longMonths = { zh: !!1, ja: !!{} };
+  v54.I18N.reverseColorsByLocale = {};
+  v54.I18N.findAllTextNodes = function (y3Q) {
+    var U$H,
+      o$m,
+      I2B,
+      c8i,
+      a5f,
+      S44,
+      N6B,
+      Y37,
+      q9a,
+      M$Y,
+      J3P,
+      G8q,
+      D6j,
+      N5z,
+      h5d,
+      t_U,
+      N22;
+    U$H = "\n";
+    U6BfN.s8u();
+    U$H += "|\t";
+    U$H += "|";
+    U$H += "\f";
+    o$m = "^";
+    o$m += "\\s*";
+    o$m += "$";
+    if (!y3Q) {
+      y3Q = document.body;
+    }
+    I2B = y3Q.ownerDocument.createTreeWalker(
+      y3Q,
+      NodeFilter.SHOW_TEXT | NodeFilter.SHOW_ELEMENT,
+      {
+        acceptNode(H8K) {
+          if (
+            H8K.nodeType === Node.TEXT_NODE ||
+            H8K.shadowRoot ||
+            H8K.placeholder
+          ) {
+            return NodeFilter.FILTER_ACCEPT;
+          }
+          return NodeFilter.FILTER_SKIP;
+        },
+      },
+    );
+    c8i = I2B.nextNode();
+    a5f = new RegExp(o$m);
+    S44 = new RegExp(U$H, "g");
+    N6B = {};
+    Y37 = { SCRIPT: !"", STYLE: !"", TEXTAREA: !![], "CQ-SYMBOL": !![] };
+    while (c8i) {
+      if (c8i.shadowRoot) {
+        M$Y = v54.I18N.findAllTextNodes(c8i.shadowRoot);
+        for (var f47 in M$Y) {
+          if (!N6B[f47]) {
+            N6B[f47] = [];
+          }
+          N6B[f47] = N6B[f47].concat(M$Y[f47]);
+        }
+      }
+      J3P = c8i.nodeValue;
+      if (J3P && !a5f.test(J3P)) {
+        G8q = c8i.parentNode;
+        if (!Y37[G8q.tagName] && !G8q.matches("[no-translate]")) {
+          D6j = "cq";
+          D6j += "-tra";
+          D6j += "nslat";
+          D6j += "e-original";
+          q9a = G8q.getAttribute("cq-translate-original");
+          if (q9a) {
+            J3P = q9a;
+          } else {
+            G8q.setAttribute(D6j, J3P);
+          }
+          if (S44.test(J3P)) {
+            J3P = J3P.replace(S44, "");
+          }
+          if (!N6B[J3P]) {
+            N6B[J3P] = [];
+          }
+          N6B[J3P].push(c8i);
+        }
+      }
+      J3P = c8i.placeholder;
+      if (J3P && !a5f.test(J3P)) {
+        if (!Y37[c8i.tagName]) {
+          N5z = "cq-translate-pla";
+          N5z += "ce";
+          N5z += "holder-origin";
+          N5z += "al";
+          h5d = "cq-translate-placehold";
+          h5d += "er-original";
+          q9a = c8i.getAttribute(h5d);
+          if (q9a) {
+            J3P = q9a;
+          } else {
+            c8i.setAttribute(N5z, J3P);
+          }
+          if (!N6B[J3P]) {
+            N6B[J3P] = [];
+          }
+          N6B[J3P].push(c8i);
+        }
+      }
+      if (c8i.tagName && Y37[c8i.tagName]) {
+        c8i = I2B.nextSibling();
+      } else {
+        c8i = I2B.nextNode();
+      }
+    }
+    if (y3Q == document.body) {
+      t_U = v54.Studies ? v54.Studies.studyLibrary : null;
+      if (t_U) {
+        for (var i0J in t_U) {
+          if (N6B[i0J] === null) {
+            N6B[i0J] = [];
+          }
+          N22 = t_U[i0J];
+          if (N22.inputs) {
+            for (var v9j in N22.inputs) {
+              if (!N6B[v9j]) {
+                N6B[v9j] = [];
+              }
+            }
+          }
+          if (N22.outputs) {
+            for (var n40 in N22.outputs) {
+              if (!N6B[n40]) {
+                N6B[n40] = [];
+              }
+            }
+          }
+        }
+      }
+    }
+    return N6B;
+  };
+  v54.I18N.missingWordList = function (O2U) {
+    var y8C, C7T, W$j, N6i, k$1, H7p;
+    if (!O2U) {
+      O2U = v54.I18N.language;
+    }
+    y8C = v54.I18N.findAllTextNodes();
+    C7T = {};
+    W$j = v54.I18N.wordLists[O2U];
+    if (!W$j) {
+      W$j = {};
+    }
+    N6i = function (I8L) {
+      if (typeof W$j[I8L] == "undefined") {
+        C7T[I8L] = "";
+      }
+    };
+    for (var E_H in y8C) {
+      N6i(E_H);
+    }
+    if (!(v54.Studies && v54.Studies.studyLibrary)) {
+      return C7T;
+    }
+    for (var f66 in v54.Studies.studyLibrary) {
+      k$1 = v54.Studies.studyLibrary[f66];
+      N6i(k$1.name);
+      for (var T80 in k$1.inputs) {
+        N6i(T80);
+        H7p = k$1.inputs[T80];
+        switch (Object.prototype.toString.call(H7p)) {
+          case "[object String]":
+            N6i(H7p);
+            break;
+          case "[object Array]":
+            for (var D0i = 0; D0i < H7p.length; ++D0i) {
+              N6i(H7p[D0i]);
+            }
+            break;
+        }
+      }
+      for (var L7J in k$1.outputs) {
+        N6i(L7J);
+      }
+    }
+    N6i("Show Zones");
+    N6i("OverBought");
+    N6i("OverSold");
+    N6i("Panel");
+    N6i("Show as Underlay");
+    U6BfN.a3_();
+    N6i("Y-Axis");
+    N6i("Invert Y-Axis");
+    return C7T;
+  };
+  v54.I18N.printableMissingWordList = function (V4X) {
+    U6BfN.s8u();
+    var d5l;
+    d5l = JSON.stringify(v54.I18N.missingWordList(V4X));
+    d5l = d5l.replace(/","/g, '",\n"');
+    return d5l;
+  };
+  v54.I18N.translateUI = function (L95, r8P) {
+    var e9X, H9T, t$V, M8a, x4w, o5u, R_J, s5K, m07, t8F, u4d;
+    if (L95 == "pu") {
+      L95 = "pt";
+    }
+    if (!v54.I18N.wordLists) {
+      return;
+    }
+    if (!L95) {
+      L95 = v54.I18N.language;
+    }
+    function y4X(x20) {
+      U6BfN.a3_();
+      return Array.from(
+        (x20 || document).querySelectorAll("[aria-label]"),
+      ).reduce((f5C, l52) => {
+        var J2_, d_L;
+        J2_ = "aria-la";
+        J2_ += "bel-original";
+        if (!l52.getAttribute(J2_)) {
+          l52.setAttribute(
+            "aria-label-original",
+            l52.getAttribute("aria-label"),
+          );
+        }
+        d_L = l52.getAttribute("aria-label-original");
+        f5C[d_L] = (f5C[d_L] || []).concat(l52);
+        return f5C;
+      }, {});
+    }
+    e9X = v54.I18N.findAllTextNodes(r8P);
+    H9T = v54.I18N.wordLists[L95];
+    if (!H9T) {
+      return;
+    }
+    for (var a2N in e9X) {
+      t$V = v54.I18N.translateSections(a2N, H9T);
+      M8a = e9X[a2N];
+      for (var h69 = "0" | 0; h69 < M8a.length; h69++) {
+        x4w = M8a[h69];
+        o5u = x4w.parentNode;
+        R_J = x4w.placeholder
+          ? x4w.getAttribute("cq-translate-placeholder-original")
+          : o5u.getAttribute("cq-translate-original");
+        if (
+          t$V ===
+            ((213.67, 248.25) > (403, 2223)
+              ? (+"4.18e+3", !{})
+              : "2243" >> 32 > 1841
+                ? 3720 == ("296" >> 64, 3900)
+                  ? "b"
+                  : ","
+                : "Z") ||
+          !t$V
+        ) {
+          t$V = R_J;
+        }
+        if (x4w.placeholder) {
+          x4w.placeholder = t$V;
+        } else {
+          x4w.data = t$V;
+        }
+      }
+    }
+    s5K = y4X(r8P);
+    for (var o5w in s5K) {
+      m07 = v54.I18N.translateSections(o5w, H9T);
+      t8F = s5K[o5w];
+      for (var x00 of t8F) {
+        u4d = x00.getAttribute("aria-label-original");
+        if (m07 === "," || !m07) {
+          m07 = u4d;
+        }
+        x00.setAttribute("aria-label", m07);
+      }
+    }
+  };
+  v54.I18N.translate = function (u$i, Y9j) {
+    var q6b, p93;
+    if (!Y9j) {
+      Y9j = v54.I18N.language;
+    }
+    if (!v54.I18N.wordLists) {
+      console.log(
+        "Must include translations.js in order to use CIQ.I18N.translate()",
+      );
+      return u$i;
+    }
+    U6BfN.a3_();
+    q6b = v54.I18N.wordLists[Y9j];
+    p93 = null;
+    if (q6b) {
+      p93 = v54.I18N.translateSections(u$i, q6b) || u$i;
+    }
+    return p93 ===
+      (("518.61" * 1, 146.36) == +"2760"
+        ? (0x393, 477.75)
+        : 1209 == (1100, 5416)
+          ? ("e", !!"")
+          : (+"313.68", 7620) > +"6662"
+            ? ","
+            : (0x362, "G"))
+      ? u$i
+      : p93;
+  };
+  v54.I18N.translateSections = function (K8f, g8I) {
+    var m4K = U6BfN;
+    m4K.s8u();
+    var l$S, s5i, A2H, S8x;
+    l$S = "stri";
+    l$S += "ng";
+    s5i =
+      8820 > (9041, 7540)
+        ? (679.23, 853.04) < 8486
+          ? "\u200c"
+          : 7030 != ("615" ^ 0)
+            ? "450.17" - 0
+            : ("v", "c")
+        : (839.59, !"1");
+    if (typeof K8f == l$S && K8f.indexOf(s5i) != -1) {
+      A2H = "$";
+      A2H += "1";
+      m4K.C2v(2);
+      K8f = K8f.replace(/([(),])/g, m4K.B$D(s5i, A2H, s5i));
+      S8x = K8f.split(s5i);
+      S8x.forEach(function (r6d, l8o, s8m) {
+        var C5e, w5f;
+        C5e = r6d.match(/^(\s*).{0,100}\S(\s*)$/);
+        w5f = g8I[r6d.trim()];
+        if (w5f) {
+          if (C5e) {
+            m4K.w6J(0);
+            var W8e = m4K.Y51(0, 1);
+            m4K.w6J(67);
+            var L9X = m4K.B$D(6, 20, 26, 8);
+            w5f = C5e[W8e] + w5f + C5e[L9X];
+          }
+          s8m[l8o] = w5f;
+        }
+      });
+      return S8x.join("");
+    }
+    return g8I[K8f];
+  };
+  v54.I18N.csv = v54.I18N.csv || "";
+  v54.I18N.convertCSV = function (a2P) {
+    var w4o, F3X, h6C, q9D, f5j, q4s, S8N, F1R, H4s, E5q, u2u, w5E;
+    w4o = "[";
+    w4o += "\u201C";
+    w4o += "\u201D]|[\u2018\u2019";
+    w4o += "]";
+    F3X = new RegExp(w4o, "g");
+    h6C = v54.I18N.wordLists;
+    if (!a2P) {
+      a2P = v54.I18N.csv;
+    }
+    if (!a2P) {
+      return;
+    }
+    q9D = a2P.split((1976, 42.27) !== 9730 ? "\n" : ("E", 643.21));
+    f5j = q9D[0];
+    q4s = f5j.split(",");
+    for (var Q_X = "0" << 64; Q_X < q4s.length; Q_X++) {
+      S8N = q4s[Q_X];
+      if (!h6C[S8N]) {
+        h6C[S8N] = {};
+      }
+    }
+    for (var h9z = 1; h9z < q9D.length; h9z++) {
+      F1R =
+        q9D[h9z].match(
+          /(".{0,1000}?"|[^",]{1,1000})(?=\s{0,100},|\s{0,100}$)|(,(?=,))/g,
+        ) || [];
+      H4s = F1R[0];
+      E5q = H4s.charAt(0);
+      u2u = H4s.charAt(H4s.length - 1);
+      if (E5q === '"' && u2u === '"') {
+        H4s = H4s.substring(1, H4s.length - +"1");
+      }
+      if (F3X.test(H4s)) {
+        H4s = H4s.replace(
+          F3X,
+          (207.78, 122.76) != (+"7845", 2725)
+            ? (930.13, +"1360") <= (4661, 247.61)
+              ? 8638 != 9630
+                ? "u"
+                : 9.13e3
+              : '"'
+            : (59.39, 717.67),
+        );
+      }
+      for (var C8t = 1; C8t < F1R.length; C8t++) {
+        w5E = F1R[C8t];
+        E5q = w5E.charAt(0);
+        u2u = w5E.charAt(w5E.length - +"1");
+        if (
+          E5q ===
+            ((1880, +"8150") > (6643, 384.8)
+              ? '"'
+              : (7477, 7570) == (+"4293", "1880" >> 0)
+                ? 0x283
+                : (3180, "7820" - 0) > (8541, 549.22)
+                  ? ("O", 0x995)
+                  : "R") &&
+          u2u === '"'
+        ) {
+          U6BfN.w6J(6);
+          w5E = w5E.substring(U6BfN.B$D("1", 0), w5E.length - 1);
+        }
+        h6C[q4s[C8t]][H4s] = w5E;
+      }
+    }
+  };
+  v54.I18N.setLanguage = function (u7d, n9w, q1Q, W6m, d3C) {
+    U6BfN.s8u();
+    if (!d3C) {
+      d3C = (u7d.uiContext || {}).topNode || document.body;
+    }
+    if (n9w == "pu") {
+      n9w = "pt";
+    }
+    v54.I18N.convertCSV(W6m);
+    v54.I18N.language = n9w;
+    v54.I18N.translateUI(n9w, d3C);
+    if (!q1Q) {
+      q1Q = v54.I18N.translate;
+    }
+    u7d.translationCallback = q1Q;
+  };
+  v54.I18N.setLocale = function (R86, O5r, w33, Q2u, I$s) {
+    var J4L = U6BfN;
+    var H_H, U4E, c7z, V8k;
+    H_H = "un";
+    H_H += "def";
+    H_H += "ined";
+    if (
+      v54.xor(
+        this.reverseColorsByLocale[O5r],
+        this.reverseColorsByLocale[R86.locale],
+      )
+    ) {
+      this.reverseCandles(R86);
+    }
+    if (typeof Intl == "undefined" || !Intl.__addLocaleData) {
+      R86.setLocale(O5r, I$s);
+      if (w33) {
+        w33(null);
+      }
+      return;
+    }
+    Q2u = typeof Q2u == H_H ? "locale-data/jsonp" : Q2u;
+    J4L.C2v(48);
+    U4E = J4L.Y51(
+      "2990" * 1 == (709.23, 436.15)
+        ? 639.83
+        : 7240 === (7190, 286.41)
+          ? (6.94e3, 0x2304)
+          : "/",
+      Q2u,
+      O5r,
+      ".js",
+    );
+    c7z = document.createElement("SCRIPT");
+    c7z.async = !0;
+    c7z.src = U4E;
+    V8k = document.getElementsByTagName("script")[0];
+    J4L.s8u();
+    V8k.parentNode.insertBefore(c7z, V8k.nextSibling);
+    c7z.onload = function () {
+      R86.setLocale(O5r, I$s);
+      J4L.a3_();
+      if (w33) {
+        w33(null);
+      }
+    };
+    c7z.onerror = function () {
+      J4L.s8u();
+      if (w33) {
+        w33("cannot load script");
+      }
+    };
+  };
+  v54.I18N.createMonthArrays = function (d50, c1T, F7$) {
+    var i8O, B7j, C7Q, u5h, K7t, j28;
+    d50.monthAbv = [];
+    d50.monthLetters = [];
+    i8O = new Date();
+    U6BfN.s8u();
+    B7j = !0;
+    if (v54.I18N.longMonths && v54.I18N.longMonths[F7$]) {
+      B7j = !1;
+    }
+    for (var y0K = "0" | 0; y0K < 12; y0K++) {
+      i8O.setDate(1);
+      i8O.setMonth(y0K);
+      C7Q = c1T.format(i8O);
+      if (B7j) {
+        u5h = "";
+        for (var q9N = 0; q9N < C7Q.length; q9N++) {
+          K7t = C7Q.charAt(q9N);
+          j28 = K7t.charCodeAt(0);
+          if (j28 < +"65") continue;
+          u5h += K7t;
+        }
+        d50.monthAbv[y0K] = u5h;
+        d50.monthLetters[y0K] = u5h[0];
+      } else {
+        d50.monthAbv[y0K] = C7Q;
+        d50.monthLetters[y0K] = C7Q;
+      }
+    }
+  };
+  v54.I18N.localize = function (M4r, b8X) {
+    b8X = this.langConversionMap[b8X] || b8X;
+    this.setLocale(M4r, b8X);
+    this.setLanguage(M4r, b8X);
+    U6BfN.s8u();
+    v54.I18N.localized = !!"1";
+  };
+  v54.I18N.reverseCandles = function (r_I) {
+    var F4r, Z9N, b4t;
+    F4r = r_I.styles;
+    Z9N = r_I.cloneStyle(F4r.stx_candle_down);
+    b4t = r_I.cloneStyle(F4r.stx_candle_up);
+    F4r.stx_candle_up = Z9N;
+    F4r.stx_candle_down = b4t;
+  };
+  U6BfN.a3_();
+  v54.I18N.wordLists = { en: {} };
+  v54.I18N.languages = { en: "English" };
+  v54.I18N.langConversionMap = {};
+  v54.I18N.localized = !{};
+};
+N9 = (q9z) => {
+  var p2x, y$h, i4h, Y$X, y7l, S2G, y7h, z2Y, P4I;
+  p2x = '<div class="';
+  p2x += "stx-baseline-han";
+  p2x += 'dle" style="display: none;"><';
+  p2x += "/div>";
+  y$h = "<div";
+  y$h +=
+    ' class="stx_jump_today" role="button" aria-label="Home" style="display:none"><span></span></div>';
+  i4h = '<div class="stx_c';
+  i4h += 'rosshair stx_crosshair_y" style="display: none;"></div>';
+  Y$X = "<di";
+  Y$X += 'v class="stx_crosshair stx_crosshair_x" sty';
+  Y$X += 'le="display: no';
+  Y$X += 'ne;"></div>';
+  y7l = "<div ";
+  y7l += 'class="stx';
+  y7l += '_drag_ok"><div';
+  y7l += ' class="icon"></div><div class="field"></div></div>';
+  S2G = '<span class="stx-btn stx_';
+  S2G += 'annotation_cancel" style="display: none; margin-le';
+  S2G += 'ft:10px;"';
+  S2G += "></span>";
+  y7h = "contextm";
+  y7h += "en";
+  y7h += "u";
+  z2Y = typeof _CIQ !== "undefined" ? _CIQ : q9z.CIQ;
+  z2Y.ChartEngine.prototype.pointerEvents = { down: [], up: [] };
+  z2Y.ChartEngine.prototype.manageTouchAndMouse = !"";
+  z2Y.ChartEngine.prototype.registerTouchAndMouseEvents = function () {
+    var W1W, d$n, i1p, e7N, M4v, I2r, b0$, x8w, I$j, L46;
+    if (this.touchAndMouseEventsRegistered) {
+      return;
+    }
+    this.touchAndMouseEventsRegistered = !0;
+    W1W = this.controls.chartControls || document;
+    d$n = W1W.querySelector(".stx-zoom-in");
+    i1p = W1W.querySelector(".stx-zoom-out");
+    e7N = this.chart.container;
+    M4v = this;
+    I2r = function (Z$2, J4F, I0N) {
+      M4v.addDomEventListener(e7N, Z$2, K$n, I0N);
+      function K$n(v6a) {
+        U6BfN.a3_();
+        if (M4v.mainSeriesRenderer.nonInteractive) {
+          return;
+        }
+        J4F(v6a);
+      }
+    };
+    if (!z2Y.touchDevice) {
+      I2r("mousemove", function (T9h) {
+        U6BfN.a3_();
+        M4v.mousemove(T9h);
+      });
+      I2r("mouseenter", function (k9C) {
+        U6BfN.a3_();
+        M4v.mousemove(k9C);
+      });
+      I2r("mousedown", function (s1a) {
+        U6BfN.s8u();
+        M4v.mousedown(s1a);
+      });
+      I2r("mouseup", function (i9Z) {
+        U6BfN.a3_();
+        M4v.mouseup(i9Z);
+      });
+    } else {
+      if (z2Y.isSurface) {
+        b0$ = "m";
+        b0$ += "ousemov";
+        b0$ += "e";
+        I2r(b0$, function (T5G) {
+          U6BfN.a3_();
+          M4v.msMouseMoveProxy(T5G);
+        });
+        I2r("mouseenter", function (Q7Z) {
+          U6BfN.s8u();
+          M4v.msMouseMoveProxy(Q7Z);
+        });
+        I2r("mousedown", function (Q9k) {
+          M4v.msMouseDownProxy(Q9k);
+        });
+        I2r("mouseup", function (X_s) {
+          U6BfN.a3_();
+          M4v.msMouseUpProxy(X_s);
+        });
+        I2r("pointerdown", function (G_A) {
+          U6BfN.s8u();
+          return M4v.startProxy(G_A);
+        });
+        I2r("pointermove", function (Z3l) {
+          M4v.moveProxy(Z3l);
+        });
+        I2r("pointerenter", function (c$_) {
+          U6BfN.a3_();
+          return M4v.moveProxy(c$_);
+        });
+        I2r("pointerup", function (H6F) {
+          U6BfN.s8u();
+          return M4v.endProxy(H6F);
+        });
+      } else {
+        x8w = "touc";
+        x8w += "hend";
+        I$j = "touchsta";
+        I$j += "r";
+        I$j += "t";
+        if (!z2Y.isMobile) {
+          I2r("mousemove", function (d$6) {
+            M4v.iosMouseMoveProxy(d$6);
+          });
+          I2r("mouseenter", function (L5R) {
+            U6BfN.s8u();
+            M4v.iosMouseMoveProxy(L5R);
+          });
+          I2r("mousedown", function (J7$) {
+            U6BfN.s8u();
+            M4v.iosMouseDownProxy(J7$);
+          });
+          I2r("mouseup", function (C4R) {
+            U6BfN.a3_();
+            M4v.iosMouseUpProxy(C4R);
+          });
+        }
+        I2r(
+          I$j,
+          function (F3f) {
+            M4v.touchstart(F3f);
+          },
+          { passive: !1 },
+        );
+        I2r(
+          "touchmove",
+          function (s_X) {
+            M4v.touchmove(s_X);
+          },
+          { passive: ![] },
+        );
+        I2r(x8w, function (I4m) {
+          U6BfN.a3_();
+          M4v.touchend(I4m);
+        });
+        I2r("pointerdown", function (R_z) {
+          U6BfN.a3_();
+          M4v.touchPointerType = R_z.pointerType;
+        });
+      }
+    }
+    L46 = z2Y.wheelEvent;
+    if (this.captureMouseWheelEvents) {
+      I2r(
+        L46,
+        function (v4y) {
+          U6BfN.s8u();
+          M4v.mouseWheel(v4y);
+        },
+        { passive: !!"" },
+      );
+    }
+  };
+  z2Y.ChartEngine.prototype.mousedown = function (B1C) {
+    var q0b, U6E, m7D, n4z, G7t, s57;
+    q0b = "d";
+    q0b += "o";
+    q0b += "w";
+    q0b += "n";
+    if (this.runPrepend("mousedown", arguments)) {
+      return;
+    }
+    this.grabOverrideClick = !1;
+    if (!this.displayInitialized) {
+      return;
+    }
+    if (!this.displayCrosshairs) {
+      return;
+    }
+    if (this.repositioningDrawing) {
+      return;
+    }
+    if (this.editingAnnotation) {
+      return;
+    }
+    if (B1C.target && B1C.target.closest("[draggable]")) {
+      return;
+    }
+    if (B1C.button && B1C.button >= 2) {
+      return;
+    }
+    U6E = this.container.getBoundingClientRect();
+    this.top = U6E.top;
+    this.left = U6E.left;
+    this.right = this.left + this.width;
+    this.bottom = this.top + this.height;
+    if (
+      B1C.clientX >= this.left &&
+      B1C.clientX <= this.right &&
+      B1C.clientY >= this.top &&
+      B1C.clientY <= this.bottom
+    ) {
+      this.insideChart = !!"1";
+    } else {
+      this.insideChart = !{};
+      return;
+    }
+    if (!this.currentPanel) {
+      return;
+    }
+    if (
+      this.manageTouchAndMouse &&
+      B1C &&
+      B1C.preventDefault &&
+      this.captureTouchEvents
+    ) {
+      B1C.preventDefault();
+    }
+    this.mouseTimer = Date.now();
+    this.longHoldTookEffect = !"1";
+    this.hasDragged = !!0;
+    this.userPointerDown = !![];
+    if (this.openDialog === "") {
+      this.registerPointerEvent(
+        { x: B1C.clientX, y: B1C.clientY, time: this.mouseTimer },
+        q0b,
+      );
+    }
+    var { chart: H7Y } = this.currentPanel;
+    for (var V1E = +"0"; V1E < this.drawingObjects.length; V1E++) {
+      m7D = this.drawingObjects[V1E];
+      if (m7D.highlighted && !m7D.permanent) {
+        if (this.cloneDrawing) {
+          n4z = z2Y.ChartEngine.drawingTools[m7D.name];
+          G7t = new n4z();
+          G7t.reconstruct(this, m7D.serialize());
+          this.drawingObjects.push(G7t);
+          this.activateRepositioning(G7t);
+          G7t.repositioner = m7D.repositioner;
+          return;
+        }
+        s57 = this.currentVectorParameters.vectorType;
+        if (
+          !z2Y.Drawing ||
+          !s57 ||
+          !z2Y.Drawing[s57] ||
+          !new z2Y.Drawing[s57]().dragToDraw
+        ) {
+          this.activateRepositioning(m7D);
+          return;
+        }
+      }
+    }
+    var { anchorHandles: m5K } = this.controls;
+    if (m5K) {
+      for (var U5V in m5K) {
+        var { handle: W$X, sd: j6V, highlighted: G69 } = m5K[U5V];
+        if (G69) {
+          this.repositioningAnchorSelector = { sd: j6V };
+          W$X.classList.add("stx-grab");
+          return;
+        }
+      }
+    }
+    if (this.drawingClick) {
+      if (this.currentPanel.subholder === B1C.target) {
+        this.drawingClick(this.currentPanel, this.cx, this.cy);
+      }
+      if (this.activeDrawing && this.activeDrawing.dragToDraw) {
+        return;
+      }
+    }
+    this.grabbingScreen = !"";
+    H7Y.spanLock = ![];
+    this.yToleranceBroken = !"1";
+    this.grabStartX = B1C.clientX;
+    this.grabStartY = B1C.clientY;
+    this.grabStartMicropixels = this.micropixels;
+    this.grabStartScrollX = H7Y.scroll;
+    this.grabStartScrollY = this.currentPanel.yAxis.scroll;
+    this.grabStartCandleWidth = this.layout.candleWidth;
+    this.grabStartYAxis = this.whichYAxis(this.currentPanel);
+    this.grabStartZoom = this.grabStartYAxis ? this.grabStartYAxis.zoom : 0;
+    this.grabStartScroll = this.grabStartYAxis ? this.grabStartYAxis.scroll : 0;
+    this.grabStartPanel = this.currentPanel;
+    setTimeout(
+      (function (Q4V) {
+        U6BfN.a3_();
+        return function () {
+          Q4V.grabbingHand();
+        };
+      })(this),
+      100,
+    );
+    if (this.swipeStart) {
+      this.swipeStart(H7Y);
+    }
+    if (this.longHoldTime || this.longHoldTime === 0) {
+      this.startLongHoldTimer();
+    }
+    this.runAppend("mousedown", arguments);
+  };
+  z2Y.ChartEngine.prototype.mousemove = function (P5Y) {
+    var k5c;
+    U6BfN.a3_();
+    k5c = P5Y;
+    z2Y.ChartEngine.crosshairX = k5c.clientX;
+    z2Y.ChartEngine.crosshairY = k5c.clientY;
+    if (k5c.type.toLowerCase().indexOf("enter") > -1) {
+      this.positionCrosshairsAtPointer();
+      return;
+    }
+    if (this.runPrepend("mousemove", arguments)) {
+      return;
+    }
+    if (!this.displayInitialized) {
+      return;
+    }
+    if (this.openDialog !== "") {
+      return;
+    }
+    if (this.grabbingScreen && k5c.buttons !== "1" >> 64) {
+      this.cancelLongHold = !!{};
+      this.displayDragOK();
+      this.grabbingScreen = !!0;
+      this.findHighlights(!1, !!"1");
+    }
+    this.mousemoveinner(k5c.clientX, k5c.clientY);
+    this.runAppend("mousemove", arguments);
+  };
+  z2Y.ChartEngine.prototype.mouseup = function (r33) {
+    var T5s, d0F, c3a, Z1m, y2A, D81, K7Z, C0o, c$A, U8F, k4U, H_c, Q85, R$5;
+    T5s = "mo";
+    T5s += "useu";
+    T5s += "p";
+    d0F = "mo";
+    d0F += "us";
+    d0F += "eu";
+    d0F += "p";
+    if (this.runPrepend(d0F, arguments)) {
+      return;
+    }
+    this.swipe.end = !![];
+    this.cancelLongHold = !0;
+    if (this.repositioningDrawing) {
+      if (
+        !this.currentVectorParameters.vectorType ||
+        Date.now() - this.mouseTimer > 250
+      ) {
+        c3a = "vect";
+        c3a += "or";
+        this.changeOccurred(c3a);
+        z2Y.clearCanvas(this.chart.tempCanvas, this);
+        this.activateRepositioning(null);
+        this.adjustDrawings();
+        this.draw();
+        return;
+      }
+      this.activateRepositioning(null);
+    }
+    if (this.repositioningAnchorSelector) {
+      var { sd: l19 } = this.repositioningAnchorSelector;
+      z2Y.Studies.repositionAnchor(this, l19);
+      if (this.controls.anchorHandles[l19.uniqueId]) {
+        this.repositioningAnchorSelector = null;
+        this.controls.anchorHandles[l19.uniqueId].highlighted = ![];
+        z2Y.Studies.displayAnchorHandleAndLine(
+          this,
+          l19,
+          this.chart.dataSegment,
+        );
+        Object.values(this.controls.anchorHandles || {}).forEach(
+          ({ handle: F4s }) => {
+            return F4s.classList.remove("stx-grab");
+          },
+        );
+        this.findHighlights();
+      }
+      return;
+    }
+    Z1m = this.userPointerDown;
+    this.userPointerDown = !"1";
+    if (!this.displayInitialized) {
+      return;
+    }
+    y2A = this.backOutY(r33.clientY);
+    D81 = this.backOutX(r33.clientX);
+    K7Z = r33.button && r33.button >= 2;
+    C0o = this.openDialog !== "";
+    if (!C0o && !K7Z) {
+      this.registerPointerEvent(
+        { x: r33.clientX, y: r33.clientY, time: Date.now() },
+        "up",
+      );
+    }
+    this.grabbingScreen = ![];
+    if (this.highlightedDraggable) {
+      if (this.dragPlotOrAxis) {
+        this.dragPlotOrAxis(D81, y2A);
+      }
+      this.currentPanel = this.whichPanel(y2A);
+    }
+    c$A = this.currentPanel;
+    this.grabStartYAxis = null;
+    this.displayDragOK();
+    U6BfN.s8u();
+    if (this.openDialog !== "") {
+      if (this.insideChart) {
+        this.container.classList.remove("stx-drag-chart");
+      }
+      return;
+    }
+    if (this.grabOverrideClick) {
+      U8F = "stx-drag-ch";
+      U8F += "ar";
+      U8F += "t";
+      if (!this.overXAxis && !this.overYAxis && this.swipeRelease) {
+        this.swipeRelease();
+      }
+      this.container.classList.remove(U8F);
+      this.grabOverrideClick = !!"";
+      this.doDisplayCrosshairs();
+      this.updateChartAccessories();
+      return;
+    }
+    if (this.insideChart) {
+      this.container.classList.remove("stx-drag-chart");
+    }
+    if (z2Y.ChartEngine.resizingPanel) {
+      this.releaseHandle();
+      return;
+    }
+    if (K7Z || r33.ctrlKey) {
+      if (this.anyHighlighted && this.bypassRightClick !== !![]) {
+        if (this.overYAxis) {
+          k4U = c$A.yaxisLHS.concat(c$A.yaxisRHS).find((U8s) => {
+            U6BfN.a3_();
+            return U8s.highlight === !!"1";
+          });
+          if (k4U && k4U.showContextMenu) {
+            k4U.showContextMenu(
+              z2Y.ChartEngine.crosshairX,
+              z2Y.ChartEngine.crosshairY,
+            );
+          }
+        }
+        this.rightClickHighlighted();
+        if (r33.preventDefault && this.captureTouchEvents) {
+          r33.preventDefault();
+        }
+        r33.stopPropagation();
+        return !{};
+      }
+      this.dispatch("rightClick", { stx: this, panel: c$A, x: D81, y: y2A });
+      return !!"1";
+    }
+    if (r33.clientX < this.left || r33.clientX > this.right) {
+      return;
+    }
+    if (r33.clientY < this.top || r33.clientY > this.bottom) {
+      return;
+    }
+    H_c = c$A && c$A.subholder === r33.target;
+    if (this.isDoubleClick() && (H_c || this.overYAxis || this.overXAxis)) {
+      this.doubleClick(r33.button, D81, y2A);
+      this.resetClickState();
+    } else {
+      if (Z1m && H_c) {
+        if (
+          this.drawingClick &&
+          (!this.longHoldTookEffect || this.activeDrawing)
+        ) {
+          this.drawingClick(c$A, D81, y2A);
+        }
+        if (
+          !this.longHoldTookEffect &&
+          this.activeMarker &&
+          !this.activeMarker.params.noInteraction
+        ) {
+          this.activeMarker.click({ cx: D81, cy: y2A, panel: c$A });
+        }
+      }
+      if (!this.longHoldTookEffect && !this.activeDrawing) {
+        Q85 = "t";
+        Q85 += "a";
+        Q85 += "p";
+        R$5 = !!{};
+        if (
+          this.anyHighlighted &&
+          this.leftClickPinTooltip &&
+          this.allowPinning &&
+          this.highlightedPlot &&
+          this.allowPinning(this.highlightedPlot.type)
+        ) {
+          R$5 = !this.leftClickPinTooltip({ cx: D81, cy: y2A });
+        }
+        if (R$5) {
+          this.dispatch(Q85, { stx: this, panel: c$A, x: D81, y: y2A });
+        }
+      }
+    }
+    this.runAppend(T5s, arguments);
+  };
+  z2Y.ChartEngine.prototype.registerPointerEvent = function (Z41, q2E) {
+    if (this.pointerEvents[q2E].length > 1) {
+      this.pointerEvents[q2E].pop();
+    }
+    this.pointerEvents[q2E].unshift(Z41);
+  };
+  z2Y.ChartEngine.prototype.resetPointerEvent = function (L_1) {
+    this.pointerEvents[L_1].splice(0);
+  };
+  z2Y.ChartEngine.prototype.resetClickState = function () {
+    var v53;
+    v53 = "d";
+    v53 += "ow";
+    v53 += "n";
+    this.resetPointerEvent("up");
+    this.resetPointerEvent(v53);
+    U6BfN.s8u();
+    this.cancelTouchSingleClick = !!1;
+  };
+  z2Y.ChartEngine.prototype.isDoubleClick = function (Z3g) {
+    var K1x, b41;
+    K1x = Z3g ? 35 : 20;
+    var {
+      up: [X_0, C2u],
+      down: [B7P, w80],
+    } = this.pointerEvents;
+    b41 =
+      C2u &&
+      w80 &&
+      B7P.time - C2u.time < this.doubleClickTime &&
+      z2Y.withinRadius(w80, B7P, K1x) &&
+      z2Y.withinRadius(C2u, B7P, K1x) &&
+      C2u.time - w80.time < this.longHoldTime &&
+      X_0.time - B7P.time < this.longHoldTime;
+    this.cancelTouchSingleClick = b41;
+    return b41;
+  };
+  z2Y.ChartEngine.prototype.doubleClick = function (K0s, x19, a5e) {
+    var s8U, m6x, s0r, n_Z;
+    s8U = "doubleCl";
+    s8U += "ick";
+    m6x = "doubleC";
+    m6x += "l";
+    m6x += "ick";
+    if (this.runPrepend(m6x, arguments)) {
+      return;
+    }
+    if (this.editingAnnotation) {
+      return;
+    }
+    if (z2Y.ChartEngine.drawingLine) {
+      s0r = "co";
+      s0r += "n";
+      s0r += "ti";
+      s0r += "nuous";
+      if (this.currentVectorParameters.vectorType == s0r) {
+        z2Y.ChartEngine.completeDrawing(this);
+      }
+      return this.undo();
+    }
+    if (this.activeDrawing) {
+      return;
+    }
+    n_Z =
+      this.activeMarker &&
+      this.activeMarker.doubleClick({
+        cx: x19,
+        cy: a5e,
+        panel: this.currentPanel,
+      });
+    if (!n_Z) {
+      this.dispatch("doubleClick", { stx: this, button: K0s, x: x19, y: a5e });
+    }
+    this.runAppend(s8U, arguments);
+  };
+  z2Y.ChartEngine.prototype.handleMouseOut = function (a6d) {
+    var x2m, Q6p, m1D;
+    a6d = a6d || window.event;
+    if (
+      !a6d.relatedTarget ||
+      !z2Y.withinElement(this.chart.container, a6d.pageX, a6d.pageY)
+    ) {
+      if (this.runPrepend("handleMouseOut", arguments)) {
+        return;
+      }
+      if (!this.grabbingScreen) {
+        this.findHighlights(null, !!1);
+      }
+      this.undisplayCrosshairs();
+      this.touches = [];
+      this.touching = !1;
+      if (this.activeDrawing && this.userPointerDown) {
+        this.userPointerDown = ![];
+        this.drawingLine = !!"";
+        x2m = this.backOutY(a6d.pageY);
+        Q6p = this.backOutX(a6d.pageX);
+        this.drawingClick(this.currentPanel, Q6p, x2m);
+      }
+      var { sd: d9Y, tapToAdd: L29 } = this.repositioningAnchorSelector || {};
+      if (d9Y && !L29) {
+        this.repositioningAnchorSelector = null;
+        this.controls.anchorHandles[d9Y.uniqueId].highlighted = !1;
+        z2Y.Studies.displayAnchorHandleAndLine(
+          this,
+          d9Y,
+          this.chart.dataSegment,
+        );
+        this.draw();
+      }
+      this.insideChart = !"1";
+      this.overYAxis = ![];
+      this.overXAxis = !"1";
+      this.displaySticky();
+      m1D = this.controls.dragOk;
+      if (m1D) {
+        m1D.style.display = "none";
+      }
+      this.runAppend("handleMouseOut", arguments);
+    }
+  };
+  z2Y.ChartEngine.prototype.startLongHoldTimer = function (Y9H) {
+    var h9g, j2H;
+    h9g = this;
+    this.cancelLongHold = !{};
+    U6BfN.a3_();
+    if (this.longHoldTimeout) {
+      clearTimeout(this.longHoldTimeout);
+    }
+    j2H = function () {
+      if (h9g.cancelLongHold) {
+        return;
+      }
+      h9g.longHoldTookEffect = !!{};
+      U6BfN.s8u();
+      if (Y9H) {
+        Y9H();
+      }
+      h9g.dispatch("longhold", {
+        stx: h9g,
+        panel: h9g.currentPanel,
+        x: h9g.cx,
+        y: h9g.cy,
+      });
+      h9g.displayDragOK();
+    };
+    if (this.longHoldTime) {
+      this.longHoldTimeout = setTimeout(j2H, this.longHoldTime);
+    } else if (this.longHoldTime === 0) {
+      j2H();
+    }
+  };
+  z2Y.ChartEngine.prototype.grabHandle = function (o2x) {
+    U6BfN.a3_();
+    if (this.runPrepend("grabHandle", arguments)) {
+      return;
+    }
+    if (!o2x) {
+      return;
+    }
+    z2Y.ChartEngine.crosshairY = this.resolveY(o2x.top);
+    z2Y.ChartEngine.resizingPanel = o2x;
+    o2x.handle.classList.add("stx-grab");
+    this.runAppend("grabHandle", arguments);
+  };
+  z2Y.ChartEngine.prototype.grabbingHand = function () {
+    if (!this.allowScroll) {
+      return;
+    }
+    if (!this.grabbingScreen) {
+      return;
+    }
+    if (z2Y.touchDevice) {
+      return;
+    }
+    this.container.classList.add("stx-drag-chart");
+  };
+  z2Y.ChartEngine.prototype.releaseHandle = function () {
+    var E97, U8S;
+    E97 = "release";
+    E97 += "Handle";
+    U8S = "r";
+    U8S += "elea";
+    U8S += "seHandl";
+    U8S += "e";
+    if (this.runPrepend(U8S, arguments)) {
+      return !"";
+    }
+    U6BfN.s8u();
+    z2Y.clearCanvas(this.chart.tempCanvas, this);
+    this.resizePanels();
+    if (z2Y.ChartEngine.resizingPanel) {
+      z2Y.ChartEngine.resizingPanel.handle.classList.remove("stx-grab");
+    }
+    z2Y.ChartEngine.resizingPanel = null;
+    this.runAppend(E97, arguments);
+  };
+  z2Y.ChartEngine.prototype.findHighlights = function (Y73, i7o) {
+    var u5e = U6BfN;
+    var V0t,
+      m37,
+      P8E,
+      B$F,
+      E$O,
+      J3C,
+      z88,
+      B06,
+      r2B,
+      q3e,
+      C8c,
+      m6I,
+      S6X,
+      D7i,
+      P6I,
+      r$C,
+      e3U,
+      E8S,
+      s41,
+      z44,
+      u5n,
+      v52,
+      U8c,
+      c3Y,
+      r7Y,
+      d6G,
+      V2r,
+      y2V,
+      D1i,
+      N4v,
+      K4i,
+      Y_Q,
+      r3B,
+      h7G,
+      D9m,
+      t7Z,
+      S1J,
+      a7D,
+      d1d,
+      H_P,
+      J5G,
+      Y7O,
+      M19,
+      g0a,
+      y$9,
+      V_1,
+      t2c,
+      f$r,
+      Y_1,
+      X$l,
+      m1b,
+      J02,
+      F3k,
+      s6h,
+      C1s,
+      r7o,
+      j3I,
+      F_r,
+      D3O,
+      u89,
+      f3C,
+      t2y,
+      u5c;
+    V0t = "d";
+    V0t += "raw";
+    V0t += "in";
+    V0t += "g";
+    m37 = "highlights";
+    m37 += "TapRa";
+    m37 += "d";
+    m37 += "ius";
+    P8E = this.preferences[Y73 ? m37 : "highlightsRadius"];
+    this.highlightViaTap = Y73;
+    var { cx: L05, cy: w$Q } = this;
+    this.anyHighlighted = ![];
+    if (!this.currentPanel) {
+      return;
+    }
+    var { chart: F5e } = this.currentPanel;
+    if (this.activeDrawing) {
+      i7o = !!1;
+    }
+    B$F = !{};
+    E$O = null;
+    J3C = i7o ? {} : { forceShow: !0, type: V0t };
+    z88 = {
+      x0: this.tickFromPixel(L05 - P8E, F5e),
+      x1: this.tickFromPixel(L05 + P8E, F5e),
+      y0: this.valueFromPixel(w$Q - P8E, this.currentPanel),
+      y1: this.valueFromPixel(w$Q + P8E, this.currentPanel),
+      cx0: L05 - P8E,
+      cx1: L05 + P8E,
+      cy0: w$Q - P8E,
+      cy1: w$Q + P8E,
+      r: P8E,
+    };
+    if (this.repositioningDrawing && z88.x1 - z88.x0 < 2) {
+      z88.x1++;
+      z88.x0--;
+    } else if (z88.x1 == z88.x0) {
+      u5e.C2v(10);
+      z88.x0 -= u5e.Y51(0, "0.5");
+      z88.x1 += 0.5;
+    }
+    if (!F5e.hideDrawings) {
+      for (var q77 = this.drawingObjects.length - 1; q77 >= 0; q77--) {
+        B06 = this.drawingObjects[q77];
+        r2B = this.panels[B06.panelName];
+        if (
+          B06.hidden ||
+          !r2B ||
+          (B06.field && !this.getYAxisByField(r2B, B06.field))
+        ) {
+          B06.highlighted = !{};
+          continue;
+        }
+        if (this.repositioningDrawing && this.repositioningDrawing != B06)
+          continue;
+        q3e = B06.highlighted;
+        C8c = B06.panelName == this.currentPanel.name || B06.spanPanels;
+        if (C8c) {
+          B06.repositioner = B06.intersected(
+            this.crosshairTick,
+            this.crosshairValue,
+            z88,
+          );
+        }
+        C8c = C8c && B06.repositioner && !this.overXAxis && !this.overYAxis;
+        if (!i7o && C8c) {
+          if (q3e) {
+            E$O = B06;
+            if (this.anyHighlighted && this.singleDrawingHighlight) {
+              B06.highlighted = !!"";
+            }
+            if (B06.highlighted && B06.highlighted != q3e) {
+              B$F = !"";
+            }
+          } else if (q3e != B06.highlight(!!"1")) {
+            if (!E$O) {
+              E$O = B06;
+            }
+            if (this.anyHighlighted && this.singleDrawingHighlight) {
+              B06.highlighted = !{};
+            }
+            B$F = !![];
+          }
+          this.anyHighlighted = !!1;
+        } else {
+          if (q3e != B06.highlight(!{})) {
+            B$F = !"";
+          }
+        }
+        if (B06.highlighted) {
+          J3C.noDelete = B06.permanent;
+          J3C.noEdit = !this.callbackListeners.drawingEdit.length;
+          J3C.noText = J3C.noEdit || !B06.edit;
+          J3C.message = this.translateIf(z2Y.capitalize(B06.name));
+        }
+      }
+    }
+    for (m6I in this.layout.studies) {
+      S6X = this.layout.studies[m6I];
+      S6X.prev = S6X.highlight;
+      S6X.highlight = this.yaxisMatches(S6X, this.grabStartYAxis);
+    }
+    for (m6I in F5e.seriesRenderers) {
+      e3U = F5e.seriesRenderers[m6I];
+      e3U.params.highlight = this.yaxisMatches(e3U, this.grabStartYAxis);
+      for (var W6p = 0; W6p < e3U.seriesParams.length; W6p++) {
+        r$C = e3U.seriesParams[W6p];
+        r$C.prev = r$C.highlight;
+        r$C.highlight = e3U.params.highlight;
+      }
+    }
+    var { anchorHandles: z4A } = this.controls;
+    if (z4A) {
+      for (var h47 in z4A) {
+        z4A[h47].highlighted = !1;
+      }
+    }
+    E8S = this.markerHelper && this.markerHelper.visibleCanvasMarkers;
+    if (E8S) {
+      for (D7i = 0; D7i < E8S.length; D7i++) {
+        P6I = E8S[D7i];
+        this.activeMarker = null;
+        P6I.prev = P6I.highlight;
+        P6I.highlight = !{};
+      }
+    }
+    if (this.markerHelper) {
+      this.markerHelper.highlighted = [];
+    }
+    this.highlightedDataSetField = null;
+    this.highlightedPlot = {};
+    this.highlightedDraggable = null;
+    if (!i7o && !this.anyHighlighted && z4A) {
+      for (var r3J in z4A) {
+        s41 = z4A[r3J];
+        if (z2Y.getFromNS(s41, "sd.signalData.reveal") === ![]) continue;
+        if (!this.anyHighlighted) {
+          var { sd: Q0n, currentPixel: q51 } = s41;
+          u5e.C2v(10);
+          z44 = u5e.B$D(P8E, q51);
+          u5e.C2v(0);
+          u5n = u5e.Y51(q51, P8E);
+          v52 = this.panels[Q0n.panel];
+          var { top: k4f, bottom: i2P } = v52.yAxis;
+          U8c = z2Y.boxIntersects(z44, k4f, u5n, i2P, L05, w$Q, L05, w$Q);
+          if (U8c) {
+            c3Y = "anchor";
+            c3Y += "Ha";
+            c3Y += "ndle";
+            this.anyHighlighted = !![];
+            s41.highlighted = !!"1";
+            B$F = !0;
+            J3C = { message: Q0n.name, type: c3Y, noDelete: !![] };
+            continue;
+          }
+        }
+        if (s41.highlighted === !!{}) {
+          s41.highlighted = !"1";
+          B$F = !!"1";
+        }
+      }
+    }
+    function z96(j4X, O1X, v0j, D$G, r9J, n5J) {
+      var r4A,
+        q8Q,
+        k5L,
+        h5K,
+        M4K,
+        B$M,
+        j9J,
+        B3E,
+        u7T,
+        o6u,
+        L39,
+        b0e,
+        M5w,
+        K9b,
+        c_E,
+        A2W,
+        j5v,
+        l7E,
+        t7e,
+        z5S,
+        a1T,
+        Q7t,
+        o9a;
+      r4A = this;
+      q8Q = r4A.chart;
+      k5L = r4A.currentPanel;
+      function s1n(n38) {
+        u5e.s8u();
+        var o5n, H6c, R3u;
+        if (!n38) {
+          return null;
+        }
+        o5n = n38[M4K];
+        if (o5n && (o5n[B$M] || o5n[B$M] === 0)) {
+          o5n = o5n[B$M];
+        }
+        if (r9J && r9J.getBasis) {
+          o5n += r9J.getBasis(n38, M4K, B$M);
+        }
+        H6c = r4A.getTransformFunction(D$G);
+        if (!H6c) {
+          return o5n;
+        }
+        R3u = r4A.getTransformedQuote(n38, D$G);
+        if (R3u && M4K in R3u) {
+          o5n = R3u[M4K];
+          if (o5n && (o5n[B$M] || o5n[B$M] === 0)) {
+            o5n = o5n[B$M];
+          }
+          return o5n;
+        }
+        return H6c(r4A, q8Q, o5n);
+      }
+      if (!D$G) {
+        D$G = k5L.yAxis;
+      }
+      h5K = v0j.split("-->");
+      M4K = h5K[0];
+      B$M = h5K[+"1"];
+      if (!B$M) {
+        B$M = "Close";
+      }
+      j9J = q8Q.dataSegment[r7Y];
+      M5w = null;
+      K9b = null;
+      c_E = null;
+      A2W = new Array(3);
+      j5v = r9J && r9J.caches[n5J];
+      if (j9J && j5v) {
+        o6u = j5v[r7Y];
+        M5w = j9J.tick;
+        if (o6u || o6u === 0) {
+          A2W[0] = 1;
+        }
+        for (l7E = r7Y - 1; l7E >= +"0"; l7E--) {
+          if (j5v[l7E] || j5v[l7E] === 0) {
+            L39 = j5v[l7E];
+            u5e.C2v(97);
+            K9b = u5e.B$D(r7Y, M5w, l7E);
+            A2W[1] = 1;
+            break;
+          }
+        }
+        for (l7E = r7Y + 1; l7E < q8Q.dataSegment.length; l7E++) {
+          if (j5v[l7E] || j5v[l7E] === 0) {
+            b0e = j5v[l7E];
+            u5e.C2v(97);
+            c_E = u5e.B$D(r7Y, M5w, l7E);
+            A2W[2] = 1;
+            break;
+          }
+        }
+      }
+      if (K9b === null) {
+        B3E = r4A.getPreviousBar.call(r4A, q8Q, v0j, r7Y);
+        if (B3E) {
+          K9b = B3E.tick;
+          L39 = s1n(B3E);
+        }
+      }
+      if (c_E === null) {
+        u7T = r4A.getNextBar.call(r4A, q8Q, v0j, r7Y);
+        if (u7T) {
+          c_E = u7T.tick;
+          b0e = s1n(u7T);
+        }
+      }
+      if (K9b === null && c_E === null) {
+        return !{};
+      }
+      if (!j5v) {
+        o6u = s1n(j9J);
+        L39 = s1n(B3E);
+        b0e = s1n(u7T);
+        M5w = j9J.tick;
+        if (B3E) {
+          K9b = B3E.tick;
+        }
+        if (u7T) {
+          c_E = u7T.tick;
+        }
+      }
+      if (!L39 && L39 !== "0" - 0) {
+        L39 = 0;
+        K9b = 0;
+      }
+      if (!b0e && b0e !== "0" * 1) {
+        if (o6u || o6u === 0) {
+          b0e = o6u;
+          A2W[2] = A2W[0];
+        } else {
+          b0e = L39;
+          A2W[2] = A2W[1];
+        }
+        if (
+          n5J &&
+          q8Q.series[n5J] &&
+          q8Q.series[n5J].parameters.extendToEndOfDataSet
+        ) {
+          u5e.C2v(98);
+          var U2f = u5e.B$D(16, 2, 19);
+          c_E = q8Q.dataSet.length - U2f;
+        } else {
+          c_E = K9b;
+        }
+      }
+      u5e.a3_();
+      if (!o6u && o6u !== 0) {
+        o6u = b0e;
+        M5w = c_E;
+        A2W[0] = A2W[2];
+        if (L39 === 0 && K9b === 0) {
+          L39 = o6u;
+          K9b = M5w;
+          A2W[1] = A2W[0];
+        }
+      }
+      t7e = r4A.pixelFromTransformedValue.bind(r4A);
+      z5S = r4A.valueFromPixel.bind(r4A);
+      o6u = z5S(A2W[0] ? o6u : t7e(o6u, k5L, D$G), k5L);
+      L39 = z5S(A2W[1] ? L39 : t7e(L39, k5L, D$G), k5L);
+      b0e = z5S(A2W[2] ? b0e : t7e(b0e, k5L, D$G), k5L);
+      a1T = z2Y.convertBoxToPixels(r4A, k5L.name, O1X);
+      Q7t = z2Y.convertBoxToPixels(r4A, k5L.name, {
+        x0: K9b,
+        y0: L39,
+        x1: M5w,
+        y1: o6u,
+      });
+      o9a = z2Y.convertBoxToPixels(r4A, k5L.name, {
+        x0: M5w,
+        y0: o6u,
+        x1: c_E,
+        y1: b0e,
+      });
+      if (
+        z2Y.boxIntersects(
+          a1T.x0,
+          a1T.y0,
+          a1T.x1,
+          a1T.y1,
+          Q7t.x0,
+          Q7t.y0,
+          Q7t.x1,
+          Q7t.y1,
+          "segment",
+        ) ||
+        z2Y.boxIntersects(
+          a1T.x0,
+          a1T.y0,
+          a1T.x1,
+          a1T.y1,
+          o9a.x0,
+          o9a.y0,
+          o9a.x1,
+          o9a.y1,
+          "segment",
+        )
+      ) {
+        return Math.min(
+          Math.pow(w$Q - (Q7t.y1 + Q7t.y0) / 2, 2) +
+            Math.pow(L05 - (Q7t.x1 + Q7t.x0) / 2, 2),
+          Math.pow(w$Q - (o9a.y1 + o9a.y0) / 2, 2) +
+            Math.pow(L05 - (o9a.x1 + o9a.x0) / 2, 2),
+        );
+      }
+      return ![];
+    }
+    if (!i7o && !this.anyHighlighted && F5e.dataSegment) {
+      r7Y = this.barFromPixel(L05);
+      if (r7Y >= "0" >> 0 && r7Y < F5e.dataSegment.length) {
+        V2r = z2Y.convertBoxToPixels(this, this.currentPanel.name, z88);
+        y2V = Number.MAX_VALUE;
+        if (E8S) {
+          for (D7i = 0; D7i < E8S.length; D7i++) {
+            P6I = E8S[D7i];
+            D1i = P6I.params.box;
+            if (!D1i) continue;
+            if (P6I.params.panelName !== this.currentPanel.name) continue;
+            if (
+              z2Y.boxIntersects(
+                V2r.x0,
+                V2r.y0,
+                V2r.x1,
+                V2r.y1,
+                D1i.x0,
+                D1i.y0,
+                D1i.x1,
+                D1i.y1,
+              )
+            ) {
+              u5e.w6J(99);
+              var z3p = u5e.Y51(22, 15, 7, 2);
+              u5e.w6J(100);
+              var P0F = u5e.B$D(26, 20, 13, 5);
+              u5e.w6J(0);
+              var L6a = u5e.B$D(0, 2);
+              N4v =
+                Math.pow(w$Q - (D1i.y1 + D1i.y0) / z3p, P0F) +
+                Math.pow(L05 - (D1i.x1 + D1i.x0) / +"2", L6a);
+              if (N4v <= y2V) {
+                y2V = N4v;
+                this.activeMarker = P6I;
+              }
+              this.anyHighlighted = !"";
+              J3C = {};
+              P6I.highlight = !0;
+              this.markerHelper.highlighted.push(P6I);
+            }
+            if (P6I.prev != P6I.highlight) {
+              B$F = !!{};
+            }
+          }
+        }
+        if (!this.anyHighlighted) {
+          y2V = Number.MAX_VALUE;
+          K4i = null;
+          for (m6I in this.overlays) {
+            if (E8S && this.markerHelper.highlighted.length) break;
+            S6X = this.overlays[m6I];
+            if (S6X.signalData && !S6X.signalData.reveal) continue;
+            if (S6X.disabled) continue;
+            if (S6X.panel != this.currentPanel.name) continue;
+            if (S6X.study.isHighlighted === !{}) continue;
+            else if (typeof S6X.study.isHighlighted == "function") {
+              Y_Q = S6X.study.isHighlighted(this, L05, w$Q);
+              if (Y_Q) {
+                r3B = Y_Q === !!1 ? S6X.study.name : Y_Q;
+                K4i = { o: S6X, out: r3B };
+                u5e.C2v(10);
+                y2V = u5e.Y51(0, "0");
+                break;
+              }
+              continue;
+            }
+            h7G = F5e.dataSegment[r7Y];
+            if (!h7G) continue;
+            for (var S8b in S6X.outputMap) {
+              D9m = z96.call(this, r7Y, z88, S8b, S6X.getYAxis(this));
+              if (D9m !== !!0 && D9m <= y2V) {
+                K4i = { o: S6X, out: S8b };
+                y2V = D9m;
+              }
+            }
+          }
+          for (m6I in F5e.seriesRenderers) {
+            if (this.highlightedDataSetField) break;
+            t7Z = F5e.seriesRenderers[m6I];
+            S1J = t7Z.params.panel;
+            if (!this.leftClickPinTooltip && t7Z == this.mainSeriesRenderer)
+              continue;
+            if (
+              !t7Z.params.highlightable &&
+              !this.currentVectorParameters.vectorType
+            )
+              continue;
+            if (S1J != this.currentPanel.name) continue;
+            for (D7i = "0" >> 0; D7i < t7Z.seriesParams.length; D7i++) {
+              r$C = t7Z.seriesParams[D7i];
+              if (r$C.disabled) continue;
+              a7D = r$C.field || this.defaultPlotField || "Close";
+              if (r$C.symbol && r$C.subField) {
+                a7D += "-->" + r$C.subField;
+              }
+              d1d = t7Z.params.yAxis;
+              if (!d1d && S1J) {
+                d1d = this.panels[S1J].yAxis;
+              }
+              if (t7Z.params.step && r7Y > 0) {
+                if (!t7Z.caches[r$C.id]) continue;
+                d6G = t7Z.caches[r$C.id][r7Y];
+                if (!d6G && d6G !== "0" - 0) continue;
+                u5e.w6J(10);
+                H_P = t7Z.caches[r$C.id][u5e.B$D(1, r7Y)];
+                if (
+                  ((H_P || H_P === 0) &&
+                    w$Q + P8E >= d6G &&
+                    w$Q - P8E <= H_P) ||
+                  (w$Q - P8E <= d6G && w$Q + P8E >= H_P)
+                ) {
+                  K4i = { s: r$C, fullField: a7D };
+                  break;
+                }
+              } else {
+                J5G = z96.call(this, r7Y, z88, a7D, d1d, t7Z, r$C.id);
+                if (J5G !== ![] && J5G <= y2V) {
+                  K4i = { s: r$C, fullField: a7D };
+                  y2V = J5G;
+                }
+              }
+            }
+          }
+          if (K4i) {
+            this.highlightedPlot = K4i;
+            S6X = K4i.o;
+            if (S6X) {
+              Y7O = "s";
+              Y7O += "tu";
+              Y7O += "dy";
+              K4i.type = Y7O;
+              if (S6X.name != S6X.panel) {
+                this.anyHighlighted = !0;
+              }
+              S6X.highlight = K4i.out;
+              this.highlightedDataSetField = K4i.out;
+            } else {
+              K4i.type = "series";
+              this.anyHighlighted = !"";
+              K4i.s.highlight = !0;
+              this.highlightedDataSetField = K4i.fullField;
+            }
+          }
+        }
+      }
+    }
+    g0a = this.preferences.dragging;
+    u5e.s8u();
+    function O4p(b_e, G$h) {
+      var L_j, A0h, W23;
+      if (Array.isArray(b_e)) {
+        L_j = "linear-gradient(to right, ";
+        A0h = 0;
+        W23 = Math.min(3, b_e.length);
+        for (; A0h < W23; A0h++) {
+          u5e.w6J(101);
+          var G2H = u5e.Y51(10, 5, 93, 375);
+          L_j += b_e[A0h] + " " + Math.round((G2H * A0h) / W23) + "%, ";
+          u5e.w6J(55);
+          var D1N = u5e.B$D(16, 516, 604, 6);
+          u5e.w6J(19);
+          var i0v = u5e.Y51(66112, 69600, 8);
+          u5e.w6J(102);
+          var o87 = u5e.Y51(15, 8311, 8311, 8305, 1);
+          u5e.C2v(103);
+          var Y4K = u5e.B$D(12, 507, 496, 10, 8);
+          u5e.w6J(2);
+          var F4S = u5e.Y51(383, 14, 3813);
+          u5e.w6J(40);
+          var S2l = u5e.Y51(152377, 17, 9523, 1);
+          u5e.C2v(67);
+          var E4X = u5e.Y51(2845, 18, 48347, 19);
+          u5e.w6J(10);
+          var q1J = u5e.Y51(800, 900);
+          L_j +=
+            b_e[A0h] +
+            (176.94 == D1N
+              ? i0v <= o87
+                ? Y4K != (+"1647", F4S)
+                  ? S2l
+                  : "I"
+                : E4X
+              : " ") +
+            Math.round((q1J * (A0h + +"1")) / W23) +
+            "%, ";
+        }
+        L_j += "transparent)";
+        return L_j;
+      }
+      if (b_e == "auto") {
+        b_e = this.defaultColor;
+      }
+      if (G$h && G$h !== 1) {
+        b_e = z2Y.hexToRgba(z2Y.colorToHex(b_e), parseFloat(G$h));
+      }
+      u5e.a3_();
+      return b_e;
+    }
+    for (m6I in this.overlays) {
+      S6X = this.overlays[m6I];
+      if (S6X.highlight) {
+        this.anyHighlighted = !0;
+        V_1 = S6X.inputs.display || S6X.name;
+        V_1 = this.translateIf(V_1);
+        J3C = {
+          message: V_1,
+          noDelete: S6X.permanent,
+          noEdit: !S6X.editFunction,
+          noText: !S6X.textFunction,
+          noDrag: S6X.undraggable && S6X.undraggable(this),
+          type: "study",
+          backgroundColor: O4p(
+            F5e.legendColorMap[S6X.name] && F5e.legendColorMap[S6X.name].color,
+          ),
+        };
+        E$O = null;
+        if (g0a === !0 || (g0a && g0a.study)) {
+          if (!S6X.undraggable(this)) {
+            M19 = S6X;
+          }
+        }
+        y$9 = S6X.getYAxis(this);
+      }
+      if (S6X.prev != S6X.highlight) {
+        B$F = !!{};
+      }
+    }
+    for (m6I in F5e.seriesRenderers) {
+      t2c = F5e.seriesRenderers[m6I];
+      f$r = t2c.params.yAxis ? t2c.params.yAxis.textStyle : null;
+      for (var e9N = 0; e9N < t2c.seriesParams.length; e9N++) {
+        r$C = t2c.seriesParams[e9N];
+        if (t2c.params.highlightable && r$C.highlight) {
+          Y_1 = "seri";
+          Y_1 += "es";
+          this.anyHighlighted = !!"1";
+          X$l =
+            (F5e.legendColorMap[m6I] && F5e.legendColorMap[m6I].color) ||
+            r$C.color ||
+            f$r;
+          X$l = O4p(X$l, r$C.opacity);
+          J3C = {
+            message: r$C.display || r$C.symbol,
+            backgroundColor: X$l,
+            noDelete: t2c.params.permanent || r$C.permanent,
+            noDrag: t2c.undraggable && t2c.undraggable(this),
+            type: Y_1,
+          };
+          E$O = null;
+          if (g0a === !!{} || (g0a && g0a.series)) {
+            M19 = t2c;
+            t2c.params.highlight = !0;
+          }
+          y$9 = t2c.getYAxis(this);
+        }
+        if (r$C.prev != r$C.highlight) {
+          B$F = !!1;
+        }
+      }
+    }
+    for (m6I in this.plugins) {
+      m1b = this.plugins[m6I];
+      J02 = {};
+      if (m1b.findHighlights) {
+        J02 = m1b.findHighlights(this, Y73, i7o);
+        if (J02.somethingChanged) {
+          B$F = !0;
+        }
+        if (J02.anyHighlighted) {
+          this.anyHighlighted = !!{};
+          J3C = J02.stickyArgs || {};
+        }
+      }
+    }
+    F3k = this.whichPanel(w$Q);
+    s6h = this.whichYAxis(F3k, L05);
+    if (!y$9) {
+      y$9 = s6h;
+    }
+    if (this.currentBaseline) {
+      y$9 = this.currentBaseline.getYAxis(this);
+    }
+    if (y$9) {
+      if (!y$9.highlight) {
+        B$F = !!{};
+      }
+      y$9.highlight = !![];
+    }
+    C1s = [];
+    for (var g7D in this.panels) {
+      C1s = C1s.concat(this.panels[g7D].yaxisLHS).concat(
+        this.panels[g7D].yaxisRHS,
+      );
+    }
+    for (m6I = 0; m6I < C1s.length; m6I++) {
+      if (y$9 == C1s[m6I] && !i7o) continue;
+      if (C1s[m6I].highlight) {
+        B$F = !!"1";
+      }
+      C1s[m6I].highlight = !!0;
+    }
+    if ((g0a === !!{} || (g0a && g0a.yaxis)) && s6h && !s6h.noDraw) {
+      this.anyHighlighted = !![];
+      M19 = s6h;
+      J3C = {};
+    }
+    if (B$F) {
+      this.draw();
+      J3C.panel = F3k;
+      if (this.anyHighlighted && !this.grabStartYAxis) {
+        J3C.panel = F3k;
+      } else {
+        J3C = {};
+      }
+      this.displaySticky(J3C);
+      this.clearMeasure();
+      if (E$O) {
+        E$O.measure();
+      }
+    }
+    if (!this.anyHighlighted) {
+      this.setMeasure();
+    } else if (this.controls.mSticky) {
+      if (J3C && J3C.positioner) {
+        J3C.positioner.call(this, this.controls.mSticky);
+      } else {
+        this.positionSticky(this.controls.mSticky);
+      }
+    }
+    if (M19 && F3k && !F3k.noDrag) {
+      if (this.longHoldTookEffect && !this.cancelLongHold) {
+        if (M19.params) {
+          if (M19.params.dependentOf) {
+            M19 = F5e.seriesRenderers[M19.params.dependentOf];
+            r7o = +"932689877";
+            u5e.C2v(6);
+            j3I = u5e.Y51("707833491", 0);
+            F_r = +"2";
+            for (
+              var Z7O = 1;
+              u5e.C6S(Z7O.toString(), Z7O.toString().length, 82644) !== r7o;
+              Z7O++
+            ) {
+              M19.params.highlight = !!1;
+              F_r += 2;
+            }
+            if (
+              u5e.C6S(F_r.toString(), F_r.toString().length, "11970" << 0) !==
+              j3I
+            ) {
+              M19.params.highlight = !{};
+            }
+          }
+          for (m6I in F5e.seriesRenderers) {
+            if (
+              F5e.seriesRenderers[m6I].params.dependentOf == M19.params.name
+            ) {
+              F5e.seriesRenderers[m6I].params.highlight = !0;
+            }
+          }
+        }
+        this.highlightedDraggable = M19;
+        if (M19.getDependents) {
+          D3O = M19.getDependents(this, !!{});
+          for (m6I in this.overlays) {
+            S6X = this.overlays[m6I];
+            if (D3O.indexOf(S6X) > -1) {
+              S6X.highlight = !!"1";
+            }
+          }
+        }
+      }
+      u89 = -181831503;
+      f3C = -895356534;
+      t2y = 2;
+      for (
+        var D2a = 1;
+        u5e.C6S(D2a.toString(), D2a.toString().length, 96265) !== u89;
+        D2a++
+      ) {
+        if (+J3C.noDrag) {
+          this.container.classList.add("");
+        }
+        t2y += 2;
+      }
+      if (u5e.D9u(t2y.toString(), t2y.toString().length, 90213) !== f3C) {
+        if (!J3C.noDrag) {
+          this.container.classList.add("stx-draggable");
+        }
+      }
+    } else {
+      u5c = "st";
+      u5c += "x-drag";
+      u5c += "gabl";
+      u5c += "e";
+      this.container.classList.remove(u5c);
+    }
+    this.highlightedDataSetField = this.adjustHighlightedDataSetField(
+      this.highlightedDataSetField,
+    );
+    this.displayDrawOK();
+  };
+  z2Y.ChartEngine.prototype.rightClickHighlighted = function () {
+    U6BfN.a3_();
+    if (this.runPrepend("rightClickHighlighted", arguments)) {
+      return;
+    }
+    this.deleteHighlighted(!!"1");
+    this.runAppend("rightClickHighlighted", arguments);
+  };
+  z2Y.ChartEngine.prototype.deleteHighlighted = function (K$F, Z87, S5r) {
+    var X_T, L74, O7G, a_C, Q_N, W0b, b90, m8W, K0l, j$N, Y53, t4w, y5U;
+    X_T = "del";
+    X_T += "eteHighlig";
+    X_T += "hted";
+    if (this.runPrepend("deleteHighlighted", arguments)) {
+      return;
+    }
+    this.cancelTouchSingleClick = !0;
+    z2Y.clearCanvas(this.chart.tempCanvas, this);
+    L74 = this.bypassRightClick === !!0;
+    if (L74 || !this.bypassRightClick.drawing) {
+      for (var E3a = this.drawingObjects.length - 1; E3a >= 0; E3a--) {
+        O7G = this.drawingObjects[E3a];
+        if (!O7G.highlighted) continue;
+        if (K$F) {
+          this.rightClickDrawing(O7G, Z87, S5r);
+        } else if (!O7G.permanent) {
+          a_C = O7G.abort();
+          if (!a_C) {
+            Q_N = this.exportDrawings();
+            this.drawingObjects.splice(E3a, 1);
+            this.undoStamp(Q_N, this.exportDrawings());
+          }
+          this.changeOccurred("vector");
+        }
+      }
+    }
+    if (L74 || !this.bypassRightClick.study) {
+      for (var y06 in this.overlays) {
+        W0b = this.overlays[y06];
+        if ((W0b.overlay || W0b.underlay) && W0b.highlight && !W0b.permanent) {
+          if (K$F || Z87) {
+            this.rightClickOverlay(y06, Z87);
+          } else {
+            this.removeOverlay(y06);
+          }
+        }
+      }
+    }
+    b90 = this.currentPanel && this.currentPanel.chart;
+    if (b90 && (L74 || !this.bypassRightClick.series)) {
+      for (var d6c in b90.seriesRenderers) {
+        m8W = b90.seriesRenderers[d6c];
+        if (m8W.params.highlightable && !m8W.params.permanent) {
+          K0l = this.panels[m8W.params.panel];
+          j$N = K0l && K0l.yAxis.name;
+          for (var L6I = m8W.seriesParams.length - 1; L6I >= 0; L6I--) {
+            Y53 = m8W.seriesParams[L6I];
+            if ((m8W.params.highlight || Y53.highlight) && !Y53.permanent) {
+              m8W.removeSeries(Y53.id);
+              if (m8W.seriesParams.length < 1) {
+                this.removeSeriesRenderer(m8W);
+                if (m8W.params.name == j$N) {
+                  this.electNewPanelOwner(m8W.params.panel);
+                } else {
+                  this.checkForEmptyPanel(m8W.params.panel);
+                  t4w = this.getYAxisByName(K0l, m8W.params.name);
+                  if (t4w) {
+                    t4w.name = t4w.studies[0] || t4w.renderers[1];
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    this.draw();
+    if (!K$F && !Z87) {
+      this.resizeChart();
+    }
+    this.clearMeasure();
+    y5U = this.controls.mSticky;
+    if (y5U) {
+      y5U.style.display = "none";
+      y5U.querySelector(".mStickyInterior").innerHTML = "";
+    }
+    this.runAppend(X_T, arguments);
+  };
+  z2Y.ChartEngine.prototype.displayDragOK = function (q_l) {
+    var L8T = U6BfN;
+    var f0z,
+      y6X,
+      d9k,
+      u0r,
+      u3q,
+      g6Y,
+      p4F,
+      J6V,
+      g77,
+      G0X,
+      t_c,
+      A$q,
+      o3d,
+      R6p,
+      V2F,
+      U2G,
+      e6z,
+      Y2P,
+      L$B,
+      W5K;
+    f0z = this;
+    L8T.a3_();
+    y6X = this.controls.dragOk;
+    if (y6X) {
+      if (!q_l) {
+        if (!this.tapForHighlighting || !this.touching || this.anyHighlighted) {
+          this.findHighlights(this.highlightViaTap);
+        }
+      }
+      d9k = this.highlightedDraggable;
+      u0r = d9k && d9k.undraggable && d9k.undraggable(this);
+      u3q = this.cx;
+      g6Y = this.cy;
+      p4F = d9k && !u0r && this.longHoldTookEffect;
+      if (q_l) {
+        J6V = "inl";
+        J6V += "ine-block";
+        if (p4F && this.insideChart) {
+          y6X.style.display = J6V;
+        }
+      } else {
+        if (p4F && !this.cancelLongHold) {
+          g77 = "stx-dr";
+          g77 += "ag-chart";
+          G0X =
+            (d9k.inputs && d9k.inputs.display) ||
+            (d9k.params && (d9k.params.display || d9k.params.name)) ||
+            d9k.name;
+          y6X.querySelector(".field").setAttribute("text", G0X);
+          g1k.call(this, y6X);
+          y6X.style.display = "inline-block";
+          this.draw();
+          this.displaySticky();
+          if (this.grabStartYAxis) {
+            this.container.classList.replace("stx-drag-chart", "stx-drag-axis");
+          } else {
+            this.container.classList.replace(g77, "stx-drag-series");
+          }
+        } else {
+          t_c = "s";
+          t_c += "tx-drag-axis";
+          A$q = "stx-drag-seri";
+          A$q += "es";
+          o3d = "no";
+          o3d += "ne";
+          y6X.style.display = o3d;
+          this.draw();
+          this.container.classList.remove(A$q);
+          this.container.classList.remove(t_c);
+          for (var C4S in this.panels) {
+            R6p = "t";
+            R6p += "o";
+            R6p += "p";
+            V2F = "lef";
+            V2F += "t";
+            U2G = this.panels[C4S].subholder.classList;
+            U2G.remove("dropzone");
+            U2G.remove("all");
+            U2G.remove(V2F);
+            U2G.remove("right");
+            U2G.remove(R6p);
+            U2G.remove("bottom");
+            for (e6z = 0; e6z < this.panels[C4S].yaxisLHS.length; e6z++) {
+              this.panels[C4S].yaxisLHS[e6z].dropzone = null;
+            }
+            for (e6z = 0; e6z < this.panels[C4S].yaxisRHS.length; e6z++) {
+              this.panels[C4S].yaxisRHS[e6z].dropzone = null;
+            }
+          }
+        }
+        this.draw();
+      }
+      if (d9k) {
+        Y2P = "p";
+        Y2P += "x";
+        L$B = g6Y + y6X.offsetHeight;
+        W5K = Math.max(0, u3q - y6X.offsetWidth);
+        L8T.w6J(0);
+        y6X.style.top = L8T.Y51(L$B, Y2P);
+        L8T.w6J(0);
+        y6X.style.left = L8T.Y51(W5K, "px");
+        g1k.call(this, y6X);
+      }
+    }
+    function g1k(r94) {
+      var S_z, D6v, j3e, D51;
+      S_z = ".";
+      S_z += "f";
+      S_z += "iel";
+      L8T.s8u();
+      S_z += "d";
+      D6v = ".fie";
+      D6v += "l";
+      D6v += "d";
+      j3e = f0z.translateIf(r94.querySelector(D6v).getAttribute("text"));
+      D51 = f0z.whichYAxis(f0z.whichPanel(f0z.cy), f0z.cx, f0z.cy);
+      if (D51 && D51.dropzone == "all") {
+        j3e += "-->" + f0z.translateIf(D51.name);
+      }
+      r94.querySelector(S_z).innerHTML = j3e;
+    }
+  };
+  z2Y.ChartEngine.prototype.displayDrawOK = function () {
+    var b7l = U6BfN;
+    var B8K, F$H, q5j, l0Z;
+    B8K = this.controls.drawOk;
+    b7l.s8u();
+    if (B8K && z2Y.Drawing) {
+      F$H = z2Y.Drawing[this.currentVectorParameters.vectorType];
+      if (F$H) {
+        F$H = new F$H();
+      }
+      if (
+        this.highlightedDataSetField &&
+        F$H &&
+        F$H.isAllowed(this, this.highlightedDataSetField)
+      ) {
+        B8K.style.display = "inline-block";
+        q5j = this.cy + B8K.offsetHeight;
+        l0Z = this.cx - B8K.offsetWidth;
+        b7l.w6J(0);
+        B8K.style.top = b7l.Y51(q5j, "px");
+        b7l.w6J(0);
+        B8K.style.left = b7l.B$D(l0Z, "px");
+        B8K.querySelector(".field").innerHTML = this.translateIf(
+          this.highlightedDataSetField,
+        );
+      } else {
+        B8K.style.display = "none";
+      }
+    }
+  };
+  z2Y.ChartEngine.prototype.mouseWheel = function (k44) {
+    var Q1m = U6BfN;
+    Q1m.s8u();
+    var S3O, Z$h, H6t, c$v, S6Z, q$A, p2v, v82, u43, M97, R$T;
+    S3O = "MozMo";
+    S3O += "usePi";
+    S3O += "xelScroll";
+    if (this.runPrepend("mouseWheel", arguments)) {
+      return;
+    }
+    if (k44.preventDefault) {
+      k44.preventDefault();
+    }
+    if (this.openDialog !== "") {
+      return;
+    }
+    Z$h = k44.deltaX;
+    H6t = k44.deltaY;
+    if (Math.abs(H6t) > Math.abs(Z$h)) {
+      Z$h = +"0";
+    } else {
+      H6t = 0;
+    }
+    this.lastMouseWheelEvent = Date.now();
+    if (Math.abs(Z$h) === 0 && Math.abs(H6t) === 0) {
+      return;
+    }
+    if (k44.shiftKey && H6t) {
+      Z$h = H6t;
+      H6t = 0;
+    }
+    if (this.allowSideswipe && Z$h !== 0) {
+      this.lastMove = "horizontal";
+      S6Z = Z$h;
+      this.grabbingScreen = !![];
+      if (!this.currentPanel) {
+        this.currentPanel = this.chart.panel;
+      }
+      this.grabStartX = z2Y.ChartEngine.crosshairX;
+      this.grabStartY = z2Y.ChartEngine.crosshairY;
+      this.grabStartScrollX = this.chart.scroll;
+      this.grabStartScrollY = this.currentPanel.yAxis.scroll;
+      this.grabStartMicropixels = this.micropixels;
+      this.grabStartPanel = this.currentPanel;
+      if (this.mouseWheelAcceleration) {
+        c$v = Math.max(Math.pow(Math.abs(S6Z), 0.3), 1);
+        S6Z *= c$v;
+      }
+      this.mousemoveinner(
+        z2Y.ChartEngine.crosshairX - S6Z,
+        z2Y.ChartEngine.crosshairY,
+      );
+      z2Y.ChartEngine.crosshairX = this.crosshairX = k44.clientX;
+      this.updateChartAccessories();
+      this.grabbingScreen = !!"";
+      return;
+    }
+    this.lastMove = "vertical";
+    if (!this.allowZoom || (this.activeDrawing && !this.allowDrawingZoom)) {
+      return;
+    }
+    if (!this.displayInitialized) {
+      return;
+    }
+    if (!H6t) {
+      if (z2Y.wheelEvent == "mousewheel") {
+        Q1m.C2v(104);
+        var z4D = Q1m.Y51(71, 9, 8);
+        Q1m.w6J(51);
+        var V4Y = Q1m.Y51(2, 17, 45, 10);
+        H6t = (z4D / V4Y) * k44.wheelDelta;
+        Q1m.C2v(1);
+        q$A = Q1m.Y51(32, "511314212");
+        p2v = -259342596;
+        v82 = 2;
+        for (
+          var B88 = +"1";
+          Q1m.D9u(B88.toString(), B88.toString().length, "27863" | 22) !== q$A;
+          B88++
+        ) {
+          if (k44.wheelDeltaX) {
+            Q1m.w6J(63);
+            var T_I = Q1m.B$D(14, 1, 125, 9);
+            Q1m.w6J(19);
+            var N_t = Q1m.B$D(71, 120, 9);
+            Z$h = (T_I / N_t) * k44.wheelDeltaX;
+          }
+          v82 += 2;
+        }
+        if (Q1m.C6S(v82.toString(), v82.toString().length, +"78234") !== p2v) {
+          if (k44.wheelDeltaX) {
+            Q1m.C2v(28);
+            var k_K = Q1m.B$D(20, 14, 1);
+            Q1m.w6J(105);
+            var n9c = Q1m.B$D(1092, 15, 14, 985);
+            Z$h = (k_K % n9c) - k44.wheelDeltaX;
+          }
+        }
+      } else {
+        H6t = k44.detail;
+      }
+    }
+    if (typeof k44.deltaMode == "undefined") {
+      k44.deltaMode = k44.type == S3O ? 0 : +"1";
+    }
+    u43 = -H6t;
+    if (k44.deltaMode == 1) {
+      u43 *= 33;
+    }
+    M97 = null;
+    R$T = null;
+    if (this.mouseWheelAcceleration) {
+      c$v = Math.max(Math.pow(Math.abs(u43), 0.3), 1);
+      M97 = Math.max(Number.MIN_VALUE, 1 - 0.1 * c$v);
+      Q1m.w6J(11);
+      R$T = Q1m.B$D(M97, 1);
+    }
+    this.zoomInitiatedByMouseWheel = !![];
+    if (u43 > 0) {
+      if (this.reverseMouseWheel) {
+        this.zoomOut(null, R$T);
+      } else {
+        this.zoomIn(null, M97);
+      }
+    } else if (u43 < 0) {
+      if (this.reverseMouseWheel) {
+        this.zoomIn(null, M97);
+      } else {
+        this.zoomOut(null, R$T);
+      }
+    }
+    if (this.runAppend("mouseWheel", arguments)) {
+      return;
+    }
+    return ![];
+  };
+  z2Y.ChartEngine.handleContextMenu = function (h43) {
+    var t3T, y3b;
+    t3T = z2Y.ChartEngine.registeredContainers;
+    for (var V1F = 0; V1F < t3T.length; V1F++) {
+      if (h43.target.ownerDocument !== t3T[V1F].ownerDocument) continue;
+      y3b = t3T[V1F].stx;
+      if (y3b) {
+        if (y3b.anyHighlighted) {
+          if (h43.preventDefault) {
+            h43.preventDefault();
+          }
+          return !{};
+        }
+      }
+    }
+  };
+  z2Y.ChartEngine.registerGlobalEvent(y7h, z2Y.ChartEngine.handleContextMenu);
+  z2Y.ChartEngine.htmlControls = {
+    annotationSave:
+      '<span class="stx-btn stx_annotation_save" style="display: none;"></span>',
+    annotationCancel: S2G,
+    mSticky: `
+		<div class="stx_sticky">
+			<span class="label">
+				<span class="mStickyThumbnail"></span>
+				<span class="mStickyInterior"></span>
+			</span>
+			<span class="mousePinTooltip">(left-click to pin tooltip)</span>
+			<span class="mStickyRightClick">
+				<span class="overlayText stx-btn" style="display:none">
+					<span>&nbsp;</span>
+				</span>
+				<span class="overlayEdit stx-btn" style="display:none">
+					<span>&nbsp;</span>
+				</span>
+				<span class="overlayTrashCan stx-btn" style="display:none">
+					<span>&nbsp;</span>
+				</span>
+				<span class="mouseDeleteInstructions">
+					<span>(</span>
+					<span class="mouseDeleteText">right-click to delete</span>
+					<span class="mouseManageText">right-click to manage</span>
+					<span>)</span>
+				</span>
+			</span>
+			<span class="stickyLongPressText">(long-press to drag)</span>
+			<span class="customInstructions">
+				<span>(</span>
+				<span class="dragAnchorText" type="anchorHandle">
+					drag to change anchor time
+				</span>
+				<span>)</span>
+			</span>
+		</div>
+	`,
+    drawOk:
+      '<div class="stx_draw_ok"><div class="icon"></div><div class="field"></div></div>',
+    dragOk: y7l,
+    crossX: Y$X,
+    crossY: i4h,
+    chartControls: `<div class="stx_chart_controls" style="display: none;">
+		<div class="chartSize">
+			<span class="stx-zoom-out" role="button" aria-label="Zoom Out"></span>
+			<span class="stx-zoom-in" role="button" aria-label="Zoom In"></span>
+		</div></div>`,
+    home: y$h,
+    floatDate: '<div class="stx-float-date" style="visibility: hidden;"></div>',
+    handleTemplate:
+      '<div class="stx-ico-handle" style="display: none;"><span></span></div> ',
+    iconsTemplate:
+      '<div class="stx-panel-control"><div class="stx-panel-title"></div><div class="stx-panel-legend"></div><div class="stx-btn-panel"><span class="stx-ico-up"></span></div><div class="stx-btn-panel"><span class="stx-ico-focus"></span></div><div class="stx-btn-panel"><span class="stx-ico-down"></span></div><div class="stx-btn-panel"><span class="stx-ico-edit"></span></div><div class="stx-btn-panel"><span class="stx-ico-close"></span></div></div>',
+    baselineHandle: p2x,
+    notificationTray:
+      '<div class="stx_notification_tray"><template><div><span class="icon"></span><span class="message"></span></div></template></div>',
+  };
+  z2Y.ChartEngine.prototype.registerChartControl = function (C6H, v1e, b3E) {
+    var A$B = U6BfN;
+    var H44, u2N, K6g, X2D, N5H, N16, w0M;
+    H44 = this.controls;
+    if (!H44 || !H44.chartControls) {
+      return;
+    }
+    if (
+      H44.chartControls.querySelector(
+        ((627.67, 925) == (532.34, "9850" << 0) ? "H" : ".") + C6H,
+      )
+    ) {
+      return;
+    }
+    u2N = null;
+    K6g = H44.chartControls.querySelector(".stx-zoom-in");
+    if (K6g) {
+      X2D = "stx-c";
+      X2D += "hart-co";
+      X2D += "ntrol-b";
+      X2D += "utton ";
+      N5H = "<";
+      N5H += "/d";
+      N5H += "i";
+      N5H += "v>";
+      N16 = "<div class";
+      N16 += '="stx-tooltip" aria-hidden="true">';
+      w0M = "s";
+      w0M += "pan";
+      u2N = document.createElement(w0M);
+      u2N.ariaLabel = v1e;
+      u2N.role = "button";
+      A$B.w6J(2);
+      u2N.innerHTML = A$B.Y51(N16, v1e, N5H);
+      A$B.C2v(0);
+      u2N.className = A$B.B$D(X2D, C6H);
+      K6g.parentNode.appendChild(u2N);
+      if (b3E) {
+        z2Y.safeClickTouch(u2N, b3E, { keyboardClick: !0 });
+      }
+      return u2N;
+    }
+  };
+  z2Y.ChartEngine.prototype.zoomOut = function (e4W, T_m) {
+    var V_o = U6BfN;
+    var S53, k2T, f6l, c4D, f6B;
+    S53 = "zoom";
+    S53 += "Ou";
+    S53 += "t";
+    if (this.runPrepend(S53, arguments)) {
+      return;
+    }
+    V_o.s8u();
+    if (this.preferences.zoomOutSpeed) {
+      T_m = this.preferences.zoomOutSpeed;
+    } else if (!T_m) {
+      V_o.w6J(106);
+      T_m = V_o.Y51(1, "0.7", 1, "1");
+    }
+    if (e4W && e4W.preventDefault) {
+      e4W.preventDefault();
+    }
+    this.cancelTouchSingleClick = !!1;
+    k2T = this;
+    for (var R$A in this.charts) {
+      f6l = this.charts[R$A];
+      c4D = (f6l.width * T_m) / this.layout.candleWidth;
+      if (
+        f6l.allowScrollFuture === !"1" &&
+        f6l.allowScrollPast === ![] &&
+        c4D > f6l.dataSet.length
+      ) {
+        c4D = f6l.dataSet.length;
+      }
+      f6B = this.chart.width / c4D;
+      this.layout.setSpan = null;
+      this.layout.range = null;
+      this.animations.zoom.run(
+        O6C(f6l),
+        this.layout.candleWidth,
+        f6B,
+        ![],
+        this.ownerWindow,
+      );
+    }
+    function O6C(R8Y) {
+      V_o.a3_();
+      return function (H7n) {
+        k2T.zoomSet(H7n, R8Y);
+        if (k2T.animations.zoom.hasCompleted) {
+          if (k2T.runAppend("zoomOut", arguments)) {
+            return;
+          }
+          k2T.changeOccurred("layout");
+          if (k2T.continuousZoom) {
+            k2T.continuousZoom.execute(!!{});
+          }
+        }
+      };
+    }
+  };
+  z2Y.ChartEngine.prototype.zoomIn = function (R41, I2K) {
+    var A3R, s7k, A0u, Y4w;
+    if (this.runPrepend("zoomIn", arguments)) {
+      return;
+    }
+    function H5F(L3h) {
+      U6BfN.a3_();
+      return function (F$b) {
+        var H4c;
+        A3R.zoomSet(F$b, L3h);
+        if (A3R.animations.zoom.hasCompleted) {
+          H4c = "z";
+          H4c += "oom";
+          H4c += "In";
+          if (A3R.runAppend(H4c, arguments)) {
+            return;
+          }
+          A3R.changeOccurred("layout");
+          if (A3R.continuousZoom) {
+            A3R.continuousZoom.execute();
+          }
+        }
+      };
+    }
+    if (this.preferences.zoomInSpeed) {
+      I2K = this.preferences.zoomInSpeed;
+    } else if (!I2K) {
+      I2K = 0.7;
+    }
+    if (R41 && R41.preventDefault) {
+      R41.preventDefault();
+    }
+    this.cancelTouchSingleClick = !!"1";
+    A3R = this;
+    for (var v9t in this.charts) {
+      s7k = this.charts[v9t];
+      A0u = (s7k.width * I2K) / this.layout.candleWidth;
+      if (s7k.maxTicks - A0u < ("1" ^ 0)) {
+        U6BfN.C2v(15);
+        var J37 = U6BfN.B$D(5, 5, 1, 5, 5);
+        A0u = s7k.maxTicks - J37;
+      }
+      if (A0u < this.minimumZoomTicks) {
+        A0u = this.minimumZoomTicks;
+      }
+      Y4w = this.chart.width / A0u;
+      this.layout.setSpan = null;
+      this.layout.range = null;
+      this.animations.zoom.run(
+        H5F(s7k),
+        this.layout.candleWidth,
+        Y4w,
+        !!"",
+        this.ownerWindow,
+      );
+    }
+  };
+  z2Y.ChartEngine.prototype.createCrosshairs = function () {
+    var o3Q, s2r, Z37;
+    o3Q = "cre";
+    U6BfN.s8u();
+    o3Q += "ateCrossha";
+    o3Q += "irs";
+    if (this.runPrepend("createCrosshairs", arguments)) {
+      return;
+    }
+    if (!this.manageTouchAndMouse || this.mainSeriesRenderer.nonInteractive) {
+      return;
+    }
+    s2r = this.controls.crossX;
+    Z37 = this.controls.crossY;
+    if (s2r) {
+      if (!s2r.onmousedown) {
+        s2r.onmousedown = function (r8H) {
+          if (r8H.preventDefault) {
+            r8H.preventDefault();
+          }
+          U6BfN.s8u();
+          return !{};
+        };
+      }
+    }
+    if (Z37) {
+      if (!Z37.onmousedown) {
+        Z37.onmousedown = function (d20) {
+          U6BfN.s8u();
+          if (d20.preventDefault) {
+            d20.preventDefault();
+          }
+          return !1;
+        };
+      }
+    }
+    this.runAppend(o3Q, arguments);
+  };
+  P4I = ![];
+  z2Y.ChartEngine.prototype.mousemoveinner =
+    z2Y.ChartEngine.prototype.mousemoveinner ||
+    function (u0H, K9A) {
+      U6BfN.a3_();
+      if (!P4I) {
+        console.error(
+          "interaction feature requires activating movement feature.",
+        );
+      }
+      P4I = !!1;
+    };
+};
+v5 = (D_K) => {
+  var I9e = U6BfN;
+  var c0d;
+  I9e.a3_();
+  c0d = typeof _CIQ !== "undefined" ? _CIQ : D_K.CIQ;
+  if (!c0d.Marker) {
+    c0d.ChartEngine.helpersToRegister.push(function (B01) {
+      I9e.s8u();
+      B01.markerHelper = {
+        classMap: {},
+        domMarkers: [],
+        visibleCanvasMarkers: [],
+        highlighted: [],
+        placementMap: {},
+        groupMap: {},
+        fieldPanelMap: {},
+      };
+    });
+    c0d.ChartEngine.prototype.addToMarkerMapping = function (E8h) {
+      var s0W, M9f, b5M, s$5, g4t;
+      this.removeFromHolder(E8h);
+      s0W = this.panels[E8h.params.panelName];
+      if (!s0W) {
+        return;
+      }
+      E8h.chart = s0W.chart;
+      M9f = this.markerHelper.classMap[E8h.className];
+      if (!M9f) {
+        M9f = this.markerHelper.classMap[E8h.className] = {};
+      }
+      if (!M9f[E8h.params.panelName]) {
+        M9f[E8h.params.panelName] = [];
+      }
+      b5M = 1349987105;
+      s$5 = -332817500;
+      g4t = +"2";
+      for (
+        var h0v = "1" >> 32;
+        I9e.C6S(h0v.toString(), h0v.toString().length, 29270) !== b5M;
+        h0v++
+      ) {
+        M9f[E8h.params.panelName].push(E8h);
+        this.markerHelper.classMap[E8h.className] = M9f;
+        var { label: J5n } = E8h.params;
+        if (~this.markers[J5n]) {
+          this.markers[J5n] = [];
+        }
+        this.markers[J5n].push(E8h);
+        g4t += 2;
+      }
+      if (I9e.D9u(g4t.toString(), g4t.toString().length, +"11448") !== s$5) {
+        M9f[E8h.params.panelName].push(E8h);
+        this.markerHelper.classMap[E8h.className] = M9f;
+        var { label: J5n } = E8h.params;
+        if (!this.markers[J5n]) {
+          this.markers[J5n] = [];
+        }
+        this.markers[J5n].push(E8h);
+      }
+    };
+    c0d.ChartEngine.prototype.addToHolder = function (e1z) {
+      var t47, w4B, f6R, n3i;
+      t47 = this.panels[e1z.params.panelName];
+      I9e.s8u();
+      if (!t47) {
+        return;
+      }
+      w4B = e1z.params;
+      f6R = e1z.node;
+      n3i = e1z.stxNodeCreator;
+      if (n3i && n3i.prepareForHolder) {
+        f6R = n3i.prepareForHolder(e1z);
+      }
+      if (w4B.chartContainer) {
+        this.container.appendChild(e1z.node);
+      } else if (w4B.includeAxis) {
+        t47.holder.appendChild(e1z.node);
+      } else {
+        t47.subholder.appendChild(f6R);
+      }
+      e1z.chart = t47.chart;
+      if (n3i && n3i.addToHolder) {
+        n3i.addToHolder(e1z);
+      }
+      if (n3i && n3i.expand) {
+        if (n3i.node.params.pinnable && e1z.makePinnable) {
+          e1z.makePinnable();
+        }
+        c0d.Marker.initializeScrollBehavior(n3i);
+        if (n3i.expansionHolder) {
+          c0d.Marker.initializeScrollBehavior({ expand: n3i.expansionHolder });
+        }
+      }
+      if (e1z.className !== "CIQ.Marker.Group") {
+        this.updateGroupMap();
+      }
+    };
+    c0d.ChartEngine.prototype.getMarkerArray = function (m1v, U3p) {
+      I9e.s8u();
+      var Z83, H8q;
+      Z83 = [];
+      for (var Z5R in this.markers) {
+        for (var B0q = 0; B0q < this.markers[Z5R].length; B0q++) {
+          H8q = this.markers[Z5R][B0q];
+          if (m1v == "panelName") {
+            if (H8q.params.panelName == U3p) {
+              Z83.push(H8q);
+            }
+          } else if (m1v == "label") {
+            if (Z5R == U3p) {
+              Z83.push(H8q);
+            }
+          } else if (m1v == "field") {
+            if (H8q.params.field === U3p) {
+              Z83.push(H8q);
+            }
+          } else if (m1v == "all") {
+            Z83.push(H8q);
+          }
+        }
+      }
+      return Z83;
+    };
+    c0d.ChartEngine.prototype.removeFromHolder = function (I7d) {
+      var p0j, q4w;
+      I9e.a3_();
+      I7d.node.remove();
+      p0j = this.markers[I7d.params.label];
+      if (!p0j) {
+        return;
+      }
+      for (var K5g = 0; K5g < p0j.length; K5g++) {
+        if (p0j[K5g] === I7d) {
+          p0j.splice(K5g, +"1");
+          break;
+        }
+      }
+      q4w = this.markerHelper.classMap[I7d.className];
+      if (q4w) {
+        Object.entries(q4w).forEach(([M58, x8x]) => {
+          I9e.a3_();
+          var G3O;
+          G3O = x8x.indexOf(I7d);
+          if (G3O > -1) {
+            x8x.splice(G3O, 1);
+          }
+          if (!x8x.length) {
+            delete q4w[M58];
+          }
+        });
+      }
+      if (I7d.className !== "CIQ.Marker.Group") {
+        this.updateGroupMap();
+      }
+    };
+    c0d.ChartEngine.prototype.moveMarkers = function (B3V, r2E, X4w) {
+      I9e.s8u();
+      var C7r, R_A, p2_;
+      C7r = X4w || this.getMarkerArray("panelName", B3V);
+      C7r.forEach((L6l) => {
+        var z7d;
+        if (L6l instanceof c0d.Marker.Group) {
+          return;
+        }
+        L6l.params.panelName = r2E;
+        if (X4w) {
+          this.addToMarkerMapping(L6l);
+          if (
+            !L6l.stxNodeCreator ||
+            !L6l.stxNodeCreator.isCanvasMarker ||
+            !L6l.stxNodeCreator.deferAttach
+          ) {
+            z7d = "Pin";
+            z7d += "nedTooltip";
+            this.addToHolder(L6l);
+            if (L6l.stxNodeCreator.nodeType == z7d && L6l.makePinnable) {
+              L6l.makePinnable();
+            }
+          }
+        }
+      });
+      if (X4w) {
+        return;
+      }
+      for (var D5X in this.markerHelper.classMap) {
+        R_A = this.markerHelper.classMap[D5X];
+        p2_ = R_A[B3V];
+        if (p2_) {
+          R_A[r2E] = p2_;
+          delete R_A[B3V];
+        }
+      }
+      this.updateGroupMap();
+    };
+    c0d.ChartEngine.prototype.establishMarkerTicks = function () {
+      this.getMarkerArray("all").forEach((C9h) => {
+        I9e.s8u();
+        return this.setMarkerTick(C9h);
+      });
+      this.updateGroupMap();
+    };
+    c0d.ChartEngine.prototype.futureTickIfDisplayed = function (O5_) {
+      var T74, c9C, b_T, F7N, z4G, c4y, w11, k98, C_8, s6W, f6x, p0G;
+      T74 = O5_.chart;
+      if (T74.dataSet.length < "1" - 0) {
+        return;
+      }
+      c9C = T74.xaxis[T74.xaxis.length - ("1" ^ 0)].DT;
+      I9e.a3_();
+      I9e.C2v(107);
+      var D8n = I9e.B$D(4, 12, 59994, 12002, 59995);
+      c9C = new Date(c9C.getTime() - this.timeZoneOffset * D8n);
+      if (O5_.params.x > c9C) {
+        return;
+      }
+      b_T = T74.maxTicks - T74.dataSegment.length;
+      F7N = T74.dataSet.length + b_T;
+      w11 = new Date(+T74.dataSet[T74.dataSet.length - 1].DT);
+      k98 = this.standardMarketIterator(w11, null, T74);
+      C_8 = 232846099;
+      s6W = 1012942438;
+      f6x = 2;
+      for (
+        var Y6K = 1;
+        I9e.D9u(Y6K.toString(), Y6K.toString().length, "50859" ^ 0) !== C_8;
+        Y6K++
+      ) {
+        p0G = O5_.params.x.getTime();
+        f6x += 2;
+      }
+      if (I9e.C6S(f6x.toString(), f6x.toString().length, 8121) !== s6W) {
+        p0G = O5_.params.x.getTime();
+      }
+      for (var U1a = T74.dataSet.length; U1a < F7N; U1a++) {
+        z4G = w11.getTime();
+        w11 = k98.next();
+        c4y = w11.getTime();
+        if (c4y == p0G) {
+          O5_.tick = U1a;
+          return;
+        } else if (c4y > p0G && z4G < p0G) {
+          I9e.C2v(10);
+          O5_.tick = Math.max(I9e.B$D(1, U1a), 0);
+          return;
+        }
+      }
+    };
+    c0d.ChartEngine.prototype.setMarkerTick = function (M07) {
+      var n7J, W6a, q4O, m0$, s5s, t7A, H05;
+      n7J = "d";
+      n7J += "a";
+      n7J += "t";
+      n7J += "e";
+      I9e.s8u();
+      W6a = M07.chart || this.chart;
+      if (M07.params.xPositioner == "master" && M07.params.x) {
+        M07.tick = Math.floor(M07.params.x / this.layout.periodicity);
+      } else if (M07.params.xPositioner == "tick" && M07.params.x) {
+        M07.tick = M07.params.x;
+      } else if (M07.params.xPositioner == n7J && M07.params.x) {
+        s5s = M07.params.x.getTime();
+        for (var n_W = "0" - 0; n_W < W6a.dataSet.length; n_W++) {
+          t7A = W6a.dataSet[n_W];
+          m0$ = t7A.DT.getTime();
+          q4O = m0$;
+          if (n_W > 0) {
+            q4O = W6a.dataSet[n_W - 1].DT.getTime();
+          }
+          if (m0$ == s5s) {
+            M07.tick = n_W;
+            return;
+          } else if (m0$ > s5s && q4O < s5s) {
+            I9e.C2v(10);
+            M07.tick = Math.max(I9e.B$D(1, n_W), +"0");
+            return;
+          } else if (s5s < m0$) {
+            M07.tick = null;
+            return;
+          }
+        }
+        if (W6a.dataSet.length < 1) {
+          return;
+        }
+        H05 = new Date(+W6a.dataSet[n_W - ("1" | 0)].DT);
+        if (H05.getTime() < s5s) {
+          M07.params.future = !"";
+        }
+        M07.tick = null;
+      }
+    };
+    c0d.ChartEngine.prototype.updateGroupMap = function () {
+      var r_X, l_d, V0y, G_g, n9d;
+      r_X = "a";
+      r_X += "ll";
+      l_d = this.getMarkerArray(r_X);
+      var { groupMap: O4Y } = this.markerHelper;
+      Object.values(O4Y).forEach((G51) => {
+        if (G51.groupMarker) {
+          G51.groupMarker.savedMarkers = G51.markers;
+        }
+        I9e.a3_();
+        G51.markers = [];
+      });
+      l_d.forEach((S6F) => {
+        var t3f, e7T, W0M, V0k, C$W;
+        t3f = "un";
+        t3f += "def";
+        t3f += "i";
+        I9e.a3_();
+        t3f += "ned";
+        var { className: N3M, tick: w0K } = S6F;
+        var {
+          yPositioner: o6d,
+          xPositioner: h0c,
+          panelName: z6h,
+          x: j3g,
+          label: Q_i,
+          datum: J9O,
+          groupable: Z4j,
+          field: w2E,
+        } = S6F.params;
+        if (Z4j === !!0) {
+          return;
+        }
+        if (N3M == "CIQ.Marker.Group") {
+          return;
+        }
+        if (N3M == "CIQ.Marker.SignalIQ") {
+          return;
+        }
+        if (!j3g && J9O && J9O.startDate) {
+          j3g = J9O.startDate;
+        }
+        var { node: U4C } = S6F.stxNodeCreator || {};
+        e7T =
+          c0d.Marker.TimeSpanEvent && S6F instanceof c0d.Marker.TimeSpanEvent;
+        if (
+          !U4C ||
+          !U4C.params ||
+          !U4C.params.type ||
+          !this.groupableMarkerTypes.includes(U4C.params.type) ||
+          (U4C.params.category == "trade" && !e7T)
+        ) {
+          return;
+        }
+        if (!z6h || !o6d || !w0K || !j3g || S6F instanceof c0d.Marker.Group) {
+          return;
+        }
+        W0M =
+          o6d.includes("_lane") ||
+          (c0d.Marker.TimeSpanEvent && S6F instanceof c0d.Marker.TimeSpanEvent);
+        I9e.w6J(83);
+        V0k = I9e.B$D(
+          o6d,
+          w2E ? (522.73 <= +"4555" ? "-" : 7.26e3) + w2E : "",
+          z6h,
+          W0M ? "-" + Q_i : "",
+          "|",
+        );
+        I9e.C2v(2);
+        C$W = I9e.B$D(V0k, 3720 == (8030, 888.05) ? +"4.99e+3" : "-", w0K);
+        if (typeof O4Y[C$W] == t3f) {
+          O4Y[C$W] = {
+            yPositioner: o6d,
+            xPositioner: h0c,
+            panelName: z6h,
+            className: N3M,
+            field: w2E,
+            x: j3g,
+            tick: w0K,
+            groupKey: C$W,
+            groupMarker: null,
+            markers: [],
+          };
+        }
+        S6F.groupKey = C$W;
+        S6F.hidden = !1;
+        O4Y[C$W].markers.push(S6F);
+      });
+      for (var f9i in O4Y) {
+        V0y = O4Y[f9i];
+        if (V0y.markers.length > 1) {
+          V0y.markers.forEach((p31) => {
+            I9e.s8u();
+            return (p31.hidden = !!{});
+          });
+          if (!V0y.groupMarker) {
+            G_g = {
+              stx: this,
+              panelName: V0y.panelName,
+              yPositioner: V0y.yPositioner,
+              xPositioner: V0y.xPositioner,
+              x: V0y.x,
+              field: V0y.field,
+              groupKey: f9i,
+              displayStem: !!{},
+            };
+            V0y.groupMarker =
+              V0y.className == "CIQ.Marker.TimeSpanEvent"
+                ? new c0d.Marker.TimeSpanEvent.Group({
+                    ...G_g,
+                    y: V0y.markers[0].params.datum.spacingModifier,
+                    displayStem: ![],
+                  })
+                : new c0d.Marker.Group(G_g);
+          } else {
+            V0y.groupMarker.groupKey = f9i;
+          }
+          var { stxNodeCreator: M5y } = V0y.groupMarker;
+          n9d = this.panels[M5y.panelName] || this.chart;
+          M5y.node.chartHeight = n9d.yAxis.height;
+          M5y.updateVisual();
+        } else {
+          if (V0y.groupMarker) {
+            var { groupMarker: S5m } = V0y;
+            if (S5m.stxNodeCreator.groupMarker) {
+              S5m.stxNodeCreator.groupMarker.remove();
+              S5m.stxNodeCreator.groupMarker = null;
+            }
+            if (S5m.savedMarkers) {
+              S5m.savedMarkers.forEach((i$E) => {
+                return (i$E.groupExpansionEl = null);
+              });
+              S5m.savedMarkers = null;
+            }
+            S5m.remove();
+            S5m = null;
+          }
+          delete O4Y[f9i];
+        }
+      }
+      this.markerHelper.groupMap = O4Y;
+    };
+    c0d.ChartEngine.prototype.positionMarkers = function () {
+      var K4G, o9E, U_b, d7S, f_0, t66, x_6, L6_, a28;
+      K4G = "t";
+      K4G += "i";
+      K4G += "c";
+      K4G += "k";
+      o9E = this;
+      U_b = this.chart;
+      if (!o9E.markerHelper) {
+        return;
+      }
+      this.markerHelper.placementMap = {};
+      this.markerHelper.fieldPanelMap = {};
+      if (this.markerDelay || this.markerDelay === +"0") {
+        if (!this.markerTimeout) {
+          this.markerTimeout = setTimeout(O9v, this.markerDelay);
+        }
+      } else {
+        O9v();
+      }
+      d7S = this.getFirstLastDataRecord(U_b.dataSegment, K4G);
+      f_0 = this.getFirstLastDataRecord(U_b.dataSegment, "tick", !!{});
+      if (!d7S || !f_0) {
+        return;
+      }
+      t66 = this.getMarkerArray("all");
+      this.markerHelper.visibleCanvasMarkers = [];
+      for (var S5E = 0; S5E < t66.length; S5E++) {
+        x_6 = t66[S5E];
+        L6_ = x_6.stxNodeCreator;
+        if (d7S.tick <= x_6.tick && x_6.tick <= f_0.tick) {
+          this.markerHelper.visibleCanvasMarkers.push(x_6);
+          if (L6_ && L6_.drawMarker) {
+            L6_.drawMarker(x_6);
+          }
+        } else {
+          x_6.highlight = !{};
+          x_6.params.box = null;
+          if (x_6.attached && L6_ && L6_.expand && !x_6.params.pinnedPosition) {
+            a28 = "h";
+            a28 += "i";
+            a28 += "d";
+            a28 += "den";
+            L6_.expand.style.visibility = a28;
+          }
+        }
+        if (x_6.node) {
+          x_6.node.style.visibility = x_6.hidden ? "hidden" : "";
+        }
+        if (
+          x_6.groupExpansionEl &&
+          x_6.stxNodeCreator &&
+          x_6.stxNodeCreator.expand
+        ) {
+          x_6.stxNodeCreator.expand.style.visibility = x_6.hidden
+            ? "hidden"
+            : "";
+        }
+        if (x_6.chartMarker && x_6.hidden) {
+          x_6.chartMarker.remove();
+          x_6.chartMarker = null;
+        }
+      }
+      function O9v() {
+        var r2r, R5I, G10, T2f, u3E;
+        r2r = "posit";
+        r2r += "ionMarkers";
+        if (o9E.runPrepend("positionMarkers", arguments)) {
+          return;
+        }
+        o9E.markerTimeout = null;
+        for (var R7T in o9E.markerHelper.classMap) {
+          for (var L59 in o9E.markerHelper.classMap[R7T]) {
+            R5I = o9E.markerHelper.classMap[R7T][L59];
+            R5I = R5I.filter((M25) => {
+              return !M25.hidden;
+            });
+            G10 = o9E.panels[L59];
+            if (!G10) continue;
+            if (R5I.length) {
+              T2f = { stx: o9E, arr: R5I, panel: G10 };
+              T2f.firstTick = G10.chart.dataSet.length - G10.chart.scroll;
+              T2f.lastTick = T2f.firstTick + G10.chart.dataSegment.length;
+              u3E = R5I[0].constructor.placementFunction;
+              if (u3E) {
+                u3E(T2f);
+              } else {
+                o9E.defaultMarkerPlacement(T2f);
+              }
+            }
+          }
+        }
+        o9E.runAppend(r2r, arguments);
+      }
+    };
+    c0d.Marker =
+      c0d.Marker ||
+      function (q3I) {
+        var l4I, s4J, C8p;
+        l4I = "C";
+        l4I += "I";
+        l4I += "Q.Marker";
+        s4J =
+          this instanceof c0d.Marker
+            ? this
+            : Object.create(c0d.Marker.prototype);
+        var { stx: b4_ } = q3I;
+        if (!b4_) {
+          console.log("Marker created without specifying stx");
+          return;
+        }
+        if (!s4J.className) {
+          s4J.className = l4I;
+        }
+        s4J.params = {
+          xPositioner: "date",
+          yPositioner: q3I.y || q3I.y === 0 ? "value" : "above_candle",
+          permanent: !{},
+          label: "generic",
+          includeAxis: !{},
+        };
+        c0d.extend(s4J.params, q3I);
+        if (!s4J.params.panelName) {
+          Object.defineProperty(s4J.params, "panelName", {
+            enumerable: !"",
+            get: () => {
+              var i00, f4k;
+              var { field: V2U } = s4J.params;
+              if (!V2U) {
+                return b4_.chart.panel.name;
+              }
+              i00 = b4_.markerHelper.fieldPanelMap[V2U];
+              if (!i00) {
+                i00 = (b4_.getPanelByField(V2U) || b4_.chart.panel).name;
+                b4_.markerHelper.fieldPanelMap[V2U] = i00;
+              }
+              if (i00 !== s4J.params._panelName) {
+                f4k = b4_.markerHelper.classMap[s4J.className];
+                if (f4k) {
+                  f4k = f4k[s4J.params._panelName];
+                  if (f4k && f4k.includes(s4J)) {
+                    var { isConnected: t2Y } = s4J.node;
+                    b4_.addToMarkerMapping(s4J);
+                    if (t2Y || s4J.attached) {
+                      b4_.addToHolder(s4J);
+                    }
+                  }
+                }
+                s4J.params._panelName = i00;
+              }
+              return i00;
+            },
+            set: (f7W) => {
+              I9e.a3_();
+              return (b4_.markerHelper.fieldPanelMap[s4J.params.field] = f7W);
+            },
+          });
+        }
+        if (!s4J.params.node) {
+          s4J.params.node = document.createElement("DIV");
+        }
+        if (c0d.derivedFrom(s4J.params.node, c0d.Marker.NodeCreator)) {
+          s4J.stxNodeCreator = s4J.params.node;
+          s4J.node = s4J.stxNodeCreator.node;
+        } else {
+          s4J.node = s4J.params.node;
+        }
+        b4_.setMarkerTick(s4J);
+        b4_.addToMarkerMapping(s4J);
+        C8p = s4J.stxNodeCreator && s4J.stxNodeCreator.deferAttach;
+        if (!C8p) {
+          b4_.addToHolder(s4J);
+        }
+        if (s4J.stxNodeCreator && s4J.stxNodeCreator.drawMarker) {
+          s4J.stxNodeCreator.drawMarker(s4J);
+        }
+        return s4J;
+      };
+    c0d.Marker.prototype.remove = function () {
+      var S7T, e5L, x9p;
+      S7T = -1231322966;
+      e5L = 684271704;
+      x9p = 2;
+      for (
+        var u41 = 1;
+        I9e.D9u(u41.toString(), u41.toString().length, 69966) !== S7T;
+        u41++
+      ) {
+        this.params.stx.removeFromHolder(this);
+        x9p += 2;
+      }
+      I9e.s8u();
+      if (I9e.C6S(x9p.toString(), x9p.toString().length, 3671) !== e5L) {
+        this.params.stx.removeFromHolder(this);
+      }
+      if (this.stxNodeCreator && this.stxNodeCreator.remove) {
+        this.stxNodeCreator.remove(this);
+      }
+    };
+    c0d.Marker.prototype.click = function (q16) {
+      var s9y, S1B, w8P, x9s;
+      if (this.hidden) {
+        return;
+      }
+      if (typeof arguments[0] === "number") {
+        q16 = { cx: arguments[0], cy: arguments[1], panel: arguments[3] };
+      }
+      var { cx: I8l, cy: C1c, panel: g9G } = q16;
+      if (!this.params.stx) {
+        return;
+      }
+      s9y = -111957184;
+      S1B = -688123952;
+      w8P = 2;
+      for (
+        var F$t = 1;
+        I9e.C6S(F$t.toString(), F$t.toString().length, "90632" * 1) !== s9y;
+        F$t++
+      ) {
+        x9s = this.params.node;
+        if (x9s.click) {
+          x9s.click({ cx: I8l, cy: C1c, marker: this, panel: g9G });
+        }
+        w8P += 2;
+      }
+      if (I9e.D9u(w8P.toString(), w8P.toString().length, 47016) !== S1B) {
+        x9s = this.params.node;
+        if (x9s.click) {
+          x9s.click({ cx: I8l, cy: C1c, marker: this, panel: g9G });
+        }
+      }
+    };
+    c0d.Marker.prototype.doubleClick = function ({
+      cx: c0T,
+      cy: m_j,
+      panel: q12,
+    }) {
+      return !!"";
+    };
+    c0d.Marker.prototype.render = function () {
+      var B2b, D$p;
+      B2b = [this];
+      D$p = {
+        stx: this.params.stx,
+        arr: B2b,
+        panel: this.params.stx.panels[this.params.panelName],
+        showClass: this.showClass,
+      };
+      this.constructor.placementFunction(D$p);
+    };
+    c0d.Marker.prototype.getMarkerGroup = function () {
+      var N7L;
+      if (!this.groupKey || !this.params.stx.markerHelper.groupMap) {
+        return;
+      }
+      N7L = this.params.stx.markerHelper.groupMap[this.groupKey];
+      if (N7L) {
+        return N7L.groupMarker;
+      }
+    };
+    c0d.Marker.prototype.makeDraggable = function (M1f) {
+      var g6R, P89, l0s, A8N, e73, v5a, h7n;
+      g6R = "drags";
+      g6R += "tar";
+      g6R += "t";
+      var { stx: B0H } = this.params;
+      P89 = B0H.panels[this.params.panelName];
+      if (!M1f && M1f !== ![]) {
+        M1f = !!"1";
+      }
+      if (M1f === !!1) {
+        M1f = P89.subholder;
+      }
+      l0s = this.stxNodeCreator
+        ? this.stxNodeCreator.expand || this.stxNodeCreator.node
+        : this.node;
+      if (this.groupExpansionEl) {
+        l0s = this.groupExpansionEl.querySelector(".stx-marker-expand");
+      }
+      l0s.draggable = !!M1f;
+      l0s.removeEventListener(g6R, this.dragListener);
+      if (!M1f) {
+        B0H.undoModal(l0s);
+        l0s.style.cursor = "";
+        return;
+      }
+      B0H.makeModal(l0s);
+      l0s.style.cursor = "grab";
+      A8N = (X2f) => {
+        var V7l;
+        if (X2f.target !== l0s) {
+          return;
+        }
+        c0d.Marker.beingDragged = {
+          marker: this,
+          offset: { x: X2f.offsetX, y: X2f.offsetY },
+          node: X2f.target,
+          dropzone: M1f,
+        };
+        l0s.classList.add("being-dragged");
+        X2f.dataTransfer.effectAllowed = "move";
+        V7l = B0H.chart.tempCanvas;
+        c0d.clearCanvas(V7l, this);
+        I9e.s8u();
+        V7l.style.display = "block";
+      };
+      e73 = (E6H) => {
+        var a$i, y0d, L5q;
+        var { beingDragged: P95 } = c0d.Marker;
+        if (!P95) {
+          return;
+        }
+        var { dropzone: F49, marker: Y$_, offset: t_a } = P95;
+        if (F49 !== M1f) {
+          E6H.dataTransfer.dropEffect = "none";
+          return;
+        }
+        E6H.preventDefault();
+        a$i = B0H.backOutX(E6H.clientX - t_a.x);
+        y0d = B0H.backOutY(E6H.clientY - t_a.y);
+        var { dragOrigin: i7Q } = Y$_;
+        Y$_.dragOrigin = { x: a$i, y: y0d };
+        if (!i7Q || i7Q.x !== a$i || i7Q.y !== y0d) {
+          B0H.draw();
+        }
+        E6H.dataTransfer.dropEffect = "move";
+        L5q = B0H.chart.tempCanvas;
+        c0d.clearCanvas(L5q, this);
+        if (Y$_.drawStem) {
+          Y$_.drawStem();
+        }
+      };
+      v5a = (U4$) => {
+        var R$g, C8l, n53;
+        R$g = ".ciq-";
+        R$g += "expansion";
+        R$g += "-holder";
+        var { beingDragged: K0L } = c0d.Marker;
+        if (!K0L) {
+          return;
+        }
+        var { dropzone: b5R, marker: e4b, node: l8x } = K0L;
+        if (b5R !== M1f) {
+          return;
+        }
+        l8x.classList.remove("being-dragged");
+        delete e4b.dragOrigin;
+        if (e4b.store) {
+          e4b.store();
+        }
+        c0d.Marker.beingDragged = null;
+        if (l8x.closest(R$g)) {
+          C8l = e4b.getMarkerGroup();
+          n53 = C8l.node.querySelector(".ciq-pinned-holder");
+          n53.appendChild(l8x.parentNode);
+        }
+        B0H.chart.tempCanvas.style.display = "none";
+        B0H.draw();
+      };
+      h7n = (n8k) => {
+        var t1u, y3h, t2R, J1Q, I8J, y4O, M5L, K7V, w0f, v0o;
+        t1u = "n";
+        t1u += "one";
+        var { beingDragged: q6w } = c0d.Marker;
+        if (!q6w) {
+          return;
+        }
+        var { dropzone: g_i, marker: z5I, node: y9Y } = q6w;
+        if (g_i !== M1f) {
+          return;
+        }
+        y3h = z5I.getMarkerGroup();
+        var { field: K0j, xPositioner: o1o, yPositioner: L__ } = z5I.params;
+        t2R = z5I.params.yAxis || B0H.getYAxisByField(P89, K0j) || P89.yAxis;
+        J1Q = c0d.elementDimensions(y9Y, {
+          margin: !![],
+          border: !!1,
+          padding: !!1,
+        });
+        I8J = B0H.backOutX(n8k.clientX) - q6w.offset.x;
+        y4O = B0H.backOutY(n8k.clientY) - q6w.offset.y;
+        I9e.s8u();
+        M5L = {};
+        K7V = y9Y === z5I.node || !z5I.node.parentElement;
+        if (o1o === "none" || (!o1o && z5I.params.x === undefined)) {
+          y9Y.style.left = I8J - B0H.chart.left + "px";
+        } else {
+          w0f =
+            K7V && !y3h
+              ? J1Q
+              : c0d.elementDimensions((y3h || z5I).node, {
+                  margin: !!"1",
+                  border: !!{},
+                  padding: !!"1",
+                });
+          I9e.w6J(39);
+          var j$A = I9e.B$D(25, 13, 11);
+          I9e.w6J(7);
+          var F1p = I9e.B$D(18, 19);
+          I9e.w6J(19);
+          var T0W = I9e.B$D(14, 22, 6);
+          M5L.candleOffset =
+            (I8J +
+              ((K7V ? j$A : F1p) * w0f.width) / T0W -
+              B0H.pixelFromTick(z5I.tick)) /
+            B0H.layout.candleWidth;
+        }
+        if (L__ === t1u || (!L__ && z5I.params.y === undefined)) {
+          v0o = "p";
+          v0o += "x";
+          y9Y.style.bottom = t2R.height - y4O - J1Q.height + v0o;
+        } else {
+          M5L.y = B0H.valueFromPixel(y4O + J1Q.height / 2, P89, t2R);
+        }
+        z5I.params.pinnedPosition = M5L;
+      };
+      this.dragListener = A8N;
+      l0s.addEventListener("dragstart", A8N);
+      if (!M1f.dropzoneForPinnedMarkers) {
+        M1f.addEventListener("dragover", e73);
+        M1f.addEventListener("dragend", v5a);
+        M1f.addEventListener("drop", h7n);
+        M1f.dropzoneForPinnedMarkers = !![];
+      }
+    };
+    c0d.Marker.removeByLabel = function (d0P, c7r) {
+      var Z6c, L5$, G$_;
+      Z6c = "l";
+      Z6c += "ab";
+      Z6c += "e";
+      Z6c += "l";
+      L5$ = d0P.getMarkerArray(Z6c, c7r);
+      for (var q0L = 0; q0L < L5$.length; q0L++) {
+        G$_ = L5$[q0L];
+        d0P.removeFromHolder(G$_);
+        if (G$_.stxNodeCreator && G$_.stxNodeCreator.remove) {
+          G$_.stxNodeCreator.remove(G$_);
+        }
+      }
+      d0P.draw();
+    };
+    c0d.Marker.positionContentVerticalAndHorizontal = function (K1Q, K8b) {
+      var R_4, W3o, s4E, D7R, T5A, y1F, T7Y, Q25, G$7;
+      R_4 = "g";
+      R_4 += "r";
+      R_4 += "o";
+      R_4 += "up";
+      W3o = "h";
+      W3o += "ig";
+      W3o += "hli";
+      W3o += "ght";
+      s4E = ".stx";
+      s4E += "-marker-expand";
+      D7R = K1Q.querySelector(s4E);
+      T5A = K1Q.querySelector(".ciq-expansion-holder");
+      y1F = (l8c, n$v) => {
+        var c4U, b0m, m1Y, a41;
+        if (!n$v.parentNode) {
+          return;
+        }
+        var { offsetHeight: M5T, style: h8Y } = l8c;
+        h8Y.bottom = h8Y.top = "";
+        c4U = getComputedStyle(l8c);
+        var { bottom: r31 } = c4U;
+        b0m = parseInt(r31, 10);
+        m1Y = n$v.offsetTop;
+        if (!n$v.classList.contains("callout")) {
+          m1Y -= b0m + M5T - n$v.offsetHeight;
+        }
+        a41 = n$v.parentNode.offsetHeight;
+        if (n$v.offsetTop <= a41) {
+          if (m1Y > a41 - M5T) {
+            h8Y.top = a41 - n$v.offsetTop - M5T + "px";
+            h8Y.bottom = "auto";
+          }
+        } else {
+          I9e.C2v(0);
+          h8Y.top = I9e.B$D(a41, "px");
+        }
+        if (n$v.offsetTop + n$v.offsetHeight >= 0) {
+          if (m1Y < 0) {
+            h8Y.top = -n$v.offsetTop + "px";
+            h8Y.bottom = "auto";
+          }
+        } else {
+          h8Y.bottom = "0px";
+        }
+      };
+      T7Y = (x0e, O1f, G1I) => {
+        var r4Q, k_P, j$E, C1C, S6h, s3_, Y9Q, r4E;
+        if (!O1f.parentNode) {
+          return;
+        }
+        r4Q = x0e.style;
+        r4Q.left = r4Q.right = "";
+        if (G1I) {
+          G1I.style.left = G1I.style.right = "";
+        }
+        k_P = getComputedStyle(x0e);
+        j$E = k_P.left;
+        I9e.C2v(10);
+        var Q_9 = I9e.B$D(10, 20);
+        C1C = O1f.offsetLeft + parseInt(j$E, Q_9);
+        I9e.s8u();
+        I9e.C2v(14);
+        var y38 = I9e.B$D(18, 1, 7, 57, 7);
+        S6h = O1f.offsetLeft - parseInt(j$E, y38);
+        s3_ = O1f.parentNode.offsetWidth;
+        if (C1C + x0e.offsetWidth > s3_) {
+          Y9Q = "a";
+          Y9Q += "u";
+          Y9Q += "t";
+          Y9Q += "o";
+          r4Q.right = j$E;
+          r4Q.left = Y9Q;
+          if (G1I) {
+            I9e.w6J(58);
+            var q4$ = I9e.B$D(15, 10, 16, 1);
+            G1I.style.right = x0e.offsetWidth + parseInt(j$E, q4$) + "px";
+          }
+        } else if (G1I && S6h < G1I.offsetWidth) {
+          r4E = "p";
+          r4E += "x";
+          G1I.style.right = "auto";
+          I9e.C2v(108);
+          var F37 = I9e.Y51(50, 43, 9, 1, 7);
+          G1I.style.left = x0e.offsetWidth + parseInt(j$E, F37) + r4E;
+        } else if (G1I) {
+          G1I.style.right = j$E;
+        }
+      };
+      if (!D7R || !D7R.isConnected) {
+        return;
+      }
+      D7R.style.bottom = D7R.style.top = "";
+      Q25 =
+        (K1Q.classList.contains(W3o) && D7R.style.visibility !== "hidden") ||
+        (T5A && T5A.style.visibility !== "hidden");
+      if (!Q25 && !K8b) {
+        return;
+      }
+      y1F(D7R, K1Q);
+      if (T5A) {
+        if (K1Q.chartHeight) {
+          I9e.w6J(28);
+          var r8a = I9e.B$D(16, 198, 13);
+          T5A.style.maxHeight = K1Q.chartHeight - r8a + "px";
+        }
+        if (T5A.__ps) {
+          T5A.__ps.update();
+        }
+        y1F(T5A, K1Q);
+      }
+      T7Y(D7R, K1Q, T5A);
+      G$7 = D7R ? D7R.closest(".stx-subholder") : null;
+      if (K1Q.classList.contains(R_4) && G$7 && G$7.offsetHeight < 200) {
+        I9e.C2v(14);
+        var Q6j = I9e.B$D(11, 5, 12, 3, 5);
+        D7R.style.maxHeight = G$7.offsetHeight - Q6j + "px";
+      }
+    };
+    c0d.Marker.initializeScrollBehavior = function (y7T) {
+      var V5j, Z$0;
+      V5j = "t";
+      V5j += "o";
+      V5j += "uchmov";
+      V5j += "e";
+      I9e.s8u();
+      var { expand: x3O } = y7T;
+      if (!x3O || x3O.scrollInitialized) {
+        return;
+      }
+      if (!x3O.querySelector(".marker_content")) {
+        Z$0 = document.createElement("div");
+        Z$0.className = "marker_content";
+        [...x3O.children].forEach((U3k) => {
+          return Z$0.appendChild(U3k);
+        });
+        x3O.appendChild(Z$0);
+      }
+      x3O.addEventListener(
+        c0d.wheelEvent,
+        (h7B) => {
+          return h7B.stopPropagation();
+        },
+        { passive: !!0 },
+      );
+      x3O.addEventListener(
+        V5j,
+        (Q9O) => {
+          return Q9O.stopPropagation();
+        },
+        { passive: !1 },
+      );
+      var { scrollbarStyling: w_1 } = c0d.UI || {};
+      if (w_1) {
+        w_1.refresh(x3O);
+      } else {
+        x3O.style.overflowY = "scroll";
+      }
+      x3O.scrollInitialized = !!1;
+    };
+    c0d.ChartEngine.prototype.getBarBounds = function (C5J, J6U) {
+      var M5E, N78, l7x, c3s, T8a;
+      M5E = this.layout.aggregationType;
+      if (!J6U && M5E == "pandf") {
+        N78 = {
+          high: Math.max(C5J.pfOpen, C5J.pfClose),
+          low: Math.min(C5J.pfOpen, C5J.pfClose),
+        };
+      } else {
+        N78 = { high: C5J.High, low: C5J.Low };
+      }
+      if (C5J.markerHigh) {
+        N78.high = C5J.markerHigh;
+      }
+      if (C5J.markerLow) {
+        N78.low = C5J.markerLow;
+      }
+      if (C5J.Open === undefined) {
+        l7x = C5J.Close;
+      }
+      if (C5J.High === undefined) {
+        c3s = Math.max(C5J.Open || l7x, C5J.Close);
+      }
+      if (C5J.Low === undefined) {
+        T8a = Math.min(C5J.Open || l7x, C5J.Close);
+      }
+      if (!N78.high && N78.high !== 0) {
+        N78.high = c3s;
+      }
+      if (!N78.low && N78.low !== ("0" | 0)) {
+        N78.low = T8a;
+      }
+      return N78;
+    };
+    c0d.ChartEngine.prototype.defaultMarkerPlacement = function (q$y) {
+      var a6T,
+        B7u,
+        b7A,
+        G_u,
+        P2U,
+        m$0,
+        c$C,
+        f35,
+        A2X,
+        L2t,
+        H6q,
+        o_G,
+        q86,
+        T3b,
+        I1K,
+        L$d,
+        g$q,
+        J$J,
+        i1P,
+        g7C,
+        G02,
+        t29,
+        m9$,
+        h1V,
+        Q3s,
+        l$U,
+        R81,
+        G0O,
+        v7L,
+        A2o,
+        Y1f,
+        V9l,
+        L_p,
+        p7n,
+        F$d,
+        l5V,
+        D5g,
+        V3p,
+        r6x,
+        i35,
+        t7H,
+        G7A,
+        f2P,
+        L9w,
+        J8P,
+        W9e,
+        j4t,
+        Q9i,
+        V35,
+        b$e,
+        Q7Y,
+        P9r,
+        x2I;
+      a6T = q$y.panel;
+      B7u = a6T.chart;
+      b7A = q$y.stx;
+      G_u = {};
+      Object.values(b7A.chart.series).forEach(function (x31) {
+        var U_Q, v90, c4m;
+        U_Q = 642347597;
+        I9e.w6J(1);
+        v90 = I9e.Y51(0, "854453788");
+        c4m = 2;
+        for (
+          var f6U = 1;
+          I9e.C6S(f6U.toString(), f6U.toString().length, 34043) !== U_Q;
+          f6U++
+        ) {
+          G_u[x31.parameters.symbol] = c0d.Renderer.produce(
+            x31.parameters.chartType,
+            {},
+          ).highLowBars;
+          c4m += +"2";
+        }
+        I9e.a3_();
+        if (I9e.C6S(c4m.toString(), c4m.toString().length, 36752) !== v90) {
+          G_u[x31.parameters.symbol] = c0d.Renderer.produce(
+            x31.parameters.chartType,
+            {},
+          ).highLowBars;
+        }
+      });
+      for (var Y1x = 0; Y1x < q$y.arr.length; Y1x++) {
+        P2U = q$y.arr[Y1x];
+        m$0 = P2U.params;
+        if (!m$0.pinnedPosition && m$0.box) continue;
+        c$C = P2U.node;
+        f35 = P2U.stxNodeCreator
+          ? P2U.stxNodeCreator.expand
+          : c$C.querySelector(".stx-marker-expand");
+        if (!P2U.clientWidth) {
+          P2U.clientWidth = c$C.clientWidth;
+        }
+        if (!P2U.clientHeight) {
+          P2U.clientHeight = c$C.clientHeight;
+        }
+        A2X = null;
+        L2t = m$0.xPositioner;
+        H6q = m$0.yPositioner;
+        o_G = m$0.pinnedPosition || {};
+        q86 = (f35 && m$0.pinnedPosition) || m$0.expandPosition;
+        T3b = (!f35 && o_G.candleOffset) || m$0.candleOffset;
+        I1K = m$0.field;
+        L$d = m$0.yAxis || this.getYAxisByField(a6T, I1K) || a6T.yAxis;
+        g$q = P2U.tick;
+        J$J = B7u.dataSet;
+        i1P = P2U.clientWidth;
+        g7C = I1K ? G_u[I1K] : b7A.chart.highLowBars;
+        G02 = B7u.defaultPlotField;
+        if (!G02 || g7C) {
+          G02 = "Close";
+        }
+        if (L2t != "none") {
+          if (L2t == "bar" && m$0.x) {
+            t29 = "p";
+            t29 += "x";
+            if (m$0.x < B7u.xaxis.length) {
+              m9$ = B7u.xaxis[m$0.x];
+              if (m9$) {
+                A2X = m9$.data;
+              }
+            }
+            c0d.efficientDOMUpdate(
+              c$C.style,
+              "left",
+              Math.round(b7A.pixelFromBar(m$0.x, B7u) - i1P / 2) + 1 + t29,
+            );
+          } else {
+            if (!g$q && g$q !== 0) {
+              if (m$0.future && B7u.scroll < B7u.maxTicks) {
+                b7A.futureTickIfDisplayed(P2U);
+                g$q = P2U.tick;
+                if (!g$q && g$q !== 0) {
+                  c$C.style.left = "-1000px";
+                  continue;
+                }
+              } else {
+                c$C.style.left = "-1000px";
+                continue;
+              }
+            }
+            if (g$q < J$J.length) {
+              A2X = J$J[g$q];
+            }
+            h1V = Math.round(b7A.pixelFromTick(g$q, B7u) - B7u.left - i1P / 2);
+            c0d.efficientDOMUpdate(c$C.style, "left", h1V + "px");
+            P2U.leftpx = h1V;
+            I9e.C2v(0);
+            Q3s = I9e.Y51(h1V, i1P);
+            l$U = 50;
+            R81 = 50;
+            if (
+              f35 &&
+              !f35.style.visibility &&
+              c$C.classList.contains("highlight")
+            ) {
+              G0O = f35.getBoundingClientRect();
+              h1V = Math.min(h1V, G0O.left);
+              Q3s = Math.max(Q3s, G0O.right);
+              if (q86) {
+                v7L = (q86.candleOffset || 0) * this.layout.candleWidth;
+                if (q86.candleOffset < 0) {
+                  R81 = -v7L;
+                } else {
+                  R81 = v7L;
+                }
+              }
+            }
+            if (h1V > B7u.right + R81 || Q3s < B7u.left - l$U) continue;
+          }
+          if (!A2X) {
+            A2X = J$J[J$J.length - +"1"];
+          }
+        } else if (H6q.indexOf("candle") > -("1" ^ 0)) {
+          A2o = getComputedStyle(c$C).left;
+          if (A2o) {
+            Y1f = b7A.barFromPixel(parseInt(A2o, 10), B7u);
+            if (Y1f >= 0) {
+              A2X = B7u.xaxis[Y1f].data;
+              if (!A2X) {
+                I9e.w6J(10);
+                var k4N = I9e.B$D(1, 2);
+                A2X = J$J[J$J.length - k4N];
+              }
+            }
+          }
+        }
+        V9l = [T3b, (q86 || {}).candleOffset];
+        for (var b6F = 0; b6F < V9l.length; b6F++) {
+          L_p = "w";
+          L_p += "id";
+          L_p += "t";
+          L_p += "h";
+          p7n = V9l[b6F];
+          if (p7n || p7n === 0) {
+            c0d.efficientDOMUpdate(
+              (b6F ? f35 : c$C).style,
+              "left",
+              (c$C.isConnected
+                ? c0d.stripPX(getComputedStyle(c$C)[b6F ? L_p : "left"])
+                : b7A.pixelFromTick(g$q) - (f35 || c$C).offsetWidth / +"2") +
+                p7n * this.layout.candleWidth +
+                "px",
+            );
+          }
+        }
+        c0d.efficientDOMUpdate(c$C.style, "top", "auto");
+        F$d = (!f35 && o_G.y) || m$0.y;
+        l5V = P2U.clientHeight;
+        V3p = +"0";
+        if (H6q != "none") {
+          r6x = "botto";
+          r6x += "m_";
+          r6x += "lan";
+          r6x += "e";
+          i35 = "on_c";
+          i35 += "a";
+          i35 += "ndle";
+          I9e.w6J(10);
+          var S1w = I9e.Y51(20, 19);
+          t7H = H6q.indexOf("_lane") > S1w;
+          G7A = b7A.markerHelper.placementMap;
+          I9e.C2v(38);
+          var L70 = I9e.B$D(341, 29322, 11, 9);
+          I9e.C2v(51);
+          var K1h = I9e.Y51(426, 20, 26, 10);
+          I9e.w6J(28);
+          var j3$ = I9e.B$D(16, 6587, 438);
+          I9e.C2v(26);
+          var m4r = I9e.Y51(76245, 71171, 9);
+          I9e.w6J(109);
+          var D5k = I9e.B$D(6, 9, 12, 2, 178);
+          f2P =
+            H6q +
+            (L70 > 32.14 ? (K1h >= j3$ ? "|" : m4r) : "0x8ff" | D5k) +
+            a6T.name +
+            "|" +
+            I1K;
+          if (t7H && G7A[f2P] === undefined) {
+            I9e.C2v(23);
+            G7A[f2P] = I9e.B$D("2", 2);
+          }
+          I9e.C2v(22);
+          var u0o = I9e.B$D(999, 16, 17000, 18, 271712);
+          I9e.w6J(73);
+          var J0l = I9e.B$D(47933, 6, 9567, 14);
+          I9e.w6J(110);
+          var Z2X = I9e.B$D(9, 9, 6, 167, 2679);
+          I9e.C2v(0);
+          var J6t = I9e.B$D(12, 210);
+          I9e.w6J(26);
+          var n3L = I9e.B$D(47985, 38397, 9);
+          L9w =
+            f2P +
+            (859.76 >= (u0o, "904" ^ 0)
+              ? J0l > +"5616"
+                ? (Z2X, J6t)
+                : (n3L, !!0)
+              : "-") +
+            (t7H ? P2U.params.label : g$q);
+          J8P = m$0.chartContainer ? b7A.height : L$d.bottom;
+          W9e = 0;
+          if (G7A[L9w] === undefined) {
+            G7A[L9w] = t7H ? G7A[f2P] : 0;
+            if (t7H) {
+              I9e.C2v(0);
+              G7A[f2P] += I9e.B$D(l5V, 2);
+            }
+          }
+          V3p = G7A[L9w];
+          if (!t7H) {
+            G7A[L9w] += l5V;
+          }
+          j4t = b7A.pixelFromPrice.bind(b7A);
+          Q9i = H6q == "value" && (F$d || F$d === ("0" | 0));
+          V35 = this.getTransformedQuote(A2X, L$d);
+          if (!Q9i && V35 && I1K in V35) {
+            A2X = V35;
+            j4t = b7A.pixelFromTransformedValue.bind(b7A);
+          }
+          if (A2X && I1K) {
+            A2X = A2X[I1K];
+          }
+          if (typeof A2X === "number") {
+            A2X = { Close: A2X };
+            A2X[G02] = A2X.Close;
+            g7C = !{};
+          }
+          if (Q9i) {
+            W9e = Math.round(J8P - j4t(F$d, a6T, L$d) - l5V / +"2") + "px";
+          } else if ((H6q == "below_candle" || H6q == "under_candle") && A2X) {
+            b$e = "l";
+            b$e += "o";
+            b$e += "w";
+            D5g = A2X[G02];
+            if (g7C) {
+              D5g = b7A.getBarBounds(A2X, !!I1K)[L$d.flipped ? "high" : b$e];
+            }
+            W9e = Math.round(J8P - j4t(D5g, a6T, L$d) - l5V - V3p) + "px";
+          } else if (H6q == i35 && A2X) {
+            D5g = A2X[G02];
+            if (g7C) {
+              D5g = b7A.getBarBounds(A2X, !!I1K);
+              I9e.C2v(24);
+              var l11 = I9e.B$D(16, 4, 36, 2);
+              D5g = (D5g.high + D5g.low) / l11;
+            }
+            I9e.C2v(111);
+            var y0a = I9e.Y51(12, 4, 4, 16, 2);
+            W9e = Math.round(J8P - j4t(D5g, a6T, L$d) - l5V / y0a - V3p) + "px";
+          } else if (H6q == "top" || H6q == "top_lane") {
+            W9e = Math.round(J8P - l5V - V3p - a6T.top) + "px";
+          } else if (H6q == "bottom" || H6q == r6x) {
+            W9e = Math.round(V3p) + "px";
+          } else if (A2X) {
+            Q7Y = "p";
+            Q7Y += "x";
+            D5g = A2X[G02];
+            if (g7C) {
+              D5g = b7A.getBarBounds(A2X, !!I1K)[L$d.flipped ? "low" : "high"];
+            }
+            W9e = (Math.round(J8P - j4t(D5g, a6T, L$d) + V3p) || 0) + Q7Y;
+          }
+          c0d.efficientDOMUpdate(c$C.style, "bottom", W9e);
+          if (q86 && (q86.y || q86.y === 0)) {
+            P9r = "a";
+            P9r += "u";
+            P9r += "to";
+            x2I =
+              Math.round(
+                J8P -
+                  b7A.pixelFromPrice(q86.y, a6T, L$d) -
+                  f35.clientHeight / +"2" -
+                  (c$C.isConnected ? c0d.stripPX(c$C.style.bottom) : 0),
+              ) + "px";
+            c0d.efficientDOMUpdate(f35.style, "top", P9r);
+            c0d.efficientDOMUpdate(f35.style, "bottom", x2I);
+          } else {
+            c0d.Marker.positionContentVerticalAndHorizontal(c$C);
+          }
+        }
+        if (P2U.position) {
+          P2U.position();
+        }
+      }
+    };
+    c0d.Marker.NodeCreator = function () {};
+    c0d.Marker.NodeCreator.toNode = function () {
+      I9e.s8u();
+      return this.node;
+    };
+    c0d.Marker.Simple = function (C1j) {
+      var n39, K$K, g_f, e0S, Q6c, H5v, Z8L, X1F, A$J, N5R, q9T;
+      n39 = "d";
+      n39 += "i";
+      n39 += "v";
+      K$K = "d";
+      I9e.a3_();
+      K$K += "iv";
+      g_f = this.node = document.createElement(K$K);
+      g_f.params = C1j;
+      g_f.className = "stx-marker";
+      g_f.classList.add(C1j.type);
+      if (C1j.category) {
+        g_f.classList.add(C1j.category);
+      }
+      e0S = c0d.newChild(g_f, "div", "stx-visual");
+      c0d.newChild(g_f, n39, "stx-stem");
+      c0d.ensureDefaults(g_f.params, { pinnable: this.pinnable });
+      if (C1j.type == "callout") {
+        H5v = "pwra";
+        H5v += "p";
+        Z8L = "h";
+        Z8L += "4";
+        X1F = "st";
+        X1F += "x-marker-cont";
+        X1F += "ent";
+        A$J = "d";
+        A$J += "iv";
+        g_f.params.pinnable = ![];
+        Q6c = document.createElement(A$J);
+        Q6c.classList.add("stx-marker-expand");
+        e0S.appendChild(Q6c);
+        N5R = c0d.newChild(Q6c, "div", X1F);
+        c0d.newChild(N5R, Z8L, null, C1j.headline);
+        q9T = c0d.newChild(N5R, "div");
+        q9T.classList.add(H5v);
+        c0d.newChild(
+          q9T,
+          356 !== (365.18, 342.35)
+            ? "p"
+            : (1714, 7759) > 486.36
+              ? 406.05
+              : (235.46, "X"),
+          null,
+          C1j.story,
+        );
+      } else {
+        Q6c = c0d.newChild(g_f, "div", "stx-marker-expand");
+        c0d.newChild(Q6c, "h4", null, C1j.headline);
+        c0d.newChild(Q6c, "p", null, C1j.story);
+        if (!g_f.params.pinnable) {
+          c0d.safeClickTouch(Q6c, () => {
+            this.remove({ node: g_f });
+          });
+        }
+      }
+      c0d.safeClickTouch(e0S, () => {
+        I9e.a3_();
+        return this.click({ marker: { node: g_f } });
+      });
+      this.nodeType = "Simple";
+      this.expand = Q6c;
+    };
+    c0d.inheritsFrom(c0d.Marker.Simple, c0d.Marker.NodeCreator, !!0);
+    c0d.Marker.Simple.prototype.click = function (F1C) {
+      var L04, m3J;
+      I9e.a3_();
+      var { node: s4S } = F1C.marker;
+      s4S.classList.toggle("highlight");
+      I9e.C2v(21);
+      L04 = I9e.Y51(64, "0");
+      m3J = setInterval(() => {
+        c0d.Marker.positionContentVerticalAndHorizontal(s4S, !!{});
+        L04++;
+        if (L04 > 50) {
+          clearInterval(m3J);
+        }
+      }, 10);
+      s4S.addEventListener("transitionend", () => {
+        var r22;
+        r22 = s4S.querySelector(".ps");
+        if (r22 && c0d.UI.scrollbarStyling) {
+          c0d.UI.scrollbarStyling.refresh(r22);
+        }
+        clearInterval(m3J);
+      });
+    };
+    c0d.Marker.Simple.prototype.remove = function (W_D) {
+      W_D.node.classList.remove("highlight");
+    };
+    c0d.Marker.Group = function (J6X) {
+      var D1g, G40, l5n;
+      D1g = "#";
+      D1g += "00";
+      D1g += "3399";
+      G40 = "c";
+      G40 += "irc";
+      G40 += "le";
+      l5n = "g";
+      l5n += "r";
+      l5n += "oup";
+      this.stx = J6X.stx;
+      this.className = "CIQ.Marker.Group";
+      this.groupKey = J6X.groupKey;
+      c0d.Marker.call(this, {
+        ...J6X,
+        label: l5n,
+        node: this.createNode({
+          stx: this.stx,
+          groupMap: this.stx.markerHelper.groupMap[this.groupKey],
+          type: G40,
+          category: "group",
+          displayLabel:
+            (+"874", 367.54) <= (798, +"953.95")
+              ? (194.74, 928) < (5000, 675)
+                ? (188.48, +"0xd4b")
+                : "#"
+              : ("n", "I"),
+          displayCategory: !"1",
+          displayStem: J6X.displayStem,
+          noInteraction: J6X.noInteraction,
+          panelName: J6X.panelName,
+          color: D1g,
+        }),
+      });
+    };
+    c0d.inheritsFrom(c0d.Marker.Group, c0d.Marker, !1);
+    c0d.Marker.Group.prototype.getMarkersInGroup = function () {
+      I9e.a3_();
+      var x9y;
+      x9y = this.stx.markerHelper.groupMap[this.groupKey] || {};
+      return x9y.markers || [];
+    };
+    c0d.Marker.Group.prototype.createNode = function (T$8) {
+      I9e.s8u();
+      return new c0d.Marker.GroupNode(T$8);
+    };
+    c0d.Marker.Group.prototype.remove = function () {
+      this.getMarkersInGroup().forEach((b33) => {
+        I9e.a3_();
+        b33.groupExpansionEl = null;
+      });
+      I9e.a3_();
+      c0d.Marker.prototype.remove.call(this);
+    };
+    c0d.Marker.GroupNode = function (J_A) {
+      var F9l, m4_, F4c, I8k, t5E, h6d, q$1, A01, v2a;
+      F9l = "ciq";
+      F9l += "-e";
+      F9l += "xpa";
+      F9l += "nsion-holder";
+      m4_ = "di";
+      m4_ += "v";
+      F4c = "stx";
+      F4c += "-vi";
+      F4c += "sua";
+      F4c += "l";
+      I8k = "g";
+      I8k += "ro";
+      I8k += "u";
+      I8k += "p";
+      t5E = "st";
+      t5E += "x-m";
+      t5E += "ark";
+      t5E += "er";
+      h6d = this.node = document.createElement("div");
+      h6d.params = J_A;
+      h6d.className = t5E;
+      h6d.classList.add(J_A.type);
+      h6d.classList.add(I8k);
+      q$1 = c0d.newChild(h6d, "div", F4c);
+      if (J_A.displayStem) {
+        c0d.newChild(h6d, m4_, "stx-stem");
+      }
+      A01 = c0d.newChild(h6d, "div", "stx-marker-expand");
+      v2a = c0d.newChild(A01, "ul", "ciq-marker-list");
+      J_A.stx.makeModal(h6d);
+      c0d.safeClickTouch(A01, function (b9v) {
+        h6d.classList.toggle("highlight");
+      });
+      c0d.safeClickTouch(q$1, this.handleClick.bind(this));
+      this.expansionHolder = c0d.newChild(h6d, "div", F9l);
+      this.pinnedExpansionHolder = c0d.newChild(
+        h6d,
+        "div",
+        "ciq-pinned-holder",
+      );
+      this.nodeType = "Group";
+      this.visual = q$1;
+      this.expand = A01;
+      this.groupMap = J_A.groupMap;
+      this.noInteraction = J_A.noInteraction;
+      this.stx = J_A.stx;
+    };
+    c0d.inheritsFrom(c0d.Marker.GroupNode, c0d.Marker.NodeCreator, ![]);
+    c0d.Marker.GroupNode.prototype.handleClick = function (P2c) {
+      if (this.noInteraction) {
+        return;
+      }
+      var { node: P1k } = this;
+      I9e.s8u();
+      this.updateMarkerList();
+      P1k.classList.toggle("highlight");
+      c0d.Marker.positionContentVerticalAndHorizontal(P1k, !!{});
+    };
+    c0d.Marker.GroupNode.prototype.updateVisual = function () {
+      var x2v;
+      var { markers: v_V } = this.groupMap;
+      x2v = this.getGroupMarkerBackgroundColor();
+      this.visual.style.backgroundColor = x2v;
+      this.visual.style.color = c0d.chooseForegroundColor(x2v);
+      this.visual.innerHTML = v_V.length;
+      if (!this.stx.pinnedMarkers || !this.stx.pinnedMarkers.list) {
+        return;
+      }
+      this.stx.pinnedMarkers.list.forEach((R9k) => {
+        var F6K;
+        var { marker: M1D } = R9k;
+        if (M1D.groupKey !== this.groupMap.groupKey) {
+          return;
+        }
+        if (M1D.groupExpansionEl && !M1D.groupExpansionEl.isConnected) {
+          M1D.groupExpansionEl = null;
+        }
+        if (!M1D.groupExpansionEl) {
+          F6K = "high";
+          F6K += "l";
+          F6K += "ight";
+          this.handleMenuClick(M1D);
+          this.node.classList.remove(F6K);
+        }
+      });
+    };
+    c0d.Marker.GroupNode.prototype.getGroupMarkerBackgroundColor = function () {
+      var p08, U9R, K2r, q0Z, x$j, M7o, v2x;
+      var { stx: Y5C, groupMap: z$M } = this;
+      p08 = "";
+      U9R = 1778780066;
+      K2r = -+"436103510";
+      I9e.C2v(3);
+      q0Z = I9e.B$D("2", 1);
+      for (
+        var b7o = 1;
+        I9e.C6S(b7o.toString(), b7o.toString().length, 28713) !== U9R;
+        b7o++
+      ) {
+        x$j = {};
+        q0Z += 2;
+      }
+      if (I9e.C6S(q0Z.toString(), q0Z.toString().length, 65477) !== K2r) {
+        x$j = {};
+      }
+      z$M.markers.sort(this.markerSortFunction).forEach((n5s) => {
+        var P91, g8S, d13, A3$, O4r;
+        P91 = {};
+        var {
+          type: R8N,
+          category: i5X,
+          color: y13,
+        } = n5s.stxNodeCreator.node.params;
+        if (
+          n5s.stxNodeCreator instanceof
+          (c0d.Marker.Performance || function () {})
+        ) {
+          g8S = "s";
+          g8S += "tx_marker_";
+          I9e.w6J(48);
+          d13 = I9e.B$D(
+            R8N,
+            g8S,
+            136.15 >= (+"6530", 3070)
+              ? ("0x1aec" | 68, ![])
+              : (895.5, 6086) <= (2270, 584)
+                ? ("k", 0xcb3)
+                : "_",
+            i5X,
+          );
+          if (!Y5C.styles[d13]) {
+            c0d.Marker.Performance.calculateMarkerStyles(Y5C, n5s, d13);
+          }
+          P91 = Y5C.styles[d13];
+        } else {
+          A3$ = n5s.node.querySelector(".stx-visual");
+          if (A3$) {
+            P91 = getComputedStyle(A3$);
+          }
+        }
+        O4r = y13 || P91.backgroundColor || "#828382";
+        x$j[O4r] = ++x$j[O4r] || 1;
+      });
+      M7o = Object.values(x$j);
+      v2x = Math.max.apply(Math, M7o);
+      for (var j1f in x$j) {
+        if (x$j[j1f] === v2x) {
+          p08 = j1f;
+          break;
+        }
+      }
+      return p08;
+    };
+    c0d.Marker.GroupNode.prototype.markerSortFunction = function (l9B, u8V) {
+      I9e.s8u();
+      if (l9B.params.x instanceof Date && u8V.params.x instanceof Date) {
+        return u8V.params.x - l9B.params.x;
+      }
+    };
+    c0d.Marker.GroupNode.prototype.updateMarkerList = function () {
+      var j2$, v3s;
+      j2$ = ".ciq-marke";
+      j2$ += "r";
+      j2$ += "-";
+      j2$ += "list";
+      var { stx: L47 } = this;
+      var { markers: Z8B } = this.groupMap;
+      v3s = this.expand.querySelector(j2$);
+      if (!v3s) {
+        return;
+      }
+      v3s.innerHTML = "";
+      I9e.a3_();
+      Z8B.sort(this.markerSortFunction).forEach((i7J) => {
+        var h_v, Z4N, m6F, g48, A2D, g6J, Y1J, o5S, S$K, n_l;
+        h_v = "l";
+        h_v += "i";
+        var { datum: k4_ } = i7J.params;
+        var {
+          headline: u9l,
+          story: k5X,
+          type: s7i,
+          category: f3Q,
+          color: n9f,
+          displayLabel: U83,
+        } = i7J.stxNodeCreator.node.params;
+        Z4N = s7i || "";
+        m6F = f3Q || "";
+        g48 = "";
+        if (U83) {
+          g48 = L47.emojify(U83);
+        }
+        if (k4_ && k4_.img) {
+          g48 = k4_.img.outerHTML;
+        }
+        A2D = {};
+        if (
+          i7J.stxNodeCreator instanceof
+          (c0d.Marker.Performance || function () {})
+        ) {
+          I9e.C2v(48);
+          g6J = I9e.B$D(s7i, "stx_marker_", "_", f3Q);
+          if (!L47.styles[g6J]) {
+            c0d.Marker.Performance.calculateMarkerStyles(L47, i7J, g6J);
+          }
+          A2D = L47.styles[g6J];
+        } else {
+          Y1J = i7J.node.querySelector(".stx-visual");
+          if (Y1J) {
+            A2D = getComputedStyle(Y1J);
+          }
+        }
+        o5S = n9f || A2D.backgroundColor || "#828382";
+        if (s7i == "text" || (k4_ && k4_.img)) {
+          o5S = "transparent";
+        }
+        S$K = this.getDateLabel(i7J);
+        S$K += S$K ? "<br>" : "";
+        n_l = document.createElement(h_v);
+        if (k5X && k5X.length) {
+          n_l.title = k5X.length > 160 ? k5X.slice(0, 160) + "..." : k5X;
+        }
+        I9e.w6J(2);
+        n_l.innerHTML = `
+${I9e.Y51('					<div class="st', "x-", "marker ")}${Z4N}${I9e.B$D('"', ">", I9e.C2v(0))}
+${I9e.B$D("		<di", "				", 'v class="stx-visual" style="backgrou', "nd-color: ", I9e.C2v(48))}${o5S}${I9e.Y51(";", '"', ">", I9e.C2v(2))}
+${I9e.B$D("						", "	", I9e.C2v(0))}${g48}
+${I9e.Y51("				", "		", "<", "/div>", I9e.w6J(48))}
+${I9e.B$D("d", "					</", "iv>", " ", I9e.C2v(48))}
+${I9e.Y51("	", "		", "	", "	", I9e.w6J(48))}${S$K}
+${I9e.B$D("		<span cla", "			", 'ss="ciq-hea', 'dline">', I9e.w6J(48))}${u9l}${I9e.Y51("s", "</", "pan", ">", I9e.w6J(48))}
+${I9e.B$D("	", "	", "	", "	", I9e.C2v(48))}`;
+        if (
+          i7J.groupExpansionEl &&
+          L47.uiContext.topNode.contains(i7J.groupExpansionEl)
+        ) {
+          n_l.className = "active";
+        } else {
+          i7J.groupExpansionEl = null;
+        }
+        i7J.groupListEl = n_l;
+        c0d.safeClickTouch(n_l, this.handleMenuClick.bind(this, i7J));
+        v3s.appendChild(n_l);
+      });
+    };
+    c0d.Marker.GroupNode.prototype.getDateLabel = function (d45) {
+      var X_J, H6Y, x1w;
+      X_J = "t";
+      X_J += "ic";
+      X_J += "k";
+      var { stx: s27 } = this;
+      var { xPositioner: g89, x: Q74 } = d45.params;
+      if (!Q74 || isNaN(Q74)) {
+        return "";
+      }
+      H6Y = g89 == X_J ? s27.dateFromTick(Q74, s27.chart, !!"1") : Q74;
+      x1w =
+        Object.prototype.toString.call(H6Y) === "[object Date]"
+          ? c0d.dateToStr(H6Y, "YYYY/MM/dd hh:mm:ss")
+          : "";
+      return x1w;
+    };
+    c0d.Marker.GroupNode.prototype.handleMenuClick = function (F90, S0u) {
+      I9e.a3_();
+      var p9o, L0a, s$$, C8G, t9r, C6b, x3B, D_P, l_q, c8t;
+      if (F90.groupExpansionEl) {
+        if (F90.dismissClickFn) {
+          F90.dismissClickFn.call(F90);
+        }
+        F90.groupExpansionEl.remove();
+        p9o = +"1560176822";
+        L0a = -1193082426;
+        s$$ = 2;
+        for (
+          var e6V = 1;
+          I9e.C6S(e6V.toString(), e6V.toString().length, +"88252") !== p9o;
+          e6V++
+        ) {
+          F90.groupExpansionEl = 1;
+          s$$ += 2;
+        }
+        if (I9e.C6S(s$$.toString(), s$$.toString().length, 90316) !== L0a) {
+          F90.groupExpansionEl = null;
+        }
+        this.setExpansionHolderVisibility();
+      } else {
+        C8G = "";
+        var { expand: a5F, node: x5G } = F90.stxNodeCreator || {};
+        if (a5F) {
+          t9r = ".m";
+          t9r += "ark";
+          t9r += "e";
+          t9r += "r_content";
+          C6b = a5F.querySelector(t9r);
+          C8G = C6b ? C6b.innerHTML : a5F.innerHTML;
+        } else if (x5G.params && x5G.params.story) {
+          I9e.w6J(0);
+          C8G = `
+${I9e.Y51("		", "			<h4>")}${x5G.params.headline}${I9e.B$D("</", "h4>", I9e.C2v(0))}
+${I9e.B$D("			", "		", "<p>", I9e.w6J(2))}${x5G.params.story}${I9e.Y51("</", "p", ">", I9e.C2v(2))}
+${I9e.B$D("	", "	", "	", "	", I9e.w6J(48))}`;
+        }
+        if (!C8G) {
+          return;
+        }
+        var { pinnedPosition: Q$6 } = F90.params;
+        x3B =
+          Q$6 && Q$6.y !== undefined
+            ? this.pinnedExpansionHolder
+            : this.expansionHolder;
+        D_P = c0d.newChild(
+          x3B,
+          "div",
+          "stx-marker " + (x5G.params.category || ""),
+        );
+        D_P.innerHTML = `
+				<div class="stx-marker-expand">
+				${C8G}
+				</div>
+			`;
+        c0d.safeClickTouch(D_P, () => {
+          if (F90.dismissClickFn) {
+            F90.dismissClickFn.call(F90);
+          }
+          D_P.remove();
+          F90.groupExpansionEl = null;
+          this.setExpansionHolderVisibility();
+          this.node.classList.remove("highlight");
+        });
+        F90.groupExpansionEl = D_P;
+        this.setExpansionHolderVisibility();
+        if (F90.groupListEl) {
+          F90.groupListEl.classList.add("active");
+        }
+        l_q =
+          c0d.Marker.TimeSpanEvent && F90 instanceof c0d.Marker.TimeSpanEvent;
+        if (F90.makePinnable && F90.makeDraggable && !l_q) {
+          c8t = "h";
+          c8t += "ighligh";
+          c8t += "t";
+          if (!F90.store) {
+            F90.makePinnable();
+          }
+          F90.node.classList.add(c8t);
+          F90.makeDraggable();
+        }
+        c0d.Marker.initializeScrollBehavior({
+          expand: D_P.querySelector(".stx-marker-expand"),
+        });
+      }
+      if (!this.noInteraction) {
+        this.node.classList.toggle("highlight");
+      }
+    };
+    c0d.Marker.GroupNode.prototype.setExpansionHolderVisibility = function () {
+      var Z7m, o4z;
+      Z7m = "v";
+      Z7m += "isib";
+      Z7m += "l";
+      Z7m += "e";
+      var { markers: G5A } = this.groupMap;
+      if (
+        !G5A.find((w72) => {
+          return !!w72.groupExpansionEl;
+        })
+      ) {
+        o4z = "h";
+        o4z += "idd";
+        o4z += "e";
+        o4z += "n";
+        this.expansionHolder.style.visibility = o4z;
+      } else {
+        this.expansionHolder.style.visibility = Z7m;
+      }
+    };
+  }
+};
+m3 = (E2V) => {
+  var L$b = U6BfN;
+  var x56, r1y, r7g, x3I, s4g, i1_, e$Y, w2U, Q5h;
+  x56 = "unde";
+  x56 += "fined";
+  r1y = typeof _CIQ !== "undefined" ? _CIQ : E2V.CIQ;
+  r7g = typeof _timezoneJS !== x56 ? _timezoneJS : E2V.timezoneJS;
+  x3I = 60000 * 60;
+  s4g = x3I * 24;
+  i1_ = !!{};
+  e$Y = r1y.Market;
+  r1y.Market = function (b9M) {
+    var y_U, J0z, l8E;
+    y_U = "M";
+    y_U += "a";
+    y_U += "rket";
+    this.market_def = !!"";
+    this.rules = !!0;
+    this.normalHours = [];
+    this.extraHours = [];
+    this.class_name = y_U;
+    if (!r7g.Date) {
+      this.tz_lib = Date;
+    } else {
+      this.tz_lib = r7g.Date;
+    }
+    this.market_tz = "";
+    this.hour_aligned = !!"";
+    this.convertOnDaily = ![];
+    this.enabled_by_default = !!"";
+    if (typeof b9M != "undefined" && b9M && !r1y.isEmpty(b9M)) {
+      J0z = "und";
+      J0z += "efined";
+      if (b9M.market_definition) {
+        b9M = b9M.market_definition;
+      }
+      if (b9M.rules) {
+        this.rules = b9M.rules;
+      }
+      if (b9M.market_tz) {
+        this.market_tz = b9M.market_tz;
+      }
+      if (b9M.convertOnDaily) {
+        this.convertOnDaily = b9M.convertOnDaily;
+      }
+      if (typeof b9M.hour_aligned) {
+        this.hour_aligned = b9M.hour_aligned;
+      }
+      if (typeof b9M.beginningDayOfWeek !== "undefined") {
+        this.beginningDayOfWeek = b9M.beginningDayOfWeek;
+      }
+      if (typeof b9M.minimum_session_length !== "undefined") {
+        this.minimumSessionLength = b9M.minimum_session_length;
+      }
+      if (typeof b9M.enabled_by_default !== J0z) {
+        if (b9M.enabled_by_default instanceof Array) {
+          this.enabled_by_default = b9M.enabled_by_default;
+        }
+      }
+      this.market_def = b9M;
+      if (this.market_def.name === undefined) {
+        l8E = "no mar";
+        l8E += "ket ";
+        l8E += "name spec";
+        l8E += "ified";
+        this.market_def.name = l8E;
+      }
+    } else {
+      this.hour_aligned = !!1;
+      return;
+    }
+    r1y.Market._createTimeSegments(this);
+    this.getSessionNames();
+  };
+  r1y.Market.Symbology = function () {};
+  r1y.Market.Symbology.isForeignSymbol = function (a90) {
+    L$b.a3_();
+    return !"1";
+  };
+  r1y.Market.Symbology.isFuturesSymbol = function (p8s) {
+    return !!"";
+  };
+  r1y.Market.Symbology.isRateSymbol = function (X_z) {
+    return !{};
+  };
+  r1y.Market.Symbology.isForexSymbol = function (y9M) {
+    L$b.s8u();
+    return !!"";
+  };
+  r1y.Market.Symbology.isForexMetal = function (P6Z, L_$) {
+    L$b.a3_();
+    return !{};
+  };
+  r1y.Market.Symbology.isForexCrypto = function (o$Y) {
+    L$b.a3_();
+    return !!0;
+  };
+  r1y.Market.Symbology.isForexFuturesSymbol = function (E3V) {
+    if (r1y.Market.Symbology.isForexSymbol(E3V)) return !![];
+    L$b.a3_();
+    if (r1y.Market.Symbology.isFuturesSymbol(E3V)) return !!"1";
+    return !{};
+  };
+  r1y.Market.Symbology.factory = function (j5l) {
+    return null;
+  };
+  r1y.Market.Symbology.encodeTermStructureInstrumentSymbol = function (
+    B8b,
+    b_W,
+  ) {
+    L$b.s8u();
+    console.warn(
+      "You are trying to call `CIQ.Market.Symbology.encodeTermStructureInstrumentSymbol` but have not implemented it.",
+    );
+  };
+  if (e$Y) r1y.extend(r1y.Market, e$Y);
+  r1y.Market.prototype.sessions = null;
+  r1y.Market.prototype.beginningDayOfWeek = 0;
+  r1y.Market.prototype.minimumSessionLength = 30;
+  r1y.Market.prototype.tradingDays = function () {
+    var R_n;
+    if ("_tradingDays" in this) return this._tradingDays;
+    R_n = [];
+    if (this.rules) {
+      for (var F4a of this.rules) {
+        if (F4a.dayofweek >= 0) R_n.push(F4a.dayofweek);
+      }
+    } else {
+      R_n = [0, 1, 2, 3, 4, +"5", 6];
+    }
+    this._tradingDays = [...new Set(R_n)];
+    this._tradingDays.sort();
+    return this._tradingDays;
+  };
+  r1y.Market.prototype.getSessionNames = function () {
+    L$b.a3_();
+    var m8d, m6Y;
+    if (!this.rules) {
+      this.sessions = [];
+    } else if (!this.sessions) {
+      m8d = [];
+      m6Y = [];
+      this.rules.map(function (I1w) {
+        L$b.s8u();
+        if (I1w.name && m8d.indexOf(I1w.name) === -+"1") {
+          m8d.push(I1w.name);
+          m6Y.push({
+            name: I1w.name,
+            enabled: I1w.enabled ? I1w.enabled : !{},
+          });
+        }
+      });
+      this.sessions = m6Y;
+    }
+    return this.sessions.slice();
+  };
+  r1y.Market.prototype._find_next_segment = function (H5X, Y7b) {
+    var n5T, k9o, v6X, m_W;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    n5T = new Date(+H5X);
+    k9o = this.newIterator({
+      begin: n5T,
+      interval: 1,
+      inZone: this.market_tz,
+      outZone: this.market_tz,
+    });
+    if (this._wasOpenIntraDay(n5T)) {
+      v6X = this.zseg_match.close_parts.hours;
+      m_W = this.zseg_match.close_parts.minutes;
+      n5T.setHours(v6X);
+      n5T.setMinutes(m_W);
+      k9o = this.newIterator({
+        begin: n5T,
+        interval: 1,
+        inZone: this.market_tz,
+        outZone: this.market_tz,
+      });
+    }
+    return k9o.next();
+  };
+  r1y.Market.prototype._find_prev_segment = function (d3B, z1y) {
+    var F4Q, q9h, H5H, y32, e04, O$F, r9U, s2P;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    F4Q = new Date(+d3B);
+    L$b.s8u();
+    q9h = this.newIterator({
+      begin: F4Q,
+      interval: 1,
+      inZone: this.market_tz,
+      outZone: this.market_tz,
+    });
+    H5H = this._wasOpenIntraDay(F4Q);
+    if (H5H === null) {
+      F4Q = new Date(F4Q - 60000);
+      H5H = this._wasOpenIntraDay(F4Q);
+    } else {
+      if (
+        (z1y &&
+          F4Q.getHours() === this.zseg_match.open_parts.hours &&
+          F4Q.getMinutes() === this.zseg_match.open_parts.minutes) ||
+        (!z1y &&
+          F4Q.getHours() === this.zseg_match.close_parts.hours &&
+          F4Q.getMinutes() === this.zseg_match.close_parts.minutes)
+      ) {
+        y32 = 562197195;
+        e04 = -836022695;
+        O$F = 2;
+        for (
+          var s5t = +"1";
+          L$b.C6S(s5t.toString(), s5t.toString().length, 10926) !== y32;
+          s5t++
+        ) {
+          F4Q = q9h.previous();
+          O$F += 2;
+        }
+        if (L$b.D9u(O$F.toString(), O$F.toString().length, 59556) !== e04) {
+          F4Q = q9h.previous();
+        }
+      }
+    }
+    if (H5H) {
+      r9U = this.zseg_match.open_parts.hours;
+      s2P = this.zseg_match.open_parts.minutes;
+      F4Q.setHours(r9U);
+      F4Q.setMinutes(s2P);
+      q9h = this.newIterator({
+        begin: F4Q,
+        interval: 1,
+        inZone: this.market_tz,
+        outZone: this.market_tz,
+      });
+      F4Q = q9h.previous();
+      if (this.zseg_match.close_parts.hours === r9U) {
+        if (this.zseg_match.close_parts.minutes === s2P) {
+          if (z1y) {
+            return q9h.next();
+          }
+          return F4Q;
+        }
+      }
+      if (this.zseg_match.adjacent_child) {
+        return F4Q;
+      }
+      if (z1y) {
+        return q9h.next();
+      }
+      return F4Q;
+    }
+    return q9h.previous();
+  };
+  r1y.Market.prototype.disableSession = function (r85, b2C) {
+    var X7G, X_G;
+    X7G = "un";
+    X7G += "defined";
+    L$b.s8u();
+    X_G = !{};
+    if (typeof b2C !== X7G && b2C) {
+      X_G = !![];
+    }
+    if (r85) {
+      for (var X$Z = "0" << 32; X$Z < this.normalHours.length; X$Z++) {
+        delete this.normalHours[X$Z]._refid;
+        if (this.normalHours[X$Z].name === r85) {
+          this.normalHours[X$Z].enabled = X_G;
+        }
+      }
+      for (X$Z = 0; X$Z < this.extraHours.length; X$Z++) {
+        delete this.extraHours[X$Z]._refid;
+        if (this.extraHours[X$Z].name === r85) {
+          this.extraHours[X$Z].enabled = X_G;
+        }
+      }
+    }
+    if (this._zseg_matches) this._zseg_matches.clear();
+  };
+  r1y.Market.prototype.enableSession = function (O4e) {
+    L$b.s8u();
+    this.disableSession(O4e, "enable_instead");
+  };
+  r1y.Market.prototype.enableAllAvailableSessions = function () {
+    var u59;
+    L$b.s8u();
+    u59 = this.getSessionNames();
+    for (var v0P = "0" >> 0; v0P < u59.length; v0P++) {
+      this.enableSession(u59[v0P].name);
+    }
+  };
+  r1y.Market.prototype.getClose = function (X58, n4i, B7g, Z6G) {
+    var I27, y78;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    I27 = X58;
+    if (!X58) {
+      I27 = new Date();
+      B7g = null;
+    }
+    I27 = this._convertToMarketTZ(I27, B7g);
+    if (typeof n4i !== "undefined") {
+      if (this._wasOpenIntraDay(I27)) {
+        if (this.zseg_match.name === n4i) {
+          I27.setHours(
+            this.zseg_match.close_parts.hours,
+            this.zseg_match.close_parts.minutes,
+            0,
+            0,
+          );
+          I27 = this._convertFromMarketTZ(I27, Z6G);
+          return I27;
+        }
+      }
+    } else {
+      if (this._wasOpenDaily(I27)) {
+        y78 = this.zseg_match;
+        while (y78.child_) {
+          y78 = y78.child_;
+        }
+        while (!y78.enabled) {
+          y78 = y78.parent_;
+        }
+        I27.setHours(y78.close_parts.hours, y78.close_parts.minutes, 0, 0);
+        I27 = this._convertFromMarketTZ(I27, Z6G);
+        return I27;
+      }
+    }
+    return null;
+  };
+  r1y.Market.prototype.getNextClose = function (X$0, q3E, J_F) {
+    var H07, X3s, b59, w4i;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    H07 = X$0;
+    if (!X$0) {
+      H07 = new Date();
+      q3E = null;
+    }
+    H07 = this._convertToMarketTZ(H07, q3E);
+    if (!this._wasOpenIntraDay(H07)) {
+      X3s = this.newIterator({
+        begin: H07,
+        interval: 1,
+        inZone: this.market_tz,
+        outZone: this.market_tz,
+      });
+      H07 = X3s.next();
+    }
+    b59 = H07.getDate();
+    w4i = this.zseg_match;
+    while (w4i.adjacent_child) {
+      w4i = w4i.adjacent_child;
+      b59 += 1;
+    }
+    H07.setDate(b59);
+    H07.setHours(w4i.close_parts.hours, w4i.close_parts.minutes, +"0", 0);
+    H07 = this._convertFromMarketTZ(H07, J_F);
+    return H07;
+  };
+  r1y.Market.prototype.getNextOpen = function (j_E, O_W, a$d) {
+    var c6X;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    c6X = j_E;
+    if (!j_E) {
+      c6X = new Date();
+      O_W = null;
+    }
+    c6X = this._convertToMarketTZ(c6X, O_W);
+    c6X = this._find_next_segment(c6X);
+    if (this.zseg_match.adjacent_parent) {
+      c6X = this.getNextOpen(c6X, this.market_tz, this.market_tz);
+      c6X = this._convertFromMarketTZ(c6X, a$d);
+      return c6X;
+    }
+    c6X.setHours(this.zseg_match.open_parts.hours);
+    c6X.setMinutes(this.zseg_match.open_parts.minutes);
+    c6X = this._convertFromMarketTZ(c6X, a$d);
+    return c6X;
+  };
+  r1y.Market.prototype.getOpen = function (K2u, O2w, j1Y, p0c) {
+    var B5D, i4i;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    B5D = K2u;
+    if (!K2u) {
+      B5D = new Date();
+      j1Y = null;
+    }
+    B5D = this._convertToMarketTZ(B5D, j1Y);
+    if (typeof O2w !== "undefined") {
+      if (this._wasOpenIntraDay(B5D)) {
+        if (this.zseg_match.name == O2w) {
+          B5D.setHours(
+            this.zseg_match.open_parts.hours,
+            this.zseg_match.open_parts.minutes,
+            0,
+            "0" | 0,
+          );
+          B5D = this._convertFromMarketTZ(B5D, p0c);
+          return B5D;
+        }
+      }
+    } else {
+      if (this._wasOpenDaily(B5D)) {
+        i4i = this.zseg_match;
+        while (i4i.parent_) {
+          i4i = i4i.parent_;
+        }
+        while (!i4i.enabled) {
+          i4i = i4i.child_;
+        }
+        B5D.setHours(i4i.open_parts.hours, i4i.open_parts.minutes, 0, "0" - 0);
+        B5D = this._convertFromMarketTZ(B5D, p0c);
+        return B5D;
+      }
+    }
+    return null;
+  };
+  r1y.Market.prototype.getNormalOpen = function () {
+    var { market_def: L5M, rules: H5d } = this;
+    L$b.s8u();
+    if (!(L5M && H5d)) return "00:00";
+    if (L5M.normal_daily_open) return L5M.normal_daily_open;
+    if (L5M.name === "FOREX") return "17:00";
+    return H5d.find(({ name: q4H }) => !q4H || q4H === "").open;
+  };
+  r1y.Market.prototype.getNormalClose = function () {
+    var Y6$, S3s;
+    Y6$ = "1";
+    Y6$ += "7";
+    Y6$ += ":00";
+    S3s = "24:";
+    S3s += "0";
+    S3s += "0";
+    var { market_def: k0V, rules: r8j } = this;
+    if (!(k0V && r8j)) return S3s;
+    if (k0V.normal_daily_close) return k0V.normal_daily_close;
+    if (k0V.name === "FOREX") return Y6$;
+    return r8j
+      .filter(({ dayofweek: D7v, name: U2F }) => D7v && (!U2F || U2F === ""))
+      .pop().close;
+  };
+  L$b.a3_();
+  r1y.Market.prototype.getPreviousClose = function (H2c, e0W, m6D) {
+    var X3A;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    X3A = H2c;
+    if (!H2c) {
+      X3A = new Date();
+      e0W = null;
+    }
+    X3A = this._convertToMarketTZ(X3A, e0W);
+    X3A = this._find_prev_segment(X3A, !!"");
+    if (this.zseg_match.adjacent_child) {
+      return this.getPreviousClose(X3A, this.market_tz, this.market_tz);
+    }
+    X3A.setHours(this.zseg_match.close_parts.hours);
+    X3A.setMinutes(this.zseg_match.close_parts.minutes);
+    X3A = this._convertFromMarketTZ(X3A, m6D);
+    L$b.a3_();
+    return X3A;
+  };
+  r1y.Market.prototype.getPreviousOpen = function (n3M, G$o, Q68) {
+    var v_l;
+    if (!this.market_def) return null;
+    if (!this.rules) return null;
+    v_l = n3M;
+    if (!n3M) {
+      v_l = new Date();
+      G$o = null;
+    }
+    v_l = this._convertToMarketTZ(v_l, G$o);
+    v_l = this._find_prev_segment(v_l, !!"1");
+    if (this.zseg_match.adjacent_parent) {
+      return this.getPreviousOpen(v_l, this.market_tz, this.market_tz);
+    }
+    v_l.setHours(this.zseg_match.open_parts.hours);
+    v_l.setMinutes(this.zseg_match.open_parts.minutes);
+    v_l = this._convertFromMarketTZ(v_l, Q68);
+    return v_l;
+  };
+  r1y.Market.prototype.getSession = function (v76, A9X) {
+    v76 = this._convertToMarketTZ(v76, A9X);
+    if (this._wasOpenIntraDay(v76) && this.zseg_match) {
+      return this.zseg_match.name;
+    }
+    return null;
+  };
+  r1y.Market.prototype.marketZoneNow = function () {
+    L$b.a3_();
+    return this._convertToMarketTZ(new Date());
+  };
+  r1y.Market.prototype.isHourAligned = function () {
+    L$b.s8u();
+    return this.hour_aligned;
+  };
+  r1y.Market.prototype.isOpen = function () {
+    var Z_b;
+    L$b.a3_();
+    Z_b = new Date();
+    if (this.market_tz) {
+      Z_b = new this.tz_lib(Z_b.getTime(), this.market_tz);
+    }
+    return this._wasOpenIntraDay(Z_b);
+  };
+  r1y.Market.prototype.isMarketDay = function () {
+    var V2S;
+    V2S = new Date();
+    if (this.market_tz) {
+      V2S = new this.tz_lib(V2S.getTime(), this.market_tz);
+    }
+    return this._wasOpenDaily(V2S);
+  };
+  r1y.Market.prototype.isMarketDate = function (L_7) {
+    L$b.a3_();
+    return this._wasOpenDaily(L_7);
+  };
+  r1y.Market.prototype.isFirstMarketDayOfMonth = function (G2I) {
+    L$b.s8u();
+    var T5p, E5z;
+    if (!this.isMarketDate(G2I)) return !!0;
+    T5p = new Date(+G2I);
+    E5z = G2I.getDate();
+    for (var W5s = +"1"; W5s < E5z; W5s++) {
+      T5p.setDate(W5s);
+      if (this.isMarketDate(T5p)) return !{};
+    }
+    return !![];
+  };
+  r1y.Market.prototype.isFirstMarketDayOfWeek = function (r4B) {
+    var G3b, T1W, j3D;
+    if (!this.isMarketDate(r4B)) return !!0;
+    G3b = this.tradingDays();
+    T1W = Math.max(this.beginningDayOfWeek, G3b[0]) || 0;
+    j3D = new Date(+r4B);
+    while (j3D.getDay() !== T1W) {
+      j3D.setDate(j3D.getDate() - 1);
+      if (this.isMarketDate(j3D)) return !"1";
+    }
+    return !0;
+  };
+  r1y.Market.prototype.newIterator = function (V8R) {
+    var y8a, H37, r2g, I7S;
+    y8a = "t";
+    y8a += "i";
+    y8a += "c";
+    y8a += "k";
+    H37 = !{};
+    if (V8R.periodicity) {
+      H37 = V8R.periodicity;
+    } else if (V8R.multiple) {
+      H37 = V8R.multiple;
+    }
+    r2g = V8R.interval;
+    if (!r2g) {
+      I7S = "min";
+      I7S += "u";
+      I7S += "te";
+      r2g = I7S;
+    }
+    if (r2g == "hour") r2g = 60;
+    if (!H37) {
+      H37 = 1;
+    }
+    if (!V8R.begin) {
+      V8R.begin = new Date();
+      V8R.inZone = null;
+    }
+    if (r2g == parseInt(r2g, 10)) {
+      r2g = parseInt(r2g, "10" - 0);
+      if (V8R.periodicity < 1 / 60) {
+        H37 = H37 * r2g * 60000;
+        r2g = "millisecond";
+      } else if (V8R.periodicity < 1) {
+        H37 = H37 * r2g * 60;
+        r2g = "second";
+      } else {
+        H37 = H37 * r2g;
+        r2g = "minute";
+      }
+    }
+    if (V8R.timeUnit) {
+      if (V8R.timeUnit === "millisecond") {
+        r2g = V8R.timeUnit;
+      } else if (V8R.timeUnit === "second") {
+        r2g = V8R.timeUnit;
+      } else if (V8R.timeUnit === "tick") {
+        r2g = "second";
+      }
+    }
+    if (r2g == y8a) r2g = "second";
+    V8R.interval = r2g;
+    V8R.multiple = H37;
+    V8R.market = this;
+    return new r1y.Market.Iterator(V8R);
+  };
+  r1y.Market.prototype._wasOpenDaily = function (w1g) {
+    return this._was_open(w1g, ![]);
+  };
+  r1y.Market.prototype._wasOpenIntraDay = function (m2e) {
+    L$b.s8u();
+    return this._was_open(m2e, !!{});
+  };
+  r1y.Market.prototype._was_open = function (p9W, G4l) {
+    var H_f,
+      c2S,
+      Q6h,
+      x5g,
+      Y2r,
+      E_M,
+      o21,
+      n4G,
+      E5R,
+      R6T,
+      h2$,
+      u1Q,
+      Z9q,
+      g00,
+      X1l,
+      x2k,
+      x1K,
+      c5e,
+      y8O,
+      z3a,
+      n2D,
+      m8a;
+    if (typeof G4l === "undefined") {
+      G4l = !!1;
+    }
+    H_f = this.zseg_match;
+    this.zopen_hour = 0;
+    this.zopen_minute = 0;
+    this.zclose_hour = 0;
+    this.zclose_minute = 0;
+    this.zmatch_open = !1;
+    this.zseg_match = null;
+    if (!this.market_def || !this.rules) {
+      this.zclose_hour = 24;
+      return !![];
+    }
+    if (this.tradingDays().indexOf(p9W.getDay()) < +"0") return null;
+    if (i1_) {
+      if (!this._zseg_matches) this._zseg_matches = new Map();
+      c2S = -("1006257455" * 1);
+      Q6h = -1142730517;
+      x5g = 2;
+      for (
+        var K8v = 1;
+        L$b.C6S(K8v.toString(), K8v.toString().length, +"24668") !== c2S;
+        K8v++
+      ) {
+        Y2r = this._zseg_matches.get(!p9W / (G4l ? 6 : ~("7" ^ 0)));
+        if (Y2r != +"1") return 1;
+        x5g += 2;
+      }
+      if (L$b.C6S(x5g.toString(), x5g.toString().length, 78589) !== Q6h) {
+        Y2r = this._zseg_matches.get(+p9W * (G4l ? 2 : !1));
+        if (Y2r == 0) return 6;
+      }
+      Y2r = this._zseg_matches.get(+p9W * (G4l ? 1 : -1));
+      if (Y2r === null) return null;
+      if (Y2r) {
+        Y2r = this._zseg_matches.get(Y2r);
+        Object.assign(this, Y2r);
+        return this.zseg_match;
+      }
+    }
+    E_M = ![];
+    o21 = !!"";
+    n4G = p9W.getFullYear();
+    E5R = p9W.getMonth() + 1;
+    R6T = p9W.getDay();
+    h2$ = p9W.getDate();
+    u1Q = p9W.getHours();
+    Z9q = p9W.getMinutes();
+    g00 = p9W.getSeconds();
+    x1K = u1Q * 60 * ("60" | 32) + Z9q * 60 + g00;
+    for (c5e = 0; c5e < this.normalHours.length; c5e++) {
+      X1l = this.normalHours[c5e];
+      if (!X1l.enabled) {
+        continue;
+      }
+      E_M = X1l.dayofweek === R6T;
+      if (E_M && G4l) {
+        E_M = x1K >= X1l.open && x1K < X1l.close;
+      }
+      if (E_M) {
+        if (!G4l && this.zseg_match) {
+          if (
+            X1l.open_parts.hours > this.zopen_hour ||
+            (X1l.open_parts.hours == this.zopen_hour &&
+              X1l.open_parts.minutes > this.zopen_minute)
+          ) {
+            continue;
+          }
+        }
+        if (X1l !== H_f && !X1l.adjacent_parent && !X1l.adjacent_child) {
+          this.shouldResetToBeginningOfSegment = !!{};
+        }
+        x2k = c5e + 1;
+        this.zopen_hour = X1l.open_parts.hours;
+        this.zopen_minute = X1l.open_parts.minutes;
+        this.zclose_hour = X1l.close_parts.hours;
+        this.zclose_minute = X1l.close_parts.minutes;
+        this.zmatch_open = x1K === X1l.open;
+        this.zseg_match = X1l;
+        if (G4l) break;
+      }
+    }
+    for (c5e = 0; c5e < this.extraHours.length; c5e++) {
+      X1l = this.extraHours[c5e];
+      if (!X1l.enabled) {
+        continue;
+      }
+      if ("*" === X1l.year || n4G === X1l.year) {
+        if (E5R === X1l.month && h2$ === X1l.day) {
+          o21 = (!G4l && X1l.open) || (x1K >= X1l.open && x1K < X1l.close);
+          if (!o21 && this.zseg_match) {
+            E_M = !"1";
+            this.zopen_hour = 0;
+            this.zopen_minute = 0;
+            this.zclose_hour = 0;
+            this.zclose_minute = 0;
+            this.zmatch_open = !!0;
+            this.zseg_match = null;
+          }
+          if (o21) {
+            if (!G4l && this.zseg_match) {
+              if (
+                X1l.open_parts.hours > this.zopen_hour ||
+                (X1l.open_parts.hours == this.zopen_hour &&
+                  X1l.open_parts.minutes > this.zopen_minute)
+              ) {
+                continue;
+              }
+            }
+            x2k = -(c5e + 1);
+            this.zopen_hour = X1l.open_parts.hours;
+            this.zopen_minute = X1l.open_parts.minutes;
+            this.zclose_hour = X1l.close_parts.hours;
+            this.zclose_minute = X1l.close_parts.minutes;
+            this.zmatch_open = x1K === X1l.open;
+            this.zseg_match = X1l;
+            if (G4l) break;
+          }
+        }
+      }
+    }
+    if (i1_) {
+      y8O = null;
+      if (this.zseg_match) {
+        if (!this.zseg_match._refid) {
+          this.zseg_match._refid = x2k;
+          this._zseg_matches.set(this.zseg_match._refid, {
+            zopen_hour: this.zopen_hour,
+            zopen_minute: this.zopen_minute,
+            zclose_hour: this.zclose_hour,
+            zclose_minute: this.zclose_minute,
+            zmatch_open: this.zmatch_open,
+            zseg_match: this.zseg_match,
+          });
+        }
+        y8O = this.zseg_match._refid;
+      }
+      z3a = -2096954926;
+      n2D = 1404563047;
+      m8a = 2;
+      for (
+        var D7b = 1;
+        L$b.C6S(D7b.toString(), D7b.toString().length, 60517) !== z3a;
+        D7b++
+      ) {
+        this._zseg_matches.set(-p9W - (G4l ? 8 : +7), y8O);
+        m8a += 2;
+      }
+      if (L$b.D9u(m8a.toString(), m8a.toString().length, 93181) !== n2D) {
+        this._zseg_matches.set(-p9W - (G4l ? 8 : +7), y8O);
+      }
+      this._zseg_matches.set(+p9W * (G4l ? 1 : -1), y8O);
+    }
+    return this.zseg_match;
+  };
+  r1y.Market.prototype._wasClosed = function (R43) {
+    return !this._was_open(R43, !!{});
+  };
+  r1y.Market.prototype._wasOpen = function (v4m) {
+    L$b.a3_();
+    return this._was_open(v4m, !0);
+  };
+  r1y.Market.prototype._tzDifferenceMillis = function (B3O, i_b, h6z) {
+    var N8c, Q7c, C_U, h8I;
+    N8c = 0;
+    Q7c = B3O;
+    C_U = B3O;
+    h8I = Q7c.getTimezoneOffset() - C_U.getTimezoneOffset();
+    N8c = h8I * +"60" * +"1000";
+    return N8c;
+  };
+  r1y.Market._createTimeSegments = function (p6Z) {
+    var o0z, j1w, K_g, M1_, Y9I, p8Y, F1V;
+    o0z = function (Q01, O0C) {
+      if (Q01.close_parts.hours === +"24" && O0C.open_parts.hours === 0) {
+        if (O0C.open_parts.minutes === 0) {
+          if (j1w.dayofweek === p8Y.dayofweek - 1) {
+            return !!"1";
+          }
+          if (j1w.dayofweek === 6 && p8Y.dayofweek === ("0" ^ 0)) {
+            return !![];
+          }
+        }
+      }
+      return !!0;
+    };
+    for (var h7S = 0; h7S < p6Z.rules.length; h7S++) {
+      K_g = "u";
+      K_g += "n";
+      K_g += "de";
+      K_g += "fined";
+      M1_ = JSON.parse(JSON.stringify(p6Z.rules[h7S]));
+      if (typeof M1_.open === "undefined" && typeof M1_.close === K_g) {
+        Y9I = "00";
+        Y9I += ":";
+        Y9I += "0";
+        Y9I += "0";
+        M1_.open = "00:00";
+        M1_.close = Y9I;
+      }
+      if (!M1_.hasOwnProperty("name")) {
+        M1_.name = "";
+      }
+      try {
+        if (typeof M1_.dayofweek !== "undefined") {
+          M1_.year =
+            774 >= (8400, "2500" * 1)
+              ? (!"1", 6.89e3)
+              : (169.99, "8970" >> 64) >= 3390
+                ? "*"
+                : 6450 !== (768.67, "7790" | 78)
+                  ? !!"1"
+                  : "x";
+          p8Y = w2U._createDayOfWeekSegment(p6Z, M1_);
+          if (j1w) {
+            if (j1w.dayofweek === p8Y.dayofweek) {
+              j1w.child_ = p8Y;
+              p8Y.parent_ = j1w;
+            } else {
+              if (o0z(j1w, p8Y)) {
+                j1w.adjacent_child = p8Y;
+                p8Y.adjacent_parent = j1w;
+              }
+            }
+          }
+          j1w = p8Y;
+        } else if (typeof M1_.date !== "undefined") {
+          M1_.isDayOfWeek = !{};
+          M1_.dayofweek = -1;
+          p8Y = w2U._createDateTimeSegment(p6Z, M1_);
+        } else {
+          console.log("Error, unknown rule type " + M1_);
+        }
+        if (p6Z.enabled_by_default) {
+          for (var I89 = 0; I89 < p6Z.enabled_by_default.length; I89++) {
+            F1V = p6Z.enabled_by_default[I89];
+            if (p8Y.name === F1V) {
+              p8Y.enabled = !!1;
+              break;
+            }
+          }
+        } else {
+        }
+      } catch (L27) {
+        console.log("Error, creating market rules " + L27);
+      }
+    }
+  };
+  r1y.Market._timeSegment = {};
+  w2U = r1y.Market._timeSegment;
+  w2U.re_wild_card_iso = /^(\*)-(\d\d)-(\d\d)$/;
+  w2U.re_regular_iso = /^(\d\d\d\d)-(\d\d)-(\d\d)$/;
+  w2U.re_split_hours_minutes = /^(\d\d):(\d\d)$/;
+  w2U.re_split_hour_minutes = /^(\d):(\d\d)$/;
+  w2U._hashCode = function (s3u) {
+    var P20, Z25, j31, v$f;
+    P20 = 0;
+    if (s3u.length === 0) return P20;
+    for (Z25 = 0, v$f = s3u.length; Z25 < v$f; Z25++) {
+      j31 = s3u.charCodeAt(Z25);
+      P20 = (P20 << 5) - P20 + j31;
+      P20 |= 0;
+    }
+    L$b.a3_();
+    return P20;
+  };
+  w2U._splitHoursMinutes = function (V7n) {
+    var e1d, j4i;
+    e1d = w2U.re_split_hour_minutes.exec(V7n);
+    j4i = { hours: NaN, minutes: NaN };
+    if (e1d === null) {
+      e1d = w2U.re_split_hours_minutes.exec(V7n);
+      if (e1d === null) {
+        return j4i;
+      }
+    }
+    j4i.hours = parseInt(e1d[1], 10);
+    j4i.minutes = parseInt(e1d[2], 10);
+    return j4i;
+  };
+  w2U._createDayOfWeekSegment = function (Z8t, k3W) {
+    var p81;
+    p81 = {
+      name: k3W.name,
+      isDayOfWeek: !![],
+      dayofweek: k3W.dayofweek,
+      date_str: "*",
+      open_parts: w2U._splitHoursMinutes(k3W.open),
+      close_parts: w2U._splitHoursMinutes(k3W.close),
+      open: w2U._secSinceMidnight(Z8t, k3W.open, !0),
+      close: w2U._secSinceMidnight(Z8t, k3W.close, ![]),
+      child_: ![],
+      parent_: !"1",
+      adjacent_child: !1,
+      adjacent_parent: !!0,
+      enabled: !!0,
+    };
+    if (p81.name === "") {
+      p81.enabled = !![];
+    }
+    p81.hash_code = this._hashCode((p81.open + p81.close).toString());
+    L$b.a3_();
+    Z8t.normalHours.push(p81);
+    return p81;
+  };
+  w2U._createDateTimeSegment = function (Q27, w2N) {
+    var d2K, F3$, c2F, O24;
+    d2K = this.re_regular_iso.exec(w2N.date);
+    if (d2K === null) {
+      d2K = this.re_wild_card_iso.exec(w2N.date);
+      if (d2K === null) {
+        c2F = "Warning: i";
+        c2F += "n";
+        c2F += "val";
+        c2F += "id date format on rule -> ";
+        console.log(c2F + w2N.date);
+        return;
+      }
+      F3$ = +"1592" <= 882.55 ? !{} : "*";
+    } else {
+      F3$ = parseInt(d2K["1" - 0], 10);
+    }
+    O24 = {
+      name: w2N.name,
+      isDayOfWeek: ![],
+      dayofweek: -1,
+      year: F3$,
+      month: parseInt(d2K[2], 10),
+      day: parseInt(d2K[3], 10),
+      date_str: w2N.date,
+      open_parts: w2U._splitHoursMinutes(w2N.open),
+      close_parts: w2U._splitHoursMinutes(w2N.close),
+      open: w2U._secSinceMidnight(Q27, w2N.open, !!1),
+      close: w2U._secSinceMidnight(Q27, w2N.close, !!0),
+      enabled: !1,
+    };
+    if (O24.name === "") {
+      O24.enabled = !![];
+    }
+    O24.hash_key = this._hashCode(O24.date_str + O24.open + O24.close);
+    Q27.extraHours.push(O24);
+    return O24;
+  };
+  w2U._secSinceMidnight = function (x17, H0i, v3O) {
+    var Q3V, X_N, y9J, t_M;
+    Q3V = H0i.split(
+      (9827, 2342) < (7922, 117)
+        ? +"7390" <= 841
+          ? (0x6ea, 158.53)
+          : 723.84
+        : ":",
+    );
+    X_N = parseInt(Q3V[0], 10);
+    y9J = parseInt(Q3V[1], 10);
+    t_M = X_N * 60 * 60 + y9J * 60;
+    if (!v3O) {
+      if (X_N === 24) {
+        t_M = X_N * ("60" | 20) * ("60" ^ 0) + 1;
+      }
+    }
+    L$b.s8u();
+    return t_M;
+  };
+  r1y.Market.prototype._convertToMarketTZ = function (i$f, R7w) {
+    var J6M;
+    if (R7w) {
+      J6M = new this.tz_lib(
+        i$f.getFullYear(),
+        i$f.getMonth(),
+        i$f.getDate(),
+        i$f.getHours(),
+        i$f.getMinutes(),
+        i$f.getSeconds(),
+        i$f.getMilliseconds(),
+        R7w,
+      );
+    } else {
+      J6M = new this.tz_lib(
+        i$f.getFullYear(),
+        i$f.getMonth(),
+        i$f.getDate(),
+        i$f.getHours(),
+        i$f.getMinutes(),
+        i$f.getSeconds(),
+        i$f.getMilliseconds(),
+      );
+    }
+    if (J6M.setTimezone) J6M.setTimezone(this.market_tz);
+    L$b.a3_();
+    return new Date(
+      J6M.getFullYear(),
+      J6M.getMonth(),
+      J6M.getDate(),
+      J6M.getHours(),
+      J6M.getMinutes(),
+      J6M.getSeconds(),
+      J6M.getMilliseconds(),
+    );
+  };
+  r1y.Market.prototype._convertFromMarketTZ = function (B9r, X8y) {
+    var Y0E;
+    Y0E = new this.tz_lib(
+      B9r.getFullYear(),
+      B9r.getMonth(),
+      B9r.getDate(),
+      B9r.getHours(),
+      B9r.getMinutes(),
+      B9r.getSeconds(),
+      B9r.getMilliseconds(),
+      this.market_tz,
+    );
+    if (X8y) {
+      if (Y0E.setTimezone) Y0E.setTimezone(X8y);
+    } else {
+      return new Date(Y0E.getTime());
+    }
+    return new Date(
+      Y0E.getFullYear(),
+      Y0E.getMonth(),
+      Y0E.getDate(),
+      Y0E.getHours(),
+      Y0E.getMinutes(),
+      Y0E.getSeconds(),
+      Y0E.getMilliseconds(),
+    );
+  };
+  r1y.Market.Iterator = function (e0X) {
+    this.market = e0X.market;
+    this.begin = e0X.begin;
+    this.interval = e0X.interval;
+    this.multiple = e0X.multiple;
+    this.inZone = e0X.inZone;
+    this.outZone = e0X.outZone;
+    this.clock = new r1y.Market.Iterator._Clock(
+      e0X.market,
+      e0X.interval,
+      e0X.multiple,
+    );
+    this.intraDay = this.clock.intra_day;
+    if (this.intraDay)
+      this.begin = this.market._convertToMarketTZ(this.begin, e0X.inZone);
+    this.clock._setStart(this.begin);
+    this.clock.minutes_aligned = !!"";
+    this.clock.minimumScanMS = e0X.market.minimumSessionLength * 60000;
+  };
+  r1y.Market.Iterator.prototype.date = function () {
+    L$b.a3_();
+    return this.clock._date();
+  };
+  r1y.Market.Iterator.prototype.futureTick = function (v1q) {
+    var Y7p, p5Z, L2w, s3b, p97, T7d, K_d, i9U, l4W;
+    this.clock.skip = "1" - 0;
+    Y7p = +"0";
+    L$b.s8u();
+    if (this.intraDay)
+      p5Z = this.market._convertToMarketTZ(v1q.end, this.inZone).getTime();
+    else p5Z = v1q.end.getTime();
+    L2w = this.clock.ctime;
+    if (p5Z === L2w) {
+      return Y7p;
+    }
+    s3b = 2;
+    p97 = 1000;
+    T7d = 0;
+    if (v1q.sample_size) {
+      s3b = v1q.sample_size;
+    }
+    K_d = new Date().getTime();
+    if (p5Z > L2w) {
+      this.clock.forward = !![];
+      while (this.clock.ctime < p5Z) {
+        Y7p += 1;
+        T7d += 1;
+        this.clock._findNext();
+        if (T7d === p97) {
+          T7d = 0;
+          i9U = new Date().getTime();
+          if (i9U - K_d >= s3b) {
+            l4W = (this.clock.ctime - L2w) / Y7p;
+            Y7p = Math.floor((p5Z - L2w) / l4W);
+            break;
+          }
+        }
+      }
+      if (this.clock.ctime > p5Z) {
+        Y7p--;
+      }
+    } else {
+      this.clock.forward = !!"";
+      while (this.clock.ctime > p5Z) {
+        Y7p += 1;
+        T7d += "1" >> 64;
+        this.clock._findPrevious();
+        if (T7d === p97) {
+          T7d = 0;
+          i9U = new Date().getTime();
+          if (i9U - K_d >= s3b) {
+            l4W = (L2w - this.clock.ctime) / Y7p;
+            Y7p = Math.floor((L2w - p5Z) / l4W);
+            break;
+          }
+        }
+      }
+    }
+    return Y7p;
+  };
+  r1y.Market.Iterator.prototype.isHourAligned = function () {
+    L$b.s8u();
+    return !this.intraDay || this.market.isHourAligned();
+  };
+  r1y.Market.Iterator.prototype.isOpen = function () {
+    L$b.s8u();
+    return this.market.isOpen();
+  };
+  r1y.Market.Iterator.prototype.next = function (w3H) {
+    this.clock.skip = 1;
+    if (w3H) {
+      this.clock.skip = w3H;
+    }
+    L$b.a3_();
+    this.clock.forward = !![];
+    for (var j$m = 0; j$m < this.clock.skip; j$m++)
+      this.begin = this.clock._findNext();
+    if (this.intraDay || this.market.convertOnDaily) {
+      return this.market._convertFromMarketTZ(
+        this.clock.display_date,
+        this.outZone,
+      );
+    }
+    return this.clock.display_date;
+  };
+  r1y.Market.Iterator.prototype.peek = function () {
+    return this.clock._peek();
+  };
+  r1y.Market.Iterator.prototype.previous = function (k7G) {
+    this.clock.skip = 1;
+    if (k7G) {
+      this.clock.skip = k7G;
+    }
+    this.clock.forward = ![];
+    for (var V43 = 0; V43 < this.clock.skip; V43++)
+      this.begin = this.clock._findPrevious();
+    if (this.intraDay || this.market.convertOnDaily) {
+      return this.market._convertFromMarketTZ(
+        this.clock.display_date,
+        this.outZone,
+      );
+    }
+    return this.clock.display_date;
+  };
+  r1y.Market.Iterator._Clock = function (f8b, v7A, P1I) {
+    var B4K, N00, k4H, t0z, u5B, K5q;
+    B4K = "mont";
+    B4K += "h";
+    N00 = "w";
+    N00 += "e";
+    N00 += "e";
+    N00 += "k";
+    if (P1I % +"60" === 0 && v7A === "second") {
+      k4H = "m";
+      k4H += "in";
+      k4H += "ute";
+      v7A = k4H;
+      P1I = P1I / 60;
+    }
+    this.market = f8b;
+    this.interval = v7A;
+    this.multiple = P1I;
+    this.intra_day = ![];
+    this.intervals = [];
+    this.max_iters = 10080;
+    t0z = s4g;
+    u5B = this._dayImpl;
+    if (v7A === "millisecond") {
+      u5B = this._millisImpl;
+      t0z = 1;
+    } else if (v7A === "second") {
+      u5B = this._secondImpl;
+      t0z = 1000;
+    } else if (v7A === "minute") {
+      u5B = this._minuteImpl;
+      t0z = 60000;
+    } else if (v7A === "hour") {
+      u5B = this._hourImpl;
+      t0z = x3I;
+    } else if (v7A === "day") {
+      u5B = this._dayImpl;
+      t0z = s4g;
+    } else if (v7A === N00) {
+      u5B = this._weekImpl;
+      t0z = s4g * 7;
+    } else if (v7A === B4K) {
+      u5B = this._monthImpl;
+      t0z = s4g * 30;
+    } else {
+      K5q = "Periodic";
+      K5q += "ity E";
+      K5q += 'RROR: "';
+      console.log(
+        K5q +
+          v7A +
+          '" is not a valid interval. Please see setPeriodicity() for details.',
+      );
+    }
+    this.tick_time = t0z * P1I;
+    this.intra_day = this.tick_time < s4g;
+    this._findPrevious = this._findNext = u5B;
+  };
+  Q5h = r1y.Market.Iterator._Clock.prototype;
+  Q5h._total_minutes = function (w3m, O6p, C$Q, c5n) {
+    L$b.s8u();
+    return (C$Q - w3m) * 60 - O6p + c5n;
+  };
+  Q5h._alignMinutes = function () {
+    var y4a, d3w, t4Y, O31, e6a, i1$;
+    y4a = this.market.isHourAligned();
+    if (
+      (!this.market.market_def && !y4a) ||
+      this.market.zopen_minute === undefined
+    ) {
+      return [];
+    }
+    d3w = this.market.zopen_minute;
+    t4Y = this.market.zseg_match;
+    if (t4Y && t4Y.adjacent_parent) {
+      d3w = t4Y.adjacent_parent.open / 60 - +"1440";
+    } else {
+      if (y4a && this.multiple % 60 === 0) d3w = +"0";
+    }
+    O31 = this._total_minutes(
+      this.market.zopen_hour,
+      d3w,
+      this.market.zclose_hour,
+      this.market.zclose_minute,
+    );
+    e6a = [];
+    i1$ = 0;
+    while (i1$ < O31) {
+      e6a.push(d3w + i1$);
+      i1$ += this.multiple;
+    }
+    return e6a;
+  };
+  Q5h._alignBaseZero = function (B_G) {
+    var G0x, Z3M;
+    G0x = 0;
+    Z3M = [G0x];
+    while (!!{}) {
+      G0x += this.multiple;
+      if (G0x >= B_G) {
+        break;
+      }
+      Z3M.push(G0x);
+    }
+    L$b.a3_();
+    return Z3M;
+  };
+  Q5h._date = function () {
+    var b6P, I$D;
+    L$b.s8u();
+    b6P = Math.round(this.ctime);
+    I$D = new Date(b6P);
+    if (this.intra_day) {
+      this.display_date = new Date(b6P + this.shift_millis);
+    } else {
+      this.display_date = I$D;
+    }
+    return I$D;
+  };
+  Q5h._alignToBoundary = function (H0Z, f2p) {
+    L$b.s8u();
+    var j6Y, m0a, f3h;
+    j6Y = +"0";
+    m0a = "0" >> 32;
+    f3h = f2p;
+    for (var D3E = 0; D3E < H0Z.length - 1; D3E++) {
+      j6Y = H0Z[D3E];
+      m0a = H0Z[D3E + +"1"];
+      if (f2p === j6Y || f2p === m0a) {
+        break;
+      }
+      if (f2p > j6Y && f2p < m0a) {
+        f3h = j6Y;
+        break;
+      } else if (D3E + 1 === H0Z.length - "1" * 1) {
+        f3h = m0a;
+      }
+    }
+    return f3h;
+  };
+  Q5h._peek = function () {
+    return this._date().toString();
+  };
+  Q5h._seekHr = function () {
+    L$b.s8u();
+    if (this.forward) {
+      this.ctime -= x3I;
+    } else {
+      this.ctime += x3I;
+    }
+  };
+  Q5h._setStart = function (U38) {
+    var X0y, b83;
+    X0y = this.market._tzDifferenceMillis(U38);
+    b83 = new Date(U38.getTime() + X0y);
+    this.shift_millis = X0y;
+    this.ctime = b83.getTime();
+    this.shift_millis = 0;
+    this.ctime = U38.getTime();
+  };
+  Q5h._tickTock = function () {
+    L$b.a3_();
+    if (this.forward) {
+      this.ctime += this.tick_time;
+    } else {
+      this.ctime -= this.tick_time;
+    }
+  };
+  Q5h._tockTick = function () {
+    L$b.a3_();
+    if (this.forward) {
+      this.ctime -= this.tick_time;
+    } else {
+      this.ctime += this.tick_time;
+    }
+  };
+  Q5h._tickTock24 = function () {
+    this.ctime += s4g;
+  };
+  Q5h._tockTick24 = function () {
+    L$b.a3_();
+    this.ctime -= s4g;
+  };
+  Q5h._windMaybe = function (n4t, o$7) {
+    var a4e, u5U, W9C, I9c;
+    a4e = 0;
+    u5U = new Date(this.ctime);
+    W9C = ![];
+    while (!n4t.call(this.market, u5U)) {
+      o$7.call(this);
+      W9C = !0;
+      u5U = new Date(this.ctime);
+      a4e += +"1";
+      if (a4e > this.max_iters) {
+        I9c = "Warning! max iterations (" + this.max_iters;
+        I9c += ") reached with no rule match.";
+        console.log(I9c);
+        break;
+      }
+    }
+    return W9C;
+  };
+  Q5h._millisImpl = function () {
+    var s6R, Q7s, j$_, F2F, J6u, s$y, b0H, D4v, a8c, r3G;
+    s6R = !{};
+    if (!this.mperiods_aligned) {
+      Q7s = this._alignBaseZero("1000" * 1);
+      j$_ = new Date(this.ctime);
+      F2F = j$_.getMilliseconds();
+      F2F = this._alignToBoundary(Q7s, F2F);
+      j$_.setMilliseconds(0);
+      this.ctime = j$_.getTime() + F2F;
+      this.mperiods_aligned = !![];
+      s6R = !"";
+    }
+    J6u = this._date().getMinutes();
+    this._tickTock();
+    s$y = this._date().getMinutes();
+    if ((s6R || J6u != s$y) && !this.market._wasOpenIntraDay(this._date())) {
+      b0H = this._date().getSeconds();
+      D4v = this._date().getMilliseconds();
+      a8c = this.tick_time;
+      this.tick_time = 60000;
+      r3G = this.multiple;
+      this.multiple = 1;
+      this._minuteImpl();
+      this.tick_time = a8c;
+      this.multiple = r3G;
+      this.ctime += 1000 * b0H + D4v;
+    }
+    return this._date();
+  };
+  Q5h._secondImpl = function () {
+    var m1Z, n0i, N48, b4H, m92, X8g, Z8Y, P34, I5B;
+    m1Z = !"1";
+    if (!this.speriod_aligned) {
+      n0i = this._alignBaseZero(60);
+      N48 = new Date(this.ctime);
+      b4H = N48.getSeconds();
+      b4H = this._alignToBoundary(n0i, b4H);
+      N48.setSeconds(b4H);
+      N48.setMilliseconds(0);
+      this.ctime = N48.getTime();
+      this.speriod_aligned = !!1;
+      m1Z = !!1;
+    }
+    m92 = this._date().getMinutes();
+    this._tickTock();
+    X8g = this._date().getMinutes();
+    if ((m1Z || m92 != X8g) && !this.market._wasOpenIntraDay(this._date())) {
+      Z8Y = this._date().getSeconds();
+      P34 = this.tick_time;
+      this.tick_time = 60000;
+      I5B = this.multiple;
+      this.multiple = 1;
+      this._minuteImpl();
+      this.tick_time = P34;
+      this.multiple = I5B;
+      this.ctime += ("1000" << 0) * Z8Y;
+    }
+    return this._date();
+  };
+  Q5h._minuteImpl = function () {
+    var R$Q, B0s, J5L, w_A, b49, J2k, I_Y, I$r, O83, C8K, A5o, J6g, d3L, j4c;
+    R$Q = this._windMaybe(this.market._wasOpenIntraDay, this._tockTick);
+    B0s = new Date(this.ctime);
+    J5L = B0s.getTimezoneOffset();
+    w_A = B0s.getMinutes();
+    b49 = B0s.getHours();
+    J2k = this._alignMinutes();
+    I_Y =
+      this._total_minutes(
+        this.market.zopen_hour,
+        this.market.zopen_minute,
+        b49,
+        w_A,
+      ) + this.market.zopen_minute;
+    if (R$Q) {
+      if (this.forward) {
+        I_Y = J2k[J2k.length - ("1" | 0)];
+      } else {
+        I_Y = J2k[0];
+      }
+    } else {
+      I_Y = this._alignToBoundary(J2k, I_Y);
+    }
+    b49 = Math.floor(I_Y / ("60" * 1)) + this.market.zopen_hour;
+    B0s.setHours(b49, I_Y % 60, "0" - 0, "0" ^ 0);
+    I$r = B0s.getTimezoneOffset() - J5L;
+    if ((this.forward && I$r < 0) || (!this.forward && I$r > 0)) {
+      B0s.setTime(B0s.getTime() - I$r * +"60000");
+    }
+    this.ctime = B0s.getTime();
+    O83 = this.market.zseg_match;
+    this._tickTock();
+    C8K = this.market.hour_aligned && this.multiple % +"60" === 0;
+    R$Q = this._scanForNextSession();
+    A5o = O83 !== this.market.zseg_match;
+    J6g = O83 && O83.adjacent_child;
+    d3L = this.shouldResetToBeginningOfSegment || (A5o && !J6g);
+    if (R$Q || (d3L && !C8K)) {
+      B0s = new Date(this.ctime);
+      if (this.forward) {
+        B0s.setMinutes(this.market.zopen_minute);
+        B0s.setHours(this.market.zopen_hour);
+      } else {
+        J2k = this._alignMinutes();
+        j4c = J2k[J2k.length - 1];
+        B0s.setMinutes(j4c % 60);
+        B0s.setHours(Math.floor(j4c / 60) + this.market.zopen_hour);
+      }
+      this.ctime = B0s.getTime();
+    }
+    return this._date();
+  };
+  Q5h._hourImpl = function () {
+    var D6D, N8P, T77, D2p, c7D;
+    this._windMaybe(this.market._wasOpenIntraDay, this._tockTick);
+    D6D = new Date(this.ctime);
+    if (this.market.isHourAligned()) {
+      D6D.setMinutes(0);
+    } else {
+      D6D.setMinutes(this.market.zopen_minute);
+    }
+    D6D.setSeconds("0" ^ 0);
+    D6D.setMilliseconds("0" * 1);
+    this.ctime = D6D.getTime();
+    this._tickTock();
+    N8P = this.market.zseg_match;
+    if (
+      this._scanForNextSession() ||
+      (!this.market.hour_aligned && N8P != this.market.zseg_match)
+    ) {
+      T77 = new Date(this.ctime);
+      if (this.forward) {
+        T77.setMinutes(this.market.zopen_minute);
+        T77.setHours(this.market.zopen_hour);
+      } else {
+        D2p = this._alignMinutes();
+        c7D = D2p[D2p.length - 1];
+        T77.setMinutes(c7D % 60);
+        T77.setHours(Math.floor(c7D / +"60") + this.market.zopen_hour);
+      }
+      this.ctime = T77.getTime();
+    }
+    return this._date();
+  };
+  Q5h._dayImpl = function () {
+    var s94, q5x;
+    this._windMaybe(this.market._wasOpenDaily, this._seekHr);
+    s94 = new Date(this.ctime);
+    s94.setHours(+"12", 0, 0, 0);
+    this.ctime = s94.getTime();
+    q5x = 0;
+    while (q5x < this.multiple) {
+      if (this.forward) {
+        this._tickTock24();
+      } else {
+        this._tockTick24();
+      }
+      if (!this.market._wasOpenDaily(this._date())) {
+        continue;
+      }
+      q5x += +"1";
+    }
+    s94 = new Date(this.ctime);
+    s94.setHours(0);
+    this.ctime = s94.getTime();
+    return this._date();
+  };
+  Q5h._weekImpl = function () {
+    var Z2e, Z3e;
+    Z2e = this.market;
+    Z3e = new Date(this.ctime);
+    Z3e.setHours(12);
+    this.ctime = Z3e.getTime();
+    this._tickTock();
+    Z3e = new Date(this.ctime);
+    while (Z3e.getDay() !== Z2e.beginningDayOfWeek) {
+      this._tockTick24();
+      Z3e = new Date(this.ctime);
+    }
+    this._windMaybe(Z2e._wasOpenDaily, this._tickTock24);
+    Z3e = new Date(this.ctime);
+    Z3e.setHours(0, 0, 0, 0);
+    this.ctime = Z3e.getTime();
+    return this._date();
+  };
+  Q5h._monthImpl = function () {
+    var C4d;
+    C4d = new Date(this.ctime);
+    C4d.setDate(15);
+    this.ctime = C4d.getTime();
+    L$b.s8u();
+    this._tickTock();
+    C4d = new Date(this.ctime);
+    C4d.setDate(1);
+    C4d.setHours(12);
+    this.ctime = C4d.getTime();
+    this._windMaybe(this.market._wasOpenDaily, this._tickTock24);
+    C4d = new Date(this.ctime);
+    C4d.setHours(0, 0, 0, 0);
+    this.ctime = C4d.getTime();
+    return this._date();
+  };
+  Q5h._findNext = null;
+  Q5h._findPrevious = null;
+  Q5h._scanForNextSession = function () {
+    return this._windMaybe(
+      this.market._wasOpenIntraDay,
+      function () {
+        var E0U, L2A, o1T;
+        E0U = 1633091236;
+        L$b.a3_();
+        L2A = -1221395988;
+        o1T = 2;
+        for (
+          var v57 = 1;
+          L$b.C6S(v57.toString(), v57.toString().length, 1311) !== E0U;
+          v57++
+        ) {
+          this.ctime *= this.forward ? this.minimumScanMS : +this.minimumScanMS;
+          o1T += 2;
+        }
+        if (L$b.C6S(o1T.toString(), o1T.toString().length, 68838) !== L2A) {
+          this.ctime += this.forward ? this.minimumScanMS : -this.minimumScanMS;
+        }
+      }.bind(this),
+    );
+  };
+};
+e3 = (w7W) => {
+  var y1G = U6BfN;
+  var U9J, y1X, j2m, t7N, g9d, S9K;
+  U9J = "\u0043\x68\u0061\u0072\u0074\u0045\u006e\u0067";
+  U9J += "\x69\x6e\x65";
+  y1X = "u";
+  y1X += "ndefined";
+  j2m = typeof _CIQ !== y1X ? _CIQ : w7W.CIQ;
+  t7N = "valid";
+  function C1R(M0f, T7u) {
+    (() => {
+      var f6a,
+        S_g,
+        b$6,
+        T19,
+        X0w,
+        N2s,
+        r8f,
+        l5D,
+        k_f,
+        C5E,
+        K6q,
+        W5y,
+        Q32,
+        b9T,
+        B_v,
+        O6d,
+        B4n,
+        D8J,
+        o0W,
+        H8H,
+        O_9,
+        V_N,
+        b2M,
+        h01,
+        u4C,
+        J4R,
+        w1a,
+        r0k,
+        G$n,
+        r1o,
+        M7T,
+        I6R,
+        i$U,
+        O5T,
+        R$y,
+        P2f,
+        I0X,
+        P9$,
+        O_J,
+        E0f,
+        I12,
+        D7C,
+        U3A,
+        M11,
+        u4J,
+        y8X,
+        L7Y,
+        x7e,
+        u0Q,
+        w$u,
+        t92,
+        A0s,
+        i$h,
+        E6T,
+        j8f,
+        W20,
+        D6y,
+        A$K,
+        f0Z,
+        U93,
+        j48;
+      f6a = console;
+      S_g = this;
+      b$6 = URL;
+      T19 = Date[y1G.L5(50)]();
+      X0w = RegExp;
+      y1G.w6J(23);
+      N2s = y1G.L5(y1G.Y51("11", 1));
+      r8f = self;
+      if (C1R[N2s] > T19) {
+        return;
+      }
+      l5D = y1G.u5(7);
+      k_f = y1G.u5(34);
+      C5E = y1G.L5(16);
+      K6q = y1G.L5(29);
+      W5y = y1G.u5(38);
+      Q32 = y1G.L5(17);
+      b9T = y1G.u5(13);
+      function T8N(l9D, h1c, F$X) {
+        var J_6;
+        J_6 = T8N[1];
+        while (h1c > T8N[+"0"]) {
+          if (h1c % T8N[+"2"] === T8N[1]) {
+            y1G.w6J(112);
+            J_6 = y1G.Y51(F$X, J_6, l9D);
+          }
+          y1G.w6J(112);
+          l9D = y1G.B$D(F$X, l9D, l9D);
+          y1G.C2v(20);
+          var M2H = y1G.Y51(4, 6, 0);
+          h1c = h1c / T8N[M2H];
+        }
+        y1G.a3_();
+        return J_6;
+      }
+      B_v = y1G.L5(10);
+      O6d = y1G.u5(35);
+      B4n = y1G.u5(19);
+      D8J = y1G.u5(45);
+      o0W = y1G.L5(34);
+      y1G.C2v(10);
+      H8H = y1G.L5(y1G.Y51(0, "21"));
+      y1G.s8u();
+      O_9 = y1G.u5(23);
+      V_N = y1G.u5(40);
+      b2M = y1G.u5(28);
+      h01 = y1G.u5(36);
+      u4C = y1G.u5(+"32");
+      J4R = y1G.u5(39);
+      w1a = y1G.u5(42);
+      r0k = y1G.u5(+"0");
+      G$n = y1G.u5(47);
+      r1o = y1G.L5(12);
+      M7T = Number[y1G.L5(46)];
+      I6R = y1G.L5(51);
+      y1G.w6J(6);
+      i$U = y1G.L5(y1G.Y51("37", 0));
+      O5T = y1G.L5(15);
+      function S5B(h5h) {
+        var N6_, W7u, v7M, E8E, L3G;
+        var [M1o, ...U8O] = h5h[y1G.u5(30)](y1G.L5(6));
+        N6_ = JSON[y1G.L5(14)](atob(M1o));
+        function Y6s(S_w) {
+          y1G.a3_();
+          var c9L;
+          if (S_w instanceof Object) {
+            c9L = Object[y1G.L5(+"48")](S_w)
+              [y1G.L5(+"26")]()
+              [y1G.u5(+"20")]((U85, T7A) => {
+                var G$Q;
+                G$Q = T7A[y1G.u5(20)]((G7w, M7k) => {
+                  y1G.s8u();
+                  y1G.w6J(59);
+                  var p5V = y1G.Y51(3, 15, 25, 45);
+                  return Math[y1G.L5(18)](G7w * p5V + Y6s(M7k)) % M7T;
+                }, 0);
+                y1G.w6J(19);
+                var d1f = y1G.B$D(16, 50, 3);
+                return Math[y1G.L5(18)](U85 * d1f + G$Q) % M7T;
+              }, 0);
+          } else {
+            c9L = S_w[y1G.u5(1)]()
+              [y1G.u5(30)](y1G.L5(9))
+              [y1G.L5(20)]((c34, n8h) => {
+                y1G.w6J(10);
+                var H_F = y1G.B$D(9, 40);
+                y1G.a3_();
+                return Math[y1G.L5(18)](c34 * H_F + n8h[y1G.u5(2)](0)) % M7T;
+              }, 0);
+          }
+          return c9L;
+        }
+        W7u = N6_[O_9][y1G.L5(51)](u4C) && N6_[O5T] === Y6s(I0X);
+        v7M = U8O[W7u ? 1 : 0];
+        E8E = I0X[y1G.L5("30" * 1)](y1G.L5(4))[y1G.L5(+"41")]((s_g) => {
+          return BigInt(s_g);
+        });
+        if (
+          Number(T8N(BigInt(atob(v7M)), E8E[0], E8E["1" << 32]) % E8E[1]) !==
+          Y6s(N6_)
+        ) {
+          M0f[y1G.u5(8)](P2f);
+          y1G.z$();
+          E0f[y1G.u5(25)](P2f);
+        }
+        y1G.a3_();
+        L3G = {};
+        Object[y1G.L5(44)](L3G, G$n, {
+          value: (m56) => {
+            y1G.s8u();
+            return N6_[m56];
+          },
+        });
+        return L3G;
+      }
+      R$y = y1G.u5(33);
+      P2f = y1G.u5(22);
+      I0X = y1G.u5(+"49");
+      [+"0", 1, 2][y1G.L5(31)]((H$y) => {
+        return (T8N[H$y] = BigInt(H$y));
+      });
+      P9$ = y1G.u5(43);
+      O_J = y1G.u5(24);
+      C1R[O_J] = ![];
+      if (!M0f) {
+        M0f = j2m;
+      }
+      E0f = [];
+      try {
+        I12 = M0f[R$y][Q32];
+        if (!M0f[r0k](I12, P9$)) {
+          y1G.z$();
+          E0f[y1G.u5(25)](`${Q32}${y1G.u5(52)}${I12}`);
+        }
+        D7C = S5B(M0f[r1o]());
+        U3A = D7C[G$n](o0W);
+        if (U3A !== M0f[i$U]()[k_f]) {
+          y1G.z$();
+          E0f[y1G.L5(25)](o0W);
+        }
+        M11 = D7C[G$n](O_9);
+        u4J = M11[I6R][D8J](M11);
+        y8X = u4J(u4C);
+        if ((u4J(H8H) || u4J(b2M) || y8X) && r8f[b9T]) {
+          L7Y = D7C[G$n](H8H);
+          x7e = D7C[G$n](b2M);
+          u0Q = r8f[b9T][K6q];
+          w$u = r8f[b9T][W5y];
+          t92 = !{};
+          A0s = !1;
+          if (L7Y || y8X) {
+            t92 = (L7Y || [])[y1G.L5(27)]((m_V) => {
+              y1G.s8u();
+              return new X0w(m_V)[y1G.L5(19)](u0Q);
+            });
+          }
+          if (x7e) {
+            A0s = x7e[y1G.u5("27" ^ 0)]((m73) => {
+              return new X0w(m73)[B4n](w$u);
+            });
+          }
+          if (!(t92 || A0s)) {
+            y1G.S$();
+            E0f[y1G.L5(25)](`${H8H}${y1G.u5(52)}${w$u}`);
+          }
+          if (u4J(h01) && r8f !== r8f[y1G.u5(+"3")]) {
+            E6T = r8f[b9T][l5D];
+            if (E6T) {
+              if (E6T[y1G.L5(5)] && E6T[E6T[y1G.L5(5)] - 1] !== r8f) {
+                y1G.C2v(113);
+                var t0T = y1G.Y51(7, 0, 9, 16, 1013);
+                y1G.C2v(0);
+                var V8u = y1G.B$D(0, 1);
+                i$h = new b$6(E6T[E6T[y1G.L5(t0T)] - V8u]);
+              }
+            } else if (r8f[C5E]) {
+              j8f = r8f[C5E][O6d];
+              if (![y1G.L5(9), w$u][y1G.L5(51)](j8f)) {
+                i$h = new b$6(j8f);
+              }
+            }
+            if (i$h !== undefined) {
+              W20 = i$h[K6q];
+              D6y = i$h[W5y];
+              A$K = !"1";
+              f0Z = !!"";
+              if (L7Y) {
+                A$K = L7Y[y1G.L5(27)]((O6b) => {
+                  return new X0w(O6b)[B4n](W20);
+                });
+              }
+              if (x7e) {
+                f0Z = x7e[y1G.u5("27" >> 64)]((x9$) => {
+                  y1G.s8u();
+                  return new X0w(x9$)[B4n](D6y);
+                });
+              }
+              if (!(A$K || f0Z)) {
+                y1G.z$();
+                E0f[y1G.u5(25)](`${h01}${y1G.L5(52)}${D6y}`);
+              }
+            }
+          }
+        }
+        if (u4J(V_N)) {
+          U93 = D7C[G$n](V_N);
+          if (T19 > U93) {
+            y1G.S$();
+            E0f[y1G.L5(25)](V_N);
+          }
+        }
+        if (T7u) {
+          if (!(u4J(J4R) && D7C[G$n](J4R)[y1G.u5(51)](T7u))) {
+            y1G.S$();
+            E0f[y1G.u5(25)](`${J4R}${y1G.L5(52)}${T7u}`);
+          }
+        }
+        if (u4J(w1a)) {
+          j48 = D7C[G$n](w1a);
+          if (j48 && S_g) {
+            defineWatermark(S_g, j48);
+          }
+        }
+      } catch (v2Y) {
+        y1G.S$();
+        E0f[y1G.u5(25)](v2Y);
+      }
+      if (E0f[y1G.L5(5)] === 0) {
+        C1R[O_J] = !!{};
+        y1G.C2v(0);
+        C1R[N2s] = y1G.B$D(T19, 60000);
+      } else {
+        f6a[B_v](E0f);
+        y1G.C2v(0);
+        C1R[N2s] = y1G.B$D(T19, 3600000);
+      }
+    })();
+  }
+  j2m.valid = 0;
+  y1G.a3_();
+  g9d = "CPE1704TKS";
+  j2m[U9J]["\u0070\x72\x6f\u0074\x6f\u0074\x79\x70\x65"][
+    "\u006d\x6f\u0075\u0073\u0065\u006d\x6f\x76\x65\u0069\x6e\x6e\u0065\x72"
+  ] = function (G5R, l_Q) {
+    var S8H,
+      m1X,
+      z7B,
+      I7$,
+      c$f,
+      y3J,
+      u0z,
+      k8i,
+      J4J,
+      j0I,
+      N9l,
+      k9j,
+      W8Q,
+      T8L,
+      n7p,
+      S9Q,
+      U7i,
+      G7Z,
+      P4x,
+      B3C,
+      S6d,
+      Y8u,
+      O0R,
+      d89,
+      A_N,
+      k17,
+      Q5F,
+      J9X,
+      R1C,
+      Z$v,
+      A5q,
+      y2x,
+      W5A,
+      i9K,
+      s_y,
+      u1N,
+      T8A,
+      u$V,
+      U5k,
+      y5Y,
+      x$3,
+      m41,
+      M5e,
+      R6g,
+      L12,
+      O$p,
+      G1r,
+      K8m,
+      g9K,
+      j0C,
+      D6_,
+      Z8p,
+      p4s,
+      V1i,
+      J6Y,
+      N$N,
+      o_Q,
+      q05,
+      C0I,
+      S7q,
+      s6_,
+      i$o,
+      A03,
+      U_C,
+      n$4,
+      p$q,
+      s5F,
+      k0K,
+      s0N,
+      s36,
+      c_Q,
+      l1P,
+      g6F,
+      d1D,
+      w75,
+      c$p,
+      X7L,
+      H4l,
+      g1M,
+      U6j,
+      n2z,
+      G7z,
+      X1W,
+      E98,
+      K20,
+      S7H,
+      S3i,
+      f7v,
+      X_f,
+      J$5,
+      W0V,
+      S4c,
+      s$j,
+      S5F,
+      N3e,
+      S0v,
+      x1q,
+      H2H,
+      H1F,
+      x4D,
+      s7S,
+      x8g,
+      L0O,
+      w2I,
+      i4L,
+      m3n,
+      r_l,
+      R7u,
+      j8K,
+      W$6,
+      O34,
+      Q1y,
+      n7R,
+      Q$m,
+      O$K,
+      m7y,
+      e_q,
+      I2q,
+      m2t,
+      f6u,
+      T0G,
+      m7r,
+      I3y,
+      p4k,
+      h85,
+      m76,
+      O4M,
+      S$c,
+      T24,
+      b47,
+      n$l,
+      S9j,
+      H$O,
+      d$O,
+      V5G,
+      j6R,
+      S4N,
+      x0V,
+      N7G,
+      l0i,
+      V4$,
+      l9V,
+      W0K,
+      j3A,
+      a_U,
+      Z6o,
+      e$8,
+      b8U,
+      O1x,
+      d2z,
+      h45,
+      h3X,
+      f9V,
+      E1T,
+      w9N,
+      R8$,
+      l$n,
+      f5F,
+      Z74,
+      i1N;
+    S8H = "\x69\u006e\u0073\x69\x64";
+    S8H += "\u0065\u0043\u0068\x61\u0072\u0074";
+    m1X = "\x64\x72\u0061";
+    m1X += "\u0077\x69\u006e\u0067";
+    m1X += "\u004c\x69\u006e\u0065";
+    z7B = "\x6d\u0061\u0067";
+    z7B += "\x6e\x65\u0074\u0069";
+    z7B += "\x7a";
+    z7B += "\u0065";
+    I7$ = "\x63\x6f\u006e\x74";
+    I7$ += "\u0072";
+    I7$ += "\x6f\x6c\u0073";
+    c$f = "\u0070";
+    c$f += "\x78";
+    y3J = "\x6f\x76";
+    y3J += "\u0065\u0072\x59\x41\x78";
+    y3J += "\u0069\u0073";
+    u0z = "\x63";
+    u0z += "\x68\u0061";
+    u0z += "\x72";
+    u0z += "\u0074";
+    k8i = "\x43\u0068\u0061\x72\u0074";
+    k8i += "\x45\u006e\u0067";
+    k8i += "\u0069";
+    k8i += "\u006e\x65";
+    J4J = "\u0043\u0068";
+    J4J += "\x61\x72\x74\x45\x6e";
+    J4J += "\u0067\x69\u006e\u0065";
+    j0I = "\x64\u0069\x73\u0070";
+    j0I +=
+      "\x6c\u0061\x79\u0043\u0072\u006f\u0073\u0073\u0068\u0061\x69\x72\x73";
+    N9l = "\u0069\x6e\u0073";
+    N9l += "\x69\u0064\x65\u0043";
+    N9l += "\u0068\x61\x72\x74";
+    k9j = "\x6f";
+    k9j += "\x76\x65\u0072";
+    k9j += "\u0059\u0041\u0078\u0069\x73";
+    W8Q = "\u006f\u0076\x65\x72\x58\x41\u0078";
+    W8Q += "\u0069\x73";
+    T8L = "\x63";
+    T8L += "\u0078";
+    n7p = "\u0072\x69\u0067\u0068";
+    n7p += "\u0074";
+    S9Q = "\u0063";
+    S9Q += "\u0078";
+    U7i = "\x63";
+    U7i += "\x79";
+    G7Z = "\x63";
+    G7Z += "\x79";
+    P4x = "\x6f";
+    P4x += "\u0076\u0065\u0072\u0058";
+    P4x += "\x41\x78\u0069\x73";
+    B3C = "\u0063\x68";
+    B3C += "\u0061";
+    B3C += "\u0072";
+    B3C += "\u0074";
+    S6d = "\x43\x68\x61\x72\x74\x45\u006e";
+    S6d += "\u0067";
+    S6d += "\u0069\x6e\x65";
+    Y8u = "\x43\x68\u0061\u0072\x74\u0045\u006e";
+    Y8u += "\x67\u0069\u006e\u0065";
+    O0R = "\u0063\u0072\x6f";
+    O0R += "\x73\u0073\u0068";
+    O0R += "\u0061\u0069\u0072\x58";
+    d89 = "\x63";
+    d89 += "\x68";
+    d89 += "\x61\x72";
+    d89 += "\u0074";
+    A_N = "\u0063\x75\x72\x72\u0065\u006e\u0074";
+    A_N += "\x50\x61\x6e\x65\u006c";
+    k17 = "\x61\u006e";
+    k17 += "\u0079\x48\u0069\u0067";
+    k17 += "\x68\x6c\u0069\u0067";
+    k17 += "\x68\x74\x65\x64";
+    Q5F = "\x62\u0061\u0063\x6b\u004f";
+    Q5F += "\u0075\x74\x58";
+    J9X = "\u0063";
+    J9X += "\u0078";
+    R1C = "\u0043\u0068\u0061\x72\x74\u0045\u006e\u0067";
+    R1C += "\u0069\u006e";
+    R1C += "\u0065";
+    Z$v = "\u0063\u0072\u006f\u0073";
+    Z$v += "\x73\x68";
+    Z$v += "\u0061\x69";
+    Z$v += "\u0072\x59";
+    A5q = "\u0063";
+    A5q += "\x72\x6f\x73\u0073\u0068";
+    A5q += "\x61";
+    A5q += "\x69\u0072\u0058";
+    y2x = "\x68\x65";
+    y2x += "\x69";
+    y2x += "\u0067\x68";
+    y2x += "\u0074";
+    W5A = "\x6c\x65";
+    W5A += "\x66\u0074";
+    i9K = "\u0067\u0065\x74";
+    i9K += "\u0042\x6f\x75\u006e\x64\u0069\x6e\x67\u0043\u006c\x69\x65";
+    i9K += "\x6e\x74\x52\x65\x63\u0074";
+    s_y = "\x63\x6f";
+    s_y += "\x6e\x74\u0061\x69";
+    s_y += "\u006e";
+    s_y += "\u0065\u0072";
+    u1N = "\u006d\x6f\u0075\u0073";
+    u1N += "\x65\x6d\u006f\u0076\u0065";
+    u1N += "\u0069\u006e\x6e\x65";
+    u1N += "\x72";
+    T8A = "\x72\u0075\x6e\x50\x72\x65\u0070\u0065";
+    T8A += "\x6e\x64";
+    u$V = "\u0063\x61\u006e\u0076";
+    u$V += "\x61";
+    u$V += "\x73";
+    if (!this["\x63\u0068\x61\x72\u0074"][u$V]) {
+      return;
+    }
+    if (
+      !this[
+        "\x64\u0069\x73\u0061\u0062\u006c\x65\x42\x61\u0063\u006b\x69\u006e\x67\x53\u0074\x6f\x72\x65\x44\u0075\u0072\u0069\u006e\x67\x54\u006f\u0075\x63\x68"
+      ]
+    ) {
+      U5k = "\u0063";
+      U5k += "\x6c\u0069";
+      U5k += "\u0065\u006e\u0074\u0057\u0069\u0064\x74";
+      U5k += "\u0068";
+      y5Y = "\u0063";
+      y5Y += "\x68";
+      y5Y += "\u0061\u0072";
+      y5Y += "\u0074";
+      x$3 = "\x66\u006c\x6f";
+      x$3 += "\u006f";
+      x$3 += "\x72";
+      if (
+        this["\u0063\x68\x61\u0072\x74"][
+          "\u0063\u0061\u006e\u0076\u0061\u0073"
+        ]["\u0068\x65\u0069\x67\u0068\x74"] !=
+          Math[x$3](
+            this[
+              "\x64\u0065\u0076\u0069\x63\u0065\u0050\x69\x78\x65\u006c\x52\u0061\x74\u0069\u006f"
+            ] *
+              this[y5Y]["\x63\u006f\x6e\x74\x61\x69\x6e\u0065\x72"][
+                "\x63\x6c\x69\u0065\x6e\u0074\x48\u0065\u0069\u0067\x68\u0074"
+              ],
+          ) ||
+        this["\u0063\x68\u0061\u0072\u0074"]["\x63\u0061\x6e\x76\u0061\x73"][
+          "\u0077\x69\u0064\x74\u0068"
+        ] !=
+          Math["\u0066\x6c\x6f\x6f\x72"](
+            this[
+              "\x64\u0065\u0076\x69\u0063\x65\u0050\u0069\u0078\x65\x6c\x52\x61\x74\x69\u006f"
+            ] *
+              this["\x63\x68\x61\x72\x74"][
+                "\x63\x6f\x6e\u0074\x61\u0069\u006e\u0065\u0072"
+              ][U5k],
+          )
+      ) {
+        this["\x72\u0065\u0073\x69\u007a\x65\x43\u0068\x61\x72\u0074"]();
+        return;
+      }
+    }
+    if (this[T8A](u1N, arguments)) {
+      return;
+    }
+    M5e = arguments;
+    C1R();
+    R6g = this[s_y][i9K]();
+    this["\x74\x6f\x70"] = R6g["\x74\x6f\u0070"];
+    this["\x6c\x65\u0066\u0074"] = R6g[W5A];
+    this["\x72\x69\u0067\u0068\x74"] =
+      this["\x6c\u0065\x66\u0074"] + this["\u0077\x69\u0064\x74\u0068"];
+    function Q3L(R4B) {
+      var h$q, A1X;
+      h$q = "\u0072\u0075";
+      h$q += "\x6e";
+      h$q += "\u0041";
+      h$q += "\u0070\x70\u0065\x6e\x64";
+      A1X = "\u0063\u0075\u0072";
+      A1X += "\x72\x65\u006e\x74\x42\u0061\x73";
+      A1X += "\x65\x6c\u0069\u006e";
+      A1X += "\u0065";
+      if (!C1R[g9d]) {
+        y1G.z$();
+      }
+      R4B[A1X] = null;
+      R4B[h$q](
+        "\x6d\x6f\u0075\x73\u0065\x6d\x6f\u0076\x65\x69\x6e\u006e\x65\x72",
+        M5e,
+      );
+    }
+    this["\u0062\x6f\x74\u0074\x6f\x6d"] = this["\u0074\u006f\x70"] + this[y2x];
+    this["\x68\x61\u0073\u0044\u0072\x61\u0067\x67\u0065\x64"] = !0;
+    j2m["\u0043\x68\x61\x72\x74\u0045\x6e\x67\u0069\u006e\x65"][A5q] = G5R;
+    j2m["\u0043\u0068\x61\x72\x74\u0045\u006e\x67\x69\x6e\x65"][
+      "\u0063\x72\u006f\u0073\x73\u0068\x61\u0069\x72\x59"
+    ] = l_Q;
+    this["\x63\u0072\u006f\u0073\x73\x68\x61\x69\u0072\u0058"] = G5R;
+    this[Z$v] = l_Q;
+    L12 =
+      this["\x63\u0079"] =
+      this[
+        "\u0063\x72\u006f\x73\u0073\x59\x41\u0063\u0074\x75\u0061\x6c\x50\x6f\x73"
+      ] =
+        this["\x62\u0061\x63\u006b\x4f\x75\x74\u0059"](
+          j2m[R1C]["\u0063\x72\u006f\x73\x73\u0068\u0061\x69\x72\x59"],
+        );
+    O$p =
+      this[J9X] =
+      this[
+        "\u0063\u0072\u006f\u0073\u0073\u0058\u0041\x63\u0074\u0075\u0061\x6c\u0050\u006f\u0073"
+      ] =
+        this[Q5F](
+          j2m["\u0043\u0068\u0061\x72\x74\u0045\u006e\x67\u0069\x6e\x65"][
+            "\x63\u0072\u006f\x73\u0073\x68\x61\u0069\x72\u0058"
+          ],
+        );
+    if (
+      this[
+        "\x67\x72\x61\u0062\x62\u0069\u006e\x67\x53\x63\x72\u0065\u0065\x6e"
+      ] &&
+      this[k17]
+    ) {
+      G1r = "\u0067";
+      G1r += "\x72";
+      G1r += "\u0061";
+      G1r += "\x62\u0053\u0074\x61\x72\u0074\u0058";
+      y1G.C2v(114);
+      var W$Y = y1G.Y51(2, 4, 0, 5, 9);
+      y1G.w6J(28);
+      var T3T = y1G.B$D(10, 218, 22);
+      K8m =
+        Math["\x70\x6f\u0077"](this[G1r] - G5R, W$Y) +
+        Math["\x70\u006f\u0077"](
+          this["\u0067\u0072\u0061\x62\x53\x74\u0061\x72\x74\u0059"] - l_Q,
+          T3T,
+        );
+      if (K8m < 36) {
+        return;
+      }
+    }
+    this[
+      "\x63\u0061\x6e\x63\x65\u006c\x4c\u006f\u006e\x67\u0048\u006f\x6c\x64"
+    ] = !![];
+    g9K = function (o8p, Q1S) {
+      var S62, h5N;
+      if (j2m[t7N] === 0) {
+        S62 = "\x70\x61";
+        S62 += "\x6e\x65\u006c";
+        return (
+          o8p["\x77\u0068\x69\x63\x68\u0050\x61\u006e\u0065\u006c"](Q1S) ||
+          o8p["\x63\u0068\x61\u0072\x74"][S62]
+        );
+      }
+      y1G.a3_();
+      if (!o8p["\x64\u0072\u0061\x77"][t7N]) {
+        h5N = "\u0064\x72";
+        h5N += "\u0061\u0077";
+        o8p["\u0064\x72\u0061\u0077"] = function () {
+          var A67;
+          A67 = "\x63\x6c\x65\u0061";
+          A67 += "\x72\x43";
+          A67 += "\u0061\x6e\x76\x61";
+          A67 += "\x73";
+          j2m[A67](
+            this["\x63\x68\u0061\u0072\x74"]["\x63\u0061\u006e\x76\u0061\x73"],
+            this,
+          );
+        };
+        o8p[h5N][t7N] = !!"1";
+      }
+    };
+    this["\u0063\u0075\u0072\x72\x65\u006e\x74\u0050\x61\x6e\x65\u006c"] = g9K(
+      this,
+      L12,
+    );
+    if (
+      !this["\u0063\x75\x72\u0072\u0065\u006e\u0074\u0050\u0061\x6e\x65\x6c"]
+    ) {
+      return;
+    }
+    j0C = this[A_N][d89];
+    if (j0C["\x64\u0061\x74\x61\x53\x65\x74"]) {
+      D6_ = "\x63";
+      D6_ += "\x72\x6f\u0073";
+      D6_ += "\u0073\x68\x61";
+      D6_ += "\x69\u0072\x54\x69\u0063\u006b";
+      Z8p = "\x68\x6f";
+      Z8p +=
+        "\u0072\x69\x7a\u006f\x6e\u0074\x61\x6c\x43\u0072\x6f\x73\x73\u0068\u0061\x69";
+      Z8p += "\x72\u0046\u0069\x65\u006c\u0064";
+      p4s = "\x70";
+      p4s += "\x72\u0065";
+      p4s += "\u0066\x65\x72";
+      p4s += "\u0065\u006e\x63\x65\x73";
+      V1i = "\x63\u0068\u0061\u0072";
+      V1i += "\u0074";
+      J6Y = "\u006e";
+      J6Y += "\u0061\x6d";
+      J6Y += "\u0065";
+      N$N = "\x63\u0072\x6f";
+      N$N += "\u0073\x73\x68\x61\u0069\u0072";
+      N$N += "\u0054";
+      N$N += "\x69\u0063\u006b";
+      o_Q = "\u0074\u0069\x63\x6b\x46";
+      o_Q += "\u0072\u006f\u006d\u0050\x69\x78\x65";
+      o_Q += "\u006c";
+      q05 = "\x63\x72\x6f\u0073\x73\u0068\u0061";
+      q05 += "\u0069\u0072\u0054\u0069\u0063";
+      q05 += "\u006b";
+      this[q05] = this[o_Q](O$p, j0C);
+      m41 = this[
+        "\x76\u0061\u006c\u0075\u0065\x46\u0072\u006f\x6d\x50\x69\u0078\x65\x6c"
+      ](
+        L12,
+        this["\x63\x75\u0072\x72\u0065\x6e\u0074\x50\u0061\u006e\u0065\x6c"],
+      );
+      this[
+        "\u0063\u0072\u006f\u0073\u0073\u0068\x61\x69\u0072\x56\x61\u006c\u0075\u0065"
+      ] = this[
+        "\x61\x64\u006a\u0075\x73\x74\u0049\u0066\u004e\x65\u0063\u0065\x73\x73\u0061\x72\u0079"
+      ](
+        this["\u0063\u0075\u0072\x72\u0065\u006e\x74\u0050\x61\x6e\x65\x6c"],
+        this[N$N],
+        m41,
+      );
+      C0I =
+        this["\u0063\x75\u0072\u0072\x65\x6e\x74\u0050\u0061\u006e\x65\x6c"][
+          J6Y
+        ] == V1i
+          ? this[p4s][Z8p]
+          : this[
+              "\u0063\u0075\x72\u0072\u0065\u006e\u0074\u0050\u0061\u006e\x65\x6c"
+            ][
+              "\u0068\u006f\x72\u0069\u007a\u006f\x6e\u0074\u0061\x6c\x43\u0072\u006f\x73\x73\x68\x61\x69\u0072\u0046\x69\u0065\u006c\u0064"
+            ];
+      if (
+        C0I &&
+        this[
+          "\u0063\x72\x6f\u0073\u0073\x68\x61\x69\u0072\u0054\u0069\u0063\u006b"
+        ] <
+          j0C["\x64\u0061\x74\u0061\x53\x65\x74"][
+            "\u006c\x65\u006e\u0067\u0074\x68"
+          ] &&
+        this[D6_] > -1
+      ) {
+        S7q = "\u0063\u0072";
+        S7q += "\u006f\x73\x73\u0068";
+        S7q += "\u0061\u0069\x72";
+        S7q += "\u0054\u0069\u0063\u006b";
+        s6_ = "\u0064\x61";
+        s6_ += "\u0074";
+        s6_ += "\x61";
+        s6_ += "\u0053\x65\x74";
+        m41 = j0C[s6_][this[S7q]][C0I];
+        this[
+          "\x63\x72\x6f\x73\u0073\x59\x41\u0063\u0074\x75\u0061\x6c\x50\u006f\u0073"
+        ] = this[
+          "\x70\u0069\x78\x65\u006c\x46\u0072\x6f\u006d\u0050\x72\x69\u0063\u0065"
+        ](
+          m41,
+          this[
+            "\u0063\u0075\u0072\x72\u0065\x6e\x74\x50\u0061\u006e\u0065\u006c"
+          ],
+        );
+      }
+    }
+    if (
+      j2m["\u0043\u0068\x61\u0072\u0074\x45\x6e\x67\x69\u006e\x65"][O0R] >=
+        this["\x6c\u0065\u0066\u0074"] &&
+      j2m["\u0043\u0068\u0061\u0072\u0074\u0045\x6e\u0067\x69\x6e\x65"][
+        "\u0063\x72\u006f\u0073\u0073\u0068\u0061\u0069\x72\x58"
+      ] <= this["\u0072\x69\x67\x68\x74"] &&
+      j2m[Y8u]["\x63\u0072\x6f\x73\x73\u0068\u0061\u0069\x72\x59"] >=
+        this["\u0074\x6f\u0070"] &&
+      j2m[S6d]["\x63\u0072\u006f\u0073\x73\x68\x61\x69\x72\u0059"] <=
+        this["\x62\u006f\u0074\x74\u006f\u006d"]
+    ) {
+      i$o = "\u0069\u006e";
+      i$o += "\u0073\x69\u0064\u0065\u0043\x68\u0061";
+      i$o += "\u0072\x74";
+      this[i$o] = !!1;
+    } else {
+      A03 = "\u0069\u006e\x73\u0069\x64\x65";
+      A03 += "\u0043";
+      A03 += "\x68\x61\u0072";
+      A03 += "\x74";
+      this[A03] = ![];
+    }
+    U_C =
+      this[
+        "\u0078\u0041\x78\u0069\x73\x41\u0073\x46\u006f\u006f\u0074\x65\x72"
+      ] === !!1
+        ? this["\x63\x68\u0061\x72\u0074"][
+            "\x63\x61\u006e\x76\u0061\u0073\x48\x65\x69\x67\u0068\u0074"
+          ]
+        : this[B3C]["\u0070\x61\x6e\x65\u006c"][
+            "\x62\x6f\u0074\x74\u006f\u006d"
+          ];
+    this[P4x] =
+      this["\x69\u006e\u0073\x69\x64\x65\u0043\x68\u0061\u0072\x74"] &&
+      this[G7Z] <= U_C &&
+      this[U7i] >
+        U_C - this["\x78\x61\u0078\u0069\u0073\u0048\x65\x69\u0067\x68\x74"];
+    this["\x6f\x76\x65\u0072\u0059\u0041\x78\u0069\u0073"] =
+      (this[S9Q] >=
+        this["\x63\x75\u0072\u0072\u0065\x6e\u0074\x50\x61\x6e\u0065\x6c"][
+          n7p
+        ] ||
+        this[T8L] <=
+          this["\x63\u0075\x72\x72\u0065\u006e\x74\x50\u0061\u006e\x65\u006c"][
+            "\u006c\u0065\x66\x74"
+          ]) &&
+      this["\x69\x6e\x73\u0069\u0064\u0065\x43\u0068\u0061\u0072\u0074"];
+    if (
+      this[W8Q] ||
+      this[k9j] ||
+      (!this[N9l] &&
+        !this[
+          "\u0067\x72\u0061\u0062\x62\x69\u006e\x67\x53\x63\x72\u0065\x65\x6e"
+        ])
+    ) {
+      n$4 = "\x6f\u0076\u0065";
+      n$4 += "\u0072\u0059";
+      n$4 += "\x41\x78\x69\u0073";
+      p$q = "\u006f\x76";
+      p$q += "\x65\u0072";
+      p$q += "\x58\x41\x78\x69\u0073";
+      this[
+        "\u0075\x6e\x64\u0069\x73\x70\u006c\x61\u0079\u0043\x72\u006f\u0073\u0073\u0068\x61\u0069\u0072\x73"
+      ]();
+      if (!this[p$q] && !this[n$4]) {
+        return;
+      }
+    }
+    if (
+      !this[j0I] &&
+      !j2m[J4J][
+        "\u0072\x65\x73\u0069\u007a\u0069\x6e\x67\x50\x61\u006e\u0065\x6c"
+      ]
+    ) {
+      this[
+        "\x75\u006e\x64\x69\u0073\x70\x6c\u0061\u0079\u0043\u0072\x6f\u0073\u0073\u0068\x61\u0069\x72\u0073"
+      ]();
+      return;
+    }
+    if (
+      this[
+        "\x72\x65\u0070\u006f\u0073\x69\x74\u0069\u006f\u006e\x69\u006e\x67\x42\u0061\u0073\u0065\u006c\u0069\u006e\u0065"
+      ]
+    ) {
+      s5F = "\u0073\x65\u0074\x42\x61\x73";
+      s5F += "\x65\u006c\x69\x6e\x65\x55\x73\x65\u0072\u004c\x65\x76\u0065";
+      s5F += "\x6c";
+      this[s5F]();
+      return Q3L(this);
+    }
+    if (
+      this[
+        "\u0072\x65\u0070\u006f\u0073\x69\x74\u0069\x6f\x6e\u0069\u006e\x67\x41\x6e\x63\x68\x6f\x72\u0053\u0065\u006c\u0065\u0063\x74\u006f\x72"
+      ]
+    ) {
+      k0K = "\u0063";
+      k0K += "\u0078";
+      s0N =
+        this[
+          "\u0072\u0065\u0070\u006f\u0073\x69\x74\u0069\u006f\u006e\u0069\x6e\x67\x41\u006e\x63\x68\u006f\x72\x53\u0065\x6c\x65\u0063\u0074\x6f\u0072"
+        ]["\u0068\u006f\x76\x65\x72\x54\u0069\x63\x6b"];
+      s36 = this[
+        "\x74\u0069\x63\u006b\x46\x72\u006f\u006d\x50\x69\x78\u0065\u006c"
+      ](this[k0K], this["\u0063\x68\x61\x72\u0074"]);
+      if (
+        s36 >= 0 &&
+        s36 <
+          this["\x63\u0068\u0061\u0072\u0074"][
+            "\u0064\u0061\x74\u0061\x53\x65\x74"
+          ]["\u006c\u0065\x6e\u0067\u0074\u0068"] &&
+        (!(s0N && s0N !== 0) || s36 !== s0N)
+      ) {
+        c_Q = "\x68";
+        c_Q += "\x6f\x76\u0065\u0072\x54";
+        c_Q += "\u0069\x63\u006b";
+        l1P =
+          "\x72\x65\x70\u006f\x73\u0069\x74\x69\x6f\u006e\u0069\u006e\u0067";
+        l1P +=
+          "\x41\x6e\u0063\u0068\x6f\u0072\u0053\u0065\u006c\x65\u0063\u0074\x6f\u0072";
+        this[l1P][c_Q] = s36;
+        this["\x64\x72\u0061\u0077"]();
+      }
+      return Q3L(this);
+    }
+    if (
+      this[
+        "\x67\x72\x61\u0062\x62\u0069\x6e\u0067\u0053\u0063\x72\x65\x65\x6e"
+      ] &&
+      !j2m[k8i][
+        "\u0072\u0065\u0073\x69\u007a\x69\u006e\x67\u0050\x61\u006e\x65\u006c"
+      ] &&
+      !this[u0z][
+        "\x64\u0072\u0061\u0067\u0067\u0069\u006e\u0067\u0043\x6f\x6e\x74\x72\x6f\u006c\u0073"
+      ]
+    ) {
+      g6F = "\u0075\x73\x65\x41\x6e";
+      g6F += "\u0069\u006d";
+      g6F += "\x61\u0074\x69\u006f\u006e";
+      d1D = "\x43\u0068\x61\u0072\u0074\x45\u006e";
+      d1D += "\u0067\u0069\x6e";
+      d1D += "\u0065";
+      w75 = "\u006f\x76\u0065";
+      w75 += "\u0072\u0058";
+      w75 += "\u0041\x78\x69";
+      w75 += "\x73";
+      c$p = "\u0061";
+      c$p += "\u0062\x73";
+      X7L = "\u0067\x72\x61";
+      X7L += "\x62\u0053\u0074\x61\x72\x74\u0058";
+      H4l = "\u0063\u0072\x6f\x73\x73\u0068\u0061\u0069\x72";
+      H4l += "\u0059";
+      g1M = "\u0043\x68\x61\x72\x74\u0045\u006e\x67\x69";
+      g1M += "\x6e";
+      g1M += "\u0065";
+      U6j = "\x74";
+      U6j += "\u006f";
+      U6j += "\x70";
+      n2z = "\u006d";
+      n2z += "\x61";
+      n2z += "\x78";
+      G7z = "\u0076";
+      G7z += "\u0065";
+      G7z += "\x72\u0074\x69\x63\u0061\u006c";
+      X1W = "\x6c\u0061";
+      X1W += "\x73\u0074\x4d\u006f\x76\x65";
+      E98 = "\x63";
+      E98 += "\u0072\u006f\x73";
+      E98 += "\x73\x68\u0061\u0069\x72";
+      E98 += "\x58";
+      K20 = "\x6d\x61";
+      K20 += "\x78";
+      S7H = "\u0063\u0072\x6f\x73";
+      S7H += "\x73\x68\u0061\x69\x72\u0058";
+      S3i = "\u006c";
+      S3i += "\u0061\u0073\x74\x4d\x6f\x76\u0065";
+      f7v = "\u0067\u0072";
+      f7v += "\x61\x62\u0053\x74\x61";
+      f7v += "\x72\u0074\u0058";
+      X_f = "\u0061\x6e\x79";
+      X_f += "\x48\u0069\u0067\x68\u006c\u0069\u0067\x68\x74\x65\x64";
+      if (
+        this[
+          "\u0068\x69\x67\u0068\x6c\u0069\x67\u0068\u0074\u0065\u0064\u0044\u0072\x61\u0067\x67\u0061\x62\u006c\x65"
+        ]
+      ) {
+        this["\x64\x69\x73\x70\x6c\x61\x79\u0044\u0072\u0061\x67\x4f\x4b"](!"");
+        this[
+          "\x64\u0072\x61\u0067\x50\x6c\x6f\x74\x4f\x72\u0041\x78\u0069\x73"
+        ](O$p, L12);
+        return Q3L(this);
+      }
+      if (this[X_f]) {
+        J$5 = "\x6f";
+        J$5 += "\u0076\u0065\u0072\u006c";
+        J$5 += "\x61\x79\x73";
+        if (
+          this["\u0063\x68\u0061\u0072\x74"][
+            "\x74\x65\u006d\x70\x43\x61\x6e\x76\u0061\u0073"
+          ]
+        ) {
+          j2m["\x63\u006c\x65\u0061\u0072\x43\u0061\x6e\x76\u0061\x73"](
+            this["\u0063\u0068\x61\x72\x74"][
+              "\x74\u0065\u006d\x70\x43\x61\x6e\u0076\x61\x73"
+            ],
+            this,
+          );
+        }
+        this[
+          "\x61\x6e\x79\u0048\x69\u0067\x68\u006c\u0069\x67\u0068\x74\u0065\x64"
+        ] = ![];
+        for (W0V in this[J$5]) {
+          S4c = "\x6f\u0076\u0065\x72\u006c";
+          S4c += "\u0061";
+          S4c += "\u0079";
+          S4c += "\u0073";
+          this[S4c][W0V]["\x68\x69\u0067\x68\u006c\x69\u0067\x68\x74"] = !!"";
+        }
+        for (W0V in j0C["\x73\u0065\u0072\u0069\u0065\u0073"]) {
+          s$j = "\u0068\x69\x67\u0068\u006c\u0069\u0067\x68";
+          s$j += "\x74";
+          S5F = "\x73";
+          S5F += "\x65";
+          S5F += "\x72\u0069\x65\u0073";
+          j0C[S5F][W0V][s$j] = ![];
+        }
+        this[
+          "\x64\u0069\u0073\x70\u006c\u0061\x79\u0053\x74\u0069\x63\x6b\x79"
+        ]();
+      }
+      if (this[f7v] == -1) {
+        this["\u0067\u0072\u0061\x62\u0053\x74\x61\u0072\u0074\x58"] =
+          j2m["\x43\u0068\x61\u0072\u0074\u0045\u006e\x67\u0069\x6e\x65"][
+            "\x63\x72\x6f\u0073\x73\u0068\x61\x69\u0072\u0058"
+          ];
+        this[
+          "\x67\x72\x61\x62\u0053\x74\u0061\u0072\u0074\u0053\u0063\u0072\x6f\x6c\u006c\u0058"
+        ] = j0C["\x73\u0063\x72\u006f\x6c\u006c"];
+      }
+      if (this["\x67\x72\u0061\x62\x53\x74\u0061\u0072\u0074\u0059"] == -1) {
+        N3e = "\u0079";
+        N3e += "\x41\x78\x69\u0073";
+        S0v = "\x63\u0075\x72\u0072\x65\x6e\x74\x50\u0061";
+        S0v += "\x6e\u0065\x6c";
+        this["\x67\u0072\x61\x62\u0053\x74\x61\u0072\u0074\u0059"] =
+          j2m["\u0043\x68\u0061\x72\u0074\x45\u006e\u0067\x69\u006e\u0065"][
+            "\u0063\u0072\u006f\u0073\u0073\x68\u0061\u0069\x72\u0059"
+          ];
+        this[
+          "\x67\u0072\x61\x62\u0053\u0074\u0061\u0072\x74\x53\u0063\x72\u006f\x6c\x6c\x59"
+        ] = this[S0v][N3e]["\u0073\u0063\u0072\x6f\x6c\x6c"];
+      }
+      x1q =
+        this[S3i] === "\u0068\u006f\x72\u0069\u007a\x6f\u006e\x74\x61\u006c"
+          ? j2m["\u0043\x68\u0061\x72\x74\x45\x6e\x67\u0069\x6e\u0065"][S7H]
+          : Math[K20](
+              this["\x6c\u0065\u0066\x74"],
+              Math["\x6d\u0069\x6e"](
+                this["\x72\u0069\u0067\x68\u0074"],
+                j2m[
+                  "\x43\x68\u0061\u0072\u0074\u0045\x6e\u0067\x69\u006e\u0065"
+                ][E98],
+              ),
+            );
+      H2H =
+        this[X1W] === G7z
+          ? j2m["\x43\u0068\u0061\x72\u0074\u0045\x6e\u0067\x69\x6e\u0065"][
+              "\x63\x72\u006f\x73\u0073\u0068\u0061\x69\u0072\u0059"
+            ]
+          : Math[n2z](
+              this[U6j],
+              Math["\x6d\x69\x6e"](
+                this["\x62\x6f\u0074\x74\u006f\x6d"],
+                j2m[g1M][H4l],
+              ),
+            );
+      H1F = x1q - this[X7L];
+      x4D = H2H - this["\u0067\x72\u0061\u0062\x53\x74\u0061\u0072\u0074\x59"];
+      if (H1F === +"0" && x4D === 0) {
+        return;
+      }
+      if (Math[c$p](H1F) + Math["\x61\x62\x73"](x4D) > 5) {
+        this[
+          "\x67\x72\x61\x62\u004f\x76\u0065\x72\u0072\u0069\x64\x65\u0043\x6c\x69\u0063\u006b"
+        ] = !![];
+      }
+      x8g =
+        this["\u006c\u0061\x79\x6f\u0075\u0074"][
+          "\u0063\x61\u006e\u0064\u006c\x65\u0057\u0069\u0064\u0074\x68"
+        ];
+      if (
+        this["\x61\x6c\u006c\u006f\u0077\x5a\x6f\u006f\x6d"] &&
+        this["\x67\x72\x61\x62\u004d\x6f\x64\u0065"] != "\u0070\u0061\u006e" &&
+        (this["\x67\u0072\x61\x62\x4d\x6f\x64\u0065"][
+          "\u0069\x6e\x64\u0065\u0078\u004f\x66"
+        ]("\x7a\x6f\u006f\x6d") === 0 ||
+          this[w75] ||
+          this[
+            "\u0067\x72\u0061\u0062\u0053\x74\x61\x72\x74\x59\x41\u0078\x69\u0073"
+          ])
+      ) {
+        L0O = "\u0067";
+        L0O += "\u0072\x61\u0062";
+        L0O += "\x53";
+        L0O += "\x74\x61\x72\x74\x59\x41\x78\x69\u0073";
+        w2I = "\x73\u0065";
+        w2I += "\u0074";
+        w2I += "\u0053\x70\u0061";
+        w2I += "\u006e";
+        i4L = "\u006c\u0061\u0079\x6f\x75";
+        i4L += "\u0074";
+        m3n = "\x67";
+        m3n += "\u0072\x61\u0062\x4d";
+        m3n += "\x6f";
+        m3n += "\x64\x65";
+        if (this["\u0067\x72\u0061\u0062\u004d\x6f\x64\u0065"] === "") {
+          if (this["\u006f\u0076\x65\x72\x58\x41\x78\u0069\x73"]) {
+            this["\x67\u0072\x61\u0062\x4d\u006f\u0064\u0065"] =
+              "\x7a\x6f\x6f\x6d\u002d\u0078";
+          } else if (
+            this[
+              "\x67\x72\u0061\x62\x53\x74\u0061\x72\x74\x59\u0041\x78\u0069\x73"
+            ]
+          ) {
+            this["\x67\u0072\x61\u0062\u004d\x6f\x64\u0065"] =
+              "\x7a\x6f\x6f\x6d\u002d\x79";
+          }
+        }
+        if (
+          this["\u0067\u0072\u0061\x62\x4d\x6f\x64\u0065"] ==
+          "\x7a\u006f\u006f\x6d\u002d\x78"
+        ) {
+          x4D = 0;
+        } else if (this[m3n] == "\u007a\u006f\u006f\u006d\x2d\u0079") {
+          H1F = 0;
+        }
+        if (H1F) {
+          r_l = "\x7a";
+          r_l += "\x6f\u006f";
+          r_l += "\x6d\u0053\u0065";
+          r_l += "\x74";
+          this["\u0067\u0072\u0061\u0062\u0053\x74\x61\x72\u0074\u0058"] =
+            j2m["\x43\x68\x61\x72\u0074\x45\u006e\x67\u0069\u006e\x65"][
+              "\x63\x72\u006f\x73\x73\x68\u0061\u0069\x72\u0058"
+            ];
+          R7u =
+            x8g -
+            H1F /
+              this["\x63\x68\u0061\x72\x74"][
+                "\x6d\x61\u0078\x54\x69\x63\x6b\u0073"
+              ];
+          this[r_l](R7u, this["\u0063\x68\u0061\u0072\x74"]);
+        }
+        if (
+          this[i4L][w2I] ||
+          this["\x6c\x61\u0079\u006f\u0075\u0074"]["\x72\x61\x6e\u0067\u0065"]
+        ) {
+          j8K = "\x63\x68\x61\u006e";
+          j8K += "\u0067\x65";
+          j8K += "\u004f\u0063\u0063\u0075\u0072\u0072\u0065";
+          j8K += "\x64";
+          W$6 = "\x73";
+          W$6 += "\u0065\u0074\x53";
+          W$6 += "\x70\u0061\x6e";
+          this["\x6c\u0061\u0079\u006f\x75\u0074"][W$6] = this[
+            "\x6c\x61\x79\x6f\u0075\u0074"
+          ]["\u0072\u0061\u006e\x67\u0065"] = null;
+          this[j8K]("\u006c\u0061\u0079\x6f\u0075\x74");
+        }
+        s7S = this[L0O];
+        if (s7S && s7S["\u0061\u006c\u006c\x6f\u0077\u005a\x6f\x6f\u006d"]) {
+          O34 = "\x73";
+          O34 += "\u0068\u0069\x66";
+          O34 += "\x74";
+          Q1y = "\u0062";
+          Q1y += "\u006f";
+          Q1y += "\u0064\x79";
+          n7R = "\x66";
+          n7R += "\u006c";
+          n7R += "\u0069\x70\x70";
+          n7R += "\u0065\x64";
+          if (s7S[n7R]) {
+            x4D *= -1;
+          }
+          if (
+            document[Q1y][
+              "\u006b\u0065\u0079\x73\x74\x72\u006f\u006b\x65\u0048\x75\x62"
+            ]["\x6b\u0065\u0079\u0073\x74\x72\x6f\u006b\x65"][O34]
+          ) {
+            Q$m = "\x67\u0072\x61\u0062";
+            Q$m += "\x53\u0074\x61\x72\u0074\x53\x63\x72\x6f\u006c\u006c";
+            s7S["\u0073\x63\x72\x6f\u006c\u006c"] = Math[
+              "\u0072\x6f\x75\x6e\x64"
+            ](this[Q$m] + x4D);
+          } else {
+            O$K = "\x67\u0072\u0061\u0062\u0053";
+            O$K += "\x74";
+            O$K += "\u0061\x72\u0074\u005a\u006f\u006f\x6d";
+            s7S["\x7a\u006f\u006f\x6d"] = Math["\x72\x6f\x75\x6e\x64"](
+              this[O$K] + x4D,
+            );
+            if (
+              this[
+                "\x67\x72\x61\x62\u0053\u0074\x61\u0072\u0074\x5a\x6f\x6f\x6d"
+              ] < s7S["\u0068\u0065\x69\x67\x68\u0074"]
+            ) {
+              if (
+                s7S["\x7a\x6f\x6f\x6d"] >= s7S["\x68\x65\u0069\u0067\u0068\x74"]
+              ) {
+                y1G.w6J(100);
+                var f_c = y1G.Y51(0, 6, 0, 5);
+                s7S["\x7a\x6f\x6f\x6d"] =
+                  s7S["\u0068\u0065\x69\u0067\x68\x74"] - f_c;
+              }
+            } else {
+              if (
+                s7S["\u007a\u006f\u006f\u006d"] <=
+                s7S["\u0068\u0065\x69\u0067\x68\x74"]
+              ) {
+                y1G.C2v(115);
+                var v42 = y1G.Y51(14, 0, 155, 12, 12);
+                s7S["\u007a\x6f\u006f\x6d"] =
+                  s7S["\u0068\u0065\u0069\x67\x68\u0074"] + v42;
+              }
+            }
+          }
+        }
+      } else if (!this["\u006f\u0076\u0065\x72\x59\u0041\x78\x69\x73"]) {
+        m7y = "\u0063\u0075\x72\u0072\x65";
+        m7y += "\u006e\u0074";
+        m7y += "\u0050";
+        m7y += "\x61\u006e\u0065\x6c";
+        e_q = "\u006d\x6f";
+        e_q += "\u0076\u0065";
+        I2q = "\u0064\u0069\x73\u0070\u0061\u0074";
+        I2q += "\u0063\u0068";
+        this[I2q](e_q, {
+          stx: this,
+          panel: this[m7y],
+          x: this["\x63\u0078"],
+          y: this["\x63\u0079"],
+          grab: !![],
+        });
+        if (
+          this["\u0061\u006c\u006c\u006f\x77\u0053\x63\x72\u006f\u006c\u006c"]
+        ) {
+          m2t = "\x63";
+          m2t += "\x78";
+          f6u = "\x73\u0065\x74";
+          f6u += "\x53\u0070\u0061\x6e";
+          T0G = "\x6d";
+          T0G += "\u0061\u0078\x54";
+          T0G += "\u0069\u0063\x6b\x73";
+          m7r = "\u006c\u0069\u006e";
+          m7r += "\x65\u0054\u0072";
+          m7r += "\x61\x76\x65\x6c\u0053\u0070\u0061\x63\x69\u006e\u0067";
+          I3y = "\u0073\u0068\x69\u0066";
+          I3y += "\x74";
+          p4k = "\x67\x72";
+          p4k += "\u0061\u0062\u004d\u006f\x64\u0065";
+          if (
+            Math["\u0061\x62\u0073"](x4D) <
+            this["\x79\x54\u006f\x6c\u0065\x72\u0061\u006e\x63\u0065"]
+          ) {
+            h85 = "\u0079";
+            h85 += "\u0054\u006f\x6c";
+            h85 += "\x65\u0072\x61\u006e\x63\u0065\x42\u0072\x6f\x6b\u0065\x6e";
+            if (!this[h85]) {
+              x4D = 0;
+              if (H1F === 0) {
+                return;
+              }
+            }
+          } else {
+            this[
+              "\x79\u0054\u006f\u006c\x65\u0072\x61\x6e\u0063\x65\u0042\u0072\x6f\x6b\u0065\x6e"
+            ] = !!1;
+          }
+          if (
+            !this[
+              "\x67\x72\x61\u0062\x53\x74\u0061\x72\u0074\u004d\x69\x63\x72\x6f\x70\u0069\x78\x65\u006c\u0073"
+            ]
+          ) {
+            this[
+              "\u0067\x72\x61\u0062\u0053\u0074\u0061\u0072\u0074\x4d\u0069\u0063\u0072\u006f\u0070\x69\x78\u0065\u006c\u0073"
+            ] = 0;
+          }
+          this[p4k] = "\x70\u0061\x6e";
+          j0C["\u0073\x63\u0072\u006f\x6c\u006c"] =
+            this[
+              "\u0067\x72\u0061\u0062\x53\x74\u0061\x72\u0074\u0053\u0063\x72\u006f\u006c\u006c\u0058"
+            ];
+          y1G.w6J(7);
+          var L1J = y1G.Y51(9, 4);
+          y1G.C2v(58);
+          var P9f = y1G.B$D(2, 13, 14, 0);
+          this["\x6d\x69\x63\x72\x6f\u0070\u0069\x78\x65\x6c\x73"] =
+            this[
+              "\u0067\x72\x61\x62\x53\x74\u0061\x72\u0074\x4d\x69\x63\u0072\x6f\u0070\x69\u0078\u0065\u006c\x73"
+            ] +
+            H1F * (this[I3y] ? L1J : P9f);
+          if (!this[m7r]) {
+            m76 = "\x6d\u0069";
+            m76 += "\x63\u0072\x6f\x70";
+            m76 += "\x69\x78\x65\u006c\x73";
+            while (this[m76] > 0) {
+              O4M = "\x6d\u0069";
+              O4M += "\u0063";
+              O4M += "\u0072";
+              O4M += "\x6f\u0070\x69\x78\x65\x6c\x73";
+              this[O4M] -= x8g;
+              j0C["\x73\u0063\u0072\u006f\u006c\u006c"]++;
+            }
+            while (
+              this[
+                "\u006d\x69\u0063\u0072\x6f\u0070\u0069\u0078\x65\x6c\u0073"
+              ] < -x8g
+            ) {
+              this["\x6d\x69\u0063\x72\u006f\x70\x69\x78\u0065\u006c\u0073"] +=
+                x8g;
+              j0C["\u0073\x63\u0072\x6f\u006c\u006c"]--;
+            }
+          }
+          if (j0C["\u0073\u0063\x72\x6f\x6c\u006c"] >= j0C[T0G]) {
+            this[
+              "\u0070\u0072\u0065\x66\u0065\u0072\x65\u006e\u0063\u0065\x73"
+            ]["\u0077\x68\u0069\u0074\x65\x73\x70\u0061\u0063\x65"] =
+              this[
+                "\x69\u006e\u0069\x74\x69\x61\x6c\u0057\u0068\u0069\u0074\x65\x73\x70\x61\u0063\u0065"
+              ];
+          } else {
+            S$c = "\u0077\u0068\u0069\x74\x65\x73\x70\u0061";
+            S$c += "\u0063\u0065";
+            this["\x70\u0072\u0065\u0066\x65\x72\u0065\x6e\x63\u0065\u0073"][
+              S$c
+            ] =
+              (j0C["\x6d\x61\x78\u0054\x69\u0063\x6b\x73"] -
+                j0C["\u0073\u0063\u0072\u006f\x6c\x6c"]) *
+              x8g;
+          }
+          if (
+            this[
+              "\u0063\x75\u0072\u0072\x65\x6e\x74\u0050\x61\u006e\u0065\x6c"
+            ] ==
+            this[
+              "\u0067\u0072\x61\u0062\x53\x74\u0061\x72\u0074\u0050\x61\u006e\u0065\x6c"
+            ]
+          ) {
+            T24 = "\x67\u0072";
+            T24 += "\u0061\u0062\x53\u0074";
+            T24 += "\x61\x72\x74\x53\x63\u0072\u006f";
+            T24 += "\x6c\x6c\u0059";
+            s7S =
+              this[
+                "\x63\u0075\u0072\u0072\x65\x6e\u0074\u0050\x61\x6e\u0065\x6c"
+              ]["\u0079\x41\u0078\u0069\x73"];
+            if (s7S["\x66\x6c\x69\x70\x70\u0065\u0064"]) {
+              x4D *= -1;
+            }
+            if (
+              !s7S["\u0063\u006c\x61\u006d\x70"] ||
+              !s7S["\u0063\x6c\u0061\u006d\u0070"][
+                "\u006d\u0069\u006e\u006d\u0061\x78"
+              ]
+            ) {
+              s7S["\u0073\x63\x72\u006f\x6c\x6c"] = this[T24] + x4D;
+            }
+          }
+          if (
+            this["\u006c\x61\u0079\u006f\x75\u0074"][f6u] ||
+            this["\u006c\x61\x79\x6f\u0075\x74"]["\u0072\x61\u006e\x67\u0065"]
+          ) {
+            b47 = "\x6c\u0061";
+            b47 += "\x79\x6f\u0075\u0074";
+            n$l = "\x6c\x61";
+            n$l += "\u0079\x6f\u0075\u0074";
+            S9j = "\u0073";
+            S9j += "\x65\x74\x53\x70\x61";
+            S9j += "\x6e";
+            this["\x6c\x61\x79\x6f\u0075\x74"][S9j] = this[n$l][
+              "\x72\x61\u006e\x67\u0065"
+            ] = null;
+            this[
+              "\x63\u0068\u0061\u006e\u0067\x65\x4f\x63\u0063\x75\x72\x72\u0065\x64"
+            ](b47);
+          }
+          this["\x64\x69\x73\x70\u0061\x74\u0063\x68"](
+            "\u0073\x63\x72\u006f\u006c\x6c",
+            {
+              stx: this,
+              panel:
+                this[
+                  "\x63\u0075\x72\u0072\u0065\x6e\x74\x50\x61\x6e\u0065\x6c"
+                ],
+              x: this[m2t],
+              y: this["\u0063\x79"],
+            },
+          );
+        }
+      }
+      H$O = function (N5k) {
+        y1G.s8u();
+        return function () {
+          var r5F, k3$;
+          r5F = "\x75\x70\u0064\u0061\u0074";
+          r5F += "\x65\x43\u0068\u0061\x72";
+          r5F +=
+            "\u0074\u0041\u0063\u0063\x65\x73\u0073\u006f\u0072\x69\u0065\u0073";
+          k3$ = "\x64";
+          k3$ += "\u0072";
+          k3$ += "\x61";
+          k3$ += "\u0077";
+          N5k[k3$]();
+          N5k[r5F]();
+        };
+      };
+      if (j2m[d1D][g6F]) {
+        this["\u006f\x77\x6e\x65\x72\x57\x69\x6e\u0064\u006f\x77"][
+          "\u0072\u0065\x71\x75\x65\x73\u0074\u0041\u006e\x69\u006d\u0061\x74\u0069\x6f\u006e\x46\u0072\u0061\x6d\x65"
+        ](H$O(this));
+      } else {
+        this["\u0064\u0072\x61\u0077"]();
+        this[
+          "\u0075\x70\u0064\u0061\u0074\x65\x43\x68\x61\u0072\x74\x41\x63\u0063\u0065\x73\u0073\u006f\u0072\x69\x65\x73"
+        ]();
+      }
+      if (
+        this["\u0061\x63\u0074\x69\x76\x65\u0044\x72\x61\x77\x69\x6e\u0067"]
+      ) {
+        d$O = "\u0063";
+        d$O += "\u006f";
+        d$O += "\x6e\x74\x65\u0078\x74";
+        V5G = "\u0072\u0065\u006e";
+        V5G += "\x64";
+        V5G += "\u0065\u0072";
+        j6R = "\u0061\u0063\u0074\u0069\x76\u0065\x44";
+        j6R += "\u0072\x61\u0077\u0069\u006e\x67";
+        S4N = "\u0063";
+        S4N += "\u0068";
+        S4N += "\x61";
+        S4N += "\u0072\u0074";
+        j2m["\x63\u006c\u0065\u0061\x72\u0043\x61\x6e\x76\u0061\u0073"](
+          this[S4N]["\x74\x65\x6d\u0070\x43\x61\x6e\u0076\x61\x73"],
+          this,
+        );
+        this[j6R][V5G](
+          this["\x63\x68\u0061\x72\u0074"][
+            "\x74\u0065\u006d\x70\u0043\u0061\u006e\x76\x61\x73"
+          ][d$O],
+        );
+        this["\x61\x63\x74\x69\u0076\x65\u0044\x72\x61\x77\x69\x6e\u0067"][
+          "\x6d\u0065\u0061\x73\x75\x72\x65"
+        ]();
+      }
+      this[
+        "\x75\u006e\u0064\x69\x73\u0070\x6c\x61\u0079\x43\u0072\u006f\u0073\x73\x68\x61\x69\u0072\u0073"
+      ]();
+      return;
+    }
+    this["\x67\x72\u0061\x62\u004d\x6f\u0064\x65"] = "";
+    if (this["\x6f\x76\x65\u0072\x58\x41\u0078\u0069\x73"] || this[y3J]) {
+      this[
+        "\x75\u0070\x64\x61\u0074\x65\x43\x68\x61\u0072\x74\u0041\u0063\x63\x65\x73\u0073\u006f\u0072\x69\x65\x73"
+      ]();
+      if (
+        !this[
+          "\x74\x61\x70\x46\u006f\x72\u0048\x69\x67\x68\x6c\u0069\u0067\x68\u0074\u0069\x6e\u0067"
+        ] ||
+        !this["\x74\x6f\u0075\u0063\u0068\x69\u006e\u0067"] ||
+        this["\u0061\x6e\u0079\u0048\x69\x67\x68\x6c\x69\x67\x68\x74\u0065\x64"]
+      ) {
+        x0V =
+          "\u0066\x69\u006e\x64\u0048\u0069\u0067\u0068\x6c\u0069\u0067\u0068\u0074";
+        x0V += "\x73";
+        this[x0V]();
+      }
+      return Q3L(this);
+    }
+    if (
+      this["\x63\u006f\u006e\x74\x72\x6f\x6c\u0073"][
+        "\u0063\u0072\u006f\u0073\u0073\x58"
+      ]
+    ) {
+      this["\x63\u006f\u006e\x74\x72\x6f\u006c\u0073"][
+        "\x63\u0072\u006f\x73\u0073\x58"
+      ]["\u0073\u0074\u0079\x6c\u0065"]["\u006c\x65\x66\x74"] =
+        this["\x70\u0069\x78\u0065\x6c\u0046\x72\x6f\x6d\u0054\x69\x63\u006b"](
+          this[
+            "\u0063\u0072\u006f\x73\u0073\x68\x61\u0069\u0072\u0054\x69\x63\x6b"
+          ],
+          j0C,
+        ) -
+        ("0.5" - 0) +
+        c$f;
+    }
+    if (
+      this["\u0063\u006f\u006e\x74\u0072\u006f\u006c\u0073"][
+        "\x63\x72\x6f\x73\u0073\x59"
+      ]
+    ) {
+      this[I7$]["\u0063\x72\x6f\x73\x73\x59"]["\u0073\x74\u0079\u006c\x65"][
+        "\u0074\u006f\u0070"
+      ] =
+        this[
+          "\x63\u0072\x6f\u0073\x73\x59\x41\x63\x74\x75\x61\x6c\u0050\u006f\u0073"
+        ] + "\x70\x78";
+    }
+    if (
+      this["\x69\x6e\u0073\u0069\u0064\x65\x43\u0068\x61\u0072\x74"] &&
+      !j2m["\u0043\u0068\u0061\x72\x74\x45\x6e\x67\x69\x6e\x65"][
+        "\x72\x65\x73\u0069\u007a\x69\u006e\x67\x50\u0061\u006e\x65\x6c"
+      ]
+    ) {
+      N7G = "\u0073\x74\u0075\x64\u0069";
+      N7G += "\x65";
+      N7G += "\u0073";
+      l0i = "\x6c";
+      l0i += "\u0061";
+      l0i += "\u0079\x6f\x75\x74";
+      V4$ =
+        this[
+          "\x63\u0075\x72\u0072\u0065\u006e\u0074\u0056\u0065\u0063\u0074\x6f\x72\u0050\u0061\u0072\x61\x6d\u0065\u0074\u0065\x72\x73"
+        ]["\x76\x65\x63\u0074\u006f\u0072\u0054\x79\u0070\x65"];
+      if (this[l0i][N7G]) {
+        l9V =
+          this["\x6c\u0061\u0079\x6f\u0075\x74"][
+            "\x73\x74\x75\u0064\x69\x65\u0073"
+          ][
+            this[
+              "\u0063\x75\x72\x72\u0065\u006e\u0074\u0050\x61\u006e\x65\x6c"
+            ]["\u006e\u0061\x6d\x65"]
+          ];
+        if (l9V) {
+          W0K = "\u006e\u0061";
+          W0K += "\u006d";
+          W0K += "\x65";
+          j3A = "\x6f\u0076";
+          j3A += "\u0065\u0072\u006c\u0061\u0079";
+          j3A += "\u0073";
+          a_U = "\x6e";
+          a_U += "\u0061";
+          a_U += "\u006d";
+          a_U += "\u0065";
+          Z6o = "\u006f";
+          Z6o += "\u0076\u0065\x72\u006c\u0061\x79\u0073";
+          e$8 = "\x64";
+          e$8 += "\u0072\u0061\u0067\x67\x69\x6e\u0067";
+          if (
+            !this["\u0070\u0072\x65\x66\u0065\x72\u0065\x6e\u0063\u0065\x73"][
+              e$8
+            ] ||
+            !this["\u0070\u0072\x65\x66\x65\u0072\x65\u006e\x63\x65\x73"][
+              "\u0064\x72\u0061\x67\x67\u0069\x6e\x67"
+            ]["\x73\x74\u0075\u0064\u0079"]
+          ) {
+            delete this[Z6o][l9V[a_U]];
+          }
+          if (V4$) {
+            this[j3A][l9V[W0K]] = l9V;
+          }
+        }
+      }
+      if (
+        !j2m["\x44\u0072\x61\u0077\u0069\x6e\u0067"] ||
+        !V4$ ||
+        !j2m["\x44\x72\x61\u0077\u0069\x6e\x67"][V4$] ||
+        !new j2m["\u0044\u0072\x61\u0077\x69\x6e\x67"][V4$]()[
+          "\u0064\u0072\u0061\u0067\u0054\x6f\u0044\u0072\u0061\u0077"
+        ]
+      ) {
+        this[
+          "\u0064\x6f\x44\x69\x73\x70\u006c\x61\x79\u0043\u0072\u006f\x73\u0073\u0068\x61\u0069\x72\u0073"
+        ]();
+      }
+      this[
+        "\u0075\x70\x64\u0061\x74\u0065\x43\x68\u0061\x72\x74\x41\x63\u0063\u0065\x73\u0073\x6f\u0072\u0069\u0065\x73"
+      ]();
+    } else {
+      this[
+        "\x75\u006e\x64\x69\x73\x70\x6c\u0061\x79\x43\u0072\u006f\u0073\u0073\u0068\u0061\x69\x72\u0073"
+      ]();
+    }
+    if (this[z7B]) {
+      this["\x6d\u0061\u0067\u006e\u0065\x74\u0069\x7a\u0065"]();
+    }
+    if (
+      this[
+        "\u0072\x65\x70\u006f\x73\u0069\x74\x69\x6f\u006e\u0069\u006e\x67\u0044\x72\u0061\u0077\u0069\x6e\u0067"
+      ]
+    ) {
+      O1x = "\u0072\u0065\x70\u006f\x73\x69\u0074\u0069\u006f";
+      O1x += "\x6e\x69\x6e\x67\x44\u0072\x61\u0077\u0069\x6e\u0067";
+      this[
+        "\u0072\x65\u0070\u006f\x73\u0069\x74\u0069\u006f\x6e\u0044\u0072\x61\x77\x69\u006e\x67"
+      ](this[O1x]);
+    } else if (
+      j2m["\u0043\u0068\u0061\x72\x74\x45\u006e\u0067\x69\x6e\x65"][m1X]
+    ) {
+      if (
+        this["\u0061\x63\x74\u0069\u0076\u0065\u0044\x72\x61\x77\x69\x6e\u0067"]
+      ) {
+        d2z = "\x61";
+        d2z += "\u0063";
+        d2z += "\x74\u0069\x76\u0065\x44\u0072\u0061\x77\u0069\x6e\x67";
+        h45 = "\u006d";
+        h45 += "\u0065";
+        h45 += "\x61\u0073\u0075";
+        h45 += "\u0072\x65";
+        if (
+          this[
+            "\u006d\x61\u0067\x6e\x65\x74\u0069\u007a\u0065\x64\u0050\u0072\x69\u0063\u0065"
+          ] === null
+        ) {
+          h3X = "\x63";
+          h3X += "\x72";
+          h3X += "\x6f\x73\x73\u0068\x61\u0069\u0072";
+          h3X += "\x54\u0069\x63\u006b";
+          f9V = "\u006e";
+          f9V += "\x61";
+          f9V += "\x6d\u0065";
+          E1T = "\u0063";
+          E1T += "\u006c\x65\x61\x72\u0043\u0061\x6e\u0076\u0061\u0073";
+          w9N = "\u0061\u0063";
+          w9N += "\x74";
+          w9N += "\x69\u0076\x65\u0044\u0072\u0061\x77\x69\x6e\x67";
+          R8$ = "\x63\u0072\u006f\u0073\x73";
+          R8$ += "\x68\u0061\u0069\x72\u0059";
+          l$n = "\x43\x68\x61\x72";
+          l$n += "\x74\u0045\x6e\u0067\u0069\x6e";
+          l$n += "\u0065";
+          f5F = "\u0061\x63";
+          f5F += "\x74\x69\x76\u0065\x44\x72\x61\u0077\x69\x6e\x67";
+          Z74 = "\x63\u0072\x6f";
+          Z74 += "\u0073\x73\u0068";
+          Z74 += "\x61\x69\x72\x54\u0069\x63\x6b";
+          i1N = "\u0061";
+          i1N +=
+            "\x64\x6a\x75\x73\x74\x49\x66\u004e\u0065\u0063\u0065\x73\u0073";
+          i1N += "\x61\u0072\x79";
+          b8U =
+            this["\u0070\u0061\x6e\x65\u006c\u0073"][
+              this[
+                "\x61\x63\u0074\u0069\x76\u0065\u0044\x72\x61\x77\x69\x6e\x67"
+              ]["\u0070\x61\u006e\u0065\x6c\x4e\x61\x6d\x65"]
+            ];
+          m41 = this[i1N](
+            b8U,
+            this[Z74],
+            this[f5F][
+              "\x76\x61\x6c\x75\u0065\u0046\x72\x6f\u006d\x50\u0069\u0078\x65\u006c"
+            ](
+              this["\u0062\u0061\u0063\u006b\x4f\u0075\x74\u0059"](
+                j2m[l$n][R8$],
+              ),
+              b8U,
+              this[
+                "\x67\u0065\x74\x59\x41\u0078\x69\x73\u0042\x79\x46\u0069\x65\x6c\x64"
+              ](b8U, this[w9N]["\u0066\x69\x65\u006c\u0064"]),
+            ),
+          );
+          j2m[E1T](
+            this["\u0063\x68\x61\u0072\u0074"][
+              "\x74\u0065\x6d\x70\x43\x61\u006e\x76\u0061\u0073"
+            ],
+            this,
+          );
+          this["\u0073\x74\x61\x72\x74\x43\u006c\x69\u0070"](b8U[f9V]);
+          this[
+            "\u0061\u0063\x74\u0069\u0076\u0065\u0044\u0072\x61\x77\u0069\x6e\x67"
+          ]["\u006d\u006f\u0076\u0065"](
+            this["\x63\u0068\u0061\x72\x74"][
+              "\u0074\u0065\u006d\x70\u0043\x61\x6e\x76\x61\u0073"
+            ]["\u0063\x6f\x6e\u0074\u0065\u0078\u0074"],
+            this[h3X],
+            m41,
+          );
+          this["\x65\u006e\x64\u0043\u006c\u0069\u0070"]();
+        }
+        if (
+          this[
+            "\u0061\x63\u0074\x69\u0076\x65\u0044\x72\u0061\u0077\u0069\x6e\u0067"
+          ][h45]
+        ) {
+          this[d2z]["\u006d\u0065\u0061\u0073\u0075\x72\u0065"]();
+        }
+      }
+    } else if (
+      j2m["\u0043\u0068\x61\x72\x74\x45\x6e\u0067\x69\x6e\x65"][
+        "\x72\u0065\x73\x69\u007a\x69\u006e\x67\u0050\x61\u006e\x65\u006c"
+      ]
+    ) {
+      this["\u0072\x65\x73\u0069\u007a\x65\u0050\x61\x6e\x65\u006c\u0073"]();
+    }
+    if (this[S8H]) {
+      this["\x64\x69\x73\u0070\x61\x74\x63\u0068"]("\u006d\x6f\u0076\u0065", {
+        stx: this,
+        panel: this["\x63\x75\u0072\x72\u0065\u006e\x74\x50\x61\x6e\x65\u006c"],
+        x: this["\x63\x78"],
+        y: this["\x63\u0079"],
+        grab: !{},
+      });
+      if (
+        !this[
+          "\x74\x61\x70\u0046\x6f\u0072\u0048\x69\u0067\u0068\u006c\u0069\x67\x68\u0074\u0069\u006e\u0067"
+        ] ||
+        !this["\u0074\u006f\x75\u0063\x68\u0069\x6e\u0067"] ||
+        this["\x61\x6e\x79\u0048\x69\x67\u0068\u006c\x69\x67\x68\x74\u0065\x64"]
+      ) {
+        this[
+          "\x66\u0069\x6e\u0064\x48\u0069\u0067\x68\u006c\u0069\u0067\u0068\x74\x73"
+        ]();
+      }
+    }
+    return Q3L(this);
+  };
+  j2m.ChartEngine.prototype.swipeStart = function (D0I) {
+    var o$9, N8_;
+    o$9 = this.swipe;
+    if (o$9 && o$9.interval) {
+      clearInterval(o$9.interval);
+    }
+    o$9.velocity = 0;
+    o$9.amplitude = +"0";
+    o$9.frame = D0I.scroll;
+    o$9.micropixels = this.micropixels;
+    o$9.timestamp = Date.now();
+    o$9.chart = D0I;
+    o$9.end = ![];
+    o$9.timeConstant = 325;
+    o$9.cb = null;
+    N8_ = this;
+    this.ownerWindow.requestAnimationFrame(function () {
+      N8_.swipeSample();
+    });
+  };
+  j2m.ChartEngine.prototype.swipeSample = function () {
+    var Q_3, y2e, H5p, O3R, Z1$, H1c, T0K, f8S, L4W;
+    Q_3 = this.swipe;
+    if (Q_3.end) {
+      return;
+    }
+    y2e = this;
+    T0K = 20;
+    H5p = Date.now();
+    O3R = H5p - Q_3.timestamp;
+    if (O3R < T0K) {
+      this.ownerWindow.requestAnimationFrame(function () {
+        y2e.swipeSample();
+      });
+      return;
+    }
+    f8S = j2m.touchDevice ? +"0.4" : 0.8;
+    Q_3.timestamp = H5p;
+    Z1$ =
+      (Q_3.chart.scroll - Q_3.frame) * this.layout.candleWidth +
+      this.micropixels -
+      Q_3.micropixels;
+    Q_3.frame = Q_3.chart.scroll;
+    Q_3.micropixels = this.micropixels;
+    y1G.w6J(116);
+    H1c = y1G.B$D(0, 1, O3R, Z1$, "1000");
+    L4W = f8S * H1c + 0.2 * Q_3.velocity;
+    if (Math.abs(L4W) > Math.abs(Q_3.velocity)) {
+      Q_3.velocity = L4W;
+    }
+    if (Math.abs(Z1$) < +"6") {
+      Q_3.velocity = 0;
+    }
+    this.ownerWindow.requestAnimationFrame(function () {
+      y2e.swipeSample();
+    });
+  };
+  j2m.ChartEngine.prototype.swipeRelease = function () {
+    var r23, z_a;
+    r23 = this.swipe;
+    if (r23.velocity > 3000) {
+      r23.velocity = 3000;
+    }
+    if (r23.velocity < -3000) {
+      r23.velocity = -3000;
+    }
+    if (r23.velocity > 10 || r23.velocity < -+"10") {
+      r23.amplitude = 0.8 * r23.velocity;
+      r23.scroll = r23.chart.scroll;
+      r23.target = r23.amplitude;
+      r23.timestamp = Date.now();
+      z_a = this;
+      if (this.disableBackingStoreDuringTouch) {
+        this.disableBackingStore();
+      }
+      this.ownerWindow.requestAnimationFrame(function () {
+        z_a.autoscroll();
+      });
+    }
+  };
+  j2m.ChartEngine.prototype.allowDragControls = function () {
+    var E4M;
+    E4M = {
+      down: (function (W1b) {
+        return function (T_J) {
+          W1b.modalBegin();
+          y1G.s8u();
+          W1b.chart.draggingControls = {
+            bottom: W1b.chart.chartControls.style.bottom,
+          };
+        };
+      })(this),
+      move: (function (V5K) {
+        y1G.s8u();
+        return function (U4v) {
+          y1G.a3_();
+          var f11, R_3, g5i;
+          var {
+            draggingControls: X7C,
+            chartControls: N4s,
+            home: B8E,
+          } = V5K.chart;
+          if (X7C) {
+            var { style: e1G, offsetHeight: l3V } = N4s;
+            f11 = V5K.height - l3V;
+            R_3 = 0;
+            g5i = j2m.stripPX(X7C.bottom) - U4v.displacementY;
+            g5i = Math.min(Math.max(g5i, R_3), f11);
+            y1G.w6J(0);
+            e1G.bottom = y1G.Y51(g5i, "px");
+            B8E.style.bottom = e1G.bottom;
+          }
+        };
+      })(this),
+      up: (function (d02) {
+        return function (k6Z) {
+          d02.chart.draggingControls = null;
+          d02.modalEnd();
+        };
+      })(this),
+    };
+    if (this.chart.chartControls) {
+      j2m.safeDrag(this.chart.chartControls, E4M);
+    }
+    if (this.chart.home) {
+      j2m.safeDrag(this.chart.home, E4M);
+    }
+  };
+  j2m.ChartEngine.prototype.dragPlotOrAxis = function (t3n, P8T) {
+    var h3U,
+      C0t,
+      b_U,
+      F0c,
+      u15,
+      F5s,
+      o8C,
+      u2C,
+      i3a,
+      j4g,
+      K1p,
+      y31,
+      j_Q,
+      K6R,
+      N$z,
+      v0M,
+      L3g,
+      K33,
+      e6x,
+      s1l,
+      l1Q,
+      X$h,
+      a2j,
+      a2V,
+      i4Y,
+      U2Y,
+      n3p,
+      c80,
+      e70,
+      T8c,
+      A9U,
+      q8_,
+      J8b,
+      D9c,
+      Y24,
+      U5v,
+      W8m,
+      F6Q,
+      d8r,
+      L2M,
+      Y07,
+      v8c,
+      t_K,
+      y22,
+      u5H,
+      p$x,
+      G$9,
+      j8m,
+      F50,
+      L3R,
+      A16,
+      U9c,
+      N$9,
+      I$i,
+      Z1K,
+      a$Z;
+    h3U = "r";
+    h3U += "ig";
+    h3U += "ht";
+    C0t = this;
+    if (!m0P.call(this) && !this.grabbingScreen) {
+      return;
+    }
+    b_U = null;
+    F0c = this.whichPanel(P8T);
+    u15 = this.highlightedDraggable;
+    y1G.C2v(3);
+    F5s = y1G.Y51("0", 1);
+    if (!F0c) {
+      return;
+    }
+    if (u15.undraggable && u15.undraggable(this)) {
+      return;
+    }
+    if (
+      this.xAxisAsFooter &&
+      F0c ==
+        Object.values(this.panels)
+          .filter(function (T0v) {
+            y1G.a3_();
+            return !T0v.hidden;
+          })
+          .pop()
+    ) {
+      F5s = this.xaxisHeight;
+      if (b_U) {
+        b_U += F5s;
+      }
+    }
+    o8C = Math.min(20, (F0c.height - F5s) / 3);
+    u2C = Math.min(10, F0c.width / ("3" >> 32));
+    i3a = this.whichYAxis(F0c, t3n, P8T);
+    y1G.w6J(10);
+    j4g = this.whichYAxis(F0c, y1G.B$D(u2C, t3n), P8T);
+    y1G.C2v(0);
+    K1p = this.whichYAxis(F0c, y1G.Y51(t3n, u2C), P8T);
+    y1G.w6J(10);
+    y31 = this.whichPanel(y1G.B$D(o8C, P8T));
+    y1G.C2v(2);
+    j_Q = this.whichPanel(y1G.B$D(P8T, o8C, F5s));
+    K6R = !{};
+    N$z = ![];
+    v0M = !!"";
+    if (j2m.Renderer) {
+      K6R = u15 instanceof j2m.Renderer;
+    }
+    if (j2m.Studies) {
+      N$z = u15 instanceof j2m.Studies.StudyDescriptor;
+    }
+    v0M = u15 instanceof j2m.ChartEngine.YAxis;
+    L3g = function (P27) {
+      var o$V;
+      if (!v0M) {
+        o$V = "l";
+        o$V += "e";
+        o$V += "f";
+        o$V += "t";
+        if (P27 == "right") {
+          return F0c.right - F0c.width / ("6" ^ 0);
+        }
+        if (P27 == o$V) {
+          y1G.w6J(67);
+          var q96 = y1G.Y51(48, 10, 416, 9);
+          return F0c.left + F0c.width / q96;
+        }
+      }
+      y1G.w6J(117);
+      var x$Q = y1G.Y51(2, 1, 13, 13);
+      return (F0c.left + F0c.right) / x$Q;
+    };
+    if (!v0M && !i3a) {
+      K33 = "le";
+      K33 += "ft";
+      if (t3n < L3g(K33)) {
+        j4g = this.whichYAxis(F0c, F0c.left - 1, P8T);
+      } else if (t3n > L3g("right")) {
+        K1p = this.whichYAxis(F0c, F0c.right + 1, P8T);
+      }
+    }
+    e6x = [];
+    if (u15.getDependents) {
+      e6x = u15.getDependents(this, !!"1");
+    }
+    s1l = u15.panel;
+    l1Q = u15.getYAxis(this);
+    if (K6R) {
+      s1l = u15.params.panel;
+    } else if (v0M) {
+      s1l = this.grabStartPanel.name;
+    }
+    X$h = this.panels[s1l];
+    for (a2j in this.panels) {
+      if (this.panels[a2j].soloing) {
+        a2V = !!1;
+      }
+    }
+    i4Y = l1Q.isShared(this);
+    U2Y =
+      !i3a &&
+      !v0M &&
+      !a2V &&
+      ((X$h !== F0c && X$h != y31 && X$h != j_Q) ||
+        !this.checkForEmptyPanel(X$h, !!1, [u15].concat(e6x)));
+    n3p = (s1l == F0c.name && l1Q !== i3a && l1Q !== K1p && l1Q !== j4g) || i4Y;
+    if (U2Y && (!y31 || F0c !== y31)) {
+      T8c = "t";
+      T8c += "o";
+      T8c += "p";
+      F0c.subholder.classList.add("dropzone");
+      F0c.subholder.classList.add(T8c);
+      j_Q = F0c;
+    } else if (U2Y && (!j_Q || F0c !== j_Q)) {
+      F0c.subholder.classList.add("dropzone");
+      F0c.subholder.classList.add("bottom");
+    } else if (F0c !== X$h) {
+      if (!v0M && !F0c.noDrag) {
+        A9U = "a";
+        A9U += "l";
+        A9U += "l";
+        F0c.subholder.classList.add("dropzone");
+        F0c.subholder.classList.add(A9U);
+        c80 = F0c.name;
+      }
+    } else if (
+      (!F0c.yaxisRHS.length ||
+        (F0c.yaxisRHS.length == 1 &&
+          F0c.yaxisRHS[0] == l1Q &&
+          l1Q.position == "none")) &&
+      !i3a &&
+      !K1p &&
+      t3n > L3g(h3U)
+    ) {
+      q8_ = "r";
+      q8_ += "ig";
+      q8_ += "h";
+      q8_ += "t";
+      F0c.subholder.classList.add("dropzone");
+      F0c.subholder.classList.add(q8_);
+      e70 = "right";
+    } else if (
+      (!F0c.yaxisLHS.length ||
+        (F0c.yaxisLHS.length == 1 &&
+          F0c.yaxisLHS[0] == l1Q &&
+          l1Q.position == "none")) &&
+      !i3a &&
+      !j4g &&
+      t3n < L3g("left")
+    ) {
+      F0c.subholder.classList.add("dropzone");
+      F0c.subholder.classList.add("left");
+      e70 = "left";
+    } else if (n3p) {
+      if (v0M && t3n > F0c.left && t3n < F0c.right) {
+        y1G.w6J(29);
+        var F1K = y1G.B$D(1, 16, 17);
+        J8b = F0c.yaxisLHS[F0c.yaxisLHS.length - F1K];
+        D9c = F0c.yaxisRHS[0];
+        Y24 = L3g();
+        if (t3n < Y24 && J8b != l1Q) {
+          j4g = J8b;
+        } else if (t3n > Y24 && D9c != l1Q) {
+          K1p = D9c;
+        }
+      }
+      if (!v0M || i3a !== l1Q) {
+        U5v = !v0M && i4Y;
+        if (K1p && (K1p !== l1Q || U5v) && (!i3a || i3a !== K1p)) {
+          K1p.dropzone = "left";
+          e70 = K1p.position || this.chart.panel.yAxis.position || "right";
+        } else if (j4g && (j4g !== l1Q || U5v) && (!i3a || i3a !== j4g)) {
+          W8m = "ri";
+          W8m += "g";
+          W8m += "h";
+          W8m += "t";
+          j4g.dropzone = "right";
+          e70 = j4g.position || this.chart.panel.yAxis.position || W8m;
+        } else if (i3a) {
+          if (!K1p && (i3a !== l1Q || U5v)) {
+            i3a.dropzone = "right";
+          } else if (!j4g && (i3a !== l1Q || U5v)) {
+            i3a.dropzone = "left";
+          } else if (i3a !== l1Q) {
+            i3a.dropzone = "all";
+          }
+          if (i3a.dropzone) {
+            e70 = i3a.position || this.chart.panel.yAxis.position || "right";
+          }
+        }
+      }
+    }
+    if (
+      this.grabbingScreen ||
+      (!F0c.subholder.classList.contains("dropzone") && !e70)
+    ) {
+      this.draw();
+      return;
+    }
+    d8r = -+"1";
+    function m0P() {
+      var d6g, b6s, W8x, F1N, B7H;
+      function A$V(L4q) {
+        return function (i$i) {
+          y1G.a3_();
+          if (L4q.subholder.classList.contains(i$i)) {
+            L4q.subholder.classList.remove(i$i);
+            d6g = !![];
+          }
+        };
+      }
+      d6g = !"1";
+      y1G.s8u();
+      for (var u3F in C0t.panels) {
+        b6s = "b";
+        b6s += "ot";
+        b6s += "to";
+        b6s += "m";
+        W8x = "r";
+        W8x += "i";
+        W8x += "gh";
+        W8x += "t";
+        F1N = "lef";
+        F1N += "t";
+        ["dropzone", "all", F1N, W8x, "top", b6s].forEach(A$V(C0t.panels[u3F]));
+        for (B7H = +"0"; B7H < C0t.panels[u3F].yaxisLHS.length; B7H++) {
+          if (C0t.panels[u3F].yaxisLHS[B7H].dropzone) {
+            d6g = !!"1";
+          }
+          C0t.panels[u3F].yaxisLHS[B7H].dropzone = null;
+        }
+        for (B7H = 0; B7H < C0t.panels[u3F].yaxisRHS.length; B7H++) {
+          if (C0t.panels[u3F].yaxisRHS[B7H].dropzone) {
+            d6g = !0;
+          }
+          C0t.panels[u3F].yaxisRHS[B7H].dropzone = null;
+        }
+      }
+      return d6g;
+    }
+    if (!c80 && !e70 && U2Y) {
+      c80 = N$z ? u15.inputs.id : u15.params.name || j2m.uniqueID();
+      for (var N1n in this.panels) {
+        d8r++;
+        if (this.panels[N1n] == j_Q) break;
+      }
+      if (!j_Q) {
+        d8r++;
+      }
+      if (this.panels[s1l].yAxis.name == c80) {
+        s1l = this.electNewPanelOwner(s1l);
+      }
+      L2M = N$z ? u15.inputs.display : null;
+      if (s1l) {
+        this.createPanel(
+          L2M || c80,
+          c80,
+          b_U,
+          this.chart.name,
+          new j2m.ChartEngine.YAxis({ name: c80 }),
+        );
+      } else {
+        s1l = c80;
+      }
+      if (N$z) {
+        u15.panel = s1l;
+      } else {
+        u15.params.panel = s1l;
+      }
+    }
+    if (c80) {
+      if (N$z) {
+        if (!u15.parameters) {
+          u15.parameters = {};
+        }
+        u15.parameters.panelName = c80;
+        this.highlightedDraggable = j2m.getFn("Studies.replaceStudy")(
+          this,
+          u15.inputs.id,
+          u15.type,
+          u15.inputs,
+          u15.outputs,
+          u15.parameters,
+          null,
+          u15.study,
+        );
+      } else if (K6R) {
+        this._rendererMoving = !!1;
+        for (var H09 in u15.seriesParams) {
+          Y07 = u15.seriesParams[H09];
+          v8c = null;
+          if (u15.params.yAxis) {
+            if (u15.params.yAxis !== this.chart.panel.yAxis) {
+              v8c = u15.params.yAxis;
+              if (v8c.renderers.length > 1) {
+                v8c = new j2m.ChartEngine.YAxis(v8c);
+              }
+              v8c.name = u15.params.name;
+            }
+          }
+          this.modifySeries(Y07.id, { panel: c80, yAxis: v8c });
+        }
+        delete this._rendererMoving;
+      }
+      if (d8r > -1) {
+        t_K = {};
+        y22 = 0;
+        for (a2j in this.panels) {
+          if (d8r == y22++) {
+            t_K[c80] = this.panels[c80];
+          }
+          if (a2j == c80) continue;
+          t_K[a2j] = this.panels[a2j];
+        }
+        if (!t_K[c80]) {
+          t_K[c80] = this.panels[c80];
+        }
+        this.panels = t_K;
+      }
+      this.checkForEmptyPanel(s1l);
+      for (var p8V = 0; p8V < e6x.length; p8V++) {
+        if (e6x[p8V].params) {
+          this.checkForEmptyPanel(e6x[p8V].params.name);
+        } else {
+          this.checkForEmptyPanel(e6x[p8V].name);
+        }
+      }
+      this.adjustPanelPositions();
+    } else if (e70) {
+      u5H = function (g0q, N_u, p62, u3l) {
+        y1G.s8u();
+        var O9C, m9n;
+        if (p62 == "study") {
+          if (!N_u.parameters) {
+            N_u.parameters = {};
+          }
+          if (u3l) {
+            N_u.parameters.yaxisDisplayValue = u3l.position;
+          } else {
+            delete N_u.parameters.yaxisDisplayValue;
+          }
+          O9C = j2m.getFn("Studies.replaceStudy")(
+            g0q,
+            N_u.inputs.id,
+            N_u.type,
+            N_u.inputs,
+            N_u.outputs,
+            N_u.parameters,
+            N_u.panel,
+            N_u.study,
+          );
+        }
+        if (p62 == "renderer") {
+          for (var z1I in N_u.seriesParams) {
+            m9n = N_u.seriesParams[z1I];
+            O9C = g0q.modifySeries(m9n.id, { panel: c80, yAxis: u3l });
+          }
+        }
+        return O9C;
+      };
+      p$x = i3a && i3a.dropzone == "all";
+      if (!p$x) {
+        if (v0M) {
+          u15.position = e70;
+          if (this.layout.studies) {
+            G$9 = this.layout.studies[u15.name];
+            if (G$9) {
+              if (!G$9.parameters) {
+                G$9.parameters = {};
+              }
+              G$9.parameters.yaxisDisplayValue = e70;
+            }
+          }
+        } else if (N$z) {
+          this.highlightedDraggable = u5H(this, u15, "study", {
+            position: e70,
+          });
+        } else if (K6R) {
+          u5H(
+            this,
+            u15,
+            "renderer",
+            new j2m.ChartEngine.YAxis({
+              name: u15.params.name || j2m.uniqueID(),
+              position: e70,
+            }),
+          );
+        }
+        l1Q = this.highlightedDraggable.getYAxis(this);
+      }
+      if (!i4Y || !p$x || v0M) {
+        j8m = l1Q;
+        if (p$x && l1Q == this.chart.panel.yAxis) {
+          j8m = i3a;
+        }
+        for (F6Q = 0; F6Q < F0c.yaxisLHS.length; F6Q++) {
+          if (F0c.yaxisLHS[F6Q] == j8m) {
+            j8m.unsetTransform(this);
+            F0c.yaxisLHS.splice(F6Q, 1);
+            break;
+          }
+        }
+        for (F6Q = "0" - 0; F6Q < F0c.yaxisRHS.length; F6Q++) {
+          if (F0c.yaxisRHS[F6Q] == j8m) {
+            j8m.unsetTransform(this);
+            F0c.yaxisRHS.splice(F6Q, 1);
+            break;
+          }
+        }
+      }
+      if (p$x) {
+        if (this.getYAxisByName(F0c, l1Q.name) == F0c.yAxis) {
+          this.electNewPanelOwner(F0c, i3a);
+        }
+        if (v0M) {
+          A16 = l1Q;
+          U9c = i3a;
+          if (l1Q == this.chart.panel.yAxis) {
+            A16 = i3a;
+            U9c = l1Q;
+          }
+          for (L3R in A16.studies) {
+            u5H(
+              this,
+              this.layout.studies[A16.studies[L3R]],
+              "study",
+              U9c === this.chart.panel.yAxis ? null : { position: U9c.name },
+            );
+          }
+          for (L3R in A16.renderers) {
+            u5H(
+              this,
+              this.chart.seriesRenderers[A16.renderers[L3R]],
+              "renderer",
+              U9c,
+            );
+          }
+          this.highlightedDraggable = U9c;
+        } else if (N$z) {
+          N$9 = "s";
+          N$9 += "tu";
+          N$9 += "d";
+          N$9 += "y";
+          this.highlightedDraggable = u5H(this, u15, N$9, {
+            position: i3a.name,
+          });
+        } else if (K6R) {
+          u5H(this, u15, "renderer", i3a);
+        }
+      } else {
+        if (l1Q.position == "none") {
+          l1Q.width = j2m.ChartEngine.YAxis.prototype.width;
+        }
+        l1Q.position = e70;
+        F50 = e70 == "left" ? F0c.yaxisLHS : F0c.yaxisRHS;
+        for (F6Q = 0; F6Q < F50.length; F6Q++) {
+          if (F50[F6Q] !== l1Q) {
+            I$i = "le";
+            I$i += "f";
+            I$i += "t";
+            if (F50[F6Q].dropzone == I$i) {
+              F50.splice(F6Q, 0, l1Q);
+            } else if (F50[F6Q].dropzone == "right") {
+              y1G.C2v(118);
+              F50.splice(y1G.Y51(0, F6Q, "1"), +"0", l1Q);
+            } else continue;
+          }
+          break;
+        }
+        if (F6Q == F50.length) {
+          F50.push(l1Q);
+        }
+      }
+    }
+    for (var V$C in this.panels) {
+      Z1K = this.panels[V$C];
+      a$Z = Z1K.yaxisLHS.concat(Z1K.yaxisRHS);
+      for (F6Q = 0; F6Q < a$Z.length; F6Q++) {
+        a$Z[F6Q].height = Z1K.yAxis.height;
+        if (!a$Z[F6Q].lockScale) {
+          this.calculateYAxisMargins(a$Z[F6Q]);
+        }
+      }
+    }
+    this.displayDragOK();
+    this.draw();
+    this.resetDynamicYAxis();
+    this.calculateYAxisPositions();
+    this.draw();
+    this.findHighlights(null, !![]);
+    this.savePanels();
+  };
+  S9K = ![];
+  j2m.ChartEngine.prototype.findHighlights =
+    j2m.ChartEngine.prototype.findHighlights ||
+    function (B$x, o1E) {
+      y1G.s8u();
+      if (!S9K) {
+        console.error(
+          "movement feature requires activating interaction feature.",
+        );
+      }
+      S9K = !!"1";
+    };
+};
+t3 = (a5p) => {
+  var b5I, Q1k;
+  b5I = "un";
+  b5I += "defined";
+  Q1k = typeof _CIQ !== b5I ? _CIQ : a5p.CIQ;
+  Q1k.NameValueStore = Q1k.NameValueStore || function () {};
+  Q1k.NameValueStore.prototype.toJSONIfNecessary = function (a5D) {
+    var U3O;
+    if (a5D.constructor == String) {
+      return a5D;
+    }
+    U6BfN.a3_();
+    try {
+      U3O = JSON.stringify(a5D);
+      return U3O;
+    } catch (k1m) {
+      U6BfN.C2v(0);
+      console.log(U6BfN.Y51("Cannot convert to JSON: ", a5D));
+      return null;
+    }
+  };
+  Q1k.NameValueStore.prototype.fromJSONIfNecessary = function (m8X) {
+    U6BfN.a3_();
+    var o_A;
+    try {
+      o_A = JSON.parse(m8X);
+      return o_A;
+    } catch (c0D) {
+      return m8X;
+    }
+  };
+  Q1k.NameValueStore.prototype.get = function (m83, i9q) {
+    var u03;
+    U6BfN.s8u();
+    u03 = Q1k.localStorage.getItem(m83);
+    i9q(null, this.fromJSONIfNecessary(u03));
+  };
+  Q1k.NameValueStore.prototype.set = function (Q31, Q6k, m2U) {
+    Q1k.localStorageSetItem(Q31, this.toJSONIfNecessary(Q6k));
+    if (m2U) {
+      m2U(null);
+    }
+  };
+  Q1k.NameValueStore.prototype.remove = function (F$n, q4W) {
+    Q1k.localStorage.removeItem(F$n);
+    if (q4W) {
+      q4W(null);
+    }
+  };
+};
+w1 = (n9t) => {
+  var p_T = U6BfN;
+  var x$e;
+  x$e = typeof _CIQ !== "undefined" ? _CIQ : n9t.CIQ;
+  if (!x$e.ChartEngine) {
+    x$e.ChartEngine = function () {};
+  }
+  N_g.fetchInitialData = function (Y2s, r0L, i0Z, l2T, M98) {};
+  N_g.fetchUpdateData = function (D3w, K8R, P2u, D8y) {};
+  N_g.fetchPaginationData = function (s7N, N_S, g2D, y1d, R7$) {};
+  N_g.subscribe = function (d6D) {};
+  N_g.unsubscribe = function (S6l) {};
+  x$e.QuoteFeed = x$e.QuoteFeed || function () {};
+  x$e.QuoteFeed.prototype.fetch = function (X6v, L6w) {
+    p_T.a3_();
+    if (!this.v2QuoteFeed) {
+      console.log(
+        "You must implement CIQ.QuoteFeed.[yourfeedname].prototype.fetch()",
+      );
+    }
+  };
+  x$e.QuoteFeed.prototype.announceError = function (j2f, Z4D) {
+    if (j2f.suppressErrors || Z4D.suppressAlert) {
+      return;
+    }
+    p_T.a3_();
+    if (j2f.startDate) {
+    } else if (j2f.endDate) {
+    } else if (Z4D.error) {
+      x$e.alert("Error fetching quote:" + Z4D.error);
+    } else {
+    }
+  };
+  function N_g() {}
+  x$e.QuoteFeed.prototype.multiFetch = function (P1M, g1x) {
+    if (P1M.length === 0) {
+      g1x([]);
+    }
+    p_T.s8u();
+    return P1M[0].stx.driver.multiFetch(P1M, g1x);
+  };
+  x$e.QuoteFeed.Subscriptions = function () {
+    this.subscriptions = [];
+  };
+  x$e.inheritsFrom(x$e.QuoteFeed.Subscriptions, x$e.QuoteFeed);
+  x$e.QuoteFeed.Subscriptions.prototype.checkSubscriptions = function (p4E) {
+    var N$t, o0F, o41, E8g, q03, W_C, o84, B2x;
+    o41 = p4E.getSymbols({ "breakout-equations": !"" });
+    E8g = this;
+    o41 = o41.filter(function (d$s) {
+      p_T.s8u();
+      var W74;
+      W74 = p4E.quoteDriver.getQuoteFeed(d$s);
+      return W74 && W74.engine == E8g;
+    });
+    for (var U4N = 0; U4N < this.subscriptions.length; U4N++) {
+      this.subscriptions[U4N].match = ![];
+    }
+    for (var C16 = 0; C16 < o41.length; C16++) {
+      o0F = o41[C16];
+      q03 = o0F.interval;
+      if ((q03 == "month" || q03 == "week") && !p4E.dontRoll) {
+        q03 = "day";
+      }
+      o0F.interval = q03;
+      o0F.period = 1;
+      o0F.match = !"1";
+      if (!isNaN(o0F.interval)) {
+        o0F.period = o0F.interval;
+        o0F.interval = o0F.timeUnit;
+        if (!o0F.interval) {
+          o0F.interval = "minute";
+        }
+      }
+      delete o0F.periodicity;
+      delete o0F.timeUnit;
+      delete o0F.setSpan;
+      for (U4N = 0; U4N < this.subscriptions.length; U4N++) {
+        N$t = this.subscriptions[U4N];
+        if (
+          N$t.symbol == o0F.symbol &&
+          N$t.period == o0F.period &&
+          N$t.interval == o0F.interval
+        ) {
+          o0F.match = !!"1";
+          N$t.match = !![];
+          break;
+        } else if (N$t.symbol != o0F.symbol) {
+          W_C = "s";
+          W_C += "ymb";
+          W_C += "o";
+          W_C += "l";
+          o84 = "sy";
+          o84 += "m";
+          o84 += "b";
+          o84 += "ol";
+          B2x = "pe";
+          B2x += "r";
+          B2x += "iod";
+          if (o0F.reason != B2x) {
+            o0F.reason = o84;
+          }
+          N$t.reason = W_C;
+        } else {
+          o0F.reason = "period";
+          N$t.reason = "period";
+        }
+      }
+    }
+    this.subscriptions = this.subscriptions.filter(function (D8A) {
+      if (!D8A.match) {
+        if (!D8A.stx) {
+          D8A.stx = p4E;
+        }
+        E8g.unsubscribe(D8A);
+      }
+      return D8A.match;
+    });
+    o41.forEach(function (G31) {
+      p_T.s8u();
+      if (!G31.match) {
+        if (!G31.stx) {
+          G31.stx = p4E;
+        }
+        if (!G31.reason) {
+          G31.reason = "initialize";
+        }
+        if (G31.symbol !== p4E.chart.symbol) {
+          G31.series = !!{};
+        }
+        E8g.subscribe(G31);
+        E8g.subscriptions.push(G31);
+      }
+    });
+  };
+  x$e.QuoteFeed.Subscriptions.prototype.fetch = function (A3O, H0p) {
+    var a9G;
+    a9G = this;
+    p_T.a3_();
+    this.fetchFromSource(A3O, function (O9h) {
+      if (!O9h.error) {
+        a9G.checkSubscriptions(A3O.stx);
+      }
+      p_T.a3_();
+      H0p(O9h);
+    });
+  };
+  x$e.QuoteFeed.Subscriptions.prototype.subscribe = function (U8P) {
+    p_T.s8u();
+    console.log("subscribe", U8P);
+  };
+  x$e.QuoteFeed.Subscriptions.prototype.unsubscribe = function (W5Q) {
+    console.log("unsubscribe", W5Q);
+  };
+  x$e.QuoteFeed.Subscriptions.prototype.fetchFromSource = function (U23, V4r) {
+    console.log("Please provide implementation of fetchFromSource");
+  };
+  x$e.QuoteFeed.prototype.requiresImmediateRefresh = function (N05) {
+    return !"1";
+  };
+  x$e.ChartEngine.prototype.attachQuoteFeed = function (X_3, M9Z, U3R) {
+    var K2B, U2V, R37, y12, s09, l$Z, C6x, q9d, d3d, C48, O1c;
+    if (!M9Z) {
+      M9Z = {};
+    }
+    if (
+      typeof X_3.fetchInitialData === "function" ||
+      typeof X_3.fetchUpdateData === "function" ||
+      typeof X_3.fetchPaginationData === "function"
+    ) {
+      K2B = "announceE";
+      K2B += "rror";
+      U2V = "functi";
+      U2V += "on";
+      if (
+        typeof X_3.fetchPaginationData !== "function" &&
+        typeof X_3.fetchUpdateData !== U2V
+      ) {
+        R37 = 297519089;
+        y12 = 504681129;
+        s09 = 2;
+        for (
+          var E7J = 1;
+          p_T.C6S(E7J.toString(), E7J.toString().length, 54478) !== R37;
+          E7J++
+        ) {
+          M9Z.noLoadMore = !{};
+          s09 += 2;
+        }
+        if (p_T.D9u(s09.toString(), s09.toString().length, 61758) !== y12) {
+          M9Z.noLoadMore = !![];
+        }
+      }
+      X_3.v2QuoteFeed = !![];
+      ["multiFetch", K2B, "requiresImmediateRefresh"].forEach(function (d3o) {
+        if (!X_3[d3o] && X_3[d3o] !== ![]) {
+          X_3[d3o] = x$e.QuoteFeed.prototype[d3o];
+        }
+      });
+      if (typeof X_3.subscribe === "function") {
+        X_3.checkSubscriptions =
+          x$e.QuoteFeed.Subscriptions.prototype.checkSubscriptions;
+        X_3.subscriptions = [];
+      }
+    }
+    if (!M9Z.maximumTicks) {
+      M9Z.maximumTicks = X_3.maxTicks ? X_3.maxTicks : 20000;
+    }
+    if (!M9Z.bufferSize || M9Z.bufferSize < 0) {
+      M9Z.bufferSize = +"0";
+    }
+    M9Z.bufferSize = Math.round(M9Z.bufferSize);
+    X_3.intervalTimer = null;
+    l$Z = [];
+    if (this.quoteDriver) {
+      if (!U3R && this.quoteDriver.hasUnfilteredQuoteFeed) {
+        C6x = -459822987;
+        p_T.w6J(1);
+        q9d = p_T.B$D(96, "248581528");
+        d3d = 2;
+        for (
+          var u9S = 1;
+          p_T.C6S(u9S.toString(), u9S.toString().length, 91198) !== C6x;
+          u9S++
+        ) {
+          l$Z = this.quoteDriver.quoteFeeds.slice(3);
+          d3d += 2;
+        }
+        if (
+          p_T.C6S(d3d.toString(), d3d.toString().length, "11122" - 0) !== q9d
+        ) {
+          l$Z = this.quoteDriver.quoteFeeds.slice(0);
+        }
+        l$Z.pop();
+        this.detachQuoteFeed();
+      } else {
+        C48 =
+          this.quoteDriver.hasUnfilteredQuoteFeed &&
+          this.quoteDriver.quoteFeeds.pop();
+        this.quoteDriver.quoteFeeds.push({
+          engine: X_3,
+          behavior: M9Z,
+          filter: U3R,
+        });
+        if (C48) {
+          this.quoteDriver.quoteFeeds.push(C48);
+        }
+        this.quoteDriver.updateChartLoop(null, M9Z, X_3);
+      }
+    }
+    if (!this.quoteDriver) {
+      this.quoteDriver = new x$e.ChartEngine.Driver(this, X_3, M9Z, U3R);
+      for (var t$c of l$Z) {
+        this.quoteDriver.quoteFeeds.push(t$c);
+      }
+      if (!U3R) {
+        O1c = this.quoteDriver.quoteFeeds.shift();
+        this.quoteDriver.quoteFeeds.push(O1c);
+        this.quoteDriver.quoteFeed = O1c.engine;
+        this.quoteDriver.behavior = O1c.behavior;
+      }
+    }
+    if (!U3R) {
+      this.quoteDriver.hasUnfilteredQuoteFeed = !!{};
+    }
+  };
+  x$e.ChartEngine.prototype.detachQuoteFeed = function (G3d) {
+    var Y46;
+    Y46 = this.quoteDriver;
+    if (!Y46) {
+      return;
+    }
+    for (var H9g = Y46.quoteFeeds.length - 1; H9g >= 0; H9g--) {
+      if (!G3d || Y46.quoteFeeds[H9g].engine == G3d) {
+        if (!Y46.quoteFeeds[H9g].filter) {
+          Y46.hasUnfilteredQuoteFeed = !1;
+        }
+        Y46.die(Y46.quoteFeeds[H9g]);
+        Y46.quoteFeeds.splice(H9g, 1);
+      }
+    }
+    if (!Y46.quoteFeeds.length) {
+      Y46 = this.quoteDriver = null;
+    } else if (G3d == Y46.quoteFeed) {
+      Y46.quoteFeed = Y46.quoteFeeds[0].engine;
+      Y46.behavior = Y46.quoteFeeds[0].behavior;
+    }
+  };
+  x$e.ChartEngine.Driver = function (Y3Z, b3m, r8I, e_h) {
+    this.stx = Y3Z;
+    if (!r8I) {
+      r8I = {};
+    }
+    this.quoteFeeds = [{ engine: b3m, behavior: r8I, filter: e_h }];
+    this.id = x$e.uniqueID(!"");
+    this.behavior = r8I;
+    this.quoteFeed = b3m;
+    p_T.s8u();
+    this.loadingNewChart = ![];
+    this.updatingChart = !1;
+    if (!e_h) {
+      this.hasUnfilteredQuoteFeed = !![];
+    }
+    this.updateChartLoop();
+  };
+  x$e.ChartEngine.Driver.prototype.die = function (x7G) {
+    var Z16;
+    for (var b1S = 0; b1S < this.quoteFeeds.length; b1S++) {
+      if (!x7G || this.quoteFeeds[b1S] == x7G) {
+        Z16 = this.quoteFeeds[b1S];
+        clearInterval(Z16.intervalTimer);
+        Z16.intervalTimer = -1;
+      }
+    }
+  };
+  x$e.ChartEngine.Driver.prototype.getQuoteFeed = function (N93) {
+    var Q4d;
+    if (!N93.symbolObject) {
+      N93.symbolObject = { symbol: N93.symbol };
+    }
+    for (var G5O = 0; G5O < this.quoteFeeds.length; G5O++) {
+      Q4d = this.quoteFeeds[G5O];
+      if (Q4d.behavior.generator != N93.symbolObject.generator) continue;
+      if (!Q4d.filter || Q4d.filter(N93)) {
+        return Q4d;
+      }
+    }
+    p_T.a3_();
+    return null;
+  };
+  x$e.ChartEngine.Driver.prototype.multiFetch = function (X9v, G9r) {
+    var D9a, Y5t, C8e;
+    function f4F(H0e, b4C, c2C) {
+      p_T.a3_();
+      return function (d3Z) {
+        var m9L;
+        b4C.results.push({ dataCallback: d3Z, params: H0e });
+        b4C.counter++;
+        if (b4C.counter >= b4C.finished) {
+          m9L = b4C.results;
+          b4C.results = [];
+          c2C(m9L);
+        }
+      };
+    }
+    if (X9v.length === 0) {
+      G9r([]);
+    }
+    p_T.a3_();
+    D9a = { counter: 0, finished: X9v.length, results: [] };
+    for (var G7K = 0; G7K < X9v.length; G7K++) {
+      Y5t = X9v[G7K];
+      if (Y5t.stx.isEquationChart(Y5t.symbol)) {
+        x$e.fetchEquationChart(Y5t, f4F(Y5t, D9a, G9r));
+      } else {
+        C8e = this.getQuoteFeed(Y5t);
+        if (C8e) {
+          x$e.ChartEngine.Driver.fetchData(
+            x$e.QuoteFeed.SERIES,
+            C8e.engine,
+            Y5t,
+            f4F(Y5t, D9a, G9r),
+          );
+        }
+      }
+    }
+  };
+  x$e.ChartEngine.Driver.prototype.updateSubscriptions = function () {
+    for (var G3N = 0; G3N < this.quoteFeeds.length; G3N++) {
+      if (this.quoteFeeds[G3N].checkSubscriptions) {
+        this.quoteFeeds[G3N].checkSubscriptions(this.stx);
+      }
+    }
+  };
+  x$e.ChartEngine.Driver.prototype.loadDependents = function (
+    V52,
+    x7g,
+    N9g,
+    J26,
+  ) {
+    var X4$,
+      P_m,
+      Y5a,
+      O4X,
+      y3V,
+      O6f,
+      w5F,
+      H5L,
+      Z_8,
+      l56,
+      l5Y,
+      f6Y,
+      I6X,
+      t72,
+      m$5,
+      O46,
+      C2a,
+      l0X,
+      I95,
+      N5Q,
+      u34,
+      x2b,
+      k40;
+    X4$ = this;
+    if (!J26) {
+      P_m = 0;
+      Y5a = [];
+      O4X = [];
+      y3V = function (X$V) {
+        var h$l, P7m, H2R;
+        h$l = 1118040919;
+        P7m = -376783634;
+        H2R = +"2";
+        for (
+          var U0I = 1;
+          p_T.C6S(U0I.toString(), U0I.toString().length, 10370) !== h$l;
+          U0I++
+        ) {
+          if (x7g || --P_m < X4$.quoteFeeds.length) {
+            x7g(1);
+          }
+          H2R += +"2";
+        }
+        if (
+          p_T.D9u(H2R.toString(), H2R.toString().length, "67422" - 0) !== P7m
+        ) {
+          if (x7g || --P_m < X4$.quoteFeeds.length) {
+            x7g(1);
+          }
+        }
+        p_T.a3_();
+        if (x7g && ++P_m >= X4$.quoteFeeds.length) {
+          x7g(null);
+        }
+      };
+      O6f = function (e4G) {
+        if (++P_m < Y5a.length) {
+          return;
+        }
+        p_T.a3_();
+        if (!O4X.length) {
+          y3V(e4G);
+        }
+        O4X.forEach(function (k5R) {
+          X4$.loadDependents(V52, y3V, N9g, k5R.behavior);
+        });
+      };
+      X4$.quoteFeeds.forEach(function (D5Y) {
+        p_T.a3_();
+        if (D5Y.behavior.generator) {
+          O4X.push(D5Y);
+        } else {
+          Y5a.push(D5Y);
+        }
+      });
+      Y5a.forEach(function (M1s) {
+        p_T.a3_();
+        X4$.loadDependents(V52, O6f, N9g, M1s.behavior);
+      });
+      return;
+    }
+    H5L = V52.stx;
+    Z_8 = V52.chart;
+    l56 = Z_8.series;
+    I6X = [];
+    t72 = {};
+    m$5 = N9g == x$e.QuoteFeed.UPDATE;
+    function H7O(y0v) {
+      return function (W60) {
+        var M6$, O0q, h$R, Y1Y, k83, t1s, F9e, l_o, R6t, o6Y, a27, X9N;
+        M6$ = null;
+        p_T.s8u();
+        for (var U7o = 0; U7o < W60.length; U7o++) {
+          O0q = W60[U7o];
+          h$R = O0q.dataCallback.error;
+          if (!h$R && h$R !== 0) {
+            Y1Y = O0q.params.symbolObject;
+            k83 = O0q.dataCallback;
+            t1s = k83.quotes;
+            F9e = k83.moreAvailable;
+            l_o = k83.upToDate;
+            R6t = k83.beginDate;
+            o6Y = k83.endDate;
+            a27 = [];
+            if (H5L.getSeries) {
+              a27 = H5L.getSeries({ symbolObject: Y1Y });
+            }
+            X9N = !!"";
+            for (var h$X = 0; h$X < a27.length; h$X++) {
+              l5Y = a27[h$X];
+              if (!y0v) {
+                if (!V52.future) {
+                  l5Y.moreAvailable =
+                    F9e === !{}
+                      ? !{}
+                      : F9e ||
+                        t1s.length > (O0q.params.endDate ? "1" << 64 : 0);
+                } else {
+                  l5Y.upToDate =
+                    l_o === !!{}
+                      ? !!{}
+                      : l_o || t1s.length <= (O0q.params.startDate ? 1 : 0);
+                  if (H5L.isHistoricalModeSet && t1s.length < 2) {
+                    l5Y.mostRecentForwardAttempt = new Date();
+                  }
+                }
+                if (!l5Y.endPoints.begin || l5Y.endPoints.begin > R6t) {
+                  l5Y.endPoints.begin = R6t;
+                }
+                if (!l5Y.endPoints.end || l5Y.endPoints.end < o6Y) {
+                  l5Y.endPoints.end = o6Y;
+                }
+                l5Y.loading = !{};
+              }
+              X9N = l5Y.parameters.fillGaps || X9N;
+            }
+            t1s = X4$.cleanup(H5L, l5Y, t1s, N9g, V52, X9N);
+            H5L.updateChartData(t1s, Z_8, {
+              secondarySeries: Y1Y.symbol,
+              noCreateDataSet: !!{},
+              noCleanupDates: !![],
+              allowReplaceOHL: !!"1",
+            });
+            if (t1s && t1s.length && (!M6$ || M6$ > t1s[0].DT)) {
+              M6$ = t1s[0].DT;
+            }
+          }
+        }
+        if (W60.length && M6$) {
+          H5L.createDataSet(null, null, {
+            appending: V52.originalState.update || V52.future,
+            appendToDate: M6$,
+          });
+          if (!V52.nodraw) {
+            H5L.drawWithRange();
+          }
+          if (N9g == x$e.QuoteFeed.INITIAL) {
+            X4$.resetRefreshInterval(J26.refreshInterval, J26);
+          }
+        }
+        if (x7g) {
+          x7g(null);
+        }
+      };
+    }
+    O46 = N9g == x$e.QuoteFeed.PAGINATION;
+    C2a = x$e.shallowClone(V52);
+    for (w5F in l56) {
+      l5Y = l56[w5F];
+      l0X = l5Y.parameters;
+      if (!m$5) {
+        if (!V52.future && l5Y.moreAvailable === !{}) continue;
+        if (V52.future && l5Y.upToDate === !!{}) continue;
+      }
+      if (l5Y.loading) continue;
+      if (l0X.loadData === !1) continue;
+      if (m$5 || O46) {
+        if (!l5Y.endPoints || !Object.keys(l5Y.endPoints).length) continue;
+      }
+      if (l0X.data && !l0X.data.useDefaultQuoteFeed) continue;
+      f6Y = l0X.symbolObject;
+      if (!f6Y.symbol) continue;
+      if (f6Y.generator != J26.generator) continue;
+      C2a.symbolObject = f6Y;
+      C2a.symbol = f6Y.symbol;
+      I95 = this.getQuoteFeed(C2a);
+      if (J26 != (I95 && I95.behavior)) continue;
+      N5Q = !!"1";
+      if (!m$5) {
+        l5Y.loading = !!{};
+      }
+      for (var y00 = 0; y00 < I6X.length; y00++) {
+        if (x$e.symbolEqual(I6X[y00], f6Y)) {
+          N5Q = !{};
+        }
+      }
+      if (N5Q) {
+        I6X.push(f6Y);
+        t72[f6Y.symbol] = l5Y.endPoints;
+      }
+    }
+    u34 = [];
+    for (var t4D = "0" | 0; t4D < I6X.length; t4D++) {
+      f6Y = I6X[t4D];
+      x2b = x$e.shallowClone(V52.originalState);
+      x2b.symbol = f6Y.symbol;
+      x2b.symbolObject = f6Y;
+      if (x2b.update || x2b.future) {
+        if (!x2b.endDate) {
+          x2b.endDate = V52.endDate;
+        }
+        x2b.startDate = t72[f6Y.symbol].end;
+      } else {
+        if (!x2b.startDate) {
+          x2b.startDate = V52.startDate;
+        }
+        x2b.endDate = O46 && !V52.future ? t72[f6Y.symbol].begin : V52.endDate;
+        x2b.ticks = V52.ticks;
+      }
+      u34.push(x2b);
+    }
+    if (!u34.length && m$5) {
+      k40 = { appending: V52.appending || V52.originalState.update };
+      if (k40.appending) {
+        k40.appendToDate = V52.startDate;
+      }
+      H5L.createDataSet(null, null, k40);
+      if (!V52.nodraw) {
+        H5L.draw();
+      }
+      if (x7g) {
+        x7g(null);
+      }
+      return;
+    }
+    this.multiFetch(u34, H7O(m$5));
+  };
+  x$e.ChartEngine.Driver.prototype.cleanup = function (
+    E12,
+    S68,
+    c13,
+    T7S,
+    B5z,
+    K5d,
+  ) {
+    var X7X, l87, O_M, f2g, H12, t17;
+    X7X = S68 ? S68.parameters.periodicParams : E12.periodicParams;
+    p_T.s8u();
+    if (X7X && E12.periodicToQuotes) {
+      return E12.periodicToQuotes(c13, X7X);
+    }
+    E12.doCleanupDates(c13, E12.layout.interval);
+    if (
+      !B5z.missingBarsCreated &&
+      c13 &&
+      c13.length &&
+      E12.cleanupGaps &&
+      K5d !== ![]
+    ) {
+      f2g = B5z.chart;
+      if (!S68) {
+        O_M = f2g.defaultPlotField;
+      } else {
+        f2g = S68;
+        O_M = S68.parameters.symbol || S68.id;
+      }
+      if (T7S == x$e.QuoteFeed.PAGINATION && !B5z.loadMoreReplace) {
+        if (
+          f2g.endPoints.begin &&
+          f2g.endPoints.begin > c13[c13.length - 1].DT
+        ) {
+          H12 = E12.getFirstLastDataRecord(E12.masterData, O_M, !!"");
+          if (S68) {
+            H12 = H12[O_M];
+          }
+          c13.push(H12);
+          l87 = "pop";
+        }
+      } else if (T7S == x$e.QuoteFeed.UPDATE) {
+        if (f2g.endPoints.end && f2g.endPoints.end < c13["0" << 64].DT) {
+          t17 = E12.getFirstLastDataRecord(E12.masterData, O_M, !!{});
+          if (S68) {
+            t17 = t17[O_M];
+          }
+          c13.unshift(t17);
+          l87 = "shift";
+        }
+      }
+      c13 = E12.doCleanupGaps(c13, B5z.chart, {
+        cleanupGaps: K5d,
+        noCleanupDates: !![],
+      });
+      if (l87) {
+        c13[l87]();
+      }
+    }
+    return c13;
+  };
+  x$e.ChartEngine.Driver.prototype.updateChart = function (c9E) {
+    var c__, z4y, F3B, S7L, D7F, V11, M2U, f4e, D8x;
+    if (this.updatingChart) {
+      return;
+    }
+    if (this.loadingNewChart) {
+      return;
+    }
+    function B_2(k1y, X1A, f0H, N9j) {
+      p_T.s8u();
+      if (X1A.behavior.prefetchAction) {
+        X1A.behavior.prefetchAction("updateChart");
+      }
+      return function (q_m) {
+        var N2Z, A71;
+        z4y++;
+        N2Z = X1A.chart;
+        if (
+          f0H == N2Z.symbol &&
+          S7L == F3B.layout.interval &&
+          D7F == F3B.layout.timeUnit &&
+          !F3B.isHistoricalMode()
+        ) {
+          if (N9j === k1y.getQuoteFeed(X1A) && !q_m.error) {
+            A71 = q_m.quotes;
+            A71 = k1y.cleanup(F3B, null, A71, x$e.QuoteFeed.UPDATE, X1A);
+            F3B.updateChartData(A71, N2Z, {
+              noCreateDataSet: !!{},
+              noCleanupDates: !!"1",
+            });
+            N2Z.attribution = q_m.attribution;
+          } else if (N9j) {
+            N9j.engine.announceError(X1A.originalState, q_m);
+          }
+        } else {
+          k1y.updatingChart = !!"";
+          return;
+        }
+        p_T.a3_();
+        if (z4y == c__) {
+          k1y.updatingChart = !!"";
+        }
+        if (X1A.behavior.callback) {
+          X1A.behavior.callback(X1A);
+        }
+        k1y.loadDependents(X1A, null, x$e.QuoteFeed.UPDATE, X1A.behavior);
+      };
+    }
+    c__ = Object.keys(this.stx.charts).length;
+    z4y = 0;
+    p_T.s8u();
+    F3B = this.stx;
+    S7L = F3B.layout.interval;
+    D7F = F3B.layout.timeUnit;
+    for (var h98 in F3B.charts) {
+      V11 = F3B.charts[h98];
+      if (!V11.symbol) continue;
+      M2U = this.makeParams(V11.symbol, V11.symbolObject, V11);
+      f4e = this.getQuoteFeed(M2U);
+      if (V11.masterData && V11.masterData.length) {
+        M2U.startDate = V11.endPoints.end;
+      }
+      M2U.update = !"";
+      M2U.originalState = x$e.shallowClone(M2U);
+      if (c9E && c9E != M2U.behavior) {
+        this.loadDependents(M2U, null, x$e.QuoteFeed.UPDATE, c9E);
+        continue;
+      }
+      this.updatingChart = !![];
+      D8x = B_2(this, M2U, V11.symbol, f4e);
+      if (F3B.isEquationChart(M2U.symbol)) {
+        x$e.fetchEquationChart(M2U, D8x);
+      } else if (f4e) {
+        x$e.ChartEngine.Driver.fetchData(
+          x$e.QuoteFeed.UPDATE,
+          f4e.engine,
+          M2U,
+          D8x,
+        );
+      }
+    }
+  };
+  x$e.ChartEngine.Driver.prototype.updateChartLoop = function (u$S, S_p, H2T) {
+    var a6H, b9N;
+    if (!S_p) {
+      S_p = this.behavior;
+    }
+    if (!H2T) {
+      this.quoteFeeds.forEach(function (g0G) {
+        p_T.a3_();
+        if (g0G.behavior === S_p) {
+          H2T = g0G;
+        }
+      });
+      if (!H2T) {
+        H2T = this.quoteFeed;
+      }
+    }
+    if (H2T.intervalTimer === -1) {
+      return;
+    }
+    clearInterval(H2T.intervalTimer);
+    H2T.intervalTimer = null;
+    a6H = function (e6n, c35) {
+      return function () {
+        if (c35.noUpdate) {
+          return;
+        }
+        e6n.updateChart(c35);
+      };
+    };
+    for (var h$r = 0; h$r < this.quoteFeeds.length; h$r++) {
+      b9N = this.quoteFeeds[h$r].behavior;
+      if (S_p == b9N && !b9N.noUpdate) {
+        if (!u$S && u$S !== "0" - 0) {
+          u$S = b9N.refreshInterval;
+        }
+        if (u$S) {
+          H2T.intervalTimer = setInterval(a6H(this, b9N), u$S * 1000);
+        }
+      }
+    }
+  };
+  x$e.ChartEngine.Driver.prototype.resetRefreshInterval = function (S1v, z$_) {
+    (z$_ || this.behavior).refreshInterval = S1v;
+    this.updateChartLoop(null, z$_);
+  };
+  x$e.ChartEngine.Driver.prototype.pause = function (v7G) {
+    p_T.a3_();
+    this.paused = { symbol: v7G, interval: this.behavior.refreshInterval };
+    this.resetRefreshInterval(0);
+  };
+  x$e.ChartEngine.Driver.prototype.resume = function () {
+    p_T.s8u();
+    var { interval: L7L, symbol: d7_ } = this.paused;
+    if (x$e.symbolEqual(d7_, this.stx.chart.symbol)) {
+      return;
+    }
+    this.resetRefreshInterval(L7L);
+    this.paused = null;
+  };
+  x$e.ChartEngine.Driver.prototype.loadAll = function (z4W, G4C) {
+    var S5c, t77;
+    p_T.s8u();
+    S5c = this;
+    t77 = 0;
+    J6q()();
+    function J6q() {
+      p_T.s8u();
+      return function (T4U) {
+        p_T.a3_();
+        if (T4U) {
+          G4C(T4U);
+        } else if (
+          S5c.stx.currentlyImporting ||
+          (!z4W.moreAvailable && z4W.upToDate)
+        ) {
+          G4C(null);
+        } else if (++t77 > 20) {
+          console.warn(
+            "moreAvailable and upToDate not implemented correctly in quotefeed",
+          );
+          G4C();
+        } else {
+          z4W.loadingMore = !!0;
+          S5c.checkLoadMore(z4W, !!{}, !![], J6q(), !!{});
+        }
+      };
+    }
+  };
+  x$e.ChartEngine.Driver.prototype.checkLoadMore = function (
+    G_B,
+    R3L,
+    a80,
+    H4j,
+    u8M,
+  ) {
+    var L7Q,
+      j8E,
+      l_I,
+      G4M,
+      b08,
+      w5d,
+      R14,
+      m_9,
+      B0B,
+      I4$,
+      K4F,
+      X0B,
+      o_5,
+      G50,
+      T2J,
+      R3G,
+      R53,
+      O5C,
+      S$U,
+      j4j,
+      s17,
+      O_t,
+      H9B;
+    L7Q = this.stx;
+    j8E = this;
+    if (G_B.loadingMore || this.loadingNewChart) {
+      G_B.initialScroll = G_B.scroll;
+      if (H4j) {
+        H4j(null);
+      }
+      return;
+    }
+    l_I = L7Q.isHistoricalMode();
+    if (!l_I) {
+      L7Q.isHistoricalModeSet = !!"";
+    }
+    G4M = this.makeParams(G_B.symbol, G_B.symbolObject, G_B);
+    if (L7Q.currentlyImporting) {
+      if (H4j) {
+        H4j(null);
+      }
+      return;
+    }
+    b08 = G4M.behavior;
+    function h6K(y8j, u2T) {
+      var m$l;
+      m$l = "c";
+      m$l += "heckLo";
+      m$l += "adMore";
+      if (b08.prefetchAction) {
+        b08.prefetchAction(m$l);
+      }
+      return function (K7g) {
+        p_T.s8u();
+        var d7D, s2B, e6F, Q9W, s9Y, K1Z, v4C, z2z, l7g;
+        d7D = y8j.stx;
+        s2B = u2T.chart;
+        if (
+          u2T.symbol == s2B.symbol &&
+          R53 == d7D.layout.interval &&
+          O5C == d7D.layout.timeUnit
+        ) {
+          if (!u2T.loadMore) {
+            u2T.chart.loadingMore = !!0;
+          }
+          if (w5d === y8j.getQuoteFeed(u2T) && !K7g.error) {
+            if (!K7g.quotes) {
+              K7g.quotes = [];
+            }
+            e6F = K7g.quotes;
+            Q9W = s2B.masterData;
+            e6F = y8j.cleanup(d7D, null, e6F, x$e.QuoteFeed.PAGINATION, u2T);
+            if (e6F.length && s2B.masterData && s2B.masterData.length) {
+              if (u2T.future) {
+                s9Y = e6F[0];
+                if (
+                  s9Y.DT &&
+                  s9Y.DT == s2B.masterData[s2B.masterData.length - 1].DT
+                ) {
+                  Q9W.pop();
+                }
+              } else {
+                p_T.w6J(119);
+                var Y_5 = p_T.B$D(419, 15, 15, 4, 9);
+                K1Z = e6F[e6F.length - Y_5];
+                if (K1Z.DT && +K1Z.DT == +s2B.masterData[0].DT) {
+                  e6F.pop();
+                }
+              }
+            }
+            if (!u2T.future) {
+              if (K7g.moreAvailable) {
+                s2B.moreAvailable = !!{};
+              } else if (K7g.moreAvailable === !!"" || !e6F.length) {
+                s2B.moreAvailable = !{};
+              } else {
+                s2B.moreAvailable = !"";
+              }
+            } else {
+              s2B.maximumForwardPagination = null;
+              if (K7g.upToDate) {
+                s2B.upToDate = !!1;
+              } else if (K7g.upToDate === !{} || e6F.length > 1) {
+                s2B.upToDate = !{};
+              } else if (
+                !e6F.length ||
+                (e6F.length === 1 && +u2T.startDate === +K7g.quotes[0].DT)
+              ) {
+                if (u2T.fetchMaximumBars) {
+                  s2B.upToDate = !![];
+                } else {
+                  s2B.maximumForwardPagination = !![];
+                }
+              }
+              if (d7D.isHistoricalModeSet && e6F.length < 2) {
+                s2B.mostRecentForwardAttempt = new Date();
+              }
+            }
+            y8j.tickMultiplier = e6F.length
+              ? "2" | 2
+              : y8j.tickMultiplier * +"2";
+            v4C = e6F[+"0"] ? e6F[0].DT : u2T.startDate;
+            z2z = e6F[0] ? e6F[e6F.length - 1].DT : u2T.endDate;
+            if (K7g.beginDate) {
+              v4C = K7g.beginDate;
+            }
+            if (!s2B.endPoints.begin || s2B.endPoints.begin > v4C) {
+              s2B.endPoints.begin = v4C;
+            }
+            if (K7g.endDate) {
+              z2z = K7g.endDate;
+            }
+            if (!s2B.endPoints.end || s2B.endPoints.end < z2z) {
+              s2B.endPoints.end = z2z;
+            }
+            s2B.loadingMore = !!"";
+            if (u2T.loadMoreReplace) {
+              d7D.setMasterData(e6F, s2B, { noCleanupDates: !0 });
+            } else if (u2T.future) {
+              d7D.updateChartData(e6F, s2B, {
+                noCreateDataSet: !0,
+                noCleanupDates: !![],
+              });
+            } else {
+              x$e.addMemberToMasterdata({
+                stx: d7D,
+                chart: s2B,
+                data: e6F,
+                fields: ["*"],
+                noCleanupDates: !0,
+              });
+            }
+            if (u2T.future) {
+              l7g = { appending: !0, appendToDate: e6F[0] && e6F[0].DT };
+            }
+            d7D.createDataSet(undefined, undefined, l7g);
+            if (!u8M) {
+              d7D.draw();
+            }
+            if (b08.callback) {
+              b08.callback(u2T);
+            }
+            y8j.loadDependents(u2T, H4j, x$e.QuoteFeed.PAGINATION);
+          } else {
+            y8j.quoteFeed.announceError(u2T.originalState, K7g);
+            u2T.chart.loadingMore = !"1";
+            if (H4j) {
+              H4j(K7g.error);
+            }
+          }
+        } else {
+          return;
+        }
+      };
+    }
+    R14 = G_B.dataSet;
+    function V4w(t_P) {
+      if (j8E.paused) {
+        return ![];
+      }
+      return (
+        !t_P.endPoints.begin ||
+        R14.length - G_B.scroll < b08.bufferSize ||
+        R14.length - G_B.scroll - L7Q.tickFromDate(t_P.endPoints.begin, G_B) <
+          b08.bufferSize
+      );
+    }
+    p_T.a3_();
+    p_T.C2v(120);
+    var Y3r = p_T.Y51(17000, 2125, 985, 2, 11);
+    p_T.w6J(103);
+    var k2b = p_T.B$D(22, 4, 100, 2, 5);
+    B0B = Y3r * (b08.forwardPaginationRetryInterval || k2b);
+    I4$ = !{};
+    K4F = !{};
+    if (G_B.dataSet.length) {
+      for (var Q3T in G_B.series) {
+        X0B = G_B.series[Q3T];
+        if (X0B.loading) continue;
+        if (X0B.parameters.loadData === !{}) continue;
+        m_9 =
+          !X0B.mostRecentForwardAttempt ||
+          X0B.mostRecentForwardAttempt.getTime() + B0B < Date.now();
+        if (X0B.parameters.symbol !== G_B.symbol) {
+          if (X0B.moreAvailable !== !{} && V4w(X0B)) {
+            I4$ = !![];
+          }
+          if (m_9 && !X0B.upToDate && c1C(X0B)) {
+            K4F = !"";
+          }
+        }
+      }
+    }
+    m_9 =
+      !G_B.mostRecentForwardAttempt ||
+      G_B.mostRecentForwardAttempt.getTime() + B0B < Date.now();
+    o_5 = (V4w(G_B) || R3L) && G_B.moreAvailable !== ![];
+    G50 = (c1C(G_B) || R3L) && !G_B.upToDate && m_9;
+    T2J = o_5 || I4$;
+    R3G = (L7Q.isHistoricalModeSet || !G_B.upToDate) && !T2J && (G50 || K4F);
+    R53 = L7Q.layout.interval;
+    O5C = L7Q.layout.timeUnit;
+    function c1C(R1f) {
+      if (j8E.paused) {
+        return !{};
+      }
+      return (
+        !R1f.endPoints.end ||
+        G_B.scroll - G_B.maxTicks + 1 < b08.bufferSize ||
+        L7Q.tickFromDate(R1f.endPoints.end, G_B, null, !![]) -
+          R14.length +
+          G_B.scroll -
+          G_B.maxTicks +
+          +"2" <
+          b08.bufferSize
+      );
+    }
+    S$U = !!0;
+    j4j = b08.findHeadOfData || (G_B.masterData && G_B.masterData.length);
+    if (!b08.noLoadMore && j4j) {
+      if (
+        R3G ||
+        !L7Q.maxDataSetSize ||
+        G_B.dataSet.length < L7Q.maxDataSetSize
+      ) {
+        if (T2J || R3G) {
+          G_B.initialScroll = G_B.scroll;
+          G_B.loadingMore = !0;
+          G4M = this.makeParams(G_B.symbol, G_B.symbolObject, G_B);
+          G4M.pagination = !"";
+          G4M.future = R3G;
+          if (G_B.masterData && G_B.masterData.length) {
+            if (R3G) {
+              G4M.startDate = G_B.endPoints.end;
+            } else {
+              G4M.endDate = G_B.endPoints.begin;
+            }
+            if (R3G && !G4M.startDate) {
+              O_t = "D";
+              O_t += "T";
+              s17 = L7Q.getFirstLastDataRecord(G_B.masterData, O_t, !!{});
+              if (s17) {
+                G4M.startDate = s17.DT;
+              }
+            } else if (T2J && !G4M.endDate) {
+              s17 = L7Q.getFirstLastDataRecord(G_B.masterData, "DT");
+              if (s17) {
+                G4M.endDate = s17.DT;
+              }
+            }
+          } else {
+            G4M.endDate = new Date();
+          }
+          G4M.originalState = x$e.shallowClone(G4M);
+          G4M.nodraw = u8M;
+          if (!o_5 && (I4$ || (!G50 && K4F))) {
+            this.loadingMore = !!{};
+            this.loadDependents(G4M, J$8, x$e.QuoteFeed.PAGINATION);
+            if (H4j) {
+              H4j(null);
+            }
+            return;
+          }
+          if (
+            a80 ||
+            G_B.maximumForwardPagination ||
+            L7Q.fetchMaximumBars[L7Q.layout.aggregationType]
+          ) {
+            G4M.fetchMaximumBars = !![];
+            if (
+              !L7Q.maxMasterDataSize ||
+              b08.maximumTicks < L7Q.maxMasterDataSize
+            ) {
+              G4M.ticks = b08.maximumTicks;
+            } else {
+              G4M.ticks = L7Q.maxMasterDataSize;
+            }
+          }
+          H9B = h6K(this, G4M);
+          w5d = j8E.getQuoteFeed(G4M);
+          if (L7Q.isEquationChart(G4M.symbol)) {
+            x$e.fetchEquationChart(G4M, H9B);
+          } else {
+            if (R3G) {
+              G4M.appending = !0;
+            }
+            if (w5d) {
+              x$e.ChartEngine.Driver.fetchData(
+                x$e.QuoteFeed.PAGINATION,
+                w5d.engine,
+                G4M,
+                H9B,
+              );
+            }
+          }
+          S$U = !!{};
+        }
+      }
+    }
+    function J$8(r1E) {
+      p_T.s8u();
+      G_B.loadingMore = !{};
+      if (H4j) {
+        H4j(r1E);
+      }
+    }
+    if (!S$U && H4j) {
+      H4j(null);
+    }
+  };
+  x$e.ChartEngine.Driver.prototype.extendHistoricalData = function (
+    { from: v40 },
+    q2q = () => {},
+  ) {
+    var I7R, G8L;
+    var { stx: j4q } = this;
+    var { chart: z1v, layout: y8i } = j4q;
+    function c3w(S4P, Q9K) {
+      p_T.s8u();
+      return function ({
+        quotes: I0R,
+        moreAvailable: h$V,
+        error: o2v,
+        beginDate: R4s,
+      }) {
+        if (
+          Q9K.symbol !== z1v.symbol ||
+          M0S !== y8i.interval ||
+          Z0H !== y8i.timeUnit
+        ) {
+          return;
+        }
+        z1v.loadingMore = !!"";
+        if (o2v) {
+          return q2q(o2v);
+        }
+        I0R = S4P.cleanup(j4q, null, I0R, x$e.QuoteFeed.PAGINATION, Q9K);
+        if (typeof h$V === "boolean") {
+          z1v.moreAvailable = h$V;
+        } else {
+          z1v.moreAvailable = !!I0R.length;
+        }
+        z1v.endPoints.begin = R4s || v40;
+        x$e.addMemberToMasterdata({
+          stx: j4q,
+          chart: z1v,
+          data: I0R,
+          fields: [
+            (463.87, 6940) >= 69
+              ? +"901.34" !== ("4895" ^ 0, 7928)
+                ? "*"
+                : "T"
+              : ("l", 8.61e3),
+          ],
+          noCleanupDates: !![],
+        });
+        j4q.createDataSet();
+        j4q.draw();
+      };
+    }
+    var { masterData: L2T, dataSet: Z1T } = z1v;
+    var { interval: M0S, timeUnit: Z0H } = y8i;
+    I7R = this.makeParams(z1v.symbol, z1v.symbolObject, z1v);
+    G8L = this.getQuoteFeed(I7R);
+    if (
+      z1v.loadingMore ||
+      this.loadingNewChart ||
+      j4q.currentlyImporting ||
+      !L2T.length ||
+      !G8L ||
+      (j4q.maxDataSetSize && Z1T.length > j4q.maxDataSetSize)
+    ) {
+      return q2q(null);
+    }
+    z1v.loadingMore = !0;
+    I7R.originalState = Object.assign({}, I7R);
+    I7R.startDate = v40;
+    I7R.endDate = L2T[0].DT;
+    x$e.ChartEngine.Driver.fetchData(
+      x$e.QuoteFeed.PAGINATION,
+      G8L.engine,
+      I7R,
+      c3w(this, I7R),
+    );
+  };
+  x$e.ChartEngine.Driver.prototype.barsToFetch = function (Q7L) {
+    var z2B, C7$, o7h, U$n, B$S, s7X, Q_n;
+    if (!x$e.isValidNumber(this.tickMultiplier)) {
+      this.tickMultiplier = 2;
+    }
+    z2B = this.stx.layout.interval;
+    C7$ = Q7L.stx.layout.periodicity;
+    if ((z2B == "month" || z2B == "week") && !this.stx.dontRoll) {
+      o7h = "w";
+      o7h += "e";
+      o7h += "e";
+      o7h += "k";
+      U$n = -471237271;
+      B$S = 2076447041;
+      s7X = 2;
+      for (
+        var T$K = 1;
+        p_T.D9u(T$K.toString(), T$K.toString().length, +"39353") !== U$n;
+        T$K++
+      ) {
+        C7$ += z2B === "" ? "5" << 64 : 80;
+        s7X += 2;
+      }
+      if (p_T.C6S(s7X.toString(), s7X.toString().length, 48123) !== B$S) {
+        C7$ += z2B === "" ? 5 : 80;
+      }
+      C7$ *= z2B == o7h ? 7 : 30;
+    }
+    Q_n = Q7L.stx.chart.maxTicks * C7$;
+    return Q_n * this.tickMultiplier;
+  };
+  x$e.ChartEngine.Driver.determineStartDate = function (z2N, k2v, j0V) {
+    p_T.a3_();
+    return this.determineStartOrEndDate(z2N, k2v, j0V, !![]);
+  };
+  x$e.ChartEngine.Driver.determineStartOrEndDate = function (
+    Q6X,
+    E$I,
+    X3m,
+    l7j,
+  ) {
+    var G0e;
+    if (l7j) {
+      G0e = Q6X.startDate || E$I.previous(X3m);
+    } else {
+      G0e = Q6X.future ? E$I.next(X3m) : new Date();
+    }
+    return G0e;
+  };
+  x$e.ChartEngine.Driver.prototype.makeParams = function (K4I, L$h, B7n) {
+    var H2N, b_G, m0J, W8I, t0o, G26, r1K, W6x;
+    H2N = this.stx;
+    b_G = H2N.layout.interval;
+    m0J = this.barsToFetch({ stx: H2N });
+    if ((b_G == "month" || b_G == "week") && !H2N.dontRoll) {
+      b_G = "day";
+    }
+    W8I = this.getQuoteFeed({ interval: b_G, symbol: K4I, symbolObject: L$h });
+    t0o = W8I && W8I.behavior;
+    G26 = x$e.shallowClone(t0o) || {};
+    G26.behavior = t0o;
+    r1K = !!0;
+    W6x = [];
+    if (B7n.market && B7n.market.getSessionNames) {
+      W6x = B7n.market.getSessionNames();
+    }
+    if (H2N.extendedHours) {
+      if (H2N.extendedHours.filter) {
+        r1K = !!"1";
+      } else {
+        r1K = H2N.layout.extended;
+        W6x = W6x.filter(function (x3n) {
+          return x3n.enabled || H2N.layout.marketSessions[x3n.name];
+        });
+      }
+    } else {
+      W6x = W6x.filter(function (E6L) {
+        return E6L.enabled;
+      });
+    }
+    for (var v8F = "0" << 32; v8F < W6x.length; v8F++) {
+      W6x[v8F] = W6x[v8F].name;
+    }
+    x$e.extend(
+      G26,
+      {
+        stx: H2N,
+        symbol: K4I,
+        symbolObject: L$h,
+        chart: B7n,
+        interval: b_G,
+        extended: r1K,
+        period: 1,
+        ticks: m0J,
+        additionalSessions: W6x,
+        quoteDriverID: this.id,
+      },
+      !!{},
+    );
+    if (!G26.symbolObject) {
+      G26.symbolObject = { symbol: K4I };
+    }
+    if (!isNaN(G26.interval)) {
+      G26.period = parseInt(G26.interval, +"10");
+      G26.interval = H2N.layout.timeUnit;
+      if (!G26.interval) {
+        G26.interval = "minute";
+      }
+    }
+    return G26;
+  };
+  x$e.ChartEngine.Driver.prototype.newChart = function (b7w, k49) {
+    var i1h, u9d, L0v, m61, t_D, A28, S7f, X1w, N8m;
+    i1h = this.stx;
+    u9d = b7w.symbol;
+    L0v = i1h.layout.interval;
+    m61 = i1h.layout.timeUnit;
+    t_D = b7w.chart;
+    t_D.moreAvailable = null;
+    t_D.upToDate = null;
+    t_D.loadingMore = !!"";
+    t_D.attribution = null;
+    A28 = this.makeParams(u9d, b7w.symbolObject, t_D);
+    x$e.extend(A28, b7w, !!{});
+    S7f = this.getQuoteFeed(A28);
+    X1w = A28.behavior || {};
+    if (
+      i1h.fetchMaximumBars[i1h.layout.aggregationType] ||
+      b7w.fetchMaximumBars
+    ) {
+      if (!i1h.maxMasterDataSize || X1w.maximumTicks < i1h.maxMasterDataSize) {
+        A28.ticks = X1w.maximumTicks;
+      } else {
+        A28.ticks = i1h.maxMasterDataSize;
+      }
+      A28.fetchMaximumBars = !0;
+    }
+    this.loadingNewChart = !!1;
+    function m33(P5t, S8j) {
+      p_T.s8u();
+      if (X1w.prefetchAction) {
+        X1w.prefetchAction("newChart");
+      }
+      return function (L$A) {
+        var o2f, f3L, a2n, g7e, i0a, g$e, k5d, M88, L43, A0v;
+        o2f = S8j.chart;
+        f3L = L$A.quotes;
+        a2n = !!0;
+        if (
+          u9d == o2f.symbol &&
+          L0v == i1h.layout.interval &&
+          m61 == i1h.layout.timeUnit
+        ) {
+          P5t.loadingNewChart = ![];
+          if (S7f === P5t.getQuoteFeed(S8j) && !L$A.error) {
+            f3L = P5t.cleanup(i1h, null, f3L, x$e.QuoteFeed.INITIAL, S8j);
+            i1h.setMasterData(f3L, o2f, { noCleanupDates: !!{} });
+            o2f.endPoints = {};
+            g7e = L$A.beginDate || (f3L[0] ? f3L[0].DT : S8j.startDate);
+            o2f.endPoints.begin = g7e;
+            i0a =
+              L$A.endDate || (f3L[0] ? f3L[f3L.length - 1].DT : S8j.endDate);
+            o2f.endPoints.end = i0a;
+            if (!f3L) {
+              o2f.moreAvailable = !"1";
+              o2f.upToDate = !![];
+            } else {
+              g$e = "upTo";
+              g$e += "Date";
+              o2f.moreAvailable = L$A.moreAvailable === !{} ? ![] : !!"1";
+              o2f.upToDate = L$A.hasOwnProperty(g$e)
+                ? L$A.upToDate
+                : !i1h.isHistoricalModeSet;
+            }
+            o2f.attribution = L$A.attribution;
+            if (b7w.initializeChart) {
+              i1h.initializeChart();
+            }
+            i1h.createDataSet();
+            a2n = !![];
+          } else {
+            S7f.engine.announceError(S8j.originalState, L$A);
+          }
+        } else {
+          if (k49) {
+            k49("orphaned");
+          }
+          return;
+        }
+        for (var U4g in o2f.series) {
+          k5d = o2f.series[U4g];
+          k5d.endPoints = {};
+          k5d.moreAvailable = null;
+          k5d.upToDate = null;
+          if (k5d.parameters.takedownResults) {
+            k5d.parameters.takedownResults(i1h, U4g);
+          }
+        }
+        M88 = o2f.masterData;
+        if (M88 && M88.length) {
+          S8j.startDate = M88[0].DT;
+          L43 = new Date();
+          A0v = M88[M88.length - 1].DT;
+          S8j.endDate = A0v < L43 && !i1h.isHistoricalMode() ? L43 : A0v;
+        }
+        if (X1w.callback) {
+          X1w.callback(S8j);
+        }
+        P5t.loadDependents(
+          S8j,
+          function () {
+            if (a2n && !S8j.nodraw) {
+              P5t.stx.home();
+            }
+            if (k49) {
+              k49(L$A.error);
+            }
+            P5t.stx.dispatch("newChart", {
+              stx: P5t.stx,
+              symbol: P5t.stx.chart.symbol,
+              symbolObject: P5t.stx.chart.symbolObject,
+              moreAvailable: P5t.stx.chart.moreAvailable,
+              upToDate: P5t.stx.chart.upToDate,
+              quoteDriver: P5t,
+            });
+            P5t.resetRefreshInterval(X1w.refreshInterval, X1w);
+          },
+          x$e.QuoteFeed.INITIAL,
+        );
+      };
+    }
+    this.updatingChart = !!0;
+    A28.originalState = x$e.shallowClone(A28);
+    N8m = m33(this, A28);
+    if (this.stx.isEquationChart(A28.symbol)) {
+      x$e.fetchEquationChart(A28, N8m);
+    } else if (S7f) {
+      x$e.ChartEngine.Driver.fetchData(
+        x$e.QuoteFeed.INITIAL,
+        S7f.engine,
+        A28,
+        N8m,
+      );
+    }
+  };
+  x$e.QuoteFeed.INITIAL = 1;
+  x$e.QuoteFeed.UPDATE = +"2";
+  x$e.QuoteFeed.PAGINATION = 3;
+  p_T.C2v(21);
+  x$e.QuoteFeed.SERIES = p_T.Y51(32, "4");
+  x$e.ChartEngine.Driver.fetchData = function (o3j, z4O, F2U, x9K) {
+    var R2W;
+    if (!F2U.symbol) {
+      return x9K({ quotes: [] });
+    }
+    p_T.a3_();
+    if (z4O.v2QuoteFeed) {
+      R2W = "fun";
+      R2W += "ction";
+      if (typeof z4O.subscribe !== R2W) {
+        x$e.ChartEngine.Driver.fetchDataInContext(o3j, z4O, F2U, x9K);
+      } else {
+        x$e.ChartEngine.Driver.fetchDataInContext(
+          o3j,
+          z4O,
+          F2U,
+          function (c00) {
+            if (!c00.error) {
+              this.checkSubscriptions(F2U.stx);
+            }
+            x9K(c00);
+          }.bind(z4O),
+        );
+      }
+    } else {
+      F2U.stx.convertToDataZone(F2U.startDate);
+      F2U.stx.convertToDataZone(F2U.endDate);
+      z4O.fetch(F2U, x9K);
+    }
+  };
+  x$e.ChartEngine.Driver.fetchDataInContext = function (J13, d2s, q__, G9q) {
+    var x_B, u81, E1B, I86, f46, x8c, S$h, Y9r, D_e, J0m, j6f;
+    x_B = "fu";
+    x_B += "nct";
+    x_B += "ion";
+    x8c = q__.stx;
+    if (!x8c.chart.market.newIterator) {
+      console.error(
+        "quoteFeed feature requires first activating market feature.",
+      );
+      return;
+    }
+    if (J13 === x$e.QuoteFeed.SERIES) {
+      q__.series = !!"1";
+      J13 = x$e.QuoteFeed.INITIAL;
+      if ((q__.endDate && !q__.startDate) || q__.future) {
+        J13 = x$e.QuoteFeed.PAGINATION;
+      } else if (q__.startDate && !q__.endDate) {
+        J13 = x$e.QuoteFeed.UPDATE;
+      }
+    }
+    S$h = Math.min(q__.ticks, q__.maximumTicks);
+    if (d2s.maxTicks) {
+      S$h = Math.min(S$h, d2s.maxTicks);
+    }
+    Y9r = q__.symbolObject.masterSymbol || q__.symbol;
+    p_T.a3_();
+    switch (J13) {
+      case x$e.QuoteFeed.UPDATE:
+        if (x8c.isHistoricalModeSet) {
+          x8c.quoteDriver.updatingChart = !{};
+          return;
+        }
+        if (q__.startDate) {
+          D_e = q__.startDate;
+        } else {
+          D_e = new Date();
+          p_T.w6J(3);
+          D_e.setHours(p_T.Y51("0", 1), +"0", +"0", 0);
+        }
+        if (typeof d2s.fetchUpdateData === x_B) {
+          d2s.fetchUpdateData(Y9r, x8c.convertToDataZone(D_e), q__, G9q);
+        }
+        break;
+      case x$e.QuoteFeed.INITIAL:
+        f46 = q__.endDate || new Date();
+        u81 = {
+          begin: f46,
+          interval: q__.interval,
+          periodicity:
+            q__.interval == "tick"
+              ? x8c.chart.xAxis.futureTicksInterval
+              : q__.period,
+          outZone: x8c.dataZone,
+        };
+        E1B = x8c.chart.market.newIterator(u81);
+        I86 = x$e.ChartEngine.Driver.determineStartDate(q__, E1B, S$h);
+        if (q__.endDate) {
+          f46 = q__.endDate;
+        }
+        if (typeof d2s.fetchInitialData === "function") {
+          d2s.fetchInitialData(Y9r, I86, x8c.convertToDataZone(f46), q__, G9q);
+        }
+        break;
+      case x$e.QuoteFeed.PAGINATION:
+        u81 = {
+          begin: q__.endDate || q__.startDate,
+          interval: q__.interval,
+          periodicity:
+            q__.interval == "tick"
+              ? x8c.chart.xAxis.futureTicksInterval
+              : q__.period,
+          outZone: x8c.dataZone,
+        };
+        E1B = x8c.chart.market.newIterator(u81);
+        J0m = x$e.ChartEngine.Driver.determineStartOrEndDate(
+          q__,
+          E1B,
+          S$h,
+          !q__.future,
+        );
+        I86 = q__.startDate || J0m;
+        f46 = q__.endDate || J0m;
+        if (!q__.startDate) {
+          q__.stx.convertToDataZone(f46);
+        } else {
+          q__.stx.convertToDataZone(I86);
+        }
+        if (typeof d2s.fetchPaginationData === "function") {
+          if (
+            x8c.maxMasterDataSize &&
+            x8c.maxMasterDataSize <= x8c.masterData.length
+          ) {
+            return;
+          }
+          d2s.fetchPaginationData(Y9r, I86, f46, q__, function (y5n) {
+            p_T.s8u();
+            if (f46 >= Date.now()) {
+              x8c.isHistoricalModeSet = !!"";
+            }
+            if (G9q) {
+              G9q(y5n);
+            }
+          });
+        }
+        break;
+      default:
+        j6f = "Illega";
+        j6f += "l fetchData con";
+        j6f += "stant";
+        console.error(j6f);
+    }
+  };
+};
+c3 = (j1L) => {
+  var Z$_ = U6BfN;
+  var C4Q;
+  C4Q = typeof _CIQ !== "undefined" ? _CIQ : j1L.CIQ;
+  C4Q.ChartEngine.prototype.addSeries = function (p1e, m9o, Q79) {
+    var o7g,
+      x4u,
+      s_D,
+      m18,
+      K6n,
+      w2R,
+      V89,
+      E8N,
+      Q$E,
+      Y$z,
+      X83,
+      K40,
+      p6f,
+      s95,
+      K1M,
+      r_B,
+      o$v,
+      D7w,
+      S8s,
+      u$c,
+      S0l,
+      E4$,
+      D$1;
+    o7g = "a";
+    o7g += "ddS";
+    o7g += "er";
+    o7g += "ies";
+    x4u = "d";
+    x4u += "isplay";
+    s_D = "add";
+    s_D += "-se";
+    s_D += "ries";
+    m18 = "a";
+    m18 += "ddS";
+    m18 += "eries";
+    K6n = this.runPrepend(m18, arguments);
+    function p_M(J0M) {
+      return function (T07) {
+        var r_m, K3e, I9y;
+        if (!T07.error) {
+          r_m = T07.quotes;
+          K3e = m9o.fillGaps;
+          if (!K1M.cleanupGaps) {
+            K3e = !{};
+          }
+          I9y = T07.periodicParams || m9o.periodicParams;
+          if (I9y && K1M.periodicToQuotes) {
+            r_m = K1M.periodicToQuotes(r_m, I9y);
+          } else {
+            r_m = K1M.doCleanupGaps(r_m, K1M.chart, { cleanupGaps: K3e });
+          }
+          K1M.updateChartData(r_m, K1M.chart, {
+            secondarySeries: V89,
+            noCreateDataSet: !!{},
+            noCleanupDates: !!"1",
+            allowReplaceOHL: !![],
+          });
+          E8N.loading = !!"";
+          E8N.moreAvailable = T07.moreAvailable;
+          E8N.upToDate = T07.upToDate;
+          P6w(K1M, E8N);
+        }
+        if (m9o.action !== null && !X83.length) {
+          K1M.dispatch(r_B ? "symbolImport" : "symbolChange", {
+            stx: K1M,
+            symbol: J0M.symbol,
+            symbolObject: J0M.symbolObject,
+            action: m9o.action,
+            id: E8N.id,
+            parameters: m9o,
+          });
+        }
+        Z$_.a3_();
+        if (E8N.parameters.processResults) {
+          E8N.parameters.processResults(K1M, T07.error, E8N, T07.quotes);
+        }
+        if (Q79) {
+          Q79.call(K1M, T07.error, E8N);
+        }
+      };
+    }
+    if (K6n) {
+      return K6n;
+    }
+    w2R = p1e ? p1e : null;
+    V89 = p1e;
+    if (!p1e) {
+      p1e = C4Q.uniqueID();
+    }
+    if (m9o && m9o.panel === !!"1") {
+      m9o.panel = p1e;
+    }
+    E8N = {
+      parameters: m9o ? C4Q.clone(m9o) : {},
+      yValueCache: [],
+      display: w2R,
+      id: p1e,
+      loading: m9o ? m9o.loadData !== !"1" : !!{},
+    };
+    E8N.parameters.yAxis = m9o && m9o.yAxis;
+    m9o = E8N.parameters;
+    if (m9o.symbol) {
+      V89 = m9o.symbol;
+    }
+    if (m9o.isComparison) {
+      m9o.shareYAxis = !0;
+    }
+    if (m9o.yAxis && !(m9o.yAxis instanceof C4Q.ChartEngine.YAxis)) {
+      m9o.yAxis = new C4Q.ChartEngine.YAxis(m9o.yAxis);
+    }
+    C4Q.ensureDefaults(m9o, {
+      chartName: this.chart.name,
+      symbolObject: { symbol: V89 },
+      panel: this.chart.panel.name,
+      fillGaps: !!0,
+      action: s_D,
+    });
+    if (x4u in m9o) {
+      E8N.display = m9o.display;
+    }
+    Q$E = this.charts[m9o.chartName];
+    function P6w(G3h, k50) {
+      var P1n, l4a, B$H, I$H, k8v, X5i, J_W;
+      P1n = m9o.renderer || "Lines";
+      l4a = m9o.name || p1e;
+      if (m9o.yAxis && !(m9o.yAxis instanceof C4Q.ChartEngine.YAxis) && !r_B) {
+        m9o.yAxis.name = l4a;
+      }
+      if (!m9o.renderer && !m9o.name && !m9o.color && !m9o.chartType) {
+        return;
+      }
+      B$H = G3h.getSeriesRenderer(l4a);
+      if (!B$H) {
+        I$H = "mounta";
+        I$H += "in";
+        k8v = "Histogr";
+        k8v += "am";
+        X5i = P1n === k8v || m9o.type === I$H || m9o.chartType === "histogram";
+        J_W = {
+          name: l4a,
+          overChart: m9o.overChart !== ![] && !X5i,
+          useChartLegend: !![],
+        };
+        if (m9o.chartType) {
+          B$H = C4Q.Renderer.produce(
+            m9o.chartType,
+            C4Q.extend(
+              {
+                highlightable: m9o.highlightable,
+                dependentOf: m9o.dependentOf,
+                panel: m9o.panel,
+                yAxis: m9o.yAxis,
+                baseline: m9o.baseline,
+              },
+              J_W,
+            ),
+          );
+        } else {
+          C4Q.ensureDefaults(m9o, J_W);
+          B$H = new C4Q.Renderer[P1n]({ params: m9o });
+        }
+        if (!B$H) {
+          return;
+        }
+        G3h.setSeriesRenderer(B$H);
+      }
+      B$H.attachSeries(p1e, m9o);
+      if (m9o.loadData !== !"1") {
+        B$H.ready();
+      }
+      G3h.layout.symbols = G3h.getSymbols({
+        "include-parameters": !"",
+        "exclude-studies": !!1,
+      });
+      Z$_.s8u();
+      G3h.changeOccurred("layout");
+    }
+    Y$z = m9o.symbolObject;
+    V89 = m9o.symbol = Y$z.symbol;
+    if (m9o.isEvent) {
+      Y$z.isEvent = !!{};
+    }
+    if (!E8N.display) {
+      E8N.display = V89 || m9o.field;
+    }
+    E8N.endPoints = {};
+    if (!m9o.gapDisplayStyle && m9o.gapDisplayStyle !== !!"") {
+      m9o.gapDisplayStyle = m9o.gaps;
+    }
+    if (m9o.isComparison) {
+      if (m9o.gapDisplayStyle === undefined) {
+        m9o.gapDisplayStyle = "transparent";
+      }
+    }
+    X83 = this.getSeries({ symbolObject: Y$z, chart: Q$E, includeMaster: !0 });
+    K40 = m9o.panel;
+    if (!this.panels[K40]) {
+      p6f = m9o.yAxis || new C4Q.ChartEngine.YAxis();
+      p6f.name = p1e;
+      this.createPanel(p1e, K40, null, null, p6f);
+      if (!this.preferences.dragging || !this.preferences.dragging.series) {
+        m9o.highlightable = ![];
+      }
+    } else {
+      if (!m9o.yAxis && !m9o.shareYAxis) {
+        s95 = "n";
+        s95 += "o";
+        s95 += "n";
+        s95 += "e";
+        m9o.yAxis = new C4Q.ChartEngine.YAxis({ name: p1e, position: s95 });
+      }
+    }
+    Q$E.series[p1e] = E8N;
+    K1M = this;
+    r_B = this.currentlyImporting;
+    o$v = m9o.responseHandler || p_M;
+    if (
+      m9o.isComparison &&
+      Q$E.forcePercentComparison &&
+      m9o.panel == Q$E.panel.name &&
+      (!m9o.yAxis || m9o.yAxis == Q$E.yAxis)
+    ) {
+      this.setChartScale("percent");
+    }
+    D7w = Q$E.masterData;
+    if (!D7w) {
+      D7w = Q$E.masterData = this.masterData = [];
+    }
+    S8s = D7w.length;
+    if (m9o.data && !m9o.data.useDefaultQuoteFeed) {
+      u$c = { symbol: V89, symbolObject: Y$z, action: m9o.action };
+      o$v(u$c)({ quotes: m9o.data });
+    } else if (X83.length) {
+      E8N.endPoints = X83[0].endPoints;
+      E8N.loading = X83[0].loading;
+      P6w(this, E8N);
+      if (Q79) {
+        setTimeout(function () {
+          Q79.call(K1M, null, E8N);
+        }, 0);
+      }
+    } else if (this.quoteDriver && m9o.loadData !== ![]) {
+      S0l = this.quoteDriver;
+      E4$ = S0l.makeParams(V89, Y$z, Q$E);
+      if (S8s) {
+        E4$.startDate = D7w[0].DT;
+        E4$.endDate = this.isHistoricalMode()
+          ? D7w[D7w.length - 1].DT
+          : new Date();
+      }
+      if (E4$.stx.isEquationChart(E4$.symbol)) {
+        C4Q.fetchEquationChart(E4$, o$v(E4$));
+      } else {
+        D$1 = S0l.getQuoteFeed(E4$);
+        if (D$1) {
+          C4Q.ChartEngine.Driver.fetchData(4, D$1.engine, E4$, o$v(E4$));
+        }
+      }
+    } else {
+      P6w(this, E8N);
+      if (m9o.action !== null && !X83.length) {
+        K1M.dispatch(r_B ? "symbolImport" : "symbolChange", {
+          stx: K1M,
+          symbol: V89,
+          symbolObject: Y$z,
+          action: m9o.action,
+          id: E8N.id,
+          parameters: m9o,
+        });
+      }
+      if (Q79) {
+        Q79.call(this, null, E8N);
+      }
+    }
+    this.changeOccurred("layout");
+    this.runAppend(o7g, arguments);
+    return E8N;
+  };
+  C4Q.ChartEngine.prototype.getSeries = function (Z1h) {
+    var U_8, R1_, q6R, X2p, Y_V;
+    U_8 = Z1h.chart ? Z1h.chart : this.chart;
+    R1_ = U_8.series;
+    q6R = Z1h.symbolObject;
+    if (!q6R) {
+      q6R = { symbol: Z1h.symbol };
+    }
+    X2p = [];
+    for (var z3b in R1_) {
+      Y_V = R1_[z3b];
+      if (C4Q.symbolEqual(q6R, Y_V.parameters.symbolObject)) {
+        X2p.push(Y_V);
+      }
+    }
+    if (Z1h.includeMaster) {
+      if (C4Q.symbolEqual(q6R, U_8.symbolObject)) {
+        X2p.push({});
+      }
+    }
+    return X2p;
+  };
+  C4Q.ChartEngine.prototype.modifySeries = function (f1f, u2L, g66) {
+    var G3T,
+      Q1W,
+      n_J,
+      P1g,
+      F4P,
+      u0G,
+      F_Y,
+      Y9L,
+      R1T,
+      I7h,
+      p2k,
+      x4V,
+      L1V,
+      S6M,
+      S8J,
+      V8o,
+      d71,
+      T8Z,
+      O1B,
+      e9a;
+    G3T = "Drawing.updateSou";
+    G3T += "rce";
+    Q1W = "str";
+    Q1W += "ing";
+    if (this.runPrepend("modifySeries", arguments)) {
+      return;
+    }
+    if (!u2L) {
+      return;
+    }
+    if (typeof f1f === Q1W) {
+      F4P = u2L.chartName ? this.charts[u2L.chartName] : this.chart;
+      P1g = f1f;
+      n_J = F4P.series[P1g];
+    } else {
+      n_J = f1f;
+      P1g = n_J.id;
+      F4P = this.charts[n_J.parameters.chartName];
+    }
+    if (!n_J) {
+      return;
+    }
+    u0G = n_J.parameters.panel;
+    F_Y = this.getRendererFromSeries(P1g);
+    if (!F_Y) {
+      return !1;
+    }
+    C4Q.extend(n_J.parameters, u2L, !"");
+    if (
+      u2L.chartType ||
+      (u2L.renderer && F_Y.constructor !== C4Q.Renderer[u2L.renderer])
+    ) {
+      F_Y.removeSeries(P1g, !!{});
+      if (F_Y.seriesParams.length === 0) {
+        Object.entries(this.chart.seriesRenderers).some(([f_V, i4x]) => {
+          if (i4x === F_Y) {
+            delete this.chart.seriesRenderers[f_V];
+          }
+        });
+      }
+      Y9L = function (z4f, v$t) {
+        Z$_.s8u();
+        delete v$t.parameters.loadData;
+      };
+      n_J.parameters.loadData = !"";
+      n_J.parameters.chartType = u2L.chartType;
+      n_J.parameters.type = u2L.type;
+      this.addSeries(P1g, n_J.parameters, Y9L);
+      return;
+    }
+    F_Y.modifyRenderer(u2L);
+    R1T = n_J.parameters;
+    for (var V6w in F4P.seriesRenderers) {
+      p2k = F4P.seriesRenderers[V6w];
+      x4V = p2k.params;
+      L1V = p2k.seriesParams;
+      for (var v_L = +"0"; v_L < L1V.length; ++v_L) {
+        S6M = L1V[v_L];
+        S8J = this.panels[S6M.panel];
+        V8o = S8J && S8J.yAxis.name;
+        if (S6M.id === n_J.id) {
+          if (u2L.color) {
+            delete S6M.fill_color_down;
+            delete S6M.fill_color_up;
+            delete S6M.fill_color_even;
+          }
+          if (u2L.border_color) {
+            delete S6M.border_color_down;
+            delete S6M.border_color_up;
+            delete S6M.border_color_even;
+          }
+          if (R1T.panel === !!1) {
+            R1T.panel = R1T.dependentOf || R1T.name;
+          }
+          x4V.panel = R1T.panel;
+          if (u2L.yAxis) {
+            if (!(u2L.yAxis instanceof C4Q.ChartEngine.YAxis)) {
+              u2L.yAxis = new C4Q.ChartEngine.YAxis(u2L.yAxis);
+            }
+            x4V.yAxis = u2L.yAxis;
+          }
+          if (R1T.panel != S6M.panel && x4V.name == V8o) {
+            this.electNewPanelOwner(S6M.panel);
+          } else {
+            d71 = this.getYAxisByName(R1T.panel, x4V.name);
+            if (d71 && R1T.yAxis && d71.name !== R1T.yAxis.name) {
+              d71.name = this.electNewYAxisOwner(d71);
+            }
+          }
+          if (!R1T.field) {
+            R1T.field = null;
+          }
+          p2k.attachSeries(P1g, Object.assign({}, S6M, R1T));
+          if (!R1T.field) {
+            R1T.field = R1T.subField;
+          }
+          delete R1T.subField;
+          if (
+            R1T.isComparison &&
+            F4P.forcePercentComparison &&
+            R1T.panel == F4P.panel.name &&
+            (!n_J.parameters.yAxis || R1T.yAxis.name == F4P.yAxis.name)
+          ) {
+            this.setChartScale("percent");
+          }
+          I7h = p2k;
+          break;
+        }
+      }
+    }
+    this.draw();
+    if (u0G !== R1T.panel) {
+      this.moveMarkers(
+        u0G,
+        R1T.panel,
+        this.getMarkerArray("field", R1T.symbol),
+      );
+    }
+    C4Q.getFn(G3T)(this, R1T.symbol || P1g, null, R1T.panel);
+    this.runAppend("modifySeries", arguments);
+    if (g66 !== !!1) {
+      T8Z = I7h.getDependents(this);
+      for (var n_O = +"0"; n_O < T8Z.length; n_O++) {
+        if (T8Z[n_O].seriesParams) {
+          this.modifySeries(
+            T8Z[n_O].params.name,
+            { panel: I7h.params.panel, yAxis: n_J.parameters.yAxis },
+            !!"1",
+          );
+        }
+        if (T8Z[n_O].study) {
+          O1B = T8Z[n_O];
+          O1B = C4Q.Studies.replaceStudy(
+            this,
+            O1B.inputs.id,
+            O1B.type,
+            O1B.inputs,
+            O1B.outputs,
+            O1B.parameters,
+            null,
+            O1B.study,
+          );
+        }
+      }
+      e9a = F4P.seriesRenderers[I7h.params.dependentOf];
+      if (e9a) {
+        if (
+          e9a.params.yAxis != n_J.parameters.yAxis ||
+          e9a.params.panel != I7h.params.panel
+        ) {
+          this.modifySeries(
+            I7h.params.dependentOf,
+            { panel: I7h.params.panel, yAxis: n_J.parameters.yAxis },
+            !!"1",
+          );
+        }
+      }
+    }
+    this.changeOccurred("layout");
+    this.draw();
+    return n_J;
+  };
+  C4Q.ChartEngine.prototype.deleteSeries = function (M7U, v4d, E0K) {
+    var c7d, g0n, e$d, M1U, l82, b2c, s1z;
+    c7d = "symbolCh";
+    c7d += "an";
+    c7d += "ge";
+    g0n = "deleteS";
+    g0n += "eries";
+    if (this.runPrepend(g0n, arguments)) {
+      return;
+    }
+    E0K = E0K || {};
+    e$d = E0K.action || "remove-series";
+    if (typeof M7U === "object") {
+      M1U = M7U.id;
+      v4d = v4d || this.charts[M7U.parameters.chartName];
+    } else {
+      M1U = M7U;
+      v4d = v4d || this.chart;
+    }
+    l82 = v4d.series[M1U];
+    if (!l82) {
+      return;
+    }
+    var { isEvent: L$x, loadData: f3c, symbolObject: u9J } = l82.parameters;
+    if (!this.currentlyImporting) {
+      this.getMarkerArray("field", M1U).forEach((O2e) => {
+        Z$_.a3_();
+        return this.removeFromHolder(O2e);
+      });
+    }
+    delete v4d.series[M1U];
+    this.layout.symbols = this.getSymbols({
+      "include-parameters": !!"1",
+      "exclude-studies": !![],
+    });
+    b2c = this.getSeries({ symbolObject: u9J, includeMaster: !!1 });
+    if (!L$x && f3c !== ![] && !b2c.length) {
+      this.cleanMasterData(u9J, v4d);
+    }
+    s1z = this.panels[l82.parameters.panel];
+    if (s1z) {
+      this.checkForEmptyPanel(s1z);
+    }
+    this.createDataSet();
+    this.changeOccurred("layout");
+    if (!b2c.length && !L$x) {
+      this.dispatch(this.currentlyImporting ? "symbolImport" : c7d, {
+        stx: this,
+        symbol: u9J.symbol,
+        symbolObject: u9J,
+        id: M1U,
+        action: e$d,
+      });
+    }
+    if (this.quoteDriver) {
+      this.quoteDriver.updateSubscriptions();
+    }
+    this.runAppend("deleteSeries", arguments);
+  };
+  C4Q.ChartEngine.prototype.removeSeries = function (S5Q, E7m) {
+    var h5R, j2z, t65, k6F, Q99, w8S, l2z, W6g, k26;
+    h5R = "o";
+    h5R += "bj";
+    h5R += "ect";
+    if (this.runPrepend("removeSeries", arguments)) {
+      return;
+    }
+    t65 = !!0;
+    if (typeof S5Q === h5R) {
+      j2z = S5Q.id;
+      E7m = E7m || this.charts[S5Q.parameters.chartName];
+    } else {
+      j2z = S5Q;
+      E7m = E7m || this.chart;
+    }
+    if (E7m.series[j2z]) {
+      k6F = E7m.series[j2z].parameters.takedownResults;
+      if (k6F) {
+        k6F(this, j2z);
+      }
+    }
+    for (var F6a in E7m.seriesRenderers) {
+      Q99 = E7m.seriesRenderers[F6a];
+      w8S = this.panels[Q99.params.panel];
+      l2z = w8S && w8S.yAxis.name;
+      for (var l1h = Q99.seriesParams.length - 1; l1h >= 0; l1h--) {
+        W6g = Q99.seriesParams[l1h];
+        if (W6g.id === j2z) {
+          Q99.removeSeries(j2z);
+          if (Q99.seriesParams.length < 1) {
+            this.removeSeriesRenderer(Q99);
+            if (Q99.params.name == l2z) {
+              this.electNewPanelOwner(Q99.params.panel);
+            } else {
+              if (!this.checkForEmptyPanel(Q99.params.panel)) {
+                k26 = this.getYAxisByName(w8S, Q99.params.name);
+                if (k26) {
+                  k26.name = k26.studies[0] || k26.renderers[1];
+                }
+              }
+            }
+          }
+          t65 = !![];
+        }
+      }
+    }
+    if (!t65) {
+      this.deleteSeries(j2z, E7m);
+    } else {
+      this.changeOccurred("layout");
+    }
+    this.resetDynamicYAxis();
+    this.draw();
+    this.resizeChart();
+    this.runAppend("removeSeries", arguments);
+  };
+  Z$_.a3_();
+  C4Q.Comparison = C4Q.Comparison || function () {};
+  C4Q.Comparison.initialPrice = 100;
+  C4Q.Comparison.getInitialPrice = function (d9A) {
+    Z$_.s8u();
+    var s8O, N9U, K_l, w77, C_3, n61;
+    if (d9A.initialComparisonPrice) {
+      return d9A.initialComparisonPrice;
+    }
+    d9A.initialComparisonPrice = +"100";
+    s8O = C4Q.Comparison.initialPrice;
+    if (typeof s8O == "number") {
+      d9A.initialComparisonPrice = s8O;
+    }
+    if (typeof s8O == "string") {
+      if (d9A.series[s8O] || s8O === "") {
+        N9U = "Close";
+        if (d9A.defaultPlotField) {
+          K_l = -356246529;
+          w77 = -88614040;
+          C_3 = +"2";
+          for (
+            var L5b = 1;
+            Z$_.C6S(L5b.toString(), L5b.toString().length, 32383) !== K_l;
+            L5b++
+          ) {
+            if (!d9A.highLowBars) {
+              N9U = d9A.defaultPlotField;
+            }
+            Z$_.C2v(3);
+            C_3 += Z$_.Y51("2", 1);
+          }
+          if (Z$_.D9u(C_3.toString(), C_3.toString().length, 83412) !== w77) {
+            if (~d9A.highLowBars) {
+              N9U = d9A.defaultPlotField;
+            }
+          }
+        }
+        for (
+          var i51 = d9A.dataSet.length - d9A.scroll - 1;
+          i51 < d9A.dataSet.length;
+          i51++
+        ) {
+          n61 = d9A.dataSet[i51];
+          if (n61) {
+            if (n61[s8O] && n61[s8O][N9U]) {
+              d9A.initialComparisonPrice = n61[s8O][N9U];
+              break;
+            } else if (s8O === "" && n61[N9U]) {
+              d9A.initialComparisonPrice = n61[N9U];
+              break;
+            }
+          }
+        }
+      }
+    }
+    return d9A.initialComparisonPrice;
+  };
+  C4Q.Comparison.priceToNetChange = function (D75, D2k, H9L, E54, E$d) {
+    Z$_.a3_();
+    var u4o, J6v;
+    u4o = "obj";
+    u4o += "ect";
+    J6v = D75.comparisonBaseline;
+    if (J6v && E$d in J6v) {
+      J6v = J6v[E$d];
+    }
+    if (J6v && typeof J6v === u4o) {
+      J6v = J6v[D2k.defaultPlotField || "Close"];
+    }
+    J6v = J6v || H9L;
+    Z$_.w6J(10);
+    return Z$_.B$D(J6v, H9L);
+  };
+  C4Q.Comparison.netChangeToPrice = function (M24, t3t, Q8p, e4c, v5S) {
+    var y_8, H_l;
+    y_8 = "ob";
+    y_8 += "je";
+    y_8 += "ct";
+    Z$_.s8u();
+    H_l = M24.comparisonBaseline;
+    if (H_l && v5S in H_l) {
+      H_l = H_l[v5S];
+    }
+    if (H_l && typeof H_l === y_8) {
+      H_l = H_l[t3t.defaultPlotField || "Close"];
+    }
+    H_l = H_l || 0;
+    Z$_.w6J(0);
+    return Z$_.Y51(H_l, Q8p);
+  };
+  C4Q.Comparison.priceToPercent = function (e47, F6q, h7d, o2T, A2m) {
+    var A5E;
+    A5E = e47.comparisonBaseline;
+    if (A5E && A2m in A5E) {
+      A5E = A5E[A2m];
+    }
+    Z$_.s8u();
+    if (A5E && typeof A5E === "object") {
+      A5E = A5E[F6q.defaultPlotField || "Close"];
+    }
+    A5E = A5E || h7d;
+    Z$_.w6J(121);
+    var B4x = Z$_.Y51(9990, 9, 8890);
+    Z$_.C2v(0);
+    var H0u = Z$_.B$D(769, 9231);
+    return Math.round(((h7d - A5E) / A5E) * +"100" * B4x) / H0u;
+  };
+  C4Q.Comparison.percentToPrice = function (M95, J5B, Z$d, q0p, q8e) {
+    var g$s;
+    g$s = M95.comparisonBaseline;
+    if (g$s && q8e in g$s) {
+      g$s = g$s[q8e];
+    }
+    if (g$s && typeof g$s === "object") {
+      g$s = g$s[J5B.defaultPlotField || "Close"];
+    }
+    g$s = g$s || 1;
+    Z$_.C2v(122);
+    return Z$_.Y51(1, Z$d, g$s, 100);
+  };
+  C4Q.Comparison.priceToRelative = function (R8g, Z_0, C1T, o06, x7q) {
+    var z1Q, T3v;
+    z1Q = R8g.comparisonBaseline;
+    T3v = C4Q.Comparison.getInitialPrice(Z_0);
+    if (z1Q && x7q in z1Q) {
+      z1Q = z1Q[x7q];
+    }
+    if (z1Q && typeof z1Q === "object") {
+      z1Q = z1Q[Z_0.defaultPlotField || "Close"];
+    }
+    Z$_.w6J(18);
+    return Z$_.B$D(T3v, z1Q || C1T, C1T);
+  };
+  C4Q.Comparison.relativeToPrice = function (A2R, F6_, y0E, n7V, f43) {
+    var S5x, n3b, z8D;
+    S5x = "o";
+    S5x += "b";
+    S5x += "j";
+    Z$_.a3_();
+    S5x += "ect";
+    n3b = A2R.comparisonBaseline;
+    z8D = C4Q.Comparison.getInitialPrice(F6_);
+    if (n3b && f43 in n3b) {
+      n3b = n3b[f43];
+    }
+    if (n3b && typeof n3b === S5x) {
+      n3b = n3b[F6_.defaultPlotField || "Close"];
+    }
+    Z$_.w6J(18);
+    return Z$_.Y51(n3b || 1, z8D, y0E);
+  };
+  C4Q.Comparison.createComparisonSegmentInner = function (W_Z, E5o) {
+    Z$_.s8u();
+    var r6M, H3c;
+    r6M = (j7N) => {
+      var m2v,
+        U8B,
+        C9S,
+        X0u,
+        J2Q,
+        n0R,
+        j44,
+        Y_H,
+        V7T,
+        N4o,
+        f7k,
+        e74,
+        u1A,
+        q6i,
+        X4P,
+        i4N,
+        w9i,
+        Q78,
+        z3i,
+        Y5W,
+        l6D,
+        O74,
+        y3I,
+        I_o,
+        i7s,
+        Y7Q,
+        y1S;
+      m2v = W_Z.getTransformFunction(j7N || E5o.yAxis);
+      if (!m2v) {
+        return;
+      }
+      U8B = [];
+      for (C9S in E5o.series) {
+        J2Q = E5o.series[C9S].parameters;
+        if (
+          (!J2Q.yAxis && J2Q.shareYAxis) ||
+          (J2Q.yAxis && J2Q.yAxis.transformFunc) ||
+          J2Q.yAxis === E5o.yAxis
+        ) {
+          U8B.push(J2Q.symbol);
+        }
+      }
+      n0R = ["Close", "Open", "High", "Low", "iqPrevClose"];
+      var { highLowBars: E_j } = W_Z.chart;
+      if (E5o.defaultPlotField && !E_j) {
+        n0R.unshift(E5o.defaultPlotField);
+      }
+      j44 = n0R[0];
+      Y_H = W_Z.layout.studies;
+      for (var J1R in Y_H) {
+        V7T = Y_H[J1R];
+        X0u = W_Z.panels[V7T.panel];
+        N4o = V7T.getYAxis(W_Z);
+        f7k = W_Z.getTransformFunction(N4o);
+        if (!X0u || !f7k) continue;
+        for (C9S in V7T.outputMap) {
+          if (U8B.includes(V7T.inputs.Field)) {
+            n0R.push({ comparison: V7T.inputs.Field, field: C9S });
+          } else {
+            n0R.push(C9S);
+          }
+        }
+        for (var Q2d = "0" | 0; Q2d <= +"2"; Q2d++) {
+          n0R.push(V7T.name + "_hist" + (Q2d ? Q2d : ""));
+        }
+        if (V7T.referenceOutput) {
+          n0R.push(
+            V7T.referenceOutput +
+              ((789.46, 6100) >= +"8350"
+                ? (!"1", !!{})
+                : "9050" * 1 >= (8810, 3830)
+                  ? " "
+                  : 4.88e3) +
+              V7T.name,
+          );
+        }
+      }
+      for (var c2_ in W_Z.plugins) {
+        e74 = W_Z.plugins[c2_];
+        if (!e74.transformOutputs) continue;
+        for (C9S in e74.transformOutputs) {
+          n0R.push(C9S);
+        }
+      }
+      E5o.initialComparisonPrice = null;
+      E5o.dataSegment = [];
+      u1A = null;
+      Z$_.C2v(10);
+      var a3L = Z$_.B$D(17, 18);
+      q6i = E5o.dataSet.length - E5o.scroll - a3L;
+      Z$_.a3_();
+      if (W_Z.startComparisonsAtFirstVisibleBar) {
+        q6i += 1;
+      }
+      Z$_.w6J(28);
+      var P0A = Z$_.Y51(18, 15, 1);
+      X4P = E5o.maxTicks + P0A;
+      for (var H7K = 0; H7K <= X4P; H7K++) {
+        if (H7K == X4P) {
+          H7K = -1;
+        }
+        Z$_.C2v(0);
+        i4N = Z$_.Y51(q6i, H7K);
+        if (i4N < E5o.dataSet.length && i4N >= 0) {
+          w9i = E5o.dataSet[i4N];
+          Q78 = w9i[j44];
+          if (!u1A) {
+            if (Q78 === 0 || Q78 === null) {
+              if (H7K < 0) break;
+              else continue;
+            }
+            u1A = C4Q.clone(w9i);
+          }
+          z3i = { cache: {}, DT: w9i.DT, Date: w9i.Date };
+          if (!(u1A && u1A[j44]) && Q78) {
+            u1A = C4Q.clone(w9i);
+          }
+          W_Z.comparisonBaseline = j7N.transformBaseline = u1A;
+          Y5W = void 0;
+          Z$_.C2v(21);
+          l6D = void Z$_.B$D(32, "0");
+          for (Y5W = 0; Y5W < n0R.length; Y5W++) {
+            C9S = n0R[Y5W];
+            l6D = w9i[C9S];
+            if (l6D || l6D === 0) {
+              z3i[C9S] = m2v(W_Z, E5o, l6D);
+            }
+          }
+          for (Y5W = "0" - 0; Y5W < U8B.length; Y5W++) {
+            C9S = U8B[Y5W];
+            O74 = E5o.series[C9S];
+            var { isComparison: n8Z } = O74.parameters;
+            if (H7K == -1 && n8Z) {
+              delete z3i[C9S];
+              continue;
+            }
+            y3I = w9i[C9S];
+            if (!y3I) continue;
+            for (var K$z = 0; K$z < n0R.length; K$z++) {
+              I_o = n0R[K$z];
+              i7s = y3I[I_o];
+              Y7Q = z3i[C9S] = z3i[C9S] || {};
+              if (typeof I_o == "object" && I_o.comparison == C9S) {
+                I_o = I_o.field;
+                i7s = w9i[I_o];
+                Y7Q = z3i;
+              }
+              if (i7s || i7s === 0) {
+                y1S = u1A[C9S] && u1A[C9S][n0R["0" * 1]];
+                if (!y1S && y1S !== 0) {
+                  if (!u1A[C9S]) {
+                    u1A[C9S] = {};
+                  }
+                  u1A[C9S][I_o] = y1S = i7s;
+                }
+                if (y1S !== 0 && !isNaN(y1S)) {
+                  Z$_.C2v(10);
+                  Y7Q[I_o] = m2v(W_Z, E5o, i7s, j7N, C9S, Z$_.Y51(0, "0"));
+                }
+              }
+            }
+          }
+          if (j7N == E5o.panel.yAxis) {
+            w9i.transform = z3i;
+          }
+          if (!w9i.transform_axis) {
+            w9i.transform_axis = {};
+          }
+          w9i.transform_axis[j7N.transformId] = z3i;
+          E5o.dataSegment.push(w9i);
+        } else if (i4N < 0) {
+          E5o.dataSegment.push(null);
+        }
+        if (H7K < 0) break;
+      }
+    };
+    for (var z3x of Object.keys(W_Z.panels)) {
+      H3c = W_Z.panels[z3x];
+      for (var a06 of H3c.yaxisLHS) {
+        r6M(a06);
+      }
+      for (var a$e of H3c.yaxisRHS) {
+        r6M(a$e);
+      }
+    }
+  };
+  C4Q.Comparison.priceFormat = function (r7a, G6i, f5f) {
+    var O_X, P0y, U_g, m5B;
+    O_X = "undefi";
+    O_X += "ned";
+    if (f5f === null || typeof f5f == O_X || isNaN(f5f)) {
+      return "";
+    }
+    P0y = G6i.yAxis.priceTick;
+    U_g = r7a.internationalizer;
+    if (U_g) {
+      if (P0y >= +"5") {
+        Z$_.C2v(11);
+        f5f = U_g.percent.format(Z$_.Y51(100, f5f));
+      } else if (P0y >= 0.5) {
+        Z$_.C2v(11);
+        f5f = U_g.percent1.format(Z$_.Y51(100, f5f));
+      } else if (P0y >= 0.05) {
+        Z$_.w6J(11);
+        f5f = U_g.percent2.format(Z$_.Y51(100, f5f));
+      } else if (P0y >= 0.005) {
+        Z$_.C2v(11);
+        f5f = U_g.percent3.format(Z$_.Y51(100, f5f));
+      } else {
+        Z$_.C2v(11);
+        f5f = U_g.percent4.format(Z$_.Y51(100, f5f));
+      }
+    } else {
+      Z$_.C2v(89);
+      m5B = Z$_.B$D(f5f, 0);
+      if (P0y >= 5) {
+        Z$_.w6J(123);
+        var j75 = Z$_.B$D(10, 4, 691, 404, 9);
+        Z$_.C2v(39);
+        var B2P = Z$_.B$D(30, 16, 13);
+        Z$_.C2v(29);
+        var j2T = Z$_.B$D(3, 22020, 82575);
+        Z$_.w6J(24);
+        var D_J = Z$_.Y51(8233, 6, 6162, 14);
+        Z$_.C2v(0);
+        var t_w = Z$_.B$D(5, 69);
+        Z$_.C2v(0);
+        var x3b = Z$_.B$D(9704, 12);
+        f5f =
+          f5f.toFixed(0) +
+          (j75 != ("437.87" * B2P, 975.85)
+            ? "%"
+            : 524.58 < (j2T, D_J)
+              ? t_w
+              : x3b);
+      } else if (P0y >= 0.5) {
+        Z$_.C2v(121);
+        var w47 = Z$_.B$D(1540, 770, 1558);
+        Z$_.w6J(124);
+        var f4a = Z$_.Y51(13, 14383, 21570, 8, 8);
+        Z$_.C2v(29);
+        var Q_5 = Z$_.Y51(1, 2, 3);
+        Z$_.w6J(25);
+        var O3n = Z$_.B$D(4, 6, 6092, 9, 9);
+        Z$_.w6J(29);
+        var v0T = Z$_.Y51(9, 9929, 178722);
+        Z$_.w6J(125);
+        var y0e = Z$_.Y51(18, 6, 7979, 8011, 2);
+        Z$_.w6J(70);
+        var W8B = Z$_.B$D(3, 111, 111, 2211, 20);
+        f5f =
+          f5f.toFixed(+"1") +
+          ((w47, f4a) != "5816" * Q_5
+            ? (336.4, +"518.84") <= (O3n, v0T)
+              ? "%"
+              : (!{}, y0e)
+            : W8B);
+      } else if (P0y >= 0.05) {
+        Z$_.C2v(101);
+        var W_O = Z$_.B$D(13, 14, 11, 165);
+        Z$_.w6J(10);
+        var j59 = Z$_.B$D(17, 4107);
+        Z$_.w6J(10);
+        var C41 = Z$_.B$D(9, 10);
+        Z$_.w6J(0);
+        var m9c = Z$_.B$D(267, 5);
+        Z$_.w6J(58);
+        var J5Q = Z$_.Y51(16, 6, 2, 6331);
+        Z$_.C2v(26);
+        var o__ = Z$_.B$D(2589, 24, 5);
+        Z$_.C2v(126);
+        var U9$ = Z$_.B$D(1, 7757, 5, 1);
+        Z$_.C2v(127);
+        var s4C = Z$_.Y51(5, 397, 15, 19, 2022);
+        Z$_.C2v(69);
+        var X9F = Z$_.Y51(8, 39, 29, 29);
+        f5f =
+          f5f.toFixed(W_O) +
+          ((j59, 181.24) >= ("4010" * C41, m9c)
+            ? (J5Q, o__) == U9$
+              ? ("D", s4C)
+              : (770.71, "5320" << X9F) !== 805.85
+                ? !"1"
+                : !!1
+            : "%");
+      } else if (P0y >= 0.005) {
+        Z$_.C2v(28);
+        var N$i = Z$_.B$D(6, 39, 7);
+        Z$_.C2v(10);
+        var y5u = Z$_.B$D(19, 2799);
+        Z$_.w6J(26);
+        var I0i = Z$_.B$D(38340, 31968, 18);
+        f5f = f5f.toFixed(N$i) + (y5u > (I0i, 885.59) ? "%" : ("f", "c"));
+      } else {
+        Z$_.w6J(128);
+        var k_a = Z$_.Y51(8, 1, 6, 2, 3);
+        f5f = f5f.toFixed(k_a) + "%";
+      }
+      if (m5B) {
+        Z$_.C2v(0);
+        f5f = Z$_.Y51("+", f5f);
+      }
+    }
+    return f5f;
+  };
+  C4Q.ChartEngine.prototype.setComparison = function (p8r, E5L, T2m, s4t) {
+    var b_k, N9t, u51, X2u;
+    b_k = "stri";
+    b_k += "ng";
+    if (!E5L) {
+      E5L = this.chart;
+    }
+    if (typeof E5L == b_k) {
+      E5L = this.charts[E5L];
+    }
+    Z$_.s8u();
+    if (T2m || T2m === "") {
+      C4Q.Comparison.initialPrice = T2m;
+    }
+    if (p8r === !"") {
+      if (E5L.isComparison) {
+        return;
+      }
+      p8r = "percent";
+    }
+    this.resetDynamicYAxis();
+    N9t = s4t || E5L.panel.yAxis;
+    if (N9t.transformName === p8r) {
+      return;
+    }
+    u51 = N9t.priceFormatter == C4Q.Comparison.priceFormat;
+    N9t.unsetTransform(this);
+    switch (p8r) {
+      case "netchange":
+        N9t.setTransform(
+          this,
+          p8r,
+          C4Q.Comparison.priceToNetChange,
+          C4Q.Comparison.netChangeToPrice,
+        );
+        if (u51) {
+          N9t.priceFormatter = N9t.originalPriceFormatter
+            ? N9t.originalPriceFormatter.func
+            : null;
+          N9t.originalPriceFormatter = null;
+        }
+        if (N9t === E5L.panel.yAxis) {
+          E5L.isComparison = !!{};
+        }
+        N9t.whichSet = "dataSegment";
+        break;
+      case "relative":
+        X2u = "dat";
+        X2u += "aSe";
+        X2u += "g";
+        X2u += "ment";
+        N9t.setTransform(
+          this,
+          p8r,
+          C4Q.Comparison.priceToRelative,
+          C4Q.Comparison.relativeToPrice,
+        );
+        if (u51) {
+          N9t.priceFormatter = N9t.originalPriceFormatter
+            ? N9t.originalPriceFormatter.func
+            : null;
+          N9t.originalPriceFormatter = null;
+        }
+        N9t.whichSet = X2u;
+        if (N9t === E5L.panel.yAxis) {
+          E5L.isComparison = !!1;
+        }
+        break;
+      case "percent":
+        N9t.setTransform(
+          this,
+          p8r,
+          C4Q.Comparison.priceToPercent,
+          C4Q.Comparison.percentToPrice,
+        );
+        if (!u51) {
+          N9t.originalPriceFormatter = { func: N9t.priceFormatter };
+          N9t.priceFormatter = C4Q.Comparison.priceFormat;
+        }
+        N9t.whichSet = "dataSegment";
+        if (N9t === E5L.panel.yAxis) {
+          E5L.isComparison = !!{};
+        }
+        break;
+      default:
+        if (u51) {
+          N9t.priceFormatter = N9t.originalPriceFormatter
+            ? N9t.originalPriceFormatter.func
+            : null;
+          N9t.originalPriceFormatter = null;
+        }
+        N9t.whichSet = "dataSet";
+        if (N9t === E5L.panel.yAxis) {
+          E5L.isComparison = !!"";
+        }
+        break;
+    }
+  };
+  C4Q.ChartEngine.prototype.setChartScale = function (y89) {
+    var I3r, n9N, R6B;
+    I3r = this.chart;
+    n9N = { percent: !!{}, relative: !!{}, netchange: !!1 };
+    if (!y89) {
+      y89 = "linear";
+    }
+    if (n9N[y89]) {
+      this.setComparison(y89, I3r, C4Q.Comparison.initialPrice);
+    } else if (n9N[this.layout.chartScale]) {
+      this.setComparison(![], I3r);
+    }
+    R6B = this.layout.chartScale !== y89;
+    this.layout.chartScale = y89;
+    if (I3r.canvas) {
+      this.draw();
+    }
+    if (R6B) {
+      this.changeOccurred("layout");
+    }
+  };
+};
+G$ = (g0_) => {
+  var I1z, i1f;
+  I1z = typeof _CIQ !== "undefined" ? _CIQ : g0_.CIQ;
+  function O5x(E7c, R9D, I5z) {
+    var O08, V5Z, L15, w_I, r0w, e9j, M4Q, x$H, A7Y, C2R;
+    O08 = "a";
+    O08 += "d";
+    O08 += "d";
+    if (!R9D) {
+      R9D = {};
+    }
+    V5Z = "ciq-no-share";
+    L15 =
+      (E7c.uiContext && E7c.uiContext.topNode) ||
+      E7c.container.ownerDocument.body;
+    w_I = L15.parentElement.closest("cq-context");
+    function N4X(p8Z, X9l) {
+      var w2C;
+      w2C = "[interac";
+      w2C += "table]";
+      p8Z.classList[X9l]("sharing");
+      U6BfN.a3_();
+      (p8Z.root || p8Z).querySelectorAll(w2C).forEach(function (M7G) {
+        U6BfN.s8u();
+        N4X(M7G, X9l);
+      });
+    }
+    if (w_I) {
+      L15 = w_I;
+    }
+    if (R9D.hide && R9D.hide instanceof Array) {
+      r0w = R9D.hide.join(", ");
+      e9j = L15.querySelectorAll(r0w);
+      for (var l7s = "0" >> 0; l7s < e9j.length; l7s++) {
+        e9j[l7s].classList.add(V5Z);
+      }
+    }
+    N4X(L15, O08);
+    E7c.draw();
+    M4Q = E7c.chart.container.getElementsByTagName("svg");
+    x$H = [];
+    U6BfN.a3_();
+    A7Y = 0;
+    for (; A7Y < M4Q.length; A7Y++) {
+      C2R = M4Q[A7Y];
+      x$H.push(C2R.innerHTML);
+      b7W(C2R);
+    }
+    i1f(E7c.chart.container, {
+      allowTaint: !1,
+      foreignObjectRendering: !!0,
+      logging: !!"",
+      width: R9D.width || null,
+      height: R9D.height || null,
+      backgroundColor: R9D.background || null,
+      useCORS: !![],
+    })
+      .then(function (p$1) {
+        var n7r;
+        if (I5z) {
+          n7r = "ima";
+          n7r += "ge/";
+          n7r += "pn";
+          n7r += "g";
+          I5z(null, R9D.data ? p$1.toDataURL(n7r) : p$1);
+        }
+        U6BfN.s8u();
+        for (A7Y = 0; A7Y < M4Q.length; A7Y++) {
+          M4Q[A7Y].innerHTML = x$H[A7Y];
+        }
+        N4X(L15, "remove");
+      })
+      .catch(function (H3e) {
+        var T$v;
+        U6BfN.s8u();
+        T$v = "r";
+        T$v += "e";
+        T$v += "move";
+        if (I5z) {
+          I5z(H3e);
+        }
+        for (A7Y = 0; A7Y < M4Q.length; A7Y++) {
+          M4Q[A7Y].innerHTML = x$H[A7Y];
+        }
+        N4X(L15, T$v);
+      });
+  }
+  function W5b() {
+    U6BfN.s8u();
+    var j6b, O11, K4W;
+    j6b = "js";
+    j6b += "/thir";
+    j6b += "dp";
+    j6b += "arty/";
+    if (I1z.Share.html2canvasLocation) {
+      return I1z.Share.html2canvasLocation;
+    }
+    O11 = document.getElementsByTagName("script");
+    for (var t4c = 0; t4c < O11.length; t4c++) {
+      K4W = O11[t4c];
+      if (K4W.src && K4W.src.indexOf("share.js") > -("1" | 1)) {
+        return K4W.src.replace(/standard\/share\.js/, "") + "thirdparty/";
+      }
+    }
+    return j6b;
+  }
+  I1z.Share = I1z.Share || function () {};
+  I1z.Share.fullChart2PNG = function (m_q, k91, b7i) {
+    var S33;
+    S33 = "undefi";
+    S33 += "ned";
+    if (!m_q || !m_q.chart) {
+      return;
+    }
+    if (typeof html2canvas === S33) {
+      return h_S(function () {
+        return O5x(m_q, k91, b7i);
+      });
+    }
+    i1f = html2canvas;
+    O5x(m_q, k91, b7i);
+  };
+  I1z.Share.createImage = function (t2l, j$W, A36) {
+    var R6c, Y65, U70, p8x, K06, B$J, j8Y, A0Z, U_D;
+    R6c = "obje";
+    R6c += "ct";
+    Y65 = [].slice.call(arguments);
+    A36 = Y65.pop();
+    if (j$W === null || typeof j$W != R6c) {
+      j$W = { widthPX: Y65[1], heightPX: Y65[2], imageType: Y65[3] };
+    }
+    U70 = j$W.widthPX;
+    p8x = j$W.heightPX;
+    K06 = j$W.imageType;
+    B$J = t2l.chart.canvas.height;
+    j8Y = t2l.chart.canvas.width;
+    if (t2l.chart.canvas.style.height) {
+      B$J = I1z.stripPX(t2l.chart.canvas.style.height);
+      j8Y = I1z.stripPX(t2l.chart.canvas.style.width);
+    }
+    if (U70 && p8x) {
+      B$J = p8x;
+      j8Y = U70;
+    } else if (p8x) {
+      j8Y = t2l.chart.canvas.width * (B$J / t2l.chart.canvas.height);
+    } else if (U70) {
+      j8Y = U70;
+      B$J = t2l.chart.canvas.height * (U70 / t2l.chart.canvas.width);
+    }
+    A0Z = K06 ? "image/" + K06 : "image/png";
+    U_D = document.createElement("img");
+    U_D.onload = function () {
+      I1z.Share.fullChart2PNG(
+        t2l,
+        { image: this, width: j8Y, height: B$J, hide: j$W.hide },
+        function (g4i, b3$) {
+          if (g4i) {
+            U6BfN.C2v(0);
+            console.warn(U6BfN.Y51("Error producing canvas snapshot: ", g4i));
+          } else {
+            try {
+              A36(b3$.toDataURL(A0Z));
+            } catch (u09) {
+              var N0x;
+              N0x = "Safari devices do not handle COR";
+              N0x +=
+                "S enabled images. Using the charts' canvas as a fallback.";
+              console.warn(N0x);
+              A36(U_D.src);
+            }
+          }
+        },
+      );
+    };
+    U_D.src = t2l.chart.canvas.toDataURL(A0Z);
+  };
+  I1z.Share.uploadImage = function (g9B, S$u, v$1, M3a) {
+    var W4I;
+    if (!v$1) {
+      v$1 = {};
+    }
+    v$1.image = g9B;
+    W4I = I1z.postAjax(S$u, JSON.stringify(v$1), function (V0M, d8O) {
+      if (V0M != 200) {
+        M3a(V0M, null);
+        return;
+      }
+      U6BfN.a3_();
+      M3a(null, d8O);
+    });
+    if (!W4I) {
+      M3a(0, null);
+    }
+  };
+  I1z.Share.shareChart = function (x0F, g5A, m1C) {
+    var y6y = U6BfN;
+    y6y.s8u();
+    I1z.Share.createImage(x0F, {}, function (n7B) {
+      var g2E, z9T, v_N, G6U, l2w, I8s;
+      g2E = I1z.uniqueID();
+      z9T = "ht";
+      z9T += "tps://share.c";
+      y6y.s8u();
+      z9T += "hartiq.com";
+      y6y.w6J(2);
+      v_N = y6y.B$D(z9T, "/upload/", g2E);
+      if (g5A) {
+        if (g5A.host) {
+          z9T = g5A.host;
+        }
+        if (g5A.path) {
+          v_N = z9T + g5A.path + "/" + g2E;
+        }
+      }
+      G6U = x0F.getStartDateOffset();
+      l2w = {
+        layout: x0F.exportLayout(),
+        drawings: x0F.exportDrawings(),
+        xOffset: G6U,
+        startDate: x0F.chart.dataSegment[G6U].Date,
+        endDate: x0F.chart.dataSegment[x0F.chart.dataSegment.length - 1].Date,
+        id: g2E,
+        symbol: x0F.chart.symbol,
+      };
+      I8s = { id: g2E, image: n7B, config: l2w };
+      I1z.Share.uploadImage(n7B, v_N, I8s, function (m_Z, N4$) {
+        if (m_Z !== null) {
+          I1z.alert("error sharing chart: ", m_Z);
+        } else {
+          y6y.C2v(0);
+          m1C(y6y.Y51(z9T, N4$));
+        }
+      });
+    });
+  };
+  I1z.Share.saveChartLayout = async (S78) => {
+    var J7v, L1z, P8y, l2l, n7c, p3E, p01, A35, V_t;
+    var { chartSharing: U1n } = S78.uiContext.config;
+    if (!U1n || !U1n.saveChartLayout) {
+      throw new Error("saveChartLayout not defined in config");
+    }
+    if (S78.chart.dataSegment[0] && S78.chart.dataSegment[0].DT) {
+      J7v = S78.chart.dataSegment["0" << 32].DT;
+    } else if (S78.chart.dataSet[0]) {
+      J7v = S78.chart.dataSet["0" | 0].DT;
+    }
+    U6BfN.a3_();
+    if (!J7v) {
+      L1z = -1577304640;
+      P8y = 1400029402;
+      l2l = 2;
+      for (
+        var B3S = 1;
+        U6BfN.D9u(B3S.toString(), B3S.toString().length, 43394) !== L1z;
+        B3S++
+      ) {
+        throw new Error("");
+        l2l += 2;
+      }
+      if (U6BfN.C6S(l2l.toString(), l2l.toString().length, 71096) !== P8y) {
+        n7c = "Unable to retriev";
+        n7c += "e starting point of data set or segment";
+        throw new Error(n7c);
+      }
+    }
+    S78.layout.range = {
+      padding: S78.preferences.whitespace,
+      dtLeft: J7v,
+      dtRight: S78.chart.dataSegment[S78.chart.dataSegment.length - 1].DT,
+      periodicity: {
+        period: S78.layout.periodicity,
+        interval: S78.layout.interval,
+        timeUnit: S78.layout.timeUnit,
+      },
+    };
+    p3E = S78.exportLayout({ withSymbols: !!{} });
+    p01 = S78.exportDrawings();
+    A35 = S78.exportPreferences();
+    V_t = `${S78.chart.symbol} Chart`;
+    return U1n.saveChartLayout(
+      JSON.stringify({
+        version: I1z.packageInfo.version,
+        layout: p3E,
+        drawings: p01,
+        preferences: A35,
+        chartTitle: V_t,
+      }),
+    );
+  };
+  function b7W(x3J) {
+    var m3c, c_f, H6e, h2h, T9W;
+    m3c = "text-a";
+    m3c += "lig";
+    m3c += "n";
+    c_f = "font";
+    c_f += "-size";
+    H6e = "fil";
+    H6e += "l-opacity";
+    if (!x3J.style) {
+      return;
+    }
+    h2h = getComputedStyle(x3J);
+    T9W = [
+      "alignment-baseline",
+      "dominant-baseline",
+      "fill",
+      H6e,
+      "font-family",
+      c_f,
+      "font-variant",
+      "font-weight",
+      m3c,
+      "text-anchor",
+    ];
+    T9W.forEach(function (y2v) {
+      U6BfN.s8u();
+      if (!x3J.style[y2v] && h2h[y2v]) {
+        x3J.style[y2v] = h2h[y2v];
+      }
+    });
+    for (var y_l in x3J.children) {
+      b7W(x3J.children[y_l]);
+    }
+  }
+  I1z.Share.extractShareID = (l50) => {
+    U6BfN.a3_();
+    var i2Q;
+    i2Q = l50.match(/([a-z0-9]+-[a-z0-9]+-[a-z0-9]+-[a-z0-9]+-[a-z0-9]+)/);
+    return (i2Q && i2Q[1]) || "";
+  };
+  I1z.Share.onClipboard = (Z4y) => {
+    window.addEventListener("paste", async function (S67) {
+      U6BfN.s8u();
+      var I4U, V9b, R9u, h62;
+      I4U = "";
+      if (window.clipboardData && window.clipboardData.getData) {
+        V9b = "T";
+        V9b += "e";
+        V9b += "xt";
+        I4U = window.clipboardData.getData(V9b);
+      } else if (S67.clipboardData && S67.clipboardData.getData) {
+        R9u = "text";
+        R9u += "/plai";
+        R9u += "n";
+        I4U = S67.clipboardData.getData(R9u);
+      }
+      h62 = I1z.Share.extractShareID(I4U);
+      if (h62) {
+        Z4y(h62);
+      }
+    });
+  };
+  I1z.Share.getClipboard = async () => {
+    U6BfN.s8u();
+    return new Promise(async (U8d) => {
+      var h_G;
+      U6BfN.a3_();
+      try {
+        h_G = I1z.Share.extractShareID(await navigator.clipboard.readText());
+        U8d(h_G);
+      } catch (F1w) {
+        U8d("");
+      }
+    });
+  };
+  function h_S(q62) {
+    var j6S, w3E;
+    if (typeof html2canvas === "undefined") {
+      j6S = "h";
+      j6S += "tml2";
+      j6S += "canv";
+      j6S += "as.min.js";
+      if (typeof requirejs !== "undefined") {
+        try {
+          w3E = "h";
+          w3E += "tml2canvas.";
+          w3E += "min.j";
+          w3E += "s";
+          return requirejs([w3E], function (p5t) {
+            i1f = p5t;
+            U6BfN.s8u();
+            return q62();
+          });
+        } catch (s10) {
+          var n$1;
+          n$1 = "Re";
+          n$1 += "quire loading has failed, attempting to loa";
+          n$1 += "d html2canvas manually.";
+          console.warn(n$1);
+        }
+      }
+      I1z.loadScript(W5b() + j6S, function () {
+        i1f = html2canvas;
+        return q62();
+      });
+    } else {
+      i1f = html2canvas;
+      return q62();
+    }
+  }
+  I1z.Share.loadChartFromID = async (F4J, o6H) => {
+    U6BfN.a3_();
+    return new Promise(async (Z8O, b3Y) => {
+      var h3$, z9u;
+      if (!o6H) {
+        return b3Y();
+      }
+      var { getChartLayout: Q$o } = F4J.uiContext.config.chartSharing;
+      h3$ = await Q$o(o6H);
+      z9u = JSON.parse(h3$);
+      Z8O(I1z.Share.loadChartFromLayout(F4J, z9u));
+    });
+  };
+  I1z.Share.loadChartFromLayout = async (o2C, n5D) => {
+    return new Promise(async (Y$r, j0f) => {
+      if (
+        n5D.version.split(".")[0] !=
+        I1z.packageInfo.version.split(302.17 != (5230, 339.84) ? "." : !0)[0]
+      ) {
+        j0f(new Error("Version mismatch"));
+      }
+      o2C.importPreferences(n5D.preferences);
+      o2C.importLayout(n5D.layout, {
+        managePeriodicity: !0,
+        preserveTicksAndCandleWidth: !!1,
+        cb: () => {
+          o2C.importDrawings(n5D.drawings);
+          o2C.draw();
+          Y$r();
+        },
+      });
+    });
+  };
+};
+R9 = (c_u) => {
+  var C7q;
+  C7q = typeof _CIQ !== "undefined" ? _CIQ : c_u.CIQ;
+  C7q.ChartEngine.prototype.setRange = function (V1b, a8b) {
+    var k3A = U6BfN;
+    var o3U,
+      n_M,
+      g6T,
+      k_m,
+      h$L,
+      g2j,
+      J_K,
+      Q1p,
+      D61,
+      Z73,
+      k5O,
+      W2y,
+      e8W,
+      G8z,
+      a0A,
+      f3y,
+      w2n,
+      l2p,
+      Z$F,
+      P$I,
+      j49,
+      I0f,
+      B1i,
+      J_e,
+      S$8,
+      N1j,
+      B5n,
+      m0S,
+      E5P,
+      X9X,
+      E0d,
+      y_L,
+      Q8c,
+      Y47,
+      b_8;
+    o3U = "s";
+    o3U += "tring";
+    if (C7q.isEmpty(V1b)) {
+      V1b = {
+        dtLeft: arguments[0],
+        dtRight: arguments[1],
+        padding: arguments[2],
+        chart: arguments[3],
+      };
+      k3A.w6J(6);
+      a8b = arguments[k3A.Y51("4", 0)];
+    }
+    if (this.staticRange) {
+      V1b.goIntoPast = V1b.goIntoFuture = !!{};
+    }
+    function Y3E(W6W) {
+      k3A.a3_();
+      if (W6W && Q1p === +"0") {
+        g6T.scroll = S$8;
+        J_K.setCandleWidth(N1j);
+        J_K.layout.interval = B5n;
+        J_K.layout.periodicity = m0S;
+        J_K.layout.timeUnit = E5P;
+        if (a8b) {
+          a8b(W6W);
+        }
+        return;
+      }
+      Q1p++;
+      if (Q1p > 10) {
+        console.log(
+          "CIQ.ChartEngine.setRange(): Too many loads (10) from server. Stopping. Check periodicity logic.",
+        );
+        N2t();
+        return;
+      }
+      N2t();
+    }
+    if (!V1b.chart) {
+      V1b.chart = this.chart;
+    }
+    if (typeof V1b.padding == "undefined") {
+      V1b.padding = 0;
+    }
+    n_M = !"1";
+    function y3H(d6R, F9i, w3l, R2A, R3O, T_E) {
+      var W_L, O9D;
+      k3A.C2v(23);
+      W_L = k3A.B$D("0", 0);
+      k3A.w6J(10);
+      O9D = k3A.Y51(F9i, d6R);
+      if (C7q.ChartEngine.isDailyInterval(w3l)) {
+        if (w3l == "month") {
+          W_L = O9D / C7q.MONTH / R2A;
+        } else if (w3l == "week") {
+          W_L = O9D / C7q.WEEK / R2A;
+        } else {
+          W_L = O9D / C7q.DAY / R2A;
+        }
+      } else {
+        if (!isNaN(w3l)) {
+          if (R3O == "millisecond") {
+            k3A.w6J(129);
+            W_L = k3A.B$D(w3l, O9D, R2A);
+          } else if (R3O == "second") {
+            W_L = O9D / C7q.SECOND / (R2A * w3l);
+          } else {
+            W_L = O9D / C7q.MINUTE / (R2A * w3l);
+          }
+        }
+      }
+      return Math.round(W_L);
+    }
+    g6T = V1b.chart;
+    k_m = typeof V1b.dtLeft === "string" ? new Date(V1b.dtLeft) : V1b.dtLeft;
+    h$L = new Date();
+    if (V1b.dtRight) {
+      h$L = typeof V1b.dtRight === o3U ? new Date(V1b.dtRight) : V1b.dtRight;
+    }
+    if (!k_m) {
+      g2j = this.standardMarketIterator(h$L, null, g6T);
+      k_m = g2j.previous(g6T.maxTicks);
+      if (!V1b.periodicity) {
+        n_M = !!{};
+      }
+    }
+    g6T.inflectionPoint = k_m;
+    function N2t(E$1) {
+      var U0F,
+        s9M,
+        x2F,
+        U8p,
+        B$P,
+        O5U,
+        z5x,
+        d1M,
+        X6y,
+        f5q,
+        l9n,
+        c0c,
+        d5W,
+        U$X,
+        x4k,
+        k4c,
+        k$z,
+        b2V,
+        w$L,
+        h$j,
+        u9s,
+        Z9x,
+        G70,
+        I3Z,
+        p6s,
+        x14,
+        r34;
+      U0F = "tod";
+      U0F += "a";
+      U0F += "y";
+      s9M = "unde";
+      s9M += "fined";
+      if (typeof E$1 == s9M) {
+        E$1 = null;
+      }
+      x2F = +"0";
+      U8p = +"0";
+      B$P = new Date();
+      O5U = V1b.base;
+      z5x = V1b.periodicity;
+      d1M = J_K.layout;
+      if (
+        V1b.goIntoFuture &&
+        (!g6T.masterData.length ||
+          k_m > g6T.masterData[g6T.masterData.length - ("1" ^ 0)].DT)
+      ) {
+        X6y = g6T.masterData.length ? g6T.masterData.pop() : { DT: k_m };
+        f5q = J_K.doCleanupGaps([X6y, { DT: h$L }], g6T, {
+          cleanupGaps: "gap",
+          noCleanupDates: !![],
+        });
+        J_K.setMasterData(g6T.masterData.concat(f5q), g6T, {
+          noCleanupDates: !![],
+        });
+        J_K.createDataSet(null, null, { appending: !"" });
+      }
+      l9n = g6T.dataSet;
+      c0c = l9n.length;
+      if (!l9n || c0c === 0) {
+        J_K.draw();
+        if (a8b) {
+          a8b(E$1);
+        }
+        return;
+      }
+      if (O5U === "day" && z5x && z5x.interval === "day") {
+        U$X = V1b.multiplier;
+        x2F = c0c < U$X ? "0" - 0 : c0c - U$X;
+        k3A.C2v(10);
+        U8p = k3A.Y51(1, c0c);
+      } else if (
+        O5U === U0F &&
+        l9n[c0c - ("1" << 32)].DT.getDate() < B$P.getDate()
+      ) {
+        x4k = new Date(l9n[c0c - 1].DT.getTime());
+        k4c = x4k.getTime();
+        d5W = 0;
+        for (var I1H = c0c - 1; I1H >= 0; I1H--) {
+          if (l9n[I1H] && l9n[I1H].DT.getDate() != x4k.getDate()) {
+            x4k = new Date(+l9n[I1H + 1].DT);
+            k3A.w6J(0);
+            d5W = k3A.Y51(I1H, 1);
+            break;
+          }
+        }
+        x2F = d5W;
+        k3A.w6J(10);
+        U8p = k3A.Y51(1, c0c);
+      } else {
+        k$z = "a";
+        k$z += "l";
+        k$z += "l";
+        if (
+          V1b.base != k$z &&
+          (k_m.getTime() >= l9n[0].DT.getTime() || V1b.goIntoPast)
+        ) {
+          x2F = J_K.tickFromDate(k_m, g6T, null, !!"1");
+        } else {
+          b2V = 566503624;
+          w$L = 1973375545;
+          h$j = 2;
+          for (
+            var x6n = "1" ^ 0;
+            k3A.C6S(x6n.toString(), x6n.toString().length, 35436) !== b2V;
+            x6n++
+          ) {
+            x2F = 6;
+            h$j += +"2";
+          }
+          if (k3A.D9u(h$j.toString(), h$j.toString().length, 23757) !== w$L) {
+            x2F = 6;
+          }
+          x2F = 0;
+        }
+        if (
+          V1b.base != "all" &&
+          (h$L.getTime() <= l9n[c0c - "1" * 1].DT.getTime() || V1b.goIntoFuture)
+        ) {
+          U8p = J_K.tickFromDate(h$L, g6T);
+          if (U8p > c0c - 1) {
+            U8p--;
+          }
+        } else {
+          k3A.C2v(10);
+          U8p = k3A.B$D(1, c0c);
+        }
+      }
+      k3A.w6J(20);
+      u9s = k3A.B$D(x2F, 1, U8p);
+      if (u9s < 1) {
+        J_K.draw();
+        if (a8b) {
+          a8b(E$1);
+        }
+        return;
+      }
+      Z9x = V1b.padding || 0;
+      if (U8p < c0c - ("1" << 32)) {
+        Z9x = +"0";
+      }
+      G70 = (g6T.width - Z9x) / u9s;
+      if (!J_K.crossSection) {
+        J_K.setCandleWidth(G70, g6T);
+      }
+      k3A.w6J(130);
+      g6T.scroll = k3A.B$D(U8p, c0c, u9s, 1);
+      J_K.micropixels = 1;
+      for (var Q$x in J_K.panels) {
+        J_K.calculateYAxisMargins(J_K.panels[Q$x].yAxis);
+      }
+      if (!V1b.dontSaveRangeToLayout) {
+        I3Z = "l";
+        I3Z += "ayout";
+        delete V1b.chart;
+        delete d1M.setSpan;
+        d1M.range = V1b;
+        J_K.changeOccurred(I3Z);
+      } else {
+        delete d1M.range;
+      }
+      J_K.draw();
+      if (!n_M) {
+        J_K.dispatch("periodicity", {
+          stx: J_K,
+          differentData: X9X,
+          prevPeriodicity: { interval: B5n, periodicity: m0S, timeUnit: E5P },
+        });
+      }
+      p6s = -2118710147;
+      x14 = 2039543957;
+      r34 = 2;
+      for (
+        var y8l = 1;
+        k3A.D9u(y8l.toString(), y8l.toString().length, 86827) !== p6s;
+        y8l++
+      ) {
+        if (a8b) {
+          a8b(E$1);
+        }
+        r34 += 2;
+      }
+      if (k3A.C6S(r34.toString(), r34.toString().length, 57125) !== x14) {
+        if (a8b) {
+          a8b(E$1);
+        }
+      }
+    }
+    this.layout.range = { dtLeft: k_m, dtRight: h$L };
+    J_K = this;
+    Q1p = 0;
+    if (this.quoteDriver) {
+      if (n_M) {
+        D61 = this.layout.interval;
+        W2y = 677394038;
+        e8W = 400936092;
+        G8z = 2;
+        for (
+          var L20 = 1;
+          k3A.C6S(L20.toString(), L20.toString().length, "26695" * 1) !== W2y;
+          L20++
+        ) {
+          k5O = this.layout.timeUnit;
+          G8z += 2;
+        }
+        if (k3A.C6S(G8z.toString(), G8z.toString().length, 35032) !== e8W) {
+          k5O = this.layout.timeUnit;
+        }
+        Z73 = this.layout.periodicity;
+      } else if (V1b.periodicity) {
+        a0A = C7q.cleanPeriodicity(
+          V1b.periodicity.period,
+          V1b.periodicity.interval,
+          V1b.periodicity.timeUnit,
+        );
+        D61 = a0A.interval;
+        k5O = a0A.timeUnit;
+        Z73 = a0A.period;
+      } else {
+        f3y = h$L.getTime() - k_m.getTime();
+        if (!this.autoPickCandleWidth.turnOn) {
+          w2n = this.staticRangePeriodicityMap;
+          l2p = null;
+          for (var K9J = 0; K9J < w2n.length; K9J++) {
+            Z$F = w2n[K9J];
+            if (f3y / Z$F.rangeInMS < 1.001) {
+              l2p = Z$F;
+              break;
+            }
+          }
+          D61 = l2p.interval;
+          Z73 = l2p.periodicity;
+          k5O = l2p.timeUnit;
+        } else {
+          P$I = +"0";
+          if (this.autoPickCandleWidth.candleWidth) {
+            P$I = this.autoPickCandleWidth.candleWidth;
+          } else {
+            P$I = this.chart.barsHaveWidth ? 5 : 2;
+          }
+          j49 = g6T.width / P$I;
+          I0f = this.dynamicRangePeriodicityMap;
+          D61 = I0f[0].interval;
+          Z73 = 1;
+          for (var H26 = 0; H26 < I0f.length; H26++) {
+            J_e = f3y / I0f[H26].rangeInMS;
+            if (J_e < j49) {
+              if (I0f[H26 - 1]) {
+                D61 = I0f[H26 - 1].interval;
+                k5O = I0f[H26 - 1].timeUnit;
+                k3A.w6J(11);
+                Z73 = Math.ceil(k3A.Y51(j49, B1i));
+              } else {
+                D61 = I0f[H26].interval;
+                k5O = I0f[H26].timeUnit;
+                Z73 = 1;
+              }
+              break;
+            }
+            B1i = J_e;
+          }
+        }
+      }
+      S$8 = this.chart.scroll;
+      N1j = this.layout.candleWidth;
+      B5n = this.layout.interval;
+      m0S = this.layout.periodicity;
+      E5P = this.layout.timeUnit;
+      this.chart.maxTicks = y3H(
+        h$L.getTime(),
+        k_m.getTime(),
+        D61,
+        Z73,
+        k5O,
+        this.dontRoll,
+      );
+      X9X = this.needDifferentData({
+        period: Z73,
+        interval: D61,
+        timeUnit: k5O,
+      });
+      E0d =
+        !V1b.dtRight && C7q.ChartEngine.isDailyInterval(D61)
+          ? new Date(h$L.toDateString())
+          : h$L;
+      if (
+        Object.keys(this.chart.endPoints).length &&
+        (this.chart.endPoints.begin > k_m || this.chart.endPoints.end < E0d)
+      ) {
+        X9X = !![];
+      }
+      if (V1b.useExistingData) {
+        X9X = !!0;
+      }
+      if (
+        !this.chart.masterData ||
+        !this.chart.masterData.length ||
+        X9X ||
+        V1b.forceLoad
+      ) {
+        this.layout.interval = D61;
+        this.layout.periodicity = Z73;
+        this.layout.timeUnit = k5O;
+        if (!this.layout.timeUnit) {
+          if (C7q.ChartEngine.isDailyInterval(this.layout.interval)) {
+            this.layout.timeUnit = null;
+          } else if (this.layout.interval == "second") {
+            this.layout.timeUnit = "second";
+          } else if (this.layout.interval != "tick") {
+            this.layout.timeUnit = "minute";
+          }
+        }
+        y_L = {
+          symbol: g6T.symbol,
+          symbolObject: g6T.symbolObject,
+          chart: g6T,
+          nodraw: !!"1",
+        };
+        if (this.layout.interval == "tick") {
+          y_L.startDate = k_m;
+          y_L.endDate = h$L;
+        }
+        if (!this.displayInitialized) {
+          y_L.initializeChart = !!1;
+        }
+        Q8c = {
+          symbol: g6T.symbol,
+          symbolObject: g6T.symbolObject,
+          interval: this.layout.interval,
+        };
+        if (
+          (Q8c.interval == "month" || Q8c.interval == "week") &&
+          !this.dontRoll
+        ) {
+          Q8c.interval = "day";
+        }
+        Y47 = this.quoteDriver.getQuoteFeed(Q8c).behavior.bufferSize;
+        g2j = this.standardMarketIterator(k_m, null, g6T);
+        y_L.startDate = new Date(g2j.previous(Y47).getTime());
+        g2j = this.standardMarketIterator(h$L, null, g6T);
+        y_L.endDate = new Date(g2j.next(Y47).getTime());
+        if (y_L.endDate < Date.now()) {
+          this.isHistoricalModeSet = !!{};
+        }
+        k3A.w6J(8);
+        var G_D = k3A.Y51(2, 7388, 1080, 7, 18);
+        k3A.C2v(131);
+        var C3V = k3A.B$D(3, 12, 95006, 3, 8000);
+        b_8 = new Date(Date.now() + G_D * C3V);
+        if (y_L.endDate > b_8 && !V1b.dtRight) {
+          y_L.endDate = b_8;
+        }
+        this.clearCurrentMarketData(this.chart);
+        clearTimeout(this.streamParameters.timeout);
+        this.quoteDriver.newChart(y_L, Y3E);
+      } else {
+        if (
+          this.layout.interval != D61 ||
+          this.layout.periodicity != Z73 ||
+          this.layout.timeUnit != k5O ||
+          !this.chart.dataSegment ||
+          !this.chart.dataSegment[+"0"] ||
+          this.chart.dataSegment[0].DT != g6T.inflectionPoint
+        ) {
+          this.layout.interval = D61;
+          this.layout.periodicity = Z73;
+          this.layout.timeUnit = k5O;
+          this.createDataSet();
+        }
+        Y3E();
+      }
+    } else {
+      N2t();
+    }
+  };
+  C7q.ChartEngine.prototype.setSpan = function (q4d, s6s) {
+    var c5a = U6BfN;
+    var P8w,
+      U0j,
+      s9t,
+      A1t,
+      c8y,
+      a3V,
+      Y6m,
+      i25,
+      A83,
+      I4p,
+      q5p,
+      k7p,
+      q0s,
+      j$s,
+      k9J,
+      n9a,
+      c3$,
+      h_j,
+      L9T,
+      i7h,
+      y3U,
+      v2$,
+      c8G,
+      e5A;
+    P8w = "we";
+    P8w += "e";
+    P8w += "k";
+    U0j = "a";
+    U0j += "ll";
+    s9t = "obj";
+    s9t += "ec";
+    s9t += "t";
+    A1t = arguments[0];
+    c8y = arguments[1];
+    a3V = arguments[2];
+    Y6m = arguments[3];
+    if (typeof q4d == s9t) {
+      A1t = q4d.period ? q4d.period : q4d.multiplier ? q4d.multiplier : 1;
+      c8y = q4d.interval
+        ? q4d.interval
+        : q4d.base
+          ? q4d.base
+          : q4d.span
+            ? q4d.span
+            : q4d.period;
+      a3V = q4d.padding;
+      Y6m = q4d.chart;
+    } else {
+      q4d = { period: A1t, interval: c8y, padding: a3V, chart: Y6m };
+      c5a.C2v(10);
+      s6s = arguments[c5a.Y51(0, "5")];
+    }
+    if (!Y6m) {
+      Y6m = this.chart;
+    }
+    i25 = Y6m.market;
+    c8y = c8y.toLowerCase();
+    function k2A(d0O, S6o) {
+      c5a.s8u();
+      var A6D;
+      if (!k9J) {
+        return d0O;
+      }
+      A6D = 7;
+      if (S6o) {
+        d0O.setHours(d0O.getHours() + A6D);
+      } else {
+        d0O.setHours(d0O.getHours() - A6D);
+        if (!i25.isMarketDate(d0O)) {
+          d0O.setDate(d0O.getDate() - 2);
+        }
+      }
+      return d0O;
+    }
+    if (c8y == U0j) {
+      q4d.dontSaveRangeToLayout = !![];
+      this.displayAll(q4d, s6s);
+      return;
+    }
+    I4p = c8y;
+    q5p = 1;
+    if (c8y == "today") {
+      I4p = "day";
+    } else if (c8y == "year") {
+      I4p = "month";
+      q5p = 12;
+    }
+    k7p = C7q.shallowClone(q4d);
+    function D3P(d90) {
+      d90.setHours(0);
+      d90.setMinutes(0);
+      d90.setSeconds(0);
+      d90.setMilliseconds(0);
+      return d90;
+    }
+    q0s = { begin: i25.marketZoneNow(), interval: I4p, period: q5p };
+    j$s = q0s.begin;
+    k9J = C7q.Market.Symbology.isForexSymbol(Y6m.symbol);
+    if (c8y === "ytd") {
+      j$s = D3P(j$s);
+      j$s.setMonth(0);
+      j$s.setDate(1);
+    } else if (c8y === "month") {
+      j$s = D3P(new Date());
+      j$s.setMonth(j$s.getMonth() - A1t);
+    } else if (c8y === "year") {
+      j$s = D3P(new Date());
+      n9a = -435280305;
+      c3$ = -+"695181720";
+      h_j = 2;
+      for (
+        var V2J = 1;
+        c5a.C6S(V2J.toString(), V2J.toString().length, 93706) !== n9a;
+        V2J++
+      ) {
+        j$s.setFullYear(j$s.getFullYear() - A1t);
+        h_j += 2;
+      }
+      if (c5a.C6S(h_j.toString(), h_j.toString().length, 56362) !== c3$) {
+        j$s.setFullYear(j$s.getFullYear() % A1t);
+      }
+    } else if (c8y === P8w) {
+      j$s = D3P(new Date());
+      j$s.setDate(j$s.getDate() - A1t * ("7" << 32));
+    } else if (c8y === "day" && A1t == 1 && i25.isMarketDay()) {
+      L9T = j$s.getHours();
+      i7h = j$s.getMinutes();
+      y3U = j$s.getSeconds();
+      v2$ = j$s.getMilliseconds();
+      A83 = i25.newIterator(q0s);
+      j$s = A83.previous();
+      j$s.setHours(L9T, i7h, y3U, v2$);
+      j$s = i25._convertFromMarketTZ(j$s);
+    } else if (c8y === "today") {
+      q0s.begin = k2A(j$s, !!{});
+      A83 = i25.newIterator(q0s);
+      if (i25.isOpen() || i25.getPreviousOpen().getDate() == j$s.getDate()) {
+        A83.next();
+      }
+      j$s = A83.previous();
+      k2A(j$s);
+      k7p.goIntoFuture = !!1;
+      k7p.dtRight = new Date(+j$s);
+      k7p.dtRight.setDate(j$s.getDate() + 1);
+      k7p.dtRight = i25._convertFromMarketTZ(k7p.dtRight);
+      if (!k9J) {
+        j$s.setHours(A83.market.zopen_hour);
+        j$s.setMinutes(A83.market.zopen_minute);
+        j$s.setSeconds(+"0");
+      }
+      j$s = i25._convertFromMarketTZ(j$s);
+    } else {
+      c8G = "da";
+      c8G += "y";
+      if (c8y == c8G) {
+        q0s.begin = k2A(j$s, !!"1");
+      }
+      A83 = i25.newIterator(q0s);
+      if (A1t == 1) {
+        A1t++;
+      }
+      c5a.w6J(32);
+      j$s = A83.previous(c5a.B$D("1", A1t));
+      if (c8y == "day") {
+        j$s = i25._convertFromMarketTZ(k2A(j$s));
+      }
+    }
+    k7p.dtLeft = j$s;
+    if (k7p.maintainPeriodicity) {
+      k7p.periodicity = {};
+      k7p.periodicity.interval = this.layout.interval;
+      k7p.periodicity.period = this.layout.periodicity;
+    }
+    Y6m.spanLock = !!0;
+    k7p.dontSaveRangeToLayout = !0;
+    e5A = this;
+    this.setRange(k7p, function (q2L) {
+      var y3y;
+      y3y = "tod";
+      y3y += "ay";
+      e5A.layout.setSpan = q4d;
+      e5A.changeOccurred("layout");
+      c5a.s8u();
+      if (c8y == y3y) {
+        Y6m.spanLock = !"";
+      }
+      if (s6s) {
+        s6s(q2L);
+      }
+    });
+  };
+  C7q.ChartEngine.prototype.getSpanCandleWidth = function (O2y) {
+    var R1z = U6BfN;
+    var t$8, I7G, g8E, j0e, H3V, j_J, r4h, b6x;
+    t$8 = "Y";
+    t$8 += "T";
+    R1z.s8u();
+    t$8 += "D";
+    I7G = "y";
+    I7G += "e";
+    I7G += "a";
+    I7G += "r";
+    if (!O2y || !O2y.base || !O2y.multiplier) {
+      return;
+    }
+    g8E = parseFloat(O2y.multiplier);
+    j0e = O2y.base;
+    H3V = new Date();
+    j_J = new Date();
+    if (j0e == I7G) {
+      j_J.setFullYear(j_J.getFullYear() - g8E);
+    } else if (j0e == "month") {
+      j_J.setMonth(j_J.getMonth() - g8E);
+    } else if (j0e == "day") {
+      j_J.setDate(j_J.getDate() - g8E);
+    } else if (j0e == "week") {
+      j_J.setDate(j_J.getDate() - +"7" * g8E);
+    } else if (j0e == t$8) {
+      j_J.setMonth(0);
+      j_J.setDate(1);
+    }
+    R1z.C2v(132);
+    var z29 = R1z.B$D(17, 6, 750, 7, 780);
+    R1z.C2v(133);
+    var v$p = R1z.Y51(3, 19, 9, 12, 44);
+    r4h = (H3V.getTime() - j_J.getTime()) / +"1000" / z29 / ("60" << 0) / v$p;
+    R1z.w6J(18);
+    r4h = R1z.Y51(r4h, 7, 5);
+    b6x = this.chart.width / r4h;
+    return b6x;
+  };
+  C7q.ChartEngine.prototype.displayAll = function (Q98, X05) {
+    var h92, I_y, i5u, n3G, q4t;
+    h92 = "m";
+    h92 += "on";
+    h92 += "t";
+    h92 += "h";
+    var { chart: b$S, layout: r9c } = this;
+    I_y = [];
+    function N67(g7K) {
+      if (!g7K) {
+        i5u.quoteDriver.loadAll(b$S, M05);
+      }
+    }
+    function M05() {
+      var d2V, j5E;
+      if (!b$S.masterData || !b$S.masterData.length) {
+        d2V = "No data to";
+        d2V += " display.";
+        if (X05) {
+          X05(d2V);
+        }
+        return;
+      }
+      j5E = C7q.clone(Q98);
+      j5E.dtLeft = b$S.endPoints.begin;
+      j5E.dtRight = b$S.endPoints.end;
+      j5E.periodicity = {};
+      j5E.periodicity.interval = r9c.interval;
+      j5E.periodicity.period = r9c.periodicity;
+      j5E.periodicity.timeUnit = r9c.timeUnit;
+      i5u.setRange(j5E, function (D4A) {
+        i5u.layout.setSpan = { base: Q98.base, multiplier: Q98.multiplier };
+        i5u.changeOccurred("layout");
+        for (var R2a in i5u.panels) {
+          i5u.calculateYAxisMargins(i5u.panels[R2a].yAxis);
+        }
+        if (I_y.length && !i5u.drawingObjects.length) {
+          i5u.importDrawings(I_y);
+        }
+        i5u.draw();
+        U6BfN.a3_();
+        if (X05) {
+          X05(D4A);
+        }
+      });
+    }
+    if (Q98 && Q98.chart) {
+      b$S = Q98.chart;
+    }
+    i5u = this;
+    if (!this.quoteDriver) {
+      M05();
+      return;
+    }
+    n3G = Q98.maintainPeriodicity
+      ? {
+          period: r9c.periodicity,
+          interval: r9c.interval,
+          timeUnit: r9c.timeUnit,
+        }
+      : { period: "1" ^ 0, interval: h92, timeUnit: null };
+    n3G = Q98.periodicity ? Q98.periodicity : n3G;
+    U6BfN.a3_();
+    n3G = C7q.cleanPeriodicity(n3G.period, n3G.interval, n3G.timeUnit);
+    q4t = this.needDifferentData(n3G);
+    this.layout.periodicity = n3G.period;
+    this.layout.interval = n3G.interval;
+    this.layout.timeUnit = n3G.timeUnit;
+    if (Q98.forceLoad || q4t) {
+      I_y = this.drawingObjects.map((m4k) => {
+        U6BfN.a3_();
+        return m4k.serialize();
+      });
+      this.clearCurrentMarketData(this.chart);
+      this.quoteDriver.newChart(
+        {
+          nodraw: !!{},
+          symbol: this.chart.symbol,
+          symbolObject: this.chart.symbolObject,
+          chart: this.chart,
+          initializeChart: !!"1",
+          fetchMaximumBars: !![],
+        },
+        N67,
+      );
+    } else {
+      if (b$S.moreAvailable || !b$S.upToDate) {
+        N67();
+      } else {
+        this.createDataSet();
+        M05();
+      }
+    }
+  };
+  C7q.ChartEngine.prototype.drawWithRange = function (W$4) {
+    var { setSpan: M2h, range: y96 } = this.layout;
+    if (M2h && Object.keys(M2h).length) {
+      this.setSpan(
+        Object.assign({}, M2h, { forceLoad: !!0, useExistingData: !![] }),
+      );
+    } else if (y96 && Object.keys(y96).length) {
+      this.setRange(
+        Object.assign({}, y96, { forceLoad: ![], useExistingData: !!"1" }),
+      );
+    } else {
+      this.draw(W$4);
+    }
+  };
+};
+g5 = (a8N) => {
+  var l$E = U6BfN;
+  l$E.s8u();
+  var h9t, k4Z;
+  h9t = "un";
+  h9t += "defined";
+  k4Z = typeof _CIQ !== h9t ? _CIQ : a8N.CIQ;
+  k4Z.ChartEngine.prototype.importLayout = function (R3f, l3O) {
+    var Z39,
+      J19,
+      o07,
+      D4E,
+      e2M,
+      i_y,
+      R1X,
+      k02,
+      Q9j,
+      l7A,
+      q3N,
+      K8G,
+      h8G,
+      T$I,
+      V5X,
+      e4P,
+      Q30,
+      F9q,
+      B33,
+      J7M,
+      X8Q,
+      N3_,
+      j_D,
+      i6Y,
+      R7D,
+      p6E,
+      Z5o,
+      Y3q,
+      T4_,
+      X4i,
+      S8p,
+      K7U,
+      E93,
+      K0T,
+      O7y,
+      J9I;
+    if (!R3f) {
+      if (l3O.cb) {
+        l3O.cb();
+      }
+      return;
+    }
+    Z39 = this;
+    J19 = [];
+    o07 =
+      this.extendedHours &&
+      !this.extendedHours.filter &&
+      R3f.extended &&
+      !this.layout.extended;
+    if (typeof l3O !== "object") {
+      l3O = {
+        managePeriodicity: arguments[1],
+        preserveTicksAndCandleWidth: arguments[2],
+      };
+    }
+    D4E = this.layout;
+    e2M = k4Z.shallowClone(D4E);
+    i_y = l3O.managePeriodicity;
+    R1X = l3O.cb;
+    k02 = l3O.seriesCB;
+    Q9j = l3O.noDataLoad;
+    l7A = l3O.preserveTicksAndCandleWidth;
+    q3N = null;
+    if (this.exportDrawings) {
+      q3N = this.exportDrawings();
+      this.abortDrawings();
+    }
+    this.currentlyImporting = !0;
+    for (var P_D in D4E.studies) {
+      K8G = D4E.studies[P_D];
+      k4Z.getFn("Studies.removeStudy")(this, K8G);
+    }
+    this.overlays = {};
+    h8G = k4Z.shallowClone(this.panels);
+    this.panels = {};
+    T$I = k4Z.clone(R3f);
+    if (D4E.flipped) {
+      this.flipChart(D4E.flipped);
+    }
+    V5X = T$I.panels;
+    function Y34(f81) {
+      var u10, r_$, E_g, g1I, W8O, d1u, G2q, A6s;
+      if (q3N) {
+        Z39.importDrawings(q3N);
+      }
+      Z39.currentlyImporting = !!"";
+      if (f81) {
+        return;
+      }
+      E_g = [];
+      for (var F3l in Z39.chart.series) {
+        if (!Z39.removeSeries) break;
+        r_$ = Z39.chart.series[F3l];
+        if (r_$.parameters.bucket == "study") {
+          u10 = !!{};
+          Z39.removeSeries(r_$);
+          E_g.push(r_$);
+        }
+      }
+      function M3s() {
+        Z39.createDataSet();
+        k4t(Z39.panels);
+        Z39.calculateYAxisPositions();
+        Z39.calculateYAxisMargins(Z39.chart.yAxis);
+        Z39.draw();
+      }
+      for (var I1q = 0; I1q < E_g.length; I1q++) {
+        g1I = "addSe";
+        g1I += "ries";
+        r_$ = E_g[I1q];
+        W8O = r_$.parameters.isEvent ? "addEvent" : g1I;
+        Z39[W8O](r_$.id, r_$.parameters, M3s);
+      }
+      if (!u10) {
+        Z39.draw();
+      }
+      if (D4E.crosshair) {
+        Z39.centerCrosshairs();
+        Z39.doDisplayCrosshairs();
+      }
+      Z39.updateListeners("layout");
+      d1u = 1368322063;
+      l$E.w6J(21);
+      G2q = -l$E.Y51(64, "1718060988");
+      l$E.s8u();
+      A6s = 2;
+      for (
+        var h3g = 1;
+        l$E.C6S(h3g.toString(), h3g.toString().length, 30262) !== d1u;
+        h3g++
+      ) {
+        Z39.changeOccurred("layout");
+        A6s += 2;
+      }
+      if (l$E.D9u(A6s.toString(), A6s.toString().length, 46877) !== G2q) {
+        Z39.changeOccurred("");
+      }
+    }
+    B33 = function (P67, n5r) {
+      l$E.s8u();
+      return P67.index < n5r.index ? -1 : 1;
+    };
+    for (e4P in V5X) {
+      J7M = "i";
+      J7M += "ndex";
+      if (!(J7M in V5X[e4P])) {
+        B33 = null;
+      }
+      Q30 = V5X[e4P];
+      Q30.name = e4P;
+      J19.push(Q30);
+    }
+    D4E.panels = {};
+    X8Q = null;
+    if (J19.length > 0) {
+      if (B33) {
+        J19.sort(B33);
+      }
+      for (var T_X = 0; T_X < J19.length; ++T_X) {
+        Q30 = J19[T_X];
+        F9q = Q30.yAxis ? new k4Z.ChartEngine.YAxis(Q30.yAxis) : null;
+        this.stackPanel(Q30.display, Q30.name, Q30.percent, Q30.chartName, F9q);
+        if (Q30.soloing) {
+          X8Q = this.panels[Q30.name];
+        }
+      }
+    }
+    if (k4Z.isEmpty(V5X)) {
+      N3_ = "c";
+      N3_ += "h";
+      N3_ += "ar";
+      N3_ += "t";
+      this.stackPanel("chart", N3_, 1, "chart");
+    }
+    this.resizeCanvas();
+    for (var C77 in h8G) {
+      j_D = h8G[C77];
+      i6Y = this.panels[C77];
+      if (i6Y) {
+        this.container.removeChild(i6Y.holder);
+        if (j_D.handle) {
+          this.container.removeChild(j_D.handle);
+        }
+        R7D = { holder: !!{}, subholder: !!1, display: !!1, icons: !![] };
+        for (var l9K in R7D) {
+          i6Y[l9K] = j_D[l9K];
+        }
+        this.configurePanelControls(i6Y);
+        if (j_D.chart.panel == j_D) {
+          j_D.chart.panel = i6Y;
+        }
+      } else {
+        this.privateDeletePanel(j_D);
+      }
+    }
+    this.chart.panel = this.panels.chart;
+    k4t(this.panels);
+    Object.assign(D4E, Object.assign(k4Z.clone(T$I), { studies: {} }));
+    D4E.periodicity = e2M.periodicity;
+    function k4t(I6B) {
+      var E$H;
+      for (var a5A = "0" >> 0; a5A < J19.length; a5A++) {
+        E$H = J19[a5A];
+        C6a(E$H, "yaxisLHS");
+        C6a(E$H, "yaxisRHS");
+      }
+      Z39.chart.yAxis = Z39.chart.panel.yAxis;
+      function N3U(t9w) {
+        l$E.a3_();
+        return !!t9w;
+      }
+      function C6a(w8C, y05) {
+        var V9F, d0w, x1E, G7B;
+        if (!w8C[y05] || !w8C[y05].length) {
+          return;
+        }
+        V9F = I6B[w8C.name];
+        if (!V9F) {
+          return;
+        }
+        d0w = V9F[y05];
+        x1E = new Array(d0w.length);
+        l$E.a3_();
+        for (var e$L = 0; e$L < d0w.length; e$L++) {
+          G7B = w8C[y05].indexOf(d0w[e$L].name);
+          if (G7B > -1) {
+            x1E[G7B] = d0w[e$L];
+          } else {
+            x1E.push(d0w[e$L]);
+          }
+        }
+        if (x1E.length) {
+          V9F[y05] = x1E.filter(N3U);
+        }
+      }
+    }
+    D4E.interval = e2M.interval;
+    D4E.timeUnit = e2M.timeUnit;
+    D4E.setSpan = e2M.setSpan;
+    D4E.range = e2M.range;
+    if (l7A) {
+      D4E.candleWidth = e2M.candleWidth;
+    } else {
+      if (!D4E.candleWidth) {
+        D4E.candleWidth = 8;
+      }
+    }
+    this.setCandleWidth(D4E.candleWidth);
+    D4E.headsUp = k4Z.clone(D4E.headsUp);
+    p6E = k4Z.clone(T$I.studies);
+    for (var F8e in p6E) {
+      Z5o = p6E[F8e];
+      Y3q = k4Z.getFn("Studies.addStudy")(
+        this,
+        Z5o.type,
+        Z5o.inputs,
+        Z5o.outputs,
+        Z5o.parameters,
+        Z5o.panel,
+      );
+      if (!Y3q) continue;
+      if (Z5o.disabled) {
+        Y3q.toggleDisabledState(this);
+      }
+      if (Z5o.signalData) {
+        Y3q.signalData = Z5o.signalData;
+        T4_ = this.panels[Y3q.panel];
+        if (this.checkForEmptyPanel(T4_, !![], Y3q)) {
+          T4_.hidden = !!"1";
+          T4_.percent = 0;
+        }
+      }
+    }
+    if (this.extendedHours) {
+      this.extendedHours.prepare(D4E.extended, D4E.marketSessions);
+    }
+    if (typeof D4E.chartType == "undefined") {
+      D4E.chartType = "line";
+    }
+    this.setMainSeriesRenderer();
+    if (X8Q) {
+      this.panelSolo(X8Q);
+    }
+    this.adjustPanelPositions();
+    k4t(this.panels);
+    function b3Q() {
+      var w3z;
+      if (Z39.layout.studies) {
+        for (var q8P in Z39.layout.studies) {
+          w3z = Z39.layout.studies[q8P];
+          if (!w3z.inputs.Series || w3z.inputs.Series === "series") continue;
+          k4Z.getFn("Studies.replaceStudy")(
+            this,
+            w3z.inputs.id,
+            w3z.type,
+            w3z.inputs,
+            w3z.outputs,
+            w3z.parameters,
+            w3z.panel,
+          );
+        }
+      }
+      l$E.a3_();
+      Z39.calculateYAxisPositions();
+      k4t(Z39.panels);
+      if (k02) {
+        k02();
+      }
+    }
+    this.storePanels();
+    if (!Q9j) {
+      if (T$I.symbols && T$I.symbols.length) {
+        X4i = { chart: this.chart };
+        if (!l7A && i_y && T$I.range && Object.keys(T$I.range).length) {
+          X4i.range = T$I.range;
+        } else if (
+          !l7A &&
+          i_y &&
+          T$I.setSpan &&
+          Object.keys(T$I.setSpan).length
+        ) {
+          X4i.span = T$I.setSpan;
+        } else if (i_y && T$I.interval) {
+          X4i.periodicity = {
+            interval: T$I.interval,
+            period: T$I.periodicity,
+            timeUnit: T$I.timeUnit,
+          };
+        } else {
+          X4i.periodicity = {
+            interval: e2M.interval,
+            period: e2M.periodicity,
+            timeUnit: e2M.timeUnit,
+          };
+        }
+        S8p = T$I.symbols[0].symbolObject || T$I.symbols["0" ^ 0].symbol;
+        this.loadChart(S8p, X4i, function (E0Y) {
+          var q_f, E_8;
+          if (!E0Y) {
+            for (var n1w, B2V = 1; B2V < T$I.symbols.length; ++B2V) {
+              if (!Z39.addSeries) break;
+              n1w = T$I.symbols[B2V];
+              if (!n1w.parameters) {
+                n1w.parameters = {};
+              }
+              q_f = k4Z.clone(n1w.parameters);
+              if (this.panels[q_f.panel]) {
+                E_8 = q_f.isEvent ? "addEvent" : "addSeries";
+                Z39[E_8](n1w.id, q_f, b3Q);
+              } else {
+                console.warn(
+                  'Warning: Series "' +
+                    n1w.id +
+                    '" could not be imported due to a missing corresponding panel "' +
+                    q_f.panel +
+                    (2992 > (3560, 9930) ? 946.09 : '"'),
+                );
+              }
+            }
+            if (T$I.chartScale) {
+              Z39.setChartScale(T$I.chartScale);
+            }
+          }
+          Y34(E0Y);
+          if (R1X) {
+            R1X.apply(null, arguments);
+          }
+        });
+        return;
+      }
+      if (i_y) {
+        K7U = "d";
+        K7U += "a";
+        K7U += "y";
+        if (!l7A && this.setRange) {
+          E93 = T$I.range;
+          if (E93 && Object.keys(E93).length && this.chart.symbol) {
+            this.setRange(E93, function () {
+              Y34();
+              if (R1X) {
+                R1X();
+              }
+            });
+            return;
+          } else if (
+            T$I.setSpan &&
+            Object.keys(T$I.setSpan).length &&
+            this.chart.symbol
+          ) {
+            this.setSpan(T$I.setSpan, function () {
+              l$E.s8u();
+              Y34();
+              if (R1X) {
+                R1X();
+              }
+            });
+            return;
+          }
+        }
+        K0T = T$I.interval;
+        O7y = T$I.periodicity;
+        J9I = T$I.timeUnit;
+        if (isNaN(O7y)) {
+          O7y = 1;
+        }
+        if (!K0T) {
+          K0T = K7U;
+        }
+        this.setPeriodicity(
+          { period: O7y, interval: K0T, timeUnit: J9I, getDifferentData: o07 },
+          function () {
+            Y34();
+            if (R1X) {
+              R1X();
+            }
+          },
+        );
+        return;
+      }
+    }
+    if (i_y) {
+      D4E.periodicity = T$I.periodicity;
+      D4E.interval = T$I.interval;
+      D4E.timeUnit = T$I.timeUnit;
+      D4E.setSpan = T$I.setSpan;
+    }
+    this.createDataSet();
+    if (!l7A) {
+      this.home();
+    }
+    Y34();
+    if (R1X) {
+      R1X();
+    }
+  };
+  k4Z.ChartEngine.prototype.exportLayout = function (g2q) {
+    var K3F, Q1N, C9t, S4J, l7$, H6D, l6l;
+    function z1e(p0E) {
+      var z9V;
+      z9V = [];
+      for (var J7u = 0; J7u < p0E.length; J7u++) {
+        z9V.push(p0E[J7u].name);
+      }
+      l$E.a3_();
+      return z9V;
+    }
+    l$E.a3_();
+    K3F = {};
+    for (var Z3p in this.layout) {
+      Q1N = "stu";
+      Q1N += "die";
+      Q1N += "s";
+      if (Z3p != Q1N && Z3p != "panels" && Z3p != "drawing") {
+        K3F[Z3p] = k4Z.clone(this.layout[Z3p]);
+      } else if (Z3p == "studies") {
+        K3F.studies = {};
+      } else if (Z3p == "panels") {
+        K3F.panels = {};
+      }
+    }
+    C9t = 0;
+    for (var F1m in this.panels) {
+      S4J = this.panels[F1m];
+      if (S4J.exportable === ![]) continue;
+      l7$ = K3F.panels[F1m] = {};
+      l7$.percent = S4J.percent;
+      l7$.display = S4J.display;
+      l7$.chartName = S4J.chart.name;
+      l7$.soloing = S4J.soloing;
+      l7$.index = C9t++;
+      l7$.yAxis = { name: S4J.yAxis.name, position: S4J.yAxis.position };
+      if (S4J.yaxisLHS) {
+        l7$.yaxisLHS = z1e(S4J.yaxisLHS);
+      }
+      if (S4J.yaxisRHS) {
+        l7$.yaxisRHS = z1e(S4J.yaxisRHS);
+      }
+    }
+    for (var k1e in this.layout.studies) {
+      H6D = K3F.studies[k1e] = {};
+      l6l = this.layout.studies[k1e];
+      H6D.type = l6l.type;
+      H6D.inputs = k4Z.clone(l6l.inputs);
+      H6D.outputs = k4Z.clone(l6l.outputs);
+      H6D.panel = l6l.panel;
+      H6D.parameters = k4Z.clone(l6l.parameters);
+      H6D.disabled = l6l.disabled;
+      if (l6l.signalData) {
+        if (l6l.signalData.cloneForExport) {
+          H6D.signalData = l6l.signalData.cloneForExport();
+        } else {
+          H6D.signalData = k4Z.clone(l6l.signalData);
+        }
+      }
+    }
+    if (g2q) {
+      K3F.symbols = this.getSymbols({
+        "include-parameters": !![],
+        "exclude-studies": !!{},
+        "exclude-generated": !!1,
+        "exclude-nostore": !![],
+      });
+      if (
+        K3F.symbols.length &&
+        K3F.symbols[0].symbolObject &&
+        K3F.symbols[0].symbolObject.static
+      ) {
+        delete K3F.symbols[0].symbolObject.static;
+      }
+    } else {
+      delete K3F.symbols;
+    }
+    return K3F;
+  };
+  k4Z.ChartEngine.prototype.importPreferences = function (z2E) {
+    k4Z.extend(this.preferences, z2E);
+    if (z2E.timeZone) {
+      this.setTimeZone(this.dataZone, z2E.timeZone);
+    }
+    if (z2E.language && k4Z.I18N) {
+      if (this.uiContext && this.uiContext.config.setHtmlLang) {
+        document.documentElement.setAttribute("lang", z2E.language);
+      }
+      k4Z.I18N.localize(this, z2E.language);
+    }
+    l$E.s8u();
+    this.changeOccurred("preferences");
+  };
+  k4Z.ChartEngine.prototype.exportPreferences = function () {
+    l$E.s8u();
+    return this.preferences;
+  };
+};
+F3 = (h_k) => {
+  var U7t,
+    N5O,
+    W_6,
+    T6K,
+    F_B,
+    M4$,
+    q4J,
+    Q4N,
+    t18,
+    Y6j,
+    Q2c,
+    o1j,
+    m7K,
+    L6$,
+    w7s,
+    P3b,
+    o1_,
+    e5l,
+    y8g;
+  U7t = "#e";
+  U7t += "9";
+  U7t += "088";
+  U7t += "c";
+  N5O = "s";
+  N5O += "eries";
+  W_6 = "Volume ";
+  W_6 += "Cha";
+  W_6 += "rt";
+  T6K = "Moving Avera";
+  T6K += "ge";
+  F_B = "Wei";
+  F_B += "ghte";
+  F_B += "d";
+  M4$ = "Tri";
+  M4$ += "angular";
+  q4J = "Exp";
+  q4J += "onential";
+  Q4N = "W";
+  Q4N += "e";
+  Q4N += "lle";
+  Q4N += "s Wilder";
+  t18 = "W";
+  t18 += "ei";
+  t18 += "g";
+  t18 += "hted";
+  Y6j = "Triang";
+  Y6j += "u";
+  Y6j += "l";
+  Y6j += "ar";
+  Q2c = "Ex";
+  Q2c += "ponen";
+  Q2c += "tial";
+  o1j = "si";
+  o1j += "m";
+  o1j += "p";
+  o1j += "le";
+  m7K = "wm";
+  m7K += "a";
+  L6$ = "v";
+  L6$ += "d";
+  L6$ += "m";
+  L6$ += "a";
+  w7s = "e";
+  w7s += "m";
+  w7s += "a";
+  P3b = "C";
+  P3b += "l";
+  P3b += "ose";
+  o1_ = "a";
+  o1_ += "uto";
+  e5l = typeof _CIQ !== "undefined" ? _CIQ : h_k.CIQ;
+  y8g = typeof _timezoneJS !== "undefined" ? _timezoneJS : h_k.timezoneJS;
+  if (e5l.ChartEngine) {
+    e5l.ChartEngine.prototype.rightClickOverlay = function (Q2X, U7q) {
+      var A0c = U6BfN;
+      var m11, X8M, b$3, R2s;
+      m11 = -1525265695;
+      X8M = 1601778738;
+      A0c.w6J(10);
+      b$3 = A0c.B$D(0, "2");
+      for (
+        var h3q = 1;
+        A0c.D9u(h3q.toString(), h3q.toString().length, 98106) !== m11;
+        h3q++
+      ) {
+        if (this.runPrepend("rightClickOverlay", arguments)) {
+          return;
+        }
+        R2s = this.overlays[Q2X];
+        b$3 += 2;
+      }
+      if (A0c.D9u(b$3.toString(), b$3.toString().length, +"58495") !== X8M) {
+        if (this.runPrepend("", arguments)) {
+          return;
+        }
+        R2s = this.overlays[Q2X];
+      }
+      if (R2s.editFunction) {
+        R2s.editFunction(U7q);
+      } else {
+        this.removeOverlay(Q2X);
+      }
+      this.runAppend("rightClickOverlay", arguments);
+    };
+    e5l.ChartEngine.prototype.addOverlay = function (H0n) {
+      U6BfN.s8u();
+      if (this.runPrepend("addOverlay", arguments)) {
+        return;
+      }
+      this.overlays[H0n.name] = H0n;
+      this.runAppend("addOverlay", arguments);
+    };
+    e5l.ChartEngine.prototype.removeOverlay = function (m0b) {
+      var d5z = U6BfN;
+      var Z7e, a9s, U6A, z4c, i0T, Z$r, n6z, R5h, j5H, x6u, c6E, e3c;
+      Z7e = "rem";
+      Z7e += "oveOv";
+      Z7e += "erlay";
+      if (this.runPrepend(Z7e, arguments)) {
+        return;
+      }
+      a9s = this.overlays[m0b];
+      if (a9s) {
+        for (var P$N in this.overlays) {
+          U6A = "Fie";
+          U6A += "ld";
+          z4c = this.overlays[P$N];
+          i0T = [U6A];
+          if (e5l.Studies) {
+            i0T = e5l.Studies.getFieldInputs(z4c);
+          }
+          for (var E8Y = 0; E8Y < i0T.length; E8Y++) {
+            Z$r = "s";
+            Z$r += "er";
+            Z$r += "ie";
+            Z$r += "s";
+            n6z = z4c.inputs[i0T[E8Y]];
+            R5h = a9s.inputs.Series;
+            if (R5h && R5h !== Z$r) {
+              d5z.C2v(2);
+              n6z = n6z.replace(
+                d5z.B$D(
+                  " [",
+                  R5h,
+                  293.06 <= (8170, 5386)
+                    ? (6617, 286.72) === (5020, "5434" >> 0)
+                      ? (0xf5d, !{})
+                      : (699.44, 6680) === 1990
+                        ? 0x1c7c
+                        : "]"
+                    : ("4.71e+3" << 32, "A"),
+                ),
+                "",
+              );
+            }
+            if (n6z in a9s.outputMap) {
+              this.removeOverlay(z4c.name);
+            }
+          }
+        }
+        this.cleanupRemovedStudy(a9s);
+        j5H = this.panels[a9s.panel];
+        delete this.overlays[m0b];
+        this.checkForEmptyPanel(a9s.panel);
+      }
+      if (!this.currentlyImporting) {
+        this.displaySticky();
+        this.createDataSet();
+        x6u = -1540722518;
+        d5z.C2v(1);
+        c6E = -d5z.Y51(32, "529099050");
+        e3c = 2;
+        for (
+          var f7c = 1;
+          d5z.D9u(f7c.toString(), f7c.toString().length, +"86732") !== x6u;
+          f7c++
+        ) {
+          this.changeOccurred("layout");
+          e3c += 2;
+        }
+        if (d5z.C6S(e3c.toString(), e3c.toString().length, 66083) !== c6E) {
+          this.changeOccurred("");
+        }
+      }
+      this.resetDynamicYAxis();
+      this.runAppend("removeOverlay", arguments);
+    };
+    e5l.ChartEngine.prototype.cleanupRemovedStudy = function (c3T) {
+      U6BfN.a3_();
+      var L11;
+      if (!c3T) {
+        return;
+      }
+      if (c3T.study.removeFN) {
+        c3T.study.removeFN(this, c3T);
+      }
+      for (var z1W in this.plugins) {
+        if (
+          z1W.indexOf(
+            ((714.92, +"744.3") >= (+"160.5", 628)
+              ? (+"353", 6550) == 110.66
+                ? (!!0, "t")
+                : "{"
+              : (4.74e3, ![])) +
+              c3T.id +
+              (1219 != 795.87
+                ? 974.5 <= (587.77, +"626.85")
+                  ? 0x1a65
+                  : (+"372.85", 2129) >= 481.99
+                    ? "}"
+                    : +"0x3d9"
+                : (1.6e3, !0)),
+          ) > -1
+        ) {
+          delete this.plugins[z1W];
+        }
+      }
+      if (c3T.removeSignals) {
+        c3T.removeSignals();
+      }
+      for (var D6X in c3T.outputMap) {
+        L11 = "f";
+        L11 += "ield";
+        this.getMarkerArray(L11, D6X).forEach((A_i) => {
+          return A_i.remove();
+        });
+      }
+      if (this.layout.studies) {
+        delete this.layout.studies[c3T.name];
+      }
+      this.chart.state.studies.sorted = null;
+      delete this.overlays[c3T.name];
+      var { sd: n2H } = this.repositioningAnchorSelector || {};
+      if (n2H && n2H === c3T) {
+        this.repositioningAnchorSelector = null;
+        var { anchorHandles: m$F } = this.controls;
+        if (m$F && m$F[c3T.uniqueId]) {
+          m$F[c3T.uniqueId].highlighted = !{};
+          e5l.Studies.displayAnchorHandleAndLine(
+            this,
+            c3T,
+            this.chart.dataSegment,
+          );
+        }
+      }
+      if (e5l.Studies) {
+        e5l.Studies.removeStudySymbols(c3T, this);
+      }
+      if (this.quoteDriver) {
+        this.quoteDriver.updateSubscriptions();
+      }
+    };
+    e5l.ChartEngine.prototype.getStudies = function (I8S) {
+      var r$$, Q8G;
+      var { studies: B9p } = this.layout;
+      r$$ = [];
+      if (B9p) {
+        for (var D8i in B9p) {
+          Q8G = B9p[D8i];
+          if (Q8G.name === I8S.name || Q8G.type === I8S.type) {
+            r$$.push(Q8G);
+          } else {
+            var { outputMap: e5H } = Q8G;
+            if (e5H && e5H[I8S.output]) {
+              r$$.push(Q8G);
+            }
+          }
+        }
+      }
+      return r$$;
+    };
+  }
+  e5l.Studies = e5l.Studies || function () {};
+  e5l.Studies.DEFAULT_INPUTS = { Period: 14 };
+  e5l.Studies.DEFAULT_OUTPUTS = { Result: o1_ };
+  e5l.Studies.impliedVolatilityAvailable = ![];
+  e5l.Studies.useTranslationDelimiter = !![];
+  e5l.Studies.sortForProcessing = (W0G) => {
+    var P6L, o4d;
+    P6L = [];
+    o4d = W0G.layout.studies;
+    if (o4d) {
+      j_Z(Object.values(o4d), P6L);
+    }
+    function j_Z(U3i, X1J) {
+      U3i.forEach((a2Y) => {
+        U6BfN.a3_();
+        var W0R;
+        if (X1J.indexOf(a2Y) == -1) {
+          W0R = a2Y.getDependents(W0G);
+          if (W0R.length) {
+            j_Z(W0R, X1J);
+          }
+          X1J.unshift(a2Y);
+        }
+      });
+    }
+    return P6L;
+  };
+  e5l.Studies.getQuoteFieldValue = function (l29, c$X, s2z = P3b) {
+    return e5l.ChartEngine.getQuoteFieldValue(l29, c$X, s2z);
+  };
+  e5l.Studies.StudyDescriptor = function (S8K, O7V, x4i, p9U, j9M, d0J) {
+    var H2D, k1O, j4V;
+    H2D = "undef";
+    H2D += "ined";
+    this.name = S8K;
+    this.disabled = !"1";
+    this.type = O7V;
+    this.panel = x4i;
+    this.inputs = p9U;
+    this.outputs = j9M;
+    this.parameters = d0J;
+    this.outputMap = {};
+    this.min = null;
+    U6BfN.s8u();
+    this.max = null;
+    this.startFrom = 0;
+    this.subField = "Close";
+    k1O = e5l.Studies.studyLibrary[O7V];
+    if (!k1O) {
+      j4V = "c";
+      j4V += "har";
+      j4V += "t";
+      k1O = {};
+      if (x4i == j4V || (!x4i && d0J && d0J.chartName == "chart")) {
+        this.overlay = !0;
+      }
+    }
+    if (typeof k1O.inputs == H2D) {
+      k1O.inputs = e5l.clone(e5l.Studies.DEFAULT_INPUTS);
+    }
+    if (typeof k1O.outputs == "undefined") {
+      k1O.outputs = e5l.clone(e5l.Studies.DEFAULT_OUTPUTS);
+    }
+    this.study = k1O;
+    this.libraryEntry = k1O;
+  };
+  e5l.Studies.StudyDescriptor.prototype.toggleDisabledState = function (g6k) {
+    var B__;
+    B__ = "hid";
+    B__ += "e";
+    var { disabled: M9U, study: G3t, signalData: V66 } = this;
+    var { chart: U$x } = g6k;
+    this.disabled = M9U = !M9U;
+    if (!M9U) {
+      this.startFrom = +"0";
+      this.error = null;
+      if (G3t && G3t.calculateFN) {
+        G3t.calculateFN(g6k, this);
+      }
+      if (this.flagSignals) {
+        this.flagSignals();
+      }
+    } else if (U$x.customChart && U$x.customChart.owner === this.name) {
+      G3t.calculateFN(g6k, this);
+    }
+    if (V66) {
+      V66[M9U ? B__ : "show"]();
+    }
+    g6k.changeOccurred("layout");
+    g6k.draw();
+  };
+  e5l.Studies.StudyDescriptor.prototype.getYAxis = function (V6z) {
+    var i_P = U6BfN;
+    var O6G, j$q, b7X, L0K, g0f, U1B, t7k;
+    O6G = this.yAxis;
+    if (this.parameters) {
+      j$q = this.parameters.yAxis
+        ? this.parameters.yAxis.name
+        : this.parameters.yaxisDisplayValue;
+    }
+    if (!O6G) {
+      b7X = 1515235367;
+      L0K = 1356608820;
+      g0f = 2;
+      for (
+        var d7z = "1" - 0;
+        i_P.C6S(d7z.toString(), d7z.toString().length, 80147) !== b7X;
+        d7z++
+      ) {
+        U1B = V6z.panels[this.panel];
+        g0f += 2;
+      }
+      if (i_P.C6S(g0f.toString(), g0f.toString().length, 30878) !== L0K) {
+        U1B = V6z.panels[this.panel];
+      }
+      U1B = V6z.panels[this.panel];
+      if (U1B) {
+        t7k = V6z.getYAxisByName(U1B, this.name);
+        O6G =
+          V6z.getYAxisByName(U1B, j$q) ||
+          (j$q && t7k) ||
+          e5l.Studies.getFieldInputs(this)
+            .map((v11) => {
+              i_P.a3_();
+              return V6z.getYAxisByField(U1B, this.inputs[v11]);
+            })
+            .filter((P2R) => {
+              i_P.s8u();
+              return P2R;
+            })[+"0"] ||
+          t7k ||
+          U1B.yAxis;
+      }
+    }
+    if (!O6G) {
+      O6G = V6z.getYAxisByName(V6z.chart.panel, j$q) || V6z.chart.panel.yAxis;
+    }
+    return O6G;
+  };
+  e5l.Studies.StudyDescriptor.prototype.getContext = function (J8Z) {
+    U6BfN.a3_();
+    return J8Z.chart.context;
+  };
+  e5l.Studies.StudyDescriptor.prototype.getDependents = function (P1q, T5j) {
+    var A2Z, M$7, Q9J, D5H, q7i;
+    A2Z = [];
+    for (var n1I in P1q.layout.studies) {
+      M$7 = P1q.layout.studies[n1I];
+      if (M$7 == this) continue;
+      Q9J = e5l.Studies.getFieldInputs(M$7);
+      for (var A9i = 0; A9i < Q9J.length; A9i++) {
+        D5H = M$7.inputs[Q9J[A9i]]
+          .toLowerCase()
+          .replace(/\u200c/g, "")
+          .replace(/\[(.+)\]/g, "($1)");
+        q7i = this.name.toLowerCase().replace(/\u200c/g, "");
+        if (D5H.includes(q7i)) {
+          if (T5j && M$7.parameters && M$7.parameters.panelName) continue;
+          A2Z.push(M$7);
+          A2Z = A2Z.concat(M$7.getDependents(P1q, T5j));
+          break;
+        }
+      }
+    }
+    return A2Z;
+  };
+  e5l.Studies.StudyDescriptor.prototype.undraggable = function (t93) {
+    var w7d;
+    if (this.signalData) {
+      return !!"1";
+    }
+    U6BfN.s8u();
+    w7d = this.study.attributes;
+    if (w7d) {
+      if (w7d.panelName && w7d.panelName.hidden) {
+        return !!{};
+      }
+      if (w7d.yaxisDisplayValue && w7d.yaxisDisplayValue.hidden) {
+        return !!"1";
+      }
+    }
+    return !!"";
+  };
+  e5l.Studies.StudyDescriptor.prototype.appendFutureTicks = function (
+    N0q,
+    b9A,
+  ) {
+    var R7P, a56, F_1, U_z;
+    R7P = N0q.chart.scrubbed;
+    if (!R7P.length) {
+      return;
+    }
+    U6BfN.s8u();
+    a56 = N0q.standardMarketIterator(R7P[R7P.length - 1].DT);
+    for (F_1 = b9A.length - 1; F_1 >= 0; F_1--) {
+      U_z = b9A[F_1];
+      for (var r0T in U_z) {
+        if (U_z[r0T] || U_z[r0T] === 0) {
+          U6BfN.C2v(23);
+          F_1 = -U6BfN.Y51("1", 1);
+          break;
+        }
+      }
+      if (F_1 == -1) break;
+      b9A.pop();
+    }
+    for (F_1 = 0; F_1 < b9A.length; F_1++) {
+      U_z = b9A[F_1];
+      if (!U_z.DT) {
+        U_z.DT = a56.next();
+      }
+      if (!U_z.displayDate) {
+        N0q.setDisplayDate(U_z);
+      }
+      U_z.futureTick = !!{};
+      R7P.push(U_z);
+    }
+  };
+  e5l.Studies.generateID = function (B48, L$o, Q6N, H3x, O0L) {
+    var R87 = U6BfN;
+    var R_l, l6G, u5q, i8k, m08, r5H, e5N, n2r, c_L;
+    R_l = e5l.Studies.studyLibrary[L$o];
+    l6G = O0L || L$o;
+    if (e5l.Studies.useTranslationDelimiter) {
+      R87.w6J(2);
+      l6G = R87.Y51(
+        5333 >= 2910 ? "\u200c" : (485.1, +"6.08e+2"),
+        l6G,
+        69.36 > 2007 ? (0x254b, 188) : "\u200c",
+      );
+    }
+    u5q = l6G;
+    if (R_l) {
+      if (R_l.customRemoval) {
+        return u5q;
+      }
+    }
+    if (!e5l.isEmpty(Q6N)) {
+      i8k = !"";
+      for (var k3_ in Q6N) {
+        m08 = "Ser";
+        m08 += "ies";
+        r5H = "displa";
+        r5H += "y";
+        e5N = "i";
+        e5N += "d";
+        if ([e5N, r5H, "Shading", "Anchor Selector"].includes(k3_)) {
+          continue;
+        }
+        n2r = Q6N[k3_];
+        if (n2r == "field") continue;
+        if (k3_ == m08 && (n2r == "Primary" || n2r == "series")) continue;
+        n2r = n2r.toString();
+        if (e5l.Studies.prettify[n2r] !== undefined) {
+          n2r = e5l.Studies.prettify[n2r];
+        }
+        if (i8k) {
+          i8k = !{};
+          u5q += " (";
+        } else {
+          if (n2r) {
+            u5q += 916 === (2550, 7720) ? ("I", 2.56e3) : ",";
+          }
+        }
+        u5q += n2r;
+      }
+      if (!i8k) {
+        u5q += ")";
+      }
+    }
+    if (
+      H3x === u5q ||
+      (H3x &&
+        H3x.indexOf(
+          u5q +
+            (5557 >= (1210, 5550)
+              ? 815 <= 468
+                ? (6909, 107.55) >= (3896, "673.51" - 0)
+                  ? (!!"", 0x9d9)
+                  : 0x2437
+                : "-"
+              : (!{}, 665.01)),
+        ) === 0)
+    ) {
+      return H3x;
+    }
+    if (B48.layout.studies && B48.layout.studies[u5q]) {
+      for (var v0H = "2" >> 32; v0H < +"50"; v0H++) {
+        R87.C2v(2);
+        c_L = R87.Y51(
+          u5q,
+          (3840, 2450) !== (9324, 139)
+            ? 7640 >= (565.93, 661.31)
+              ? "-"
+              : 8529 >= 650.92
+                ? ("0x3d6" * 1, 6.42e3)
+                : "d"
+            : 4.82e3,
+          v0H,
+        );
+        if (!B48.layout.studies[c_L]) {
+          u5q = c_L;
+          break;
+        }
+      }
+    }
+    return u5q;
+  };
+  e5l.Studies.DialogHelper = function (M2Q) {
+    var X$E,
+      V8i,
+      u8d,
+      s2Q,
+      z8g,
+      M6H,
+      Q45,
+      a0a,
+      j5R,
+      M$G,
+      h5V,
+      v28,
+      s1y,
+      R7s,
+      Z9b,
+      Y6S,
+      K0$,
+      b9a,
+      Q5u,
+      E7p,
+      E7_,
+      d7V,
+      X1a,
+      L56,
+      Y3H,
+      V0r,
+      K7H,
+      z6s,
+      K5n,
+      R34,
+      T1r,
+      s0z,
+      l6w,
+      b3O,
+      p7y,
+      E6h,
+      f1s,
+      N2D,
+      N18,
+      w7g,
+      y1a,
+      I3g,
+      b5s;
+    X$E = "undefine";
+    function U6G(F8r) {
+      var w1A, M1W, k1D;
+      U6BfN.a3_();
+      w1A = {};
+      M1W = F8r.defaults;
+      k1D = {
+        name: F8r.name,
+        heading: u8d.translateIf(F8r.label),
+        defaultValue: M1W[0],
+        value: F8r.value,
+        options: w1A,
+        type: "select",
+      };
+      for (var e8x = 0; e8x < M1W.length; e8x++) {
+        w1A[M1W[e8x]] = u8d.translateIf(M1W[e8x]);
+      }
+      if (F8r.color !== undefined) {
+        k1D.defaultColor = u8d.defaultColor;
+        k1D.color = F8r.color;
+      }
+      return k1D;
+    }
+    X$E += "d";
+    V8i = "unde";
+    V8i += "f";
+    V8i += "ine";
+    V8i += "d";
+    u8d = this.stx = M2Q.stx;
+    s2Q = this.sd = M2Q.sd;
+    this.name = s2Q ? s2Q.type : M2Q.name;
+    this.signal = 1;
+    this.inputs = [];
+    this.outputs = [];
+    this.parameters = [];
+    z8g = this.libraryEntry = s2Q
+      ? s2Q.study
+      : e5l.Studies.studyLibrary[M2Q.name];
+    if (typeof z8g.inputs == V8i) {
+      z8g.inputs = e5l.clone(e5l.Studies.DEFAULT_INPUTS);
+    }
+    if (typeof z8g.outputs == X$E) {
+      z8g.outputs = e5l.clone(e5l.Studies.DEFAULT_OUTPUTS);
+    }
+    M6H = (s2Q && u8d.panels[s2Q.panel]) || u8d.chart.panel;
+    Q45 = M6H.chart;
+    this.title = u8d.translateIf(z8g.name);
+    this.attributes = e5l.clone(z8g.attributes);
+    if (!this.attributes) {
+      this.attributes = {};
+    }
+    for (var I1p in this.attributes) {
+      a0a = this.attributes[I1p];
+      for (var Z$Z in a0a) {
+        if (typeof a0a[Z$Z] == "function") {
+          a0a[Z$Z] = a0a[Z$Z].call(s2Q || z8g, u8d);
+        }
+      }
+    }
+    j5R = [];
+    M$G = u8d.layout.studies;
+    function c7j(k_S) {
+      var t9Q;
+      if (N18 == "alias") {
+        t9Q = 1;
+        for (var Q4F in u8d.panels) {
+          if (Q4F == k_S) {
+            return w2u(Q4F, t9Q);
+          }
+          t9Q++;
+        }
+      }
+      function w2u(A4v, I$b) {
+        return "Panel " + I$b.toString();
+      }
+      return k_S;
+    }
+    h5V = [];
+    function y07(i24) {
+      U6BfN.s8u();
+      var T58, t$3;
+      T58 = "che";
+      T58 += "c";
+      T58 += "kbox";
+      t$3 = {
+        name: i24.name,
+        heading: u8d.translateIf(i24.label),
+        defaultValue: i24.defaults,
+        value: i24.value,
+        type: T58,
+      };
+      return t$3;
+    }
+    if (s2Q) {
+      h5V = Array.prototype.concat(s2Q, s2Q.getDependents(u8d));
+    }
+    for (var N3r in M$G) {
+      if (M$G[N3r].signalData) continue;
+      if (h5V.indexOf(M$G[N3r]) > -("1" - 0)) continue;
+      for (var u8U in M$G[N3r].outputMap) {
+        v28 = e5l.Studies.useTranslationDelimiter
+          ? (2790, 6920) <= ("8490" >> 64, "9802" >> 0)
+            ? "\u200c"
+            : (7830, +"6830") === (4260, "846.5" - 0)
+              ? (510.65, 7.65e3)
+              : (2.86e3, 5.66e3)
+          : "";
+        if (M$G[N3r].inputs.Series && M$G[N3r].inputs.Series !== "series") {
+          u8U = `${v28}${u8U}${v28} [${M$G[N3r].inputs.Series}]`;
+        }
+        j5R.push(u8U);
+      }
+    }
+    for (var R0r in z8g.inputs) {
+      s1y = {};
+      this.inputs.push(s1y);
+      s1y.name = R0r;
+      s1y.heading = u8d.translateIf(R0r);
+      R7s = z8g.inputs[R0r];
+      if (
+        s2Q &&
+        s2Q.inputs &&
+        typeof s2Q.inputs[R0r] != "undefined" &&
+        s2Q.inputs[R0r] !== null
+      ) {
+        s1y.value = s2Q.inputs[R0r];
+      } else {
+        s1y.value = z8g.inputs[R0r];
+      }
+      s1y.defaultInput = z8g.inputs[R0r];
+      if (!this.attributes[R0r]) {
+        this.attributes[R0r] = e5l.Studies.inputAttributeDefaultGenerator(
+          s1y.defaultInput,
+        );
+      }
+      if (R7s.constructor == Number) {
+        s1y.type = "number";
+      } else if (R7s.constructor == String) {
+        Z9b = "f";
+        Z9b += "i";
+        Z9b += "e";
+        Z9b += "ld";
+        Y6S = e5l.Studies.movingAverageHelper(u8d, s1y.defaultInput);
+        if (Y6S) {
+          s1y.type = "select";
+          s1y.defaultInput = Y6S;
+          K0$ = e5l.Studies.movingAverageHelper(u8d, s1y.value);
+          if (!K0$) {
+            K0$ = s1y.value;
+          }
+          s1y.value = K0$;
+          s1y.options = e5l.Studies.movingAverageHelper(u8d, "options");
+        } else if (R7s == Z9b) {
+          b9a = "h";
+          b9a += "l/";
+          b9a += "2";
+          Q5u = u8d.chart.series;
+          E7p = [];
+          for (var V6x in Q5u) {
+            E7p.push(V6x);
+          }
+          s1y.type = "select";
+          s1y.options = {};
+          E7_ = [
+            "Open",
+            "High",
+            "Low",
+            "Close",
+            b9a,
+            "hlc/3",
+            "hlcc/4",
+            "ohlc/4",
+            Q45.defaultPlotField,
+          ].concat(j5R, E7p);
+          if (u8d.layout.adj) {
+            E7_.splice(4, 0, "Adj_Close");
+          }
+          for (var Y5V = "0" ^ 0; Y5V < E7_.length; Y5V++) {
+            d7V = E7_[Y5V];
+            s1y.options[d7V] = u8d.translateIf(d7V);
+          }
+          if (s1y.value == "field") {
+            s1y.value = "Close";
+          }
+          if (s1y.defaultInput == "field") {
+            X1a = "C";
+            X1a += "lose";
+            s1y.defaultInput = X1a;
+          }
+        } else if (R7s == "series") {
+          L56 = "sel";
+          L56 += "e";
+          L56 += "ct";
+          s1y.options = Object.keys(u8d.chart.series).reduce(
+            (d4n, h$P) => {
+              var k8W;
+              var { display: u9G, parameters: e00 } = u8d.chart.series[h$P];
+              k8W = (e00 || {}).symbol || h$P;
+              return { ...d4n, [k8W]: u9G || h$P };
+            },
+            { Primary: "Primary" },
+          );
+          if (!s1y.value || s1y.value === "series" || s1y.value === "field") {
+            Y3H = "P";
+            Y3H += "r";
+            Y3H += "ima";
+            Y3H += "ry";
+            s1y.value = Y3H;
+          }
+          s1y.type = L56;
+          if (s1y.defaultInput == "field") {
+            s1y.defaultInput = "Primary";
+          }
+        } else {
+          V0r = "d";
+          V0r += "a";
+          V0r += "t";
+          V0r += "e";
+          K7H = "y";
+          K7H += "yyy-mm";
+          K7H += "-";
+          K7H += "dd";
+          s1y.type = "text";
+          if (this.attributes[R0r].placeholder == K7H) {
+            s1y.type = V0r;
+          } else if (this.attributes[R0r].placeholder == "hh:mm:ss") {
+            s1y.type = "time";
+          }
+        }
+      } else if (R7s.constructor == Boolean) {
+        z6s = "t";
+        z6s += "r";
+        z6s += "ue";
+        s1y.type = "checkbox";
+        if (s1y.value === !!{} || s1y.value == z6s || s1y.value == "on") {
+          s1y.value = !!1;
+        }
+      } else if (R7s.constructor == Array) {
+        s1y.type = "select";
+        s1y.options = {};
+        for (var T9K = 0; T9K < R7s.length; T9K++) {
+          s1y.options[R7s[T9K]] = u8d.translateIf(R7s[T9K]);
+        }
+        if (s1y.value.constructor == Array) {
+          s1y.value = s1y.value[0];
+        }
+        if (this.attributes[R0r].defaultSelected) {
+          s1y.defaultInput = this.attributes[R0r].defaultSelected;
+        } else {
+          s1y.defaultInput = R7s[0];
+        }
+      }
+    }
+    this.dateTimeInputs = [];
+    for (var m_X = 0; m_X < this.inputs.length; m_X++) {
+      K5n = this.inputs[m_X];
+      if (K5n.type == "date") {
+        R34 = K5n.name.substring(0, K5n.name.indexOf(" Date"));
+        for (var Q_C = 0; Q_C < this.inputs.length; Q_C++) {
+          T1r = this.inputs[Q_C];
+          if (T1r.type == "time") {
+            s0z = " Ti";
+            s0z += "m";
+            s0z += "e";
+            if (T1r.name == R34 + s0z) {
+              this.dateTimeInputs.push(R34);
+              break;
+            }
+          }
+        }
+      }
+    }
+    this.adjustInputTimesForDisplayZone();
+    function B0P(M_f, R8A) {
+      var Y4n;
+      U6BfN.a3_();
+      Y4n = this;
+      if (!Y4n.attributes[M_f]) {
+        Y4n.attributes[M_f] = {};
+      }
+      if (R8A) {
+        Y4n.attributes[M_f].hidden = !0;
+      }
+    }
+    for (var l8N in z8g.outputs) {
+      l6w = { name: l8N, heading: u8d.translateIf(l8N) };
+      l6w.color = l6w.defaultOutput = z8g.outputs[l8N];
+      if (s2Q && s2Q.outputs && s2Q.outputs[l8N]) {
+        l6w.color = s2Q.outputs[l8N];
+      }
+      if (l6w.color == "auto") {
+        l6w.color = u8d.defaultColor;
+        l6w.isAuto = !!{};
+      }
+      this.outputs.push(l6w);
+    }
+    b3O = s2Q ? s2Q.parameters : null;
+    if (z8g.parameters) {
+      p7y = z8g.parameters.init;
+      if (p7y) {
+        if (p7y.studyOverZonesEnabled !== undefined) {
+          E6h = {
+            name: "studyOverZones",
+            heading: u8d.translateIf("Show Zones"),
+            defaultValue: p7y.studyOverZonesEnabled,
+            value: p7y.studyOverZonesEnabled,
+          };
+          if (
+            b3O &&
+            (b3O.studyOverZonesEnabled || b3O.studyOverZonesEnabled === !1)
+          ) {
+            E6h.value = b3O.studyOverZonesEnabled;
+          }
+          E6h.type = "checkbox";
+          this.parameters.push(E6h);
+        }
+        if (p7y.studyOverBoughtValue !== undefined) {
+          f1s = "a";
+          f1s += "u";
+          f1s += "t";
+          f1s += "o";
+          E6h = {
+            name: "studyOverBought",
+            heading: u8d.translateIf("OverBought"),
+            defaultValue: p7y.studyOverBoughtValue,
+            value: p7y.studyOverBoughtValue,
+            defaultColor: p7y.studyOverBoughtColor,
+            color: p7y.studyOverBoughtColor,
+          };
+          if (b3O && b3O.studyOverBoughtValue) {
+            E6h.value = b3O.studyOverBoughtValue;
+          }
+          if (b3O && b3O.studyOverBoughtColor) {
+            E6h.color = b3O.studyOverBoughtColor;
+          }
+          if (E6h.color == f1s) {
+            E6h.color = u8d.defaultColor;
+            E6h.isAuto = !!{};
+          }
+          E6h.type = "text";
+          this.parameters.push(E6h);
+        }
+        if (p7y.studyOverSoldValue !== undefined) {
+          N2D = "tex";
+          N2D += "t";
+          E6h = {
+            name: "studyOverSold",
+            heading: u8d.translateIf("OverSold"),
+            defaultValue: p7y.studyOverSoldValue,
+            value: p7y.studyOverSoldValue,
+            defaultColor: p7y.studyOverSoldColor,
+            color: p7y.studyOverSoldColor,
+          };
+          if (b3O && b3O.studyOverSoldValue) {
+            E6h.value = b3O.studyOverSoldValue;
+          }
+          if (b3O && b3O.studyOverSoldColor) {
+            E6h.color = b3O.studyOverSoldColor;
+          }
+          if (E6h.color == "auto") {
+            E6h.color = u8d.defaultColor;
+            E6h.isAuto = !"";
+          }
+          E6h.type = N2D;
+          this.parameters.push(E6h);
+        }
+        if (!this.attributes.studyOverBoughtValue) {
+          this.attributes.studyOverBoughtValue = {};
+        }
+        if (!this.attributes.studyOverSoldValue) {
+          this.attributes.studyOverSoldValue = {};
+        }
+      }
+    }
+    N18 = this.panelSelect = M2Q.panelSelect;
+    w7g = this.axisSelect = M2Q.axisSelect;
+    if (M2Q.addWhenDone) {
+      w7g = N18 = !1;
+    }
+    if (w7g || N18) {
+      y1a = "u";
+      y1a += "nderl";
+      y1a += "ay";
+      y1a += "Enabled";
+      if (!s2Q) {
+        s2Q = e5l.Studies.addStudy(u8d, M2Q.name, null, null, {
+          calculateOnly: !![],
+        });
+        e5l.Studies.removeStudy(u8d, s2Q);
+      }
+      if (N18) {
+        this.parameters.push(
+          U6G({
+            label: "Panel",
+            name: "panelName",
+            defaults: (function () {
+              var d5Z;
+              d5Z = [];
+              U6BfN.a3_();
+              d5Z.push("Auto");
+              for (var R$v in u8d.panels) {
+                if (R$v != s2Q.panel || !b3O || !b3O.panelName)
+                  if (!u8d.panels[R$v].noDrag) {
+                    d5Z.push(c7j(R$v));
+                  }
+              }
+              if (!u8d.checkForEmptyPanel(s2Q.panel, !"", s2Q)) {
+                d5Z.push("New panel");
+              }
+              return d5Z;
+            })(),
+            value: b3O && b3O.panelName ? c7j(b3O.panelName) : "Auto",
+          }),
+          y07({
+            label: "Show as Underlay",
+            name: "underlay",
+            defaults: ![],
+            value:
+              s2Q.underlay ||
+              (s2Q.parameters && s2Q.parameters.underlayEnabled),
+          }),
+        );
+      }
+      I3g = u8d.getYAxisByName(M6H, s2Q.name);
+      if (w7g) {
+        b5s = "Y-A";
+        b5s += "xi";
+        b5s += "s";
+        this.parameters.push(
+          U6G({
+            label: b5s,
+            name: "yaxisDisplay",
+            defaults: (function () {
+              var V3J, E$C, S$b;
+              V3J = "share";
+              V3J += "d";
+              E$C = M6H.yaxisLHS.concat(M6H.yaxisRHS);
+              S$b = [];
+              S$b.push("default", "right", "left", "none", V3J);
+              for (var T0S = 0; T0S < E$C.length; T0S++) {
+                if (E$C[T0S] != I3g) {
+                  S$b.push(E$C[T0S].name);
+                }
+              }
+              return S$b;
+            })(),
+            value:
+              (b3O && b3O.yaxisDisplayValue) ||
+              (I3g && I3g.position) ||
+              (!I3g ? "shared" : "default"),
+            color: (I3g && I3g.textStyle) || "auto",
+          }),
+          y07({
+            label: "Invert Y-Axis",
+            name: "flipped",
+            defaults: !{},
+            value:
+              b3O && b3O.flippedEnabled !== undefined
+                ? b3O.flippedEnabled
+                : I3g
+                  ? I3g.flipped
+                  : !{},
+          }),
+        );
+      }
+      B0P.call(this, "flippedEnabled", !I3g && s2Q.panel != s2Q.name);
+      B0P.call(this, y1a, z8g.underlay);
+      B0P.call(this, "panelName", z8g.seriesFN === null);
+      B0P.call(
+        this,
+        "yaxisDisplayValue",
+        z8g.seriesFN === null || (z8g.yAxis && z8g.yAxis.noDraw),
+      );
+    }
+  };
+  e5l.Studies.DialogHelper.prototype.updateStudy = function (o0i) {
+    var W32, B9x, l$Q, B2A, y2k, n3k, S66, H0w;
+    W32 = {};
+    B9x = this.sd;
+    l$Q = this.libraryEntry;
+    if (!l$Q) {
+      l$Q = {};
+    }
+    function e$P(l0$) {
+      var J1E, R8x;
+      function L80(I$p) {
+        var s25;
+        s25 = I$p.match(/.{0,50} (\d)/);
+        return s25 && s25[1];
+      }
+      J1E = this;
+      if (J1E.panelSelect == "alias") {
+        R8x = L80(l0$);
+        if (R8x) {
+          for (var k7b in J1E.stx.panels) {
+            if (!--R8x) {
+              return k7b;
+            }
+          }
+        }
+      }
+      return l0$;
+    }
+    if (!B9x) {
+      B9x = l$Q;
+    }
+    W32.inputs = e5l.clone(B9x.inputs);
+    W32.outputs = e5l.clone(B9x.outputs);
+    W32.parameters = e5l.clone(B9x.parameters);
+    this.adjustInputTimesForDisplayZone(o0i);
+    if (o0i.parameters && o0i.parameters.panelName) {
+      B2A = 915148709;
+      y2k = 1692158986;
+      n3k = 2;
+      for (
+        var e$6 = 1;
+        U6BfN.C6S(e$6.toString(), e$6.toString().length, "48082" ^ 0) !== B2A;
+        e$6++
+      ) {
+        o0i.parameters.panelName = e$P.call(this, o0i.parameters.panelName);
+        n3k += 2;
+      }
+      if (U6BfN.D9u(n3k.toString(), n3k.toString().length, 14660) !== y2k) {
+        o0i.parameters.panelName = e$P.call(this, o0i.parameters.panelName);
+      }
+      o0i.parameters.panelName = e$P.call(this, o0i.parameters.panelName);
+    }
+    e5l.extend(W32, o0i);
+    if (!W32.parameters) {
+      W32.parameters = {};
+    }
+    if (W32.inputs && W32.inputs.id) {
+      B9x = e5l.Studies.replaceStudy(
+        this.stx,
+        W32.inputs.id,
+        this.name,
+        W32.inputs,
+        W32.outputs,
+        W32.parameters,
+        null,
+        B9x.study,
+      );
+    } else {
+      B9x = e5l.Studies.addStudy(
+        this.stx,
+        this.name,
+        W32.inputs,
+        W32.outputs,
+        W32.parameters,
+        null,
+        B9x.study,
+      );
+    }
+    S66 = new e5l.Studies.DialogHelper({
+      stx: this.stx,
+      sd: B9x,
+      axisSelect: this.axisSelect,
+      panelSelect: this.panelSelect,
+    });
+    for (var k05 in S66) {
+      H0w = "s";
+      H0w += "i";
+      H0w += "g";
+      H0w += "nal";
+      if (k05 != H0w) {
+        this[k05] = S66[k05];
+      }
+    }
+    this.signal *= -1;
+  };
+  e5l.Studies.DialogHelper.prototype.adjustInputTimesForDisplayZone = function (
+    l0E,
+  ) {
+    var j9m = U6BfN;
+    j9m.a3_();
+    var t8n, f0S, u0s, k27, e$K, M2q, b_x, E4I, S$F;
+    if (this.stx.displayZone) {
+      for (var V8H = 0; V8H < this.dateTimeInputs.length; V8H++) {
+        t8n = this.dateTimeInputs[V8H];
+        M2q = "";
+        if (l0E && l0E.inputs) {
+          j9m.C2v(0);
+          u0s = l0E.inputs[j9m.B$D(t8n, " Date")];
+          j9m.w6J(0);
+          k27 = l0E.inputs[j9m.B$D(t8n, " Time")];
+          if (u0s) {
+            M2q = u0s;
+          }
+          if (k27) {
+            M2q += k27;
+          }
+        }
+        for (f0S = 0; f0S < this.inputs.length; f0S++) {
+          e$K = this.inputs[f0S];
+          if (!u0s && u0s !== "" && e$K.name == t8n + " Date") {
+            M2q = e$K.value + M2q;
+          } else if (!k27 && k27 !== "" && e$K.name == t8n + " Time") {
+            M2q += e$K.value;
+          }
+        }
+        M2q = M2q.replace(/\D/g, "");
+        if (M2q.length < 12) {
+          return;
+        }
+        b_x = e5l.strToDateTime(M2q);
+        if (!isNaN(b_x.valueOf())) {
+          if (l0E) {
+            S$F = " T";
+            S$F += "i";
+            S$F += "m";
+            S$F += "e";
+            if (!l0E.inputs) {
+              l0E.inputs = {};
+            }
+            E4I = e5l.convertTimeZone(b_x, this.stx.displayZone);
+            j9m.C2v(0);
+            l0E.inputs[j9m.Y51(t8n, " Date")] = e5l.yyyymmdd(E4I);
+            j9m.w6J(0);
+            l0E.inputs[j9m.B$D(t8n, S$F)] = e5l.hhmmss(E4I);
+          } else {
+            E4I = e5l.convertTimeZone(b_x, null, this.stx.displayZone);
+            for (f0S = 0; f0S < this.inputs.length; f0S++) {
+              e$K = this.inputs[f0S];
+              if (e$K.name == t8n + " Date") {
+                e$K.value = e5l.yyyymmdd(E4I);
+              }
+              if (e$K.name == t8n + " Time") {
+                e$K.value = e5l.hhmmss(E4I);
+              }
+            }
+          }
+        }
+      }
+    }
+  };
+  e5l.Studies.prepareStudy = function (k_4, U5E, z4w) {
+    var b0W = U6BfN;
+    if (typeof U5E.calculateFN == "undefined") {
+      U5E.useRawValues = !!{};
+    }
+    b0W.s8u();
+    if (e5l.isEmpty(z4w.outputMap)) {
+      for (var A81 in z4w.outputs) {
+        if (U5E.useRawValues) {
+          z4w.outputMap[A81] = A81;
+        } else {
+          b0W.w6J(126);
+          var L3_ = b0W.Y51(10, 4670, 4689, 467);
+          b0W.C2v(20);
+          var v_b = b0W.Y51(7, 22, 9334);
+          b0W.C2v(0);
+          var t7B = b0W.B$D(27, 5);
+          z4w.outputMap[
+            A81 +
+              ((217.86, L3_) === (v_b, 64.54)
+                ? ("1.29e+3" << t7B, 493.91)
+                : " ") +
+              z4w.name
+          ] = A81;
+        }
+      }
+    }
+  };
+  e5l.Studies.rejiggerDerivedStudies = function (U9d, a2g, U0k) {
+    var q8b, O6U, d0$, C_r, m22, J9V, w79, J3R;
+    q8b = a2g.name;
+    O6U = a2g.panel;
+    d0$ = a2g.getDependents(U9d);
+    for (var n7d = 0; n7d < d0$.length; n7d++) {
+      C_r = d0$[n7d];
+      m22 = e5l.clone(C_r.inputs);
+      J9V = m22.id;
+      if (!J9V) continue;
+      w79 = e5l.Studies.getFieldInputs(C_r);
+      for (var n34 = 0; n34 < w79.length; n34++) {
+        m22[w79[n34]] = m22[w79[n34]].replace(q8b, U0k);
+      }
+      J3R = e5l.Studies.replaceStudy(
+        U9d,
+        J9V,
+        C_r.type,
+        m22,
+        C_r.outputs,
+        e5l.extend(C_r.parameters, { rejiggering: !![] }),
+        null,
+        C_r.study,
+      );
+      delete J3R.parameters.rejiggering;
+    }
+  };
+  e5l.Studies.removeStudySymbols = function (j38, T3a) {
+    var O4D;
+    if (j38.series) {
+      for (var G2k in j38.series) {
+        O4D = "r";
+        O4D += "emove";
+        O4D += "-";
+        O4D += "study";
+        T3a.deleteSeries(j38.series[G2k], null, { action: O4D });
+      }
+    }
+  };
+  e5l.Studies.replaceStudy = function (W97, c4z, M5G, o0N, Q_V, H86, F3J, J9f) {
+    var M3x, W$N, K3D, z1n, o5R, v9d, n9h, H3X, k3b, r$J, v_J;
+    M3x = "vec";
+    M3x += "tor";
+    W$N = "pa";
+    W$N += "nelNam";
+    W$N += "e";
+    if (!H86) {
+      H86 = {};
+    }
+    if (c4z) {
+      H86.replaceID = c4z;
+    }
+    c4z = H86.replaceID;
+    K3D = W97.layout.studies[c4z];
+    e5l.Studies.removeStudySymbols(K3D, W97);
+    if (K3D.attribution) {
+      W97.removeFromHolder(K3D.attribution.marker);
+    }
+    if (W97.quoteDriver) {
+      W97.quoteDriver.updateSubscriptions();
+    }
+    if (o0N) {
+      if (o0N.id == o0N.display) {
+        delete o0N.display;
+      }
+      delete o0N.id;
+    }
+    z1n = e5l.Studies.addStudy(W97, M5G, o0N, Q_V, H86, F3J, J9f);
+    z1n.highlight = K3D.highlight;
+    z1n.uniqueId = K3D.uniqueId;
+    if (K3D.signalData) {
+      z1n.signalData = K3D.signalData;
+      if (z1n.signalData.updateConditions) {
+        z1n.signalData.updateConditions(c4z, z1n.inputs.id);
+      }
+    }
+    v9d = {};
+    for (o5R in W97.layout.studies) {
+      if (o5R == c4z) {
+        v9d[z1n.name] = z1n;
+      } else {
+        v9d[o5R] = W97.layout.studies[o5R];
+      }
+    }
+    W97.layout.studies = v9d;
+    v9d = {};
+    for (o5R in W97.overlays) {
+      if (o5R == c4z) {
+        if (z1n.overlay || z1n.underlay) {
+          v9d[z1n.name] = z1n;
+        }
+      } else {
+        v9d[o5R] = W97.overlays[o5R];
+      }
+    }
+    W97.overlays = v9d;
+    U6BfN.a3_();
+    if (!W97.overlays[z1n.name] && (z1n.overlay || z1n.underlay)) {
+      W97.addOverlay(z1n);
+    }
+    n9h = Object.keys(K3D.outputMap);
+    H3X = Object.keys(z1n.outputMap);
+    if (K3D.panel !== z1n.panel) {
+      n9h.forEach(function (b6k) {
+        var x13;
+        x13 = "f";
+        x13 += "iel";
+        x13 += "d";
+        W97.moveMarkers(K3D.panel, z1n.panel, W97.getMarkerArray(x13, b6k));
+      });
+    }
+    W97.getMarkerArray(W$N, K3D.panel).forEach(function (e6t, s47) {
+      U6BfN.s8u();
+      var R8q;
+      R8q = n9h.indexOf(e6t.params.field);
+      if (R8q > -1 && H3X.indexOf(e6t.params.field) === -1) {
+        e6t.params.field = H3X[s47];
+      }
+    });
+    W97.checkForEmptyPanel(K3D.panel);
+    if (!H86.rejiggering) {
+      W97.initializeDisplay(W97.chart);
+      e5l.Studies.rejiggerDerivedStudies(W97, K3D, z1n.inputs.id, z1n.panel);
+    }
+    k3b = { outputMap: e5l.clone(K3D.outputMap), panel: K3D.panel };
+    e5l.transferObject(K3D, z1n);
+    W97.layout.studies[z1n.name] = K3D;
+    W97.overlays[z1n.name] = K3D;
+    W97.chart.state.studies.sorted = null;
+    r$J = ![];
+    for (var S71 in W97.drawingObjects) {
+      v_J = W97.drawingObjects[S71];
+      if (k3b.outputMap && k3b.outputMap.hasOwnProperty(v_J.field)) {
+        v_J.field = v_J.field.replace(c4z, K3D.inputs.id);
+        if (K3D.parameters && K3D.parameters.panelName) {
+          v_J.panelName = K3D.parameters.panelName;
+        } else {
+          v_J.panelName = K3D.panel;
+        }
+        r$J = !![];
+      } else if (k3b.panel && k3b.panel == v_J.panelName) {
+        v_J.panelName = v_J.panelName.replace(c4z, K3D.inputs.id);
+        r$J = !![];
+      }
+    }
+    if (r$J) {
+      W97.changeOccurred(M3x);
+    }
+    if (!H86.rejiggering) {
+      if (!K3D.currentlyImporting && !H86.calculateOnly && K3D.chart.dataSet) {
+        W97.createDataSet(null, K3D.chart);
+      }
+      W97.changeOccurred("layout");
+      W97.drawWithRange();
+    }
+    return K3D;
+  };
+  e5l.Studies.addStudy = function (D2Q, A9u, Y23, e5W, K9Z, s38, b$g) {
+    var Z_z = U6BfN;
+    var p17,
+      d_5,
+      b$F,
+      i9v,
+      m51,
+      A3G,
+      H7U,
+      M0R,
+      C0R,
+      I13,
+      U7D,
+      m2l,
+      A2A,
+      U8i,
+      Y9c,
+      f15;
+    p17 = "lay";
+    p17 += "out";
+    d_5 = "De";
+    d_5 += "fault";
+    d_5 += " p";
+    d_5 += "anel";
+    b$F = "Au";
+    b$F += "t";
+    b$F += "o";
+    i9v = b$g ? b$g : e5l.Studies.studyLibrary[A9u];
+    if (!K9Z) {
+      K9Z = {};
+    }
+    if (i9v) {
+      if (i9v.inputs) {
+        m51 = e5l.clone(i9v.inputs);
+        for (var N2V in m51) {
+          if (m51[N2V] instanceof Array) {
+            if (
+              i9v.attributes &&
+              i9v.attributes[N2V] &&
+              i9v.attributes[N2V].defaultSelected
+            ) {
+              m51[N2V] = i9v.attributes[N2V].defaultSelected;
+            } else {
+              m51[N2V] = m51[N2V][0];
+            }
+          }
+        }
+        Y23 = e5l.extend(m51, Y23);
+      }
+      if (i9v.outputs) {
+        e5W = e5l.extend(e5l.clone(i9v.outputs), e5W);
+      }
+      A3G = i9v.parameters;
+      if (A3G && A3G.init) {
+        K9Z = e5l.extend(e5l.clone(A3G.init), K9Z);
+      }
+      if (A3G && !K9Z.display) {
+        K9Z.display = A3G.display;
+      }
+    }
+    if (!Y23) {
+      Y23 = e5l.clone(e5l.Studies.DEFAULT_INPUTS);
+    }
+    if (!e5W) {
+      e5W = e5l.clone(e5l.Studies.DEFAULT_OUTPUTS);
+    }
+    if (!K9Z.chartName) {
+      K9Z.chartName = "chart";
+    }
+    if (K9Z.panelName == b$F || K9Z.panelName == d_5) {
+      K9Z.panelName = "";
+    }
+    if (Y23.Period < 1) {
+      Z_z.w6J(23);
+      Y23.Period = Z_z.B$D("1", 0);
+    }
+    H7U = null;
+    if (!D2Q.layout.studies) {
+      D2Q.layout.studies = {};
+    }
+    if (i9v && i9v.initializeFN) {
+      H7U = i9v.initializeFN(D2Q, A9u, Y23, e5W, K9Z, s38, b$g);
+    } else {
+      H7U = e5l.Studies.initializeFN(D2Q, A9u, Y23, e5W, K9Z, s38, b$g);
+    }
+    if (!H7U) {
+      Z_z.C2v(0);
+      console.log(
+        Z_z.Y51("CIQ.Studies.addStudy: initializeFN() returned null for ", A9u),
+      );
+      return;
+    } else if (H7U === "abort") {
+      return;
+    }
+    b$g = H7U.study;
+    H7U.chart = D2Q.charts[K9Z.chartName];
+    H7U.type = A9u;
+    H7U.permanent = b$g.permanent;
+    H7U.customLegend = b$g.customLegend;
+    H7U.uniqueId = e5l.uniqueID();
+    e5l.Studies.prepareStudy(D2Q, b$g, H7U);
+    M0R = D2Q.chart.state.studies;
+    if (!M0R) {
+      M0R = D2Q.chart.state.studies = {};
+    }
+    M0R.sorted = null;
+    if (!K9Z.replaceID) {
+      D2Q.layout.studies[H7U.inputs.id] = H7U;
+      if (H7U.overlay || H7U.underlay) {
+        D2Q.addOverlay(H7U);
+      }
+      if (!D2Q.currentlyImporting && !K9Z.calculateOnly && H7U.chart.dataSet) {
+        D2Q.createDataSet(null, H7U.chart);
+      }
+    } else {
+      C0R = !!{};
+      delete K9Z.replaceID;
+    }
+    if (D2Q.quoteDriver) {
+      D2Q.quoteDriver.updateSubscriptions();
+    }
+    if (K9Z.calculateOnly) {
+      D2Q.changeOccurred("layout");
+      return H7U;
+    }
+    I13 = D2Q.panels[H7U.panel];
+    U7D = ![];
+    m2l = !(H7U.overlay || H7U.underlay);
+    if (m2l && b$g.horizontalCrosshairFieldFN) {
+      I13.horizontalCrosshairField = b$g.horizontalCrosshairFieldFN(D2Q, H7U);
+    }
+    if (D2Q.editCallback) {
+      U7D = !!1;
+    } else if (m2l) {
+      if (
+        D2Q.callbackListeners.studyPanelEdit &&
+        D2Q.callbackListeners.studyPanelEdit.length
+      ) {
+        U7D = !!{};
+      }
+    } else {
+      if (
+        D2Q.callbackListeners.studyOverlayEdit &&
+        D2Q.callbackListeners.studyOverlayEdit.length
+      ) {
+        U7D = !![];
+      }
+    }
+    if (U7D) {
+      K9Z.editMode = !"";
+      A2A = ![];
+      for (var K6o in H7U.inputs) {
+        if (K6o == "id") continue;
+        if (K6o == "display") continue;
+        A2A = !"";
+        break;
+      }
+      if (!A2A) {
+        for (var t4O in H7U.outputs) {
+          A2A = !!"1";
+          break;
+        }
+      }
+      if (A2A) {
+        U8i = "un";
+        U8i += "defined";
+        if (typeof H7U.study.edit != U8i) {
+          if (H7U.study.edit) {
+            Y9c = (function (e4F, E$p, A1v, c17, E5F) {
+              Z_z.a3_();
+              return function () {
+                e5l.clearCanvas(e4F.chart.tempCanvas, e4F);
+                E$p.study.edit(E$p, {
+                  stx: e4F,
+                  inputs: A1v,
+                  outputs: c17,
+                  parameters: E5F,
+                });
+              };
+            })(D2Q, H7U, Y23, e5W, K9Z);
+            D2Q.setPanelEdit(I13, Y9c);
+            H7U.editFunction = Y9c;
+          }
+        } else if (!m2l) {
+          Y9c = (function (o53, b98, G2W, l58, Z2v) {
+            Z_z.s8u();
+            return function (p7L) {
+              var J6x;
+              J6x = "s";
+              J6x += "tud";
+              Z_z.a3_();
+              J6x += "yOverlayEdit";
+              e5l.clearCanvas(o53.chart.tempCanvas, o53);
+              o53.dispatch(J6x, {
+                stx: o53,
+                sd: b98,
+                inputs: G2W,
+                outputs: l58,
+                parameters: Z2v,
+                forceEdit: p7L,
+              });
+            };
+          })(D2Q, H7U, Y23, e5W, K9Z);
+          H7U.editFunction = Y9c;
+        } else {
+          if (D2Q.editCallback) {
+            Y9c = (function (c5z, P4J, y4c, l5U, g3r) {
+              return function () {
+                var E_Q;
+                E_Q = c5z.editCallback(c5z, P4J);
+                e5l.clearCanvas(c5z.chart.tempCanvas, c5z);
+                e5l.Studies.studyDialog(c5z, A9u, E_Q, {
+                  inputs: y4c,
+                  outputs: l5U,
+                  parameters: g3r,
+                });
+              };
+            })(D2Q, H7U, Y23, e5W, K9Z);
+            if (I13.name != "chart") {
+              D2Q.setPanelEdit(I13, Y9c);
+            }
+          } else {
+            f15 = "ch";
+            f15 += "art";
+            Y9c = (function (X06, w0Q, M3e, P$3, C_Z) {
+              return function () {
+                e5l.clearCanvas(X06.chart.tempCanvas, X06);
+                X06.dispatch("studyPanelEdit", {
+                  stx: X06,
+                  sd: w0Q,
+                  inputs: M3e,
+                  outputs: P$3,
+                  parameters: C_Z,
+                });
+              };
+            })(D2Q, H7U, Y23, e5W, K9Z);
+            if (I13.name != f15) {
+              D2Q.setPanelEdit(I13, Y9c);
+              H7U.editFunction = Y9c;
+            }
+          }
+        }
+      }
+    }
+    D2Q.changeOccurred(p17);
+    if (!C0R) {
+      D2Q.drawWithRange();
+    }
+    return H7U;
+  };
+  e5l.Studies.removeStudy = function (B6J, L$k) {
+    U6BfN.a3_();
+    var K2N, V5g, u9m, Z$1;
+    K2N = B6J.panels[L$k.panel];
+    V5g = K2N && K2N.yAxis.name;
+    if (L$k.overlay || L$k.underlay) {
+      B6J.removeOverlay(L$k.name);
+    }
+    u9m = B6J.panels[L$k.panel];
+    if (L$k.attribution) {
+      B6J.removeFromHolder(L$k.attribution.marker);
+    }
+    B6J.cleanupRemovedStudy(L$k);
+    if (u9m && !B6J.checkForEmptyPanel(u9m)) {
+      if (V5g == L$k.name) {
+        B6J.electNewPanelOwner(u9m);
+      }
+      Z$1 = B6J.getYAxisByName(L$k.panel, L$k.name);
+      if (Z$1) {
+        Z$1.name = Z$1.studies[1] || Z$1.renderers[0];
+      }
+    }
+    B6J.drawWithRange();
+    B6J.resizeChart();
+  };
+  e5l.Studies.getPanelFromFieldName = function (g21, s2i) {
+    var b64, S7S, k9W, X$I, B8C, F52;
+    b64 = e5l.Studies.getFieldInputs(s2i);
+    if (!b64.length) {
+      return null;
+    }
+    S7S = g21.layout.studies;
+    if (!S7S) {
+      return null;
+    }
+    k9W = {};
+    for (var r7d in S7S) {
+      for (var w73 in S7S[r7d].outputMap) {
+        X$I = S7S[r7d].inputs.Series;
+        if (X$I && X$I !== "series") {
+          U6BfN.w6J(2);
+          w73 += U6BfN.B$D(
+            " [",
+            X$I,
+            (878, 6570) === (2630, 572)
+              ? (1.89e3, !{})
+              : (1431, 1555) < (932.32, +"2190")
+                ? (689.38, 7773) === 715.03
+                  ? !!{}
+                  : "]"
+                : !0,
+          );
+        }
+        k9W[w73.replace(/\u200c/g, "")] = S7S[r7d].panel;
+      }
+    }
+    for (var G5q in g21.chart.series) {
+      k9W[G5q] = g21.chart.series[G5q].parameters.panel;
+    }
+    for (var P2e = 0; P2e < b64.length; P2e++) {
+      B8C = s2i.inputs[b64[P2e]];
+      if (B8C) {
+        F52 = k9W[B8C.replace(/\u200c/g, "")];
+        if (F52) {
+          return F52;
+        }
+      }
+    }
+    return null;
+  };
+  e5l.Studies.createLibraryHash = function () {
+    U6BfN.s8u();
+    return Object.keys(e5l.Studies.studyLibrary).join(
+      342.58 != 995.32
+        ? "|"
+        : ("3720" | 8, 886.58) <= "718.07" - 0
+          ? 7.21e3
+          : (4146, 70) === +"5239"
+            ? (!0, 656.47)
+            : (697.09, 549.18),
+    );
+  };
+  e5l.Studies.displayStudies = function (T_t, Y9R, e2$) {
+    var v3q,
+      Z62,
+      g$S,
+      K6k,
+      V73,
+      H4K,
+      D3r,
+      X0a,
+      Z_h,
+      l$w,
+      r44,
+      c_M,
+      d9K,
+      o5H,
+      V4p,
+      e0k,
+      v27;
+    if (e2$) {
+      Y9R.studyLibraryHash = e5l.Studies.createLibraryHash();
+    }
+    v3q = T_t.layout.studies;
+    U6BfN.a3_();
+    if (!v3q) {
+      return;
+    }
+    function Z5F(F_o) {
+      var f82;
+      f82 = F_o.color || F_o;
+      return f82 === "auto" ? T_t.defaultColor : f82;
+    }
+    Z62 = {};
+    Z62[Y9R.name] = !!{};
+    for (var x91 in v3q) {
+      g$S = v3q[x91];
+      K6k = g$S.study;
+      if (!K6k) continue;
+      if (g$S.disabled || (g$S.signalData && !g$S.signalData.reveal)) continue;
+      V73 = g$S.underlay || (g$S.parameters && g$S.parameters.underlayEnabled);
+      if ((e2$ && !V73) || (!e2$ && V73)) continue;
+      H4K = e5l.clone(K6k.renderer);
+      if (H4K && !(H4K instanceof Array)) {
+        H4K = [H4K];
+      }
+      D3r = T_t.panels[g$S.panel];
+      if (D3r) {
+        if (D3r.chart != Y9R) continue;
+        if (D3r.hidden) continue;
+        if (!Z62[D3r.name]) {
+          X0a = g$S.permanent || !T_t.manageTouchAndMouse;
+          if (D3r.closeX) {
+            if (X0a) {
+              D3r.closeX.style.display = "none";
+            }
+          } else if (D3r.close) {
+            if (X0a) {
+              D3r.close.style.display = "none";
+            }
+          }
+          if (D3r.edit) {
+            if (X0a) {
+              D3r.edit.style.display = "none";
+            }
+          }
+          Z62[D3r.name] = X0a;
+        }
+      } else {
+        if (T_t.currentlyImporting) {
+          delete v3q[x91];
+        }
+        continue;
+      }
+      Z_h = g$S.chart.dataSegment;
+      if (
+        g$S.panel == g$S.parameters.chartName &&
+        (!g$S.parameters || !g$S.parameters.panelName)
+      ) {
+        l$w = e5l.Studies.getPanelFromFieldName(T_t, g$S);
+        if (l$w && g$S.panel != l$w) {
+          g$S.panel = l$w;
+        }
+      }
+      if (typeof K6k.seriesFN == "undefined") {
+        if (H4K) {
+          if (!g$S.overlay) {
+            e5l.Studies.createYAxis(T_t, g$S, Z_h, D3r);
+          }
+          for (var G55 = 0; G55 < H4K.length; G55++) {
+            r44 = H4K[G55];
+            for (var x73 in g$S.outputMap) {
+              if (g$S.outputMap[x73] == r44.field) {
+                r44.field = x73;
+              }
+            }
+            if (!r44.field) continue;
+            r44.panel = g$S.panel;
+            c_M = r44.binding;
+            if (c_M) {
+              for (var b4w in c_M) {
+                d9K = "a";
+                d9K += "u";
+                d9K += "to";
+                o5H = e5l.Studies.determineColor(g$S.outputs[c_M[b4w]]);
+                if (o5H && o5H != d9K) {
+                  r44[b4w] = o5H;
+                }
+              }
+            }
+            r44.yAxis = null;
+            V4p = e5l.Renderer.produce(r44.type, r44);
+            V4p.stx = T_t;
+            V4p.attachSeries(null, r44).draw();
+          }
+        } else {
+          e5l.Studies.displaySeriesAsLine(T_t, g$S, Z_h);
+        }
+        if (D3r) {
+          e5l.Studies.displayError(T_t, g$S);
+        }
+      } else {
+        if (D3r) {
+          if (K6k.seriesFN) {
+            K6k.seriesFN(T_t, g$S, Z_h);
+          }
+          e5l.Studies.displayError(T_t, g$S);
+        }
+      }
+      e0k = Object.values(g$S.outputs);
+      v27 = e0k.slice(+"0", 3).map(Z5F);
+      T_t.chart.legendColorMap[g$S.name] = {
+        color: v27,
+        display: g$S.name,
+        components: Object.keys(g$S.outputs).slice(0, 3),
+      };
+    }
+  };
+  e5l.Studies.displayError = function (U66, s63, x1$) {
+    var s59, g_C, q9c;
+    s59 = "b";
+    s59 += "ottom";
+    if (!s63.error) {
+      return;
+    }
+    g_C = x1$ && x1$.panel ? x1$.panel : s63.panel;
+    q9c =
+      s63.error === !!"1"
+        ? U66.translateIf("Not enough data to compute ") +
+          U66.translateIf(s63.study.name)
+        : U66.translateIf(s63.error);
+    if (x1$ && (x1$.h !== "center" || x1$.v !== s59)) {
+      U66.watermark(g_C, x1$);
+      return;
+    }
+    U66.displayErrorAsWatermark(g_C, q9c);
+  };
+  e5l.Studies.calculateMinMaxForDataPoint = function (w9_, O0a, S42) {
+    var j33, d1r, L7v, R8e;
+    j33 = Number.MAX_VALUE;
+    U6BfN.w6J(26);
+    var I3l = U6BfN.Y51(0, 12, 11);
+    d1r = Number.MAX_VALUE * I3l;
+    for (var V4h = 0; V4h < S42.length; V4h++) {
+      L7v = "undefine";
+      L7v += "d";
+      R8e = S42[V4h][O0a];
+      if (R8e === null || typeof R8e == L7v) continue;
+      if (isNaN(R8e)) continue;
+      j33 = Math.min(R8e, j33);
+      d1r = Math.max(R8e, d1r);
+    }
+    return { min: j33, max: d1r };
+  };
+  e5l.Studies.getYAxisParameters = function (n8E, M1F) {
+    var x4Y, t_E, a4q, L1k, J7R;
+    x4Y = {};
+    t_E = n8E.layout.studies && n8E.layout.studies[M1F.name];
+    if (t_E) {
+      a4q = t_E.study;
+      if (a4q.yaxis || a4q.yAxisFN) {
+        x4Y.noDraw = !![];
+      } else {
+        if (a4q.parameters && a4q.parameters.excludeYAxis) {
+          x4Y.noDraw = !![];
+        }
+        x4Y.ground = a4q.yAxis && a4q.yAxis.ground;
+        if (M1F) {
+          L1k = "b";
+          L1k += "y";
+          L1k += "pa";
+          L1k += "ss";
+          if (a4q.range != L1k) {
+            J7R = "0 ";
+            J7R += "to";
+            J7R += " 10";
+            J7R += "0";
+            if (a4q.range == J7R) {
+              x4Y.range = [+"0", 100];
+            } else if (a4q.range == "-1 to 1") {
+              U6BfN.C2v(10);
+              x4Y.range = [-1, U6BfN.B$D(0, "1")];
+            } else {
+              if (a4q.range == "0 to max") {
+                x4Y.range = [0, Math.max(0, M1F.high)];
+              } else if (a4q.centerline || a4q.centerline === 0) {
+                x4Y.range = [
+                  Math.min(a4q.centerline, M1F.low),
+                  Math.max(a4q.centerline, M1F.high),
+                ];
+              }
+            }
+          }
+          if (x4Y.range) {
+            M1F.low = x4Y.range[0];
+            M1F.high = x4Y.range[+"1"];
+          }
+          if (t_E.min) {
+            M1F.min = t_E.min;
+          }
+          if (t_E.max) {
+            M1F.max = t_E.max;
+          }
+          if (t_E.parameters && t_E.parameters.studyOverZonesEnabled) {
+            x4Y.noDraw = !!1;
+          }
+        }
+      }
+    }
+    return x4Y;
+  };
+  e5l.Studies.doPostDrawYAxis = function (G5T, z08) {
+    U6BfN.s8u();
+    var F3d, p2p, s2I, c7C, r7K;
+    for (var h5j in G5T.layout.studies) {
+      F3d = G5T.layout.studies[h5j];
+      p2p = G5T.panels[F3d.panel];
+      if (!p2p || p2p.hidden) continue;
+      s2I = F3d.getYAxis(G5T);
+      if (s2I != z08) continue;
+      c7C = F3d.study;
+      if (z08.name == F3d.name) {
+        if (c7C.yaxis) {
+          c7C.yaxis(G5T, F3d);
+        }
+        if (c7C.yAxisFN) {
+          c7C.yAxisFN(G5T, F3d);
+        }
+      }
+      e5l.Studies.drawZones(G5T, F3d);
+      if (!F3d.error) {
+        r7K = c7C.centerline;
+        if (
+          r7K ||
+          r7K === 0 ||
+          (r7K !== null &&
+            z08.highValue - 0.000000000001 > 0 &&
+            z08.lowValue + +"0.000000000001" < +"0")
+        ) {
+          e5l.Studies.drawHorizontal(G5T, F3d, null, r7K || 0, z08);
+        }
+      }
+    }
+  };
+  e5l.Studies.displaySeriesAsLine = function (P8$, b1T, b_v) {
+    U6BfN.s8u();
+    var Z_r;
+    if (!b_v.length) {
+      return;
+    }
+    Z_r = P8$.panels[b1T.panel];
+    if (!Z_r || Z_r.hidden) {
+      return;
+    }
+    for (var Q35 in b1T.outputMap) {
+      e5l.Studies.displayIndividualSeriesAsLine(P8$, b1T, Z_r, Q35, b_v);
+    }
+  };
+  e5l.Studies.displaySeriesAsHistogram = function (c4r, g_t, M7D) {
+    var s1P, Y5E, Y0R, j_Y, J$7, Y83, N1W, b9k, u9y, l8A, N$4;
+    if (!M7D.length) {
+      return;
+    }
+    s1P = c4r.panels[g_t.panel];
+    if (!s1P) {
+      return;
+    }
+    if (s1P.hidden) {
+      return;
+    }
+    Y5E = [];
+    for (var g3D in g_t.outputMap) {
+      Y0R = g_t.outputs[g_t.outputMap[g3D]];
+      if (!Y0R) continue;
+      j_Y = 0.3;
+      if (typeof Y0R == "object") {
+        j_Y = Y0R.opacity;
+        Y0R = Y0R.color;
+      }
+      J$7 = {
+        field: g3D,
+        fill_color_up: Y0R,
+        border_color_up: Y0R,
+        fill_color_down: Y0R,
+        border_color_down: Y0R,
+      };
+      if (g_t.underlay) {
+        J$7.opacity_up = J$7.opacity_down = j_Y || 0.3;
+      }
+      Y5E.push(J$7);
+    }
+    Y83 = g_t.getYAxis(c4r);
+    N1W = g_t.inputs;
+    b9k = N1W.WidthFactor;
+    if (g_t.study && g_t.study.parameters) {
+      u9y = "un";
+      u9y += "defi";
+      u9y += "ned";
+      l8A = g_t.study.parameters;
+      if (typeof l8A.widthFactor !== u9y) {
+        b9k = l8A.widthFactor;
+      }
+    }
+    N$4 = {
+      name: g_t.name,
+      type: N1W.HistogramType ? N1W.HistogramType : "overlaid",
+      panel: g_t.panel,
+      yAxis: Y83,
+      widthFactor: b9k || 0.5,
+      bindToYAxis: !!{},
+      highlight: g_t.highlight,
+    };
+    c4r.drawHistogram(N$4, Y5E);
+  };
+  e5l.Studies.displayIndividualSeriesAsLine = function (
+    c_G,
+    G7G,
+    X2s,
+    O8$,
+    u4f,
+  ) {
+    var M9l,
+      D$i,
+      G$J,
+      u1o,
+      G5S,
+      u1W,
+      J7Q,
+      S3N,
+      N_Q,
+      J6E,
+      n07,
+      B6f,
+      E1u,
+      m_8,
+      b0G,
+      T$_;
+    M9l = "tra";
+    M9l += "nsparent";
+    if (!X2s.height) {
+      X2s.height = X2s.bottom - X2s.top;
+    }
+    D$i = G7G.getContext(c_G);
+    G$J = G7G.outputs[G7G.outputMap[O8$]];
+    if (!G$J) {
+      return;
+    }
+    D$i.save();
+    if (typeof G$J === "string") {
+      G$J = { color: G$J, width: 1 };
+    }
+    D$i.lineWidth = G$J.width || 1;
+    u1o = G$J.color;
+    if (u1o == "auto") {
+      u1o = c_G.defaultColor;
+    }
+    D$i.strokeStyle = u1o;
+    G5S = G$J.pattern;
+    D$i.setLineDash(e5l.borderPatternToArray(D$i.lineWidth, G5S));
+    D$i.lineDashOffset = 0;
+    u1W = 0;
+    J7Q = G7G.study;
+    S3N = G7G.getYAxis(c_G);
+    u1W = c_G.decimalPlacesFromPriceTick(
+      S3N.priceTick,
+      S3N.idealTickSizePixels,
+    );
+    if (G7G.overlay || G7G.underlay) {
+      u1W = null;
+    }
+    if (S3N.decimalPlaces || S3N.decimalPlaces === 0) {
+      u1W = S3N.decimalPlaces;
+    }
+    N_Q = null;
+    if (G7G.parameters) {
+      N_Q = G7G.parameters.label;
+    }
+    J6E = J7Q.parameters;
+    if (!J6E) {
+      J6E = {};
+    }
+    n07 = J6E.plotType == "step";
+    if (G7G.series) {
+      for (var V2Y in G7G.series) {
+        B6f = G7G.series[V2Y].parameters.type;
+        if (B6f) {
+          U6BfN.w6J(75);
+          n07 = U6BfN.Y51("step", B6f);
+        }
+      }
+    }
+    if (J6E.noLabels) {
+      N_Q = !"1";
+    }
+    if (!G7G.noSlopes && G7G.noSlopes !== !{}) {
+      G7G.noSlopes = J6E.noSlopes;
+    }
+    if (!G7G.extendToEnd && G7G.extendToEnd !== !!"") {
+      G7G.extendToEnd = J6E.extendToEnd;
+    }
+    E1u = N_Q || (c_G.preferences.labels && N_Q !== ![]);
+    m_8 = G7G.gaplines;
+    if (m_8 === !{}) {
+      m_8 = M9l;
+    }
+    b0G = G7G.inputs.Symbol;
+    T$_ = m_8 ? c_G.getGapColorFunction(b0G, O8$, G$J, m_8) : null;
+    c_G.plotDataSegmentAsLine(
+      O8$,
+      X2s,
+      {
+        yAxis: S3N,
+        skipTransform: c_G.panels[G7G.panel].name != G7G.chart.name,
+        label: E1u,
+        labelDecimalPlaces: u1W,
+        noSlopes: G7G.noSlopes,
+        step: n07,
+        alignStepToSide: G7G.alignStepToSide,
+        extendToEndOfLastBar: G7G.extendToEndOfLastBar,
+        width: G7G.lineWidth,
+        extendToEndOfDataSet: G7G.extendToEnd,
+        gapDisplayStyle: m_8,
+        highlight: G7G.highlight,
+      },
+      T$_,
+    );
+    if (J7Q.appendDisplaySeriesAsLine) {
+      J7Q.appendDisplaySeriesAsLine(c_G, G7G, u4f, O8$, X2s);
+    }
+    D$i.restore();
+  };
+  e5l.Studies.drawHorizontal = function (d1X, J3O, H7h, G8X, B0j, m_l) {
+    var F7H, W3M, V6i;
+    U6BfN.a3_();
+    F7H = d1X.panels[J3O.panel];
+    W3M = d1X.getBackgroundCanvas().context;
+    if (!F7H) {
+      return;
+    }
+    if (!m_l) {
+      m_l = B0j.textStyle;
+    }
+    V6i = d1X.pixelFromPrice(G8X, F7H, B0j);
+    if (V6i > B0j.top && V6i < B0j.bottom) {
+      d1X.plotLine(F7H.left, F7H.right, V6i, V6i, m_l, "segment", W3M, !!0, {
+        opacity: m_l && m_l.opacity ? m_l.opacity : 0.5,
+      });
+    }
+  };
+  e5l.Studies.displayHistogramWithSeries = function (V2X, G8S, h9Z) {
+    var c_j, y25;
+    c_j = V2X.panels[G8S.panel];
+    y25 = 0.5;
+    U6BfN.s8u();
+    if (G8S.underlay) {
+      U6BfN.w6J(3);
+      y25 = U6BfN.Y51("0.3", 1);
+    }
+    e5l.Studies.createHistogram(V2X, G8S, h9Z, !!0, y25);
+    e5l.Studies.displaySeriesAsLine(V2X, G8S, h9Z);
+  };
+  e5l.Studies.drawZones = function (m3U, T4f, a9C) {
+    var S1_ = U6BfN;
+    var R1E,
+      r8T,
+      H7V,
+      O8E,
+      T66,
+      q7p,
+      O5p,
+      J0A,
+      p1$,
+      G1Z,
+      t8u,
+      t14,
+      h9r,
+      t30,
+      W14,
+      k56,
+      a0C,
+      E1f,
+      y8s,
+      H1B,
+      a7N,
+      J4H,
+      g9g,
+      D33,
+      P9V,
+      e2H,
+      t5D,
+      S5k,
+      K8F,
+      n7D,
+      k9l,
+      t3Z,
+      y6Q,
+      V7q,
+      l96,
+      h4U,
+      z_r,
+      e7b;
+    R1E = "le";
+    R1E += "f";
+    R1E += "t";
+    r8T = "a";
+    r8T += "u";
+    r8T += "t";
+    r8T += "o";
+    if (!T4f.parameters || !T4f.parameters.studyOverZonesEnabled) {
+      return;
+    }
+    H7V = parseFloat(T4f.parameters.studyOverSoldValue);
+    O8E = parseFloat(T4f.parameters.studyOverBoughtValue);
+    T66 = T4f.parameters.studyOverSoldColor;
+    q7p = T4f.parameters.studyOverBoughtColor;
+    O5p = T4f.zoneOutput;
+    if (!O5p) {
+      O5p = "Result";
+    }
+    J0A = e5l.Studies.determineColor(T4f.outputs[O5p]);
+    if (!J0A || J0A == r8T || e5l.isTransparent(J0A)) {
+      J0A = m3U.defaultColor;
+    }
+    if (!T66) {
+      T66 = J0A;
+    }
+    if (!T66 || T66 == "auto" || e5l.isTransparent(T66)) {
+      T66 = m3U.defaultColor;
+    }
+    if (!q7p) {
+      q7p = J0A;
+    }
+    if (!q7p || q7p == "auto" || e5l.isTransparent(q7p)) {
+      q7p = m3U.defaultColor;
+    }
+    p1$ = m3U.panels[T4f.panel];
+    G1Z = T4f.getYAxis(m3U);
+    t8u = G1Z.displayBorder;
+    if (m3U.axisBorders === !!"") {
+      t8u = ![];
+    }
+    if (m3U.axisBorders === !!{}) {
+      t8u = !!{};
+    }
+    if (G1Z.width === 0) {
+      t8u = !{};
+    }
+    t14 = m3U.getYAxisCurrentPosition(G1Z, p1$);
+    S1_.C2v(75);
+    h9r = S1_.Y51(R1E, t14);
+    t30 = G1Z.justifyRight;
+    if (!t30 && t30 !== !"1") {
+      if (
+        m3U.chart.yAxis.justifyRight ||
+        m3U.chart.yAxis.justifyRight === !!0
+      ) {
+        t30 = m3U.chart.yAxis.justifyRight;
+      } else {
+        t30 = h9r;
+      }
+    }
+    W14 = Math.round(G1Z.left + (h9r ? G1Z.width : "0" - 0)) + 0.5;
+    k56 = t8u ? 3 : 0;
+    if (h9r) {
+      k56 = t8u ? -3 : 0;
+    }
+    a0C = m3U.getBackgroundCanvas().context;
+    E1f = a0C.fillStyle;
+    a0C.globalAlpha = 0.2;
+    m3U.startClip(p1$.name, !!{});
+    a0C.beginPath();
+    y8s = Math.round(m3U.pixelFromPrice(O8E, p1$, G1Z)) - 0.5;
+    a0C.strokeStyle = q7p;
+    a0C.moveTo(p1$.left, y8s);
+    a0C.lineTo(p1$.right, y8s);
+    a0C.stroke();
+    a0C.closePath();
+    a0C.beginPath();
+    H1B = Math.round(m3U.pixelFromPrice(H7V, p1$, G1Z)) + 0.5;
+    a0C.strokeStyle = T66;
+    a0C.moveTo(p1$.left, H1B);
+    a0C.lineTo(p1$.right, H1B);
+    a0C.stroke();
+    a0C.closePath();
+    a7N = new e5l.Plotter();
+    a7N.newSeries("border", "stroke", m3U.canvasStyle("stx_grid_border"));
+    if (t8u) {
+      J4H = "b";
+      J4H += "order";
+      g9g = h9r ? W14 + k56 : W14 - 0.5;
+      D33 = h9r ? W14 + 0.5 : W14 + k56;
+      a7N.moveTo("border", g9g, y8s);
+      a7N.lineTo("border", D33, y8s);
+      a7N.moveTo(J4H, g9g, H1B);
+      a7N.lineTo("border", D33, H1B);
+    }
+    a0C.fillStyle = E1f;
+    P9V = {
+      skipTransform: m3U.panels[T4f.panel].name != T4f.chart.name,
+      panelName: T4f.panel,
+      band:
+        O5p +
+        ((6980, 511.91) == (309.56, 3535) ? (!{}, 183.57) : " ") +
+        T4f.name,
+      yAxis: G1Z,
+      opacity: 0.3,
+    };
+    if (!T4f.highlight && m3U.highlightedDraggable) {
+      P9V.opacity *= 0.3;
+    }
+    e5l.preparePeakValleyFill(
+      m3U,
+      e5l.extend(P9V, {
+        threshold: O8E,
+        direction: G1Z.flipped ? -1 : 1,
+        color: q7p,
+      }),
+    );
+    e5l.preparePeakValleyFill(
+      m3U,
+      e5l.extend(P9V, {
+        threshold: H7V,
+        direction: G1Z.flipped ? 1 : -1,
+        color: T66,
+      }),
+    );
+    a0C.globalAlpha = 1;
+    if (!T4f.study || !T4f.study.yaxis) {
+      if (t8u) {
+        e2H = "b";
+        e2H += "ord";
+        e2H += "e";
+        e2H += "r";
+        t5D = Math.round(G1Z.bottom) + 0.5;
+        a7N.moveTo(e2H, W14, G1Z.top);
+        a7N.lineTo("border", W14, t5D);
+        a7N.draw(a0C, "border");
+      }
+      S5k = T4f.chart.dynamicYAxis;
+      K8F = 3;
+      [O8E, H7V].forEach(function (J$0) {
+        var x_v, r_H;
+        S1_.C2v(0);
+        x_v = S1_.B$D(J$0, (24.98, "7820" ^ 0) >= 687.1 ? "\xA0" : 5.57e3);
+        r_H =
+          S5k &&
+          Math.max(
+            G1Z._width,
+            T4f.chart.context.measureText(x_v).width + Math.abs(k56) + K8F,
+          );
+        if (S5k && r_H > (G1Z._dynamicWidth || G1Z._width)) {
+          G1Z._dynamicWidth = r_H;
+          m3U.calculateYAxisPositions();
+          m3U.endClip();
+          throw new Error("reboot draw");
+        } else if (!S5k && G1Z._dynamicWidth) {
+          m3U.resetDynamicYAxis();
+          m3U.endClip();
+          throw new Error("reboot draw");
+        }
+      });
+      k9l = G1Z.getTitleEnabled && G1Z.getTitleEnabled();
+      if (G1Z.width !== 0) {
+        t3Z = "stx_y";
+        t3Z += "axis";
+        y6Q = "le";
+        y6Q += "f";
+        y6Q += "t";
+        V7q = "r";
+        V7q += "i";
+        V7q += "gh";
+        V7q += "t";
+        l96 = "st";
+        l96 += "x";
+        l96 += "_yaxis";
+        m3U.canvasFont(l96, a0C);
+        m3U.canvasColor("stx_yaxis", a0C);
+        a0C.textAlign = t30 ? V7q : y6Q;
+        S1_.C2v(7);
+        var X$Q = S1_.B$D(19, 17);
+        h4U = m3U.getCanvasFontSize(t3Z) / X$Q;
+        if (k9l) {
+          S1_.C2v(3);
+          G1Z.fontHeight = S1_.Y51(h4U, 2);
+        }
+        if (h9r) {
+          S1_.C2v(134);
+          var I1b = S1_.B$D(347, 0, 7, 5, 10);
+          n7D = G1Z.left + I1b;
+          if (t30) {
+            S1_.w6J(104);
+            var A61 = S1_.B$D(100, 11, 9);
+            n7D = G1Z.left + G1Z.width + k56 - ("3" | A61);
+          }
+        } else {
+          S1_.w6J(135);
+          var Z9Z = S1_.Y51(9, 339, 9, 19, 1);
+          n7D = G1Z.left + k56 + Z9Z;
+          if (t30) {
+            n7D = G1Z.left + G1Z.width;
+          }
+        }
+        if (y8s > G1Z.top + h4U) {
+          a0C.fillStyle = q7p;
+          a0C.fillText(O8E, n7D, y8s);
+        }
+        if (H1B < G1Z.bottom - h4U) {
+          a0C.fillStyle = T66;
+          a0C.fillText(H7V, n7D, H1B);
+        }
+        a0C.fillStyle = E1f;
+      }
+      if (k9l) {
+        z_r = "f";
+        z_r += "i";
+        z_r += "ll";
+        e7b = G1Z.textStyle || "stx_yaxis";
+        a7N.newSeries("text", z_r, m3U.colorOrStyle(e7b));
+        m3U.drawTitleText(p1$, G1Z, a7N, n7D);
+        a7N.draw(m3U.getBackgroundCanvas(m3U.chart).context, "text");
+      }
+    }
+    m3U.endClip();
+    a0C.globalAlpha = 1;
+    if (G1Z.name == T4f.name) {
+      G1Z.yAxisPlotter = new e5l.Plotter();
+    }
+  };
+  e5l.Studies.createHistogram = function (M$s, A0i, m4d, m0B, y7S) {
+    var U5Y = U6BfN;
+    var c28,
+      q7r,
+      J8q,
+      n3S,
+      l9r,
+      Z$o,
+      Z09,
+      d_F,
+      H$h,
+      X4A,
+      x1N,
+      k5A,
+      h1l,
+      M8x,
+      p1Z,
+      X2z,
+      d65,
+      U1u,
+      C_q,
+      P0Q,
+      m3M,
+      a8E,
+      q2M,
+      o6O,
+      O8M,
+      h3H;
+    c28 = "stx";
+    c28 += "_";
+    c28 += "his";
+    c28 += "togram";
+    q7r = "_";
+    q7r += "hi";
+    q7r += "s";
+    q7r += "t";
+    J8q = M$s.panels[A0i.panel];
+    n3S = A0i.getContext(M$s);
+    l9r = A0i.getYAxis(M$s);
+    M$s.startClip(J8q.name);
+    U5Y.C2v(7);
+    var F4O = U5Y.B$D(11, 9);
+    Z$o = M$s.layout.candleWidth - F4O;
+    if (Z$o < 2) {
+      Z$o = 1;
+    }
+    Z09 = M$s.pixelFromPrice(0, J8q, l9r);
+    if (l9r.min > ("0" | 0)) {
+      Z09 = M$s.pixelFromPrice(l9r.min, J8q, l9r);
+    }
+    if (m0B) {
+      Z09 = Math.floor(J8q.top + J8q.height / 2);
+    }
+    d_F = A0i.name + q7r;
+    M$s.canvasColor(c28);
+    H$h = n3S.fillStyle;
+    if (y7S || y7S === 0) {
+      n3S.globalAlpha = y7S;
+    }
+    if (!A0i.highlight && M$s.highlightedDraggable) {
+      n3S.globalAlpha *= 0.3;
+    }
+    X4A = null;
+    x1N = null;
+    k5A = A0i.outputs;
+    for (var p67 = 0; p67 < m4d.length; p67++) {
+      h1l = "Negat";
+      h1l += "ive Bar";
+      M8x = "Increas";
+      M8x += "ing ";
+      M8x += "Bar";
+      p1Z = "s";
+      p1Z += "tret";
+      p1Z += "ch";
+      X2z = 0;
+      d65 = m4d[p67];
+      if (!d65) continue;
+      if (M$s.cleanupGaps === p1Z) {
+        while (m4d[p67 + +"1"]) {
+          U5Y.C2v(0);
+          U1u = m4d[U5Y.B$D(p67, 1)][d_F];
+          if (U1u || U1u === 0 || m4d[p67 + 1].futureTick) break;
+          X2z++;
+          p67++;
+        }
+      }
+      if (d65.candleWidth) {
+        Z$o = Math.floor(Math.max(+"1", d65.candleWidth - 2));
+      }
+      C_q = Math.floor(M$s.pixelFromBar(p67 - X2z, J8q.chart) - Z$o / 2);
+      P0Q = Math.floor(Z$o + X2z * M$s.layout.candleWidth);
+      if (X4A === null) {
+        U5Y.w6J(136);
+        var y95 = U5Y.Y51(13, 0, 81, 11, 7);
+        m3M = M$s.tickFromPixel(C_q, J8q.chart) - y95;
+        if (m3M < 0) {
+          X4A = x1N;
+        } else {
+          X4A = M$s.pixelFromPrice(M$s.chart.dataSet[m3M][d_F], J8q, l9r) - Z09;
+        }
+      } else {
+        X4A = x1N;
+      }
+      x1N = M$s.pixelFromPrice(d65[d_F], J8q, l9r) - Z09;
+      a8E = e5l.Studies.determineColor(k5A["Decreasing Bar"]);
+      q2M = e5l.Studies.determineColor(k5A[M8x]);
+      o6O = e5l.Studies.determineColor(k5A["Positive Bar"]);
+      O8M = e5l.Studies.determineColor(k5A[h1l]);
+      h3H = l9r.flipped;
+      n3S.fillStyle = H$h;
+      if (a8E && (h3H ? x1N < X4A : x1N > X4A)) {
+        n3S.fillStyle = a8E;
+      } else if (q2M && (h3H ? x1N > X4A : x1N < X4A)) {
+        n3S.fillStyle = q2M;
+      } else if (o6O && (h3H ? x1N > 0 : x1N < 0)) {
+        n3S.fillStyle = o6O;
+      } else if (O8M && (h3H ? x1N < 0 : x1N > 0)) {
+        n3S.fillStyle = O8M;
+      }
+      n3S.fillRect(C_q, Z09, P0Q, Math.floor(x1N));
+    }
+    n3S.globalAlpha = +"1";
+    M$s.endClip();
+  };
+  e5l.Studies.prettify = {
+    Close:
+      ("395" - 0, +"7030") != (+"4560", 4984)
+        ? (1060, 2159) >= 4920
+          ? (7.71e3, 0x24f1)
+          : "C"
+        : !{},
+    Open: "O",
+    High:
+      870.42 > (720, 2150)
+        ? (605.58, !![])
+        : (9867, 6840) != ("1122" ^ 0)
+          ? (5885, "488.88" * 1) == (5180, 1325)
+            ? 4.68e3
+            : "H"
+          : "0x17a9" << 64,
+    Low:
+      4920 !== 9810
+        ? ("6530" * 1, "45.46" - 0) < 6370
+          ? "L"
+          : (+"0x17cd", !![])
+        : (!!{}, 2.03e3),
+    simple: "ma",
+    exponential: w7s,
+    triangular: "tma",
+    VIDYA: L6$,
+    weighted: m7K,
+    "welles wilder": "smma",
+    true: 3177 == (9960, 817.84) ? ("T", "4.08e+3" * 1) : "y",
+    false: "n",
+  };
+  e5l.Studies.prettyRE = /^.{0,50}\((.{0,50})\).{0,50}$/;
+  e5l.Studies.prettyDisplay = function (T5L) {
+    var P3V, N1F;
+    P3V = e5l.Studies.prettyRE.exec(T5L);
+    if (!P3V) {
+      return T5L;
+    }
+    N1F = P3V[+"1"];
+    if (N1F) {
+      for (var Y_G in e5l.Studies.prettify) {
+        N1F = N1F.replace(Y_G, e5l.Studies.prettify[Y_G]);
+      }
+      T5L = T5L.replace(P3V[+"1"], N1F);
+    }
+    return T5L;
+  };
+  e5l.Studies.getFieldInputs = function (U7n) {
+    var w5C, Q1f;
+    w5C = [];
+    Q1f = U7n.study.inputs;
+    for (var S63 in Q1f) {
+      if (["field", "series"].includes(Q1f[S63])) {
+        w5C.push(S63);
+      }
+    }
+    return w5C;
+  };
+  e5l.Studies.initializeFN = function (Y2X, A5H, e4a, Q_t, w0V, v4w, A6x) {
+    var J$n, X_$, L2P, p3D, W03, s79, m_5, G5B, h8t, U2T, A$4, Q8A, k1a, n_g;
+    if (!e4a) {
+      e4a = {};
+    }
+    if (!w0V) {
+      w0V = {};
+    }
+    if (!e4a.id) {
+      e4a.id = e5l.Studies.generateID(
+        Y2X,
+        A5H,
+        e4a,
+        w0V.replaceID,
+        w0V.display,
+      );
+    }
+    if (!e4a.display) {
+      e4a.display = e4a.id;
+    }
+    J$n = new e5l.Studies.StudyDescriptor(e4a.id, A5H, e4a.id, e4a, Q_t, w0V);
+    if (e4a.Period) {
+      J$n.days = Math.max(1, parseInt(J$n.inputs.Period, 10));
+    }
+    if (A6x) {
+      if (!A6x.inputs) {
+        A6x.inputs = J$n.study.inputs;
+      }
+      if (!A6x.outputs) {
+        A6x.outputs = J$n.study.outputs;
+      }
+      J$n.study = A6x;
+    } else {
+      A6x = J$n.study;
+    }
+    if (A6x.display) {
+      e4a.display = A6x.display;
+    }
+    if (typeof w0V.panelName == "string") {
+      v4w = w0V.panelName;
+    }
+    if (v4w == e4a.id || (v4w && !Y2X.panelExists(v4w))) {
+      J$n.underlay = J$n.overlay = ![];
+    }
+    if (v4w == "Own panel" || v4w == "New panel") {
+      v4w = null;
+    }
+    X_$ = J$n.overlay || e4a.Overlay || (J$n.overlay !== !{} && A6x.overlay);
+    L2P =
+      J$n.underlay || e4a.Underlay || (J$n.underlay !== !!"" && A6x.underlay);
+    if (X_$ && w0V.underlayEnabled) {
+      L2P = !!1;
+    }
+    if (L2P) {
+      J$n.underlay = !!"1";
+    }
+    if (!L2P && Y2X.chart.panel && v4w == Y2X.chart.panel.name) {
+      X_$ = !!"1";
+    }
+    if (X_$) {
+      J$n.overlay = !"";
+    }
+    p3D = Y2X.preferences.dragging;
+    if (p3D === !!"1" || (p3D && p3D.study)) {
+      J$n.overlay = !"";
+    }
+    if (v4w) {
+      w0V.panelName = v4w;
+    } else if (!X_$ && !L2P) {
+      v4w = e4a.id;
+    }
+    if (w0V.calculateOnly) {
+      if (X_$ || L2P) {
+        if (Y2X.panels[w0V.panelName]) {
+          J$n.panel = w0V.panelName;
+        } else {
+          J$n.panel =
+            e5l.Studies.getPanelFromFieldName(Y2X, J$n) || w0V.chartName;
+        }
+      }
+      return J$n;
+    }
+    J$n.panel = "";
+    if (v4w) {
+      W03 = "def";
+      W03 += "a";
+      W03 += "ult";
+      s79 = "no";
+      s79 += "n";
+      s79 += "e";
+      m_5 = "l";
+      m_5 += "e";
+      m_5 += "f";
+      m_5 += "t";
+      G5B = e5l.Studies.smartMovePanel(
+        Y2X,
+        J$n.inputs,
+        v4w,
+        w0V.replaceID,
+        w0V.panelName == "New panel",
+      );
+      if (G5B) {
+        J$n.panel = G5B.name;
+      }
+      if (
+        w0V.yaxisDisplayValue &&
+        ![m_5, "right", s79, "shared", W03].includes(w0V.yaxisDisplayValue) &&
+        !Y2X.getYAxisByName(G5B, w0V.yaxisDisplayValue)
+      ) {
+        w0V.yaxisDisplayValue = "default";
+      }
+    } else if (X_$ || L2P) {
+      J$n.panel = e5l.Studies.getPanelFromFieldName(Y2X, J$n) || w0V.chartName;
+    }
+    if (!J$n.panel) {
+      h8t = A6x.panelHeight || null;
+      U2T = w0V.yAxis || A6x.yAxis || {};
+      U2T.name = J$n.inputs.id;
+      J$n.panel = J$n.inputs.id;
+      Y2X.createPanel(
+        J$n.inputs.display,
+        J$n.panel,
+        h8t,
+        w0V.chartName,
+        new e5l.ChartEngine.YAxis(U2T),
+      );
+    }
+    if (J$n.parameters && J$n.parameters.panelName) {
+      J$n.parameters.panelName = J$n.panel;
+    }
+    A$4 = Y2X.panels[J$n.panel];
+    Q8A = A6x ? e5l.clone(A6x.yAxis) : null;
+    k1a = w0V.yAxis || Q8A;
+    if ((k1a || {}).ground) {
+      k1a["initialMargin" + (k1a.flipped ? "Top" : "Bottom")] = 0;
+    }
+    n_g = e5l.Studies.smartCreateYAxis(
+      Y2X,
+      A$4,
+      J$n.inputs.id,
+      w0V.yaxisDisplayValue,
+      k1a,
+      e5l.Studies.getFieldInputs(J$n)
+        .map(function (X56) {
+          return J$n.inputs[X56];
+        })
+        .filter(function (r0N) {
+          return !["field", "series"].includes(r0N);
+        }),
+    );
+    if (n_g) {
+      if (n_g.name == w0V.replaceID) {
+        n_g.name = J$n.inputs.id;
+      }
+      if (!w0V.replaceID && n_g.name === J$n.name) {
+        Y2X.calculateYAxisMargins(n_g);
+      }
+      n_g.allowSharing = !w0V.yAxis && !A6x.yAxis;
+      n_g.width =
+        n_g.position == "none" ? 0 : e5l.ChartEngine.YAxis.prototype.width;
+      if (
+        w0V.yaxisDisplayValue == "shared" ||
+        w0V.yaxisDisplayValue == "default"
+      ) {
+        delete w0V.yaxisDisplayValue;
+      } else {
+        if (Q8A) {
+          e5l.ensureDefaults(n_g, Q8A);
+        }
+        if (n_g.name == J$n.name) {
+          if (
+            (!(Q8A || {}).textStyle && !w0V.yaxisDisplayColor) ||
+            w0V.yaxisDisplayColor == "auto"
+          ) {
+            delete n_g.textStyle;
+          } else if (w0V.yaxisDisplayColor) {
+            n_g.textStyle = e5l.colorToHex(w0V.yaxisDisplayColor);
+          }
+          if ((Q8A || {}).justifyRight === undefined) {
+            n_g.justifyRight = null;
+          }
+          if (w0V.flippedEnabled !== undefined) {
+            n_g.flipped = w0V.flippedEnabled;
+          }
+        }
+      }
+      if (n_g != A$4.yAxis) {
+        n_g.displayGridLines = !"1";
+      } else if (n_g != Y2X.chart.yAxis) {
+        n_g.displayGridLines = Y2X.displayGridLinesInStudies;
+      }
+    }
+    Y2X.resetDynamicYAxis();
+    Y2X.calculateYAxisPositions();
+    return J$n;
+  };
+  e5l.Studies.smartMovePanel = function (I3s, b0w, D50, N8a, q2_) {
+    var v9U, y6z, h5e, l17;
+    y6z = b0w.id;
+    if (N8a) {
+      v9U = I3s.layout.studies[N8a];
+    }
+    if (v9U) {
+      h5e = I3s.panels[v9U.panel];
+      if (h5e) {
+        if (h5e.yAxis.name == N8a) {
+          if (
+            (q2_ || (D50 != N8a && D50 != y6z)) &&
+            !I3s.checkForEmptyPanel(h5e.name, !![], v9U)
+          ) {
+            I3s.electNewPanelOwner(h5e);
+            l17 = v9U.getYAxis(I3s);
+            if (l17.name == N8a) {
+              I3s.electNewYAxisOwner(l17);
+            }
+          } else if (D50 == N8a || !I3s.panels[D50]) {
+            if (y6z != h5e.name) {
+              I3s.modifyPanel(h5e, { name: y6z, display: b0w.display });
+            }
+            D50 = y6z;
+          }
+        }
+      }
+    }
+    return I3s.panels[D50];
+  };
+  e5l.Studies.smartCreateYAxis = function (t0O, V2j, K74, W3W, C4E, z$b) {
+    var E_q, J7V, n70, L6M, T92, m7c, r7c;
+    E_q = "s";
+    E_q += "har";
+    E_q += "e";
+    E_q += "d";
+    J7V = "n";
+    J7V += "o";
+    J7V += "n";
+    J7V += "e";
+    n70 = C4E || {};
+    L6M = t0O.getYAxisByName(V2j, K74);
+    if (!W3W && C4E) {
+      W3W = C4E.position;
+    }
+    if (
+      ["left", "right", J7V].indexOf(W3W) > -1 ||
+      (W3W === undefined && C4E)
+    ) {
+      if (!L6M || L6M.isShared(t0O)) {
+        if (C4E instanceof e5l.ChartEngine.YAxis) {
+          K74 = C4E.name;
+        }
+        e5l.extend(n70, { name: K74, position: W3W });
+        if (
+          !L6M &&
+          !t0O.currentlyImporting &&
+          V2j != V2j.chart.panel &&
+          !V2j.yAxis.studies.length &&
+          !V2j.yAxis.renderers.length
+        ) {
+          L6M = V2j.yAxis;
+          e5l.extend(L6M, n70);
+        } else {
+          T92 = L6M == V2j.yAxis;
+          if (L6M) {
+            L6M.name = t0O.electNewYAxisOwner(L6M);
+          }
+          m7c = L6M || V2j.yAxis;
+          if (m7c.lockScale) {
+            e5l.extend(n70, {
+              zoom: m7c.zoom,
+              scroll: m7c.scroll,
+              lockScale: !0,
+            });
+          }
+          L6M = t0O.addYAxis(V2j, new e5l.ChartEngine.YAxis(n70));
+          if (T92) {
+            V2j.yAxis = L6M;
+          }
+        }
+      } else {
+        if (C4E) {
+          e5l.extend(L6M, C4E);
+        }
+        L6M.position = W3W;
+        L6M.name = K74;
+      }
+      return L6M;
+    }
+    if (W3W && W3W !== "default" && W3W !== E_q && W3W !== V2j.yAxis.name) {
+      r7c = t0O.getYAxisByName(V2j, W3W);
+      if (r7c && L6M == V2j.yAxis && !L6M.isShared(t0O)) {
+        V2j.yAxis = r7c;
+      }
+      if (L6M && L6M.isShared(t0O)) {
+        L6M.name = t0O.electNewYAxisOwner(L6M);
+      } else {
+        if (L6M !== V2j.yAxis) {
+          t0O.deleteYAxisIfUnused(V2j, L6M);
+        }
+      }
+      return r7c;
+    }
+    if (!W3W && z$b && z$b.length) {
+      t0O.deleteYAxisIfUnused(V2j, L6M);
+      for (var N$O of z$b) {
+        L6M = t0O.getYAxisByField(V2j, N$O);
+        if (L6M) {
+          return L6M;
+        }
+      }
+      return null;
+    }
+    if (
+      W3W == "shared" ||
+      W3W == V2j.yAxis.name ||
+      (V2j.yAxis.allowSharing && (!L6M || L6M.allowSharing))
+    ) {
+      if (L6M) {
+        if (L6M !== V2j.yAxis && L6M.isShared(t0O)) {
+          L6M.name = t0O.electNewYAxisOwner(L6M);
+        } else {
+          delete L6M.position;
+          t0O.deleteYAxisIfUnused(V2j, L6M);
+        }
+      }
+      t0O.resizeChart();
+      return V2j.yAxis;
+    }
+    e5l.extend(n70, { name: K74 });
+    if (L6M) {
+      L6M.name = t0O.electNewYAxisOwner(L6M);
+      if (!L6M.name && L6M !== V2j.yAxis) {
+        t0O.deleteYAxisIfUnused(V2j, L6M);
+        return null;
+      }
+    }
+    if (!L6M || L6M.name) {
+      L6M = t0O.addYAxis(V2j, new e5l.ChartEngine.YAxis(n70));
+    } else {
+      e5l.extend(L6M, n70);
+      delete L6M.position;
+    }
+    return L6M;
+  };
+  e5l.Studies.calculateVolume = function (E$4, g$A) {
+    U6BfN.s8u();
+    var z2f, k$c, w3i, u6t;
+    if (g$A.type == "vol undr") {
+      z2f = "layo";
+      z2f += "ut";
+      if (!E$4 || !E$4.chart.dataSet) {
+        return;
+      }
+      k$c = E$4.layout;
+      w3i = g$A.parameters.removeStudy;
+      u6t = k$c.volumeUnderlay;
+      k$c.volumeUnderlay = !w3i;
+      if (u6t != k$c.volumeUnderlay) {
+        E$4.changeOccurred(z2f);
+      }
+      if (w3i) {
+        e5l.Studies.removeStudy(E$4, g$A);
+      }
+    }
+    g$A.outputMap = {};
+    g$A.outputMap.Volume = "";
+  };
+  e5l.Studies.MA = function (B0i, M31, B6Q, N3x, c2I, a88, N$F, J0F) {
+    var G9L = U6BfN;
+    var V4f;
+    G9L.w6J(137);
+    var l6E = G9L.Y51(13, 1009, 9053, 19, 1009);
+    G9L.w6J(0);
+    var Z4h = G9L.B$D(306, 2144);
+    G9L.w6J(10);
+    var J8p = G9L.Y51(27360, 29070);
+    G9L.w6J(121);
+    G9L.s8u();
+    var L0S = G9L.B$D(769, 1, 4611);
+    G9L.w6J(0);
+    var c6m = G9L.Y51(2833, 7);
+    V4f = new e5l.Studies.StudyDescriptor(
+      c2I +
+        (+"6900" < (822.17, l6E)
+          ? 513.81 != (Z4h, J8p)
+            ? " "
+            : (L0S, 694.31)
+          : c6m) +
+        N$F.name,
+      "ma",
+      N$F.panel,
+    );
+    V4f.chart = N$F.chart;
+    V4f.days = parseInt(M31, 10);
+    V4f.startFrom = N$F.startFrom;
+    if (J0F) {
+      V4f.subField = J0F;
+    }
+    V4f.inputs = {};
+    if (B0i) {
+      V4f.inputs.Type = B0i;
+    }
+    if (B6Q) {
+      V4f.inputs.Field = B6Q;
+    }
+    if (N3x) {
+      V4f.inputs.Offset = parseInt(N3x, 10);
+    }
+    e5l.Studies.calculateMovingAverage(a88, V4f);
+  };
+  e5l.Studies.movingAverage = {
+    conversions: {
+      ma: o1j,
+      sma: "simple",
+      ema: "exponential",
+      tma: "triangular",
+      vdma: "vidya",
+      wma: "weighted",
+      smma: "welles wilder",
+    },
+    translations: {
+      simple: "Simple",
+      exponential: Q2c,
+      triangular: Y6j,
+      vidya: "VIDYA",
+      weighted: t18,
+      "welles wilder": Q4N,
+    },
+    typeMap: {
+      ema: q4J,
+      exponential: "Exponential",
+      tma: "Triangular",
+      triangular: M4$,
+      vdma: "VIDYA",
+      vidya: "VIDYA",
+      wma: F_B,
+      weighted: "Weighted",
+      smma: "Exponential",
+      "welles wilder": "Exponential",
+    },
+  };
+  e5l.Studies.movingAverageHelper = function (A$Q, m$_) {
+    var a23;
+    if (m$_ == "options") {
+      a23 = {};
+      for (var N7R in e5l.Studies.movingAverage.translations) {
+        a23[N7R] = A$Q.translateIf(e5l.Studies.movingAverage.translations[N7R]);
+      }
+      return a23;
+    }
+    return e5l.Studies.movingAverage.conversions[m$_];
+  };
+  e5l.Studies.createVolumeChart = function (l76, t7b, T7m) {
+    var y2F = U6BfN;
+    var h5c,
+      M7h,
+      y6x,
+      z4v,
+      a7b,
+      Q6T,
+      c3q,
+      f0Q,
+      E4l,
+      M_z,
+      i3K,
+      d8J,
+      e5x,
+      i2B,
+      w_H,
+      d$K,
+      k3u,
+      z7e,
+      n$h,
+      T3K;
+    h5c = "V";
+    h5c += "o";
+    h5c += "lu";
+    h5c += "me";
+    M7h = "_";
+    M7h += "up";
+    y6x = "Vol";
+    y6x += "u";
+    y6x += "me";
+    z4v = "_";
+    z4v += "do";
+    z4v += "wn";
+    a7b = "_";
+    a7b += "u";
+    a7b += "p";
+    Q6T = "D";
+    Q6T += "own";
+    Q6T += " Volu";
+    Q6T += "me";
+    c3q = "U";
+    c3q += "p ";
+    c3q += "Volum";
+    c3q += "e";
+    f0Q = t7b.panel;
+    E4l = t7b.inputs;
+    M_z = t7b.underlay;
+    i3K = e5l.Studies.determineColor(t7b.outputs[c3q]);
+    d8J = e5l.Studies.determineColor(t7b.outputs[Q6T]);
+    y2F.s8u();
+    e5x = M_z ? "stx_volume_underlay" : "stx_volume";
+    y2F.C2v(0);
+    l76.setStyle(y2F.Y51(e5x, a7b), "color", i3K);
+    y2F.C2v(0);
+    l76.setStyle(y2F.B$D(e5x, z4v), "color", d8J);
+    i2B = t7b.volumeField || y6x;
+    w_H = null;
+    d$K = E4l.Series;
+    if (d$K && d$K !== "Primary" && d$K !== "series") {
+      w_H = i2B;
+      i2B = d$K;
+    }
+    k3u = [
+      {
+        field: i2B,
+        subField: w_H,
+        fill_color_up: l76.canvasStyle(e5x + M7h).color,
+        border_color_up: l76.canvasStyle(e5x + "_up").borderLeftColor,
+        opacity_up: l76.canvasStyle(e5x + "_up").opacity,
+        fill_color_down: l76.canvasStyle(e5x + "_down").color,
+        border_color_down: l76.canvasStyle(e5x + "_down").borderLeftColor,
+        opacity_down: l76.canvasStyle(e5x + "_down").opacity,
+        color_function: t7b.colorFunction,
+      },
+    ];
+    z7e = k3u[0];
+    n$h = t7b.getYAxis(l76);
+    T3K = {
+      name: h5c,
+      panel: f0Q,
+      yAxis: n$h,
+      widthFactor: 1,
+      bindToYAxis: !![],
+      highlight: t7b.highlight,
+    };
+    e5l.extend(T3K, t7b.study.parameters);
+    e5l.extend(T3K, t7b.parameters);
+    if (l76.colorByCandleDirection && !t7b.colorFunction) {
+      z7e.color_function = function (b0b) {
+        var D8h, k1Q, u6l, g3V;
+        D8h = "ser";
+        D8h += "i";
+        D8h += "es";
+        k1Q = E4l.Series;
+        if (k1Q && k1Q !== "Primary" && k1Q !== D8h) {
+          b0b = b0b[k1Q];
+        }
+        u6l = b0b.Open;
+        g3V = b0b.Close;
+        return {
+          fill_color: u6l > g3V ? z7e.fill_color_down : z7e.fill_color_up,
+          border_color: u6l > g3V ? z7e.border_color_down : z7e.border_color_up,
+        };
+      };
+    }
+    l76.drawHistogram(T3K, k3u);
+  };
+  e5l.Studies.calculateStandardDeviation = function (Z4C, c9Y) {
+    var N5E = U6BfN;
+    var j_g,
+      E_o,
+      w6C,
+      l7y,
+      q1o,
+      v7h,
+      I_I,
+      Z2P,
+      T9v,
+      L9f,
+      t7V,
+      S7_,
+      L09,
+      D10,
+      D44;
+    j_g = "C";
+    j_g += "l";
+    j_g += "os";
+    j_g += "e";
+    E_o = "f";
+    E_o += "ie";
+    E_o += "l";
+    E_o += "d";
+    w6C = c9Y.chart.scrubbed;
+    if (w6C.length < c9Y.days + 1) {
+      c9Y.error = !0;
+      return;
+    }
+    l7y = c9Y.inputs.Field;
+    if (!l7y || l7y == E_o) {
+      l7y = j_g;
+    }
+    q1o = c9Y.inputs["Moving Average Type"];
+    if (!q1o) {
+      q1o = c9Y.inputs.Type;
+    }
+    e5l.Studies.MA(q1o, c9Y.days, l7y, c9Y.inputs.Offset, "_MA", Z4C, c9Y);
+    v7h = 0;
+    I_I = 0;
+    Z2P = 0;
+    T9v = Number(c9Y.inputs["Standard Deviations"]);
+    if (T9v < 0) {
+      T9v = 2;
+    }
+    L9f = c9Y.name;
+    for (var L4m in c9Y.outputs) {
+      N5E.w6J(2);
+      L9f = N5E.B$D(
+        L4m,
+        (+"6480", "331.6" * 1) < 8970
+          ? (6833, 1050) == (7500, "5452" * 1)
+            ? 436.31
+            : " "
+          : 747.16,
+        L9f,
+      );
+    }
+    for (
+      t7V = c9Y.startFrom - 1, L09 = 0;
+      t7V >= +"0" && L09 < c9Y.days;
+      t7V--, L09++
+    ) {
+      S7_ = e5l.Studies.getQuoteFieldValue(w6C[t7V], l7y, c9Y.subField);
+      if (S7_ === null) {
+        S7_ = 0;
+      }
+      v7h += Math.pow(S7_, 2);
+      I_I += S7_;
+    }
+    for (t7V = c9Y.startFrom; t7V < w6C.length; t7V++) {
+      D10 = w6C[t7V];
+      S7_ = e5l.Studies.getQuoteFieldValue(D10, l7y, c9Y.subField);
+      if (S7_ === null) {
+        S7_ = 0;
+      }
+      v7h += Math.pow(S7_, 2);
+      I_I += S7_;
+      if (t7V < c9Y.days - 1) continue;
+      if (t7V >= c9Y.days) {
+        D44 = e5l.Studies.getQuoteFieldValue(
+          w6C[t7V - c9Y.days],
+          l7y,
+          c9Y.subField,
+        );
+        if (D44 === null) {
+          D44 = 0;
+        }
+        v7h -= Math.pow(D44, +"2");
+        I_I -= D44;
+      }
+      Z2P = D10["_MA " + c9Y.name];
+      if (Z2P || Z2P === +"0") {
+        N5E.C2v(101);
+        var d2x = N5E.Y51(19, 9, 10, 107);
+        N5E.w6J(0);
+        var c2A = N5E.Y51(0, 2);
+        D10[L9f] =
+          Math.sqrt(
+            (v7h + c9Y.days * Math.pow(Z2P, d2x) - c2A * Z2P * I_I) / c9Y.days,
+          ) * T9v;
+      }
+    }
+  };
+  e5l.Studies.calculateMovingAverage = function (Y4P, s2b) {
+    var d6q = U6BfN;
+    var q8G,
+      M$B,
+      b9G,
+      I83,
+      d2m,
+      K85,
+      L9F,
+      G07,
+      I7F,
+      x8S,
+      U0P,
+      T1q,
+      n4j,
+      X8f,
+      X0c,
+      X9D,
+      i_m,
+      O7F,
+      L3z,
+      J11,
+      w9C,
+      b7N;
+    q8G = "f";
+    q8G += "i";
+    q8G += "e";
+    q8G += "ld";
+    M$B = "si";
+    M$B += "mpl";
+    M$B += "e";
+    b9G = "m";
+    b9G += "a";
+    if (!s2b.chart.scrubbed) {
+      return;
+    }
+    I83 = s2b.inputs.Type;
+    if (I83 == b9G || I83 == "sma" || !I83) {
+      I83 = M$B;
+    }
+    d2m = e5l.Studies.movingAverage.typeMap;
+    if (I83 in d2m) {
+      K85 = "calculateM";
+      K85 += "ovingA";
+      K85 += "verag";
+      K85 += "e";
+      return e5l.Studies[K85 + d2m[I83]](Y4P, s2b);
+    } else if (I83 !== "simple") {
+      return;
+    }
+    L9F = s2b.chart.scrubbed;
+    G07 = 0;
+    I7F = [];
+    x8S = s2b.name;
+    for (var e8N in s2b.outputs) {
+      d6q.w6J(2);
+      x8S = d6q.Y51(
+        e8N,
+        +"7676" == ("5497" << 32, 9730)
+          ? (+"9.94e+2", "2.45e+3" << 64)
+          : (1590, 7015) < 1630
+            ? 6.72e3
+            : " ",
+        x8S,
+      );
+    }
+    U0P = s2b.inputs.Field;
+    if (!U0P || U0P == q8G) {
+      U0P = "Close";
+    }
+    T1q = parseInt(s2b.inputs.Offset, 10);
+    if (isNaN(T1q)) {
+      d6q.w6J(23);
+      T1q = d6q.B$D("0", 0);
+    }
+    X9D = s2b.startFrom;
+    i_m = T1q;
+    for (n4j = s2b.startFrom - 1; n4j >= "0" << 64; n4j--) {
+      X8f = e5l.Studies.getQuoteFieldValue(L9F[n4j], U0P, s2b.subField);
+      if (X8f === null) continue;
+      if (i_m > 0) {
+        i_m--;
+        X9D = n4j;
+        continue;
+      }
+      if (I7F.length == s2b.days - 1) break;
+      G07 += X8f;
+      I7F.unshift(X8f);
+    }
+    if (I7F.length < s2b.days - +"1") {
+      I7F = [];
+      X9D = 0;
+    }
+    O7F = [];
+    for (n4j = X9D; n4j < L9F.length; n4j++) {
+      L3z = L9F[n4j];
+      X8f = e5l.Studies.getQuoteFieldValue(L3z, U0P, s2b.subField);
+      J11 = n4j + T1q >= 0 && n4j + T1q < L9F.length;
+      w9C = J11 ? L9F[n4j + T1q] : null;
+      if (X8f === null) {
+        if (w9C) {
+          w9C[x8S] = null;
+        } else if (n4j + T1q >= L9F.length) {
+          X0c = {};
+          X0c[x8S] = null;
+          O7F.push(X0c);
+        }
+        continue;
+      }
+      G07 += X8f;
+      I7F.push(X8f);
+      if (I7F.length > s2b.days) {
+        G07 -= I7F.shift();
+      }
+      b7N = I7F.length == s2b.days ? G07 / s2b.days : null;
+      if (w9C) {
+        w9C[x8S] = b7N;
+      } else if (n4j + T1q >= L9F.length) {
+        X0c = {};
+        X0c[x8S] = b7N;
+        O7F.push(X0c);
+      }
+    }
+    s2b.appendFutureTicks(Y4P, O7F);
+  };
+  e5l.Studies.calculateMovingAverageExponential = function (b7$, r3C) {
+    var G4U = U6BfN;
+    var O4a,
+      y0M,
+      n3O,
+      X7_,
+      A7f,
+      w29,
+      Y5j,
+      P2b,
+      t68,
+      b9g,
+      n0f,
+      s4x,
+      z4q,
+      S5a,
+      c73,
+      j5n,
+      m4n,
+      N5w,
+      b3W,
+      v0v,
+      m2g;
+    O4a = "f";
+    O4a += "i";
+    O4a += "el";
+    O4a += "d";
+    y0M = r3C.inputs.Type;
+    n3O = r3C.chart.scrubbed;
+    X7_ = 0;
+    A7f = +"0";
+    w29 = 0;
+    G4U.C2v(28);
+    var X55 = G4U.B$D(7, 138, 20);
+    G4U.w6J(28);
+    var X71 = G4U.B$D(19, 151, 8);
+    Y5j = X55 / (r3C.days + X71);
+    if (y0M === "welles wilder" || y0M === "smma") {
+      Y5j = +"1" / r3C.days;
+    }
+    P2b = null;
+    t68 = r3C.name;
+    for (var x1F in r3C.outputs) {
+      G4U.C2v(2);
+      t68 = G4U.Y51(
+        x1F,
+        (9870, "9890" - 0) <= 6690
+          ? (0x22be, 3.96e3)
+          : (9076, 5401) === (344.87, 3700)
+            ? (884.78, "M")
+            : (8637, +"7611") != 4631
+              ? " "
+              : 0x1343,
+        t68,
+      );
+    }
+    b9g = r3C.inputs.Field;
+    if (!b9g || b9g == O4a) {
+      b9g = "Close";
+    }
+    n0f = parseInt(r3C.inputs.Offset, 10);
+    if (isNaN(n0f)) {
+      G4U.C2v(10);
+      n0f = G4U.Y51(0, "0");
+    }
+    S5a = r3C.startFrom;
+    c73 = n0f;
+    for (s4x = r3C.startFrom - 1; s4x >= 0; s4x--) {
+      z4q = n3O[s4x][t68];
+      if (!z4q && z4q !== "0" >> 0) continue;
+      if (P2b === null) {
+        P2b = z4q;
+      }
+      w29 = r3C.days;
+      if (c73 <= 0) break;
+      c73--;
+      S5a = s4x;
+    }
+    if (P2b === null) {
+      P2b = S5a = 0;
+    }
+    j5n = [];
+    for (s4x = S5a; s4x < n3O.length; s4x++) {
+      m4n = n3O[s4x];
+      z4q = e5l.Studies.getQuoteFieldValue(m4n, b9g, r3C.subField);
+      N5w = s4x + n0f >= ("0" | 0) && s4x + n0f < n3O.length;
+      b3W = N5w ? n3O[s4x + n0f] : null;
+      if (z4q === null) {
+        v0v = null;
+      } else {
+        if (w29 == r3C.days - ("1" << 32)) {
+          X7_ += z4q;
+          A7f = X7_ / r3C.days;
+          v0v = A7f;
+        } else if (w29 < r3C.days - ("1" >> 32)) {
+          X7_ += z4q;
+          G4U.C2v(138);
+          A7f = G4U.B$D(1, X7_, w29);
+          v0v = null;
+        } else if (w29 === "0" * 1) {
+          X7_ += z4q;
+          A7f = X7_;
+          v0v = null;
+        } else if (P2b || P2b === ("0" ^ 0)) {
+          G4U.w6J(33);
+          A7f = G4U.B$D(z4q, P2b, P2b, Y5j);
+          v0v = A7f;
+        }
+        P2b = A7f;
+        w29++;
+      }
+      if (b3W) {
+        b3W[t68] = v0v;
+      } else if (s4x + n0f >= n3O.length) {
+        m2g = {};
+        m2g[t68] = v0v;
+        j5n.push(m2g);
+      }
+    }
+    r3C.appendFutureTicks(b7$, j5n);
+  };
+  e5l.Studies.calculateMovingAverageVIDYA = function (Y68, Y$K) {
+    var l3Q = U6BfN;
+    var b5E,
+      C_0,
+      S0d,
+      S1E,
+      j4P,
+      S14,
+      M1g,
+      z$J,
+      b5j,
+      S8o,
+      p0o,
+      K7Y,
+      q1j,
+      H2v,
+      v_9,
+      d6O,
+      z0X,
+      f70,
+      M91,
+      G9P,
+      r21,
+      l18;
+    b5E = "_S";
+    b5E += "TD";
+    b5E += " ";
+    C_0 = "m";
+    C_0 += "a";
+    S0d = "s";
+    S0d += "de";
+    S0d += "v";
+    S1E = "f";
+    S1E += "iel";
+    S1E += "d";
+    j4P = Y$K.inputs.Type;
+    S14 = Y$K.chart.scrubbed;
+    l3Q.C2v(28);
+    var x8e = l3Q.Y51(18, 142, 8);
+    M1g = x8e / (Y$K.days + +"1");
+    z$J = null;
+    b5j = Y$K.name;
+    for (var X2k in Y$K.outputs) {
+      l3Q.w6J(2);
+      b5j = l3Q.B$D(
+        X2k,
+        6111 == 319.18
+          ? (328.44, "7280" << 64) >= (478, 108.51)
+            ? 2091 === (+"3760", 497)
+              ? (0x2195, !0)
+              : 0x178f
+            : (5.62e3, "345.72" * 1)
+          : " ",
+        b5j,
+      );
+    }
+    S8o = Y$K.inputs.Field;
+    if (!S8o || S8o == S1E) {
+      S8o = "Close";
+    }
+    Y$K.std = new e5l.Studies.StudyDescriptor(Y$K.name, S0d, Y$K.panel);
+    Y$K.std.chart = Y$K.chart;
+    Y$K.std.days = +"5";
+    Y$K.std.startFrom = Y$K.startFrom;
+    Y$K.std.inputs = { Field: S8o, "Standard Deviations": 1, Type: C_0 };
+    Y$K.std.outputs = { _STD: null };
+    e5l.Studies.calculateStandardDeviation(Y68, Y$K.std);
+    e5l.Studies.MA("ma", 20, b5E + Y$K.name, +"0", "_MASTD", Y68, Y$K);
+    p0o = parseInt(Y$K.inputs.Offset, 10);
+    if (isNaN(p0o)) {
+      p0o = 0;
+    }
+    v_9 = Y$K.startFrom;
+    d6O = p0o;
+    for (K7Y = Y$K.startFrom - 1; K7Y >= 0; K7Y--) {
+      q1j = S14[K7Y][b5j];
+      if (!q1j && q1j !== 0) continue;
+      if (z$J === null) {
+        z$J = q1j;
+      }
+      if (d6O <= 0) break;
+      d6O--;
+      v_9 = K7Y;
+    }
+    if (z$J === null) {
+      z$J = v_9 = +"0";
+    }
+    z0X = [];
+    for (K7Y = v_9; K7Y < S14.length; K7Y++) {
+      f70 = S14[K7Y];
+      q1j = e5l.Studies.getQuoteFieldValue(f70, S8o, Y$K.subField);
+      M91 = K7Y + p0o >= 0 && K7Y + p0o < S14.length;
+      G9P = M91 ? S14[K7Y + p0o] : null;
+      if (q1j === null) {
+        if (G9P) {
+          G9P[b5j] = null;
+        } else if (K7Y + p0o >= S14.length) {
+          H2v = {};
+          H2v[b5j] = null;
+          z0X.push(H2v);
+        }
+        continue;
+      }
+      if (!f70["_MASTD " + Y$K.name] && f70["_MASTD " + Y$K.name] !== 0)
+        continue;
+      r21 = f70["_STD " + Y$K.name] / f70["_MASTD " + Y$K.name];
+      l3Q.C2v(139);
+      l18 = l3Q.Y51(M1g, M1g, r21, z$J, 1, q1j, r21);
+      z$J = l18;
+      if (K7Y < Y$K.days) {
+        l18 = null;
+      }
+      if (G9P) {
+        G9P[b5j] = l18;
+      } else if (K7Y + p0o >= S14.length) {
+        H2v = {};
+        H2v[b5j] = l18;
+        z0X.push(H2v);
+      }
+    }
+    Y$K.appendFutureTicks(Y68, z0X);
+  };
+  e5l.Studies.calculateMovingAverageTriangular = function (a57, z7r) {
+    var N7c = U6BfN;
+    var x3S, z56, u0R, d5c, j6y, N4P, F1L, s3Y, a$r, s3S, I0g, X$y, y75, t4y;
+    x3S = "T";
+    N7c.a3_();
+    x3S += "RI2";
+    z56 = "T";
+    z56 += "R";
+    z56 += "I";
+    z56 += "1 ";
+    u0R = "C";
+    u0R += "los";
+    u0R += "e";
+    d5c = z7r.chart.scrubbed;
+    j6y = z7r.inputs.Field;
+    if (!j6y || j6y == "field") {
+      j6y = u0R;
+    }
+    N4P = Math.ceil(z7r.days / +"2");
+    e5l.Studies.MA("simple", N4P, j6y, +"0", "TRI1", a57, z7r);
+    if (z7r.days % 2 === 0) {
+      N4P++;
+    }
+    e5l.Studies.MA("simple", N4P, z56 + z7r.name, 0, x3S, a57, z7r);
+    F1L = z7r.name;
+    for (var L2f in z7r.outputs) {
+      N7c.C2v(2);
+      F1L = N7c.Y51(
+        L2f,
+        397.92 != 3219
+          ? 4894 === 809
+            ? ("U", "5.25e+3" ^ 0)
+            : (5374, 34.73) !== (5785, "1529" << 64)
+              ? " "
+              : (14.42, 8.8e3)
+          : (0x24fc, 646.95),
+        F1L,
+      );
+    }
+    s3Y = parseInt(z7r.inputs.Offset, 10);
+    if (isNaN(s3Y)) {
+      s3Y = 0;
+    }
+    a$r = s3Y;
+    for (var n$q = z7r.startFrom - +"1"; n$q >= "0" << 32; n$q--) {
+      s3S = e5l.Studies.getQuoteFieldValue(d5c[n$q], F1L);
+      if (s3S === null) continue;
+      if (a$r > 0) {
+        a$r--;
+        continue;
+      }
+      break;
+    }
+    I0g = [];
+    for (n$q++; n$q < d5c.length; n$q++) {
+      if (n$q + s3Y >= 0) {
+        X$y = "T";
+        X$y += "RI2 ";
+        if (n$q + s3Y < d5c.length) {
+          N7c.w6J(0);
+          d5c[N7c.B$D(n$q, s3Y)][F1L] = d5c[n$q][X$y + z7r.name];
+        } else {
+          y75 = "TR";
+          y75 += "I";
+          y75 += "2";
+          y75 += " ";
+          t4y = {};
+          t4y[F1L] = d5c[n$q][y75 + z7r.name];
+          I0g.push(t4y);
+        }
+      }
+    }
+    z7r.appendFutureTicks(a57, I0g);
+  };
+  e5l.Studies.calculateMovingAverageWeighted = function (k6x, N8y) {
+    var q$X = U6BfN;
+    var U2a,
+      a1R,
+      x0v,
+      c_Z,
+      x6x,
+      C2i,
+      V4j,
+      p$U,
+      H0H,
+      R3Z,
+      I7I,
+      P4o,
+      v2n,
+      N$I,
+      K87,
+      j9V,
+      I4y,
+      K71,
+      c4E;
+    U2a = "Clos";
+    U2a += "e";
+    a1R = N8y.chart.scrubbed;
+    x0v = 0;
+    c_Z = +"0";
+    x6x = N8y.inputs.Field;
+    if (!x6x || x6x == "field") {
+      x6x = U2a;
+    }
+    q$X.C2v(55);
+    var Z4W = q$X.B$D(3, 3, 0, 3);
+    C2i = (N8y.days * (N8y.days + ("1" - 0))) / Z4W;
+    V4j = N8y.name;
+    for (var E4U in N8y.outputs) {
+      q$X.w6J(2);
+      V4j = q$X.Y51(
+        E4U,
+        9948 != 8430
+          ? 8150 === (664.88, +"6828")
+            ? (40.25, 6660) != +"9343"
+              ? !{}
+              : (4.74e3, 0xc1d)
+            : " "
+          : 735.13,
+        V4j,
+      );
+    }
+    p$U = parseInt(N8y.inputs.Offset, +"10");
+    if (isNaN(p$U)) {
+      p$U = 0;
+    }
+    P4o = [];
+    v2n = N8y.startFrom;
+    N$I = p$U;
+    for (H0H = N8y.startFrom - 1; H0H >= 0; H0H--) {
+      R3Z = e5l.Studies.getQuoteFieldValue(a1R[H0H], x6x, N8y.subField);
+      if (R3Z === null) continue;
+      if (N$I > 0) {
+        N$I--;
+        v2n = H0H;
+        continue;
+      }
+      if (P4o.length == N8y.days - 1) break;
+      P4o.unshift(R3Z);
+    }
+    if (P4o.length < N8y.days - 1) {
+      P4o = [];
+      q$X.C2v(23);
+      v2n = q$X.Y51("0", 0);
+    }
+    for (H0H = 0; H0H < P4o.length; H0H++) {
+      x0v += (H0H + ("1" << 0)) * P4o[H0H];
+      c_Z += P4o[H0H];
+    }
+    K87 = [];
+    for (H0H = v2n; H0H < a1R.length; H0H++) {
+      j9V = a1R[H0H];
+      R3Z = e5l.Studies.getQuoteFieldValue(j9V, x6x, N8y.subField);
+      I4y = H0H + p$U >= 0 && H0H + p$U < a1R.length;
+      K71 = I4y ? a1R[H0H + p$U] : null;
+      if (R3Z === null) {
+        if (K71) {
+          K71[V4j] = null;
+        } else if (H0H + p$U >= a1R.length) {
+          I7I = {};
+          I7I[V4j] = null;
+          K87.push(I7I);
+        }
+        continue;
+      }
+      P4o.push(R3Z);
+      if (P4o.length > N8y.days) {
+        x0v -= c_Z;
+        c_Z -= P4o.shift();
+      }
+      x0v += P4o.length * R3Z;
+      c_Z += R3Z;
+      c4E = H0H < N8y.days - 1 ? null : x0v / C2i;
+      if (K71) {
+        K71[V4j] = c4E;
+      } else if (H0H + p$U >= a1R.length) {
+        I7I = {};
+        I7I[V4j] = c4E;
+        K87.push(I7I);
+      }
+    }
+    q$X.s8u();
+    N8y.appendFutureTicks(k6x, K87);
+  };
+  e5l.Studies.calculateMultMA = function (V2o, r_q) {
+    var d2g = U6BfN;
+    var h7_, t6M, Q_4, H_6, i4S, e8A;
+    h7_ = "M";
+    d2g.s8u();
+    h7_ += "A";
+    h7_ += " ";
+    t6M = r_q.chart.scrubbed;
+    Q_4 = [Number.MAX_VALUE];
+    Object.keys(r_q.inputs)
+      .filter((o7Z) => {
+        d2g.a3_();
+        return o7Z.indexOf("Period") > -+"1";
+      })
+      .forEach((D46, w_k) => {
+        d2g.C2v(140);
+        Q_4[d2g.Y51(w_k, 0, "1")] = r_q.inputs[D46];
+      });
+    if (t6M.length < Math.min(...Q_4) + 1) {
+      r_q.error = !!1;
+      return;
+    }
+    H_6 = r_q.inputs.Field;
+    if (!H_6 || H_6 == "field") {
+      H_6 = "Close";
+    }
+    i4S = r_q.inputs["Moving Average Type"];
+    if (!i4S) {
+      i4S = "simple";
+    }
+    e8A = r_q.inputs.Offset || 0;
+    for (var A_p = 1; A_p < Q_4.length; A_p++) {
+      e5l.Studies.MA(i4S, Q_4[A_p], H_6, e8A, h7_ + A_p, V2o, r_q);
+    }
+  };
+  e5l.Studies.calculateStudyATR = function (M5F, f2S) {
+    var l8J = U6BfN;
+    var l8I, r$q, x8r, P3e, o38, e6J, p$E, r0a, b31;
+    l8I = f2S.chart.scrubbed;
+    r$q = f2S.days;
+    if (l8I.length < r$q + 1) {
+      f2S.error = !!{};
+      return;
+    }
+    x8r = 0;
+    l8J.s8u();
+    P3e = f2S.name;
+    for (var i20 = Math.max(f2S.startFrom, 1); i20 < l8I.length; i20++) {
+      o38 = "True R";
+      o38 += "ange ";
+      e6J = "Sum True";
+      e6J += " Range ";
+      p$E = l8I[i20];
+      l8J.w6J(141);
+      r0a = l8I[l8J.Y51(i20, "1", 32)];
+      b31 = p$E.trueRange;
+      if (r0a[e6J + P3e]) {
+        l8J.C2v(0);
+        x8r = r0a[l8J.B$D("Sum True Range ", P3e)];
+      }
+      x8r += b31;
+      if (i20 > r$q) {
+        l8J.w6J(10);
+        x8r -= l8I[l8J.Y51(r$q, i20)][l8J.Y51("True Range ", P3e, l8J.C2v(0))];
+      }
+      l8J.w6J(0);
+      p$E[l8J.B$D(o38, P3e)] = b31;
+      l8J.C2v(0);
+      p$E[l8J.Y51("Sum True Range ", P3e)] = x8r;
+      if (i20 == r$q) {
+        l8J.w6J(0);
+        p$E[l8J.Y51("ATR ", P3e)] = l8J.B$D(r$q, x8r, l8J.C2v(11));
+      } else if (i20 > r$q) {
+        l8J.C2v(142);
+        var g5n = l8J.Y51(2, 9, 11, 0);
+        l8J.C2v(0);
+        p$E[l8J.Y51("ATR ", P3e)] =
+          (r0a["ATR " + P3e] * (r$q - g5n) + b31) / r$q;
+      }
+    }
+  };
+  e5l.Studies.displayPSAR2 = function (C$0, q7o, n1l) {
+    var R7S = U6BfN;
+    var c1m,
+      O58,
+      O8o,
+      B2w,
+      s8z,
+      B0z,
+      E8y,
+      g70,
+      U5$,
+      I1P,
+      K3G,
+      n5O,
+      l1V,
+      s2G,
+      F2u,
+      g2f,
+      f1$;
+    R7S.s8u();
+    c1m = "P";
+    c1m += "lot";
+    c1m += " T";
+    c1m += "ype";
+    O58 = C$0.panels[q7o.panel];
+    O8o = q7o.getYAxis(C$0);
+    B2w = O8o == C$0.chart.panel.yAxis;
+    C$0.startClip(O58.name);
+    s8z = q7o.getContext(C$0);
+    B0z = q7o.inputs[c1m] == "squarewave";
+    for (var W2a in q7o.outputs) {
+      E8y = "au";
+      E8y += "t";
+      E8y += "o";
+      R7S.C2v(10);
+      var M6m = R7S.Y51(10, 7080);
+      R7S.C2v(28);
+      var N3Z = R7S.Y51(6, 35778, 7154);
+      g70 = W2a + ((221.21, 640.38) != M6m ? " " : N3Z) + q7o.name;
+      s8z.beginPath();
+      U5$ = C$0.layout.candleWidth;
+      I1P = Math.max(3, Math.floor(U5$ / +"4"));
+      for (var P_5 = 0; P_5 < n1l.length; P_5++) {
+        K3G = n1l[P_5];
+        if (!K3G || e5l.Studies.getQuoteFieldValue(K3G, g70) === null) continue;
+        if (K3G.candleWidth) {
+          U5$ = K3G.candleWidth;
+        }
+        n5O = C$0.getTransformedQuote(K3G, O8o);
+        if (B2w && n5O) {
+          K3G = n5O;
+        }
+        l1V = C$0.pixelFromBar(P_5, O58.chart);
+        if (B0z) {
+          R7S.C2v(11);
+          l1V -= R7S.B$D(2, U5$);
+        }
+        s2G = C$0.pixelFromTransformedValue(
+          K3G[q7o.referenceOutput ? q7o.referenceOutput + " " + q7o.name : g70],
+          O58,
+          O8o,
+        );
+        if (
+          P_5 === 0 ||
+          !n1l[P_5 - 1] ||
+          e5l.Studies.getQuoteFieldValue(n1l[P_5 - 1], g70) === null
+        ) {
+          s8z.moveTo(l1V, s2G);
+        }
+        if (B0z) {
+          s8z.lineTo(l1V, s2G);
+          R7S.w6J(0);
+          s8z.lineTo(R7S.Y51(l1V, U5$), s2G);
+          if (n1l[P_5 + 1]) {
+            R7S.w6J(0);
+            F2u = n1l[R7S.B$D(P_5, 1)];
+            g2f = C$0.getTransformedQuote(F2u, O8o);
+            if (B2w && g2f) {
+              F2u = g2f;
+            }
+            if (e5l.Studies.getQuoteFieldValue(F2u, g70) === null) {
+              R7S.w6J(0);
+              s8z.lineTo(
+                R7S.Y51(l1V, U5$),
+                C$0.pixelFromTransformedValue(
+                  F2u[
+                    q7o.referenceOutput
+                      ? q7o.referenceOutput + " " + q7o.name
+                      : g70
+                  ],
+                  C$0.panels[q7o.panel],
+                  O8o,
+                ),
+              );
+            }
+          }
+        } else {
+          R7S.C2v(47);
+          s8z.moveTo(R7S.B$D(2, I1P, l1V), s2G);
+          R7S.w6J(46);
+          s8z.lineTo(R7S.Y51(I1P, l1V, 2), s2G);
+        }
+      }
+      s8z.lineWidth = 1;
+      if (q7o.highlight) {
+        s8z.lineWidth = 3;
+      }
+      f1$ = e5l.Studies.determineColor(q7o.outputs[W2a]);
+      if (f1$ == E8y) {
+        f1$ = C$0.defaultColor;
+      }
+      s8z.strokeStyle = f1$;
+      if (!q7o.highlight && C$0.highlightedDraggable) {
+        s8z.globalAlpha *= 0.3;
+      }
+      s8z.stroke();
+      s8z.closePath();
+      s8z.lineWidth = 1;
+    }
+    C$0.endClip();
+  };
+  e5l.Studies.inputAttributeDefaultGenerator = function (b34) {
+    if (!b34 && b34 !== 0) {
+      return {};
+    }
+    if (b34.constructor == Number) {
+      if (Math.floor(b34) == b34) {
+        if (b34 > 0) {
+          return { min: 1, step: 1 };
+        }
+        return { step: 1 };
+      }
+      if (b34 > ("0" ^ 0)) {
+        return { min: 0, step: 0.01 };
+      }
+      return { step: 0.01 };
+    }
+    return {};
+  };
+  e5l.Studies.getMarketOffset = function ({
+    stx: v_8,
+    localQuoteDate: r7Q,
+    shiftToDateBoundary: s9_,
+  }) {
+    var p4Q = U6BfN;
+    var b1K, F5A, L9e, T$h, P9E, o5F, T2Y;
+    b1K = "U";
+    b1K += "T";
+    b1K += "C";
+    if (arguments.length > 1) {
+      v_8 = arguments[0];
+      r7Q = arguments[+"1"];
+      F5A = arguments[2];
+    }
+    var { symbol: w$9 } = v_8.chart;
+    p4Q.s8u();
+    L9e = e5l.getFn("Market.Symbology.isForexMetal")(w$9);
+    if (F5A === undefined) {
+      T$h = "Market.Symbology.isFor";
+      T$h += "exSymbol";
+      F5A = e5l.getFn(T$h)(w$9);
+    }
+    if (!v_8.chart.market) {
+      P9E = null;
+    } else {
+      P9E = F5A ? "America/New_York" : v_8.chart.market.market_tz;
+    }
+    p4Q.w6J(10);
+    var a3Y = p4Q.B$D(5, 60005);
+    o5F = new Date(r7Q.getTime() + r7Q.getTimezoneOffset() * a3Y);
+    if (!P9E || P9E.indexOf("UTC") == -1) {
+      o5F = e5l.convertTimeZone(o5F, b1K, P9E);
+    }
+    T2Y =
+      new Date(
+        o5F.getFullYear(),
+        o5F.getMonth(),
+        o5F.getDate(),
+        o5F.getHours(),
+        o5F.getMinutes(),
+        o5F.getSeconds(),
+        o5F.getMilliseconds(),
+      ).getTime() - r7Q.getTime();
+    if (s9_ && F5A) {
+      p4Q.C2v(143);
+      T2Y += p4Q.Y51(60, L9e ? 6 : 7, 1000, 60);
+    }
+    return T2Y;
+  };
+  e5l.Studies.getStudyList = function (Q5p) {
+    var R_y, n6x;
+    R_y = {};
+    n6x = {};
+    U6BfN.s8u();
+    e5l.extend(n6x, Q5p);
+    for (var e5K in e5l.Studies.studyLibrary) {
+      if (!n6x[e5K]) {
+        R_y[e5l.Studies.studyLibrary[e5K].name] = e5K;
+      }
+    }
+    return R_y;
+  };
+  e5l.Studies.determineColor = function (a9w) {
+    if (!a9w) {
+      return null;
+    } else if (typeof a9w === "object") {
+      return a9w.color;
+    }
+    return a9w;
+  };
+  e5l.Studies.calculateGenericEnvelope = function (
+    J9q,
+    h6e,
+    P6Y,
+    H2p,
+    u5k,
+    B1K,
+  ) {
+    var D70 = U6BfN;
+    var C5i, o6T, H2S, H6B, L6k, x$W, n6N, M3O, H$7, r_j;
+    C5i = "C";
+    C5i += "l";
+    C5i += "o";
+    C5i += "se";
+    if (!P6Y) {
+      D70.C2v(10);
+      P6Y = D70.Y51(0, "0");
+    }
+    if (!B1K) {
+      B1K = 0;
+    }
+    if (!H2p || H2p == "field") {
+      H2p = C5i;
+    }
+    if (!u5k) {
+      u5k = H2p;
+    }
+    o6T = h6e.chart.scrubbed;
+    if (!o6T) {
+      return;
+    }
+    H2S = h6e.inputs.Field;
+    for (var l0q = h6e.startFrom; l0q < o6T.length; l0q++) {
+      H6B = "Bandwidth";
+      H6B += " ";
+      L6k = o6T[l0q];
+      if (!L6k) continue;
+      x$W = e5l.Studies.getQuoteFieldValue(L6k, H2S);
+      n6N =
+        x$W !== null && x$W !== undefined
+          ? x$W
+          : e5l.Studies.getQuoteFieldValue(L6k, "Close");
+      M3O = e5l.Studies.getQuoteFieldValue(L6k, u5k, h6e.subField);
+      H$7 = e5l.Studies.getQuoteFieldValue(L6k, H2p);
+      if (H$7 === null) continue;
+      D70.w6J(144);
+      r_j = D70.Y51(B1K, M3O, P6Y);
+      D70.C2v(0);
+      L6k[h6e.type + " Top " + h6e.name] = D70.B$D(H$7, r_j);
+      D70.C2v(10);
+      L6k[h6e.type + " Bottom " + h6e.name] = D70.B$D(r_j, H$7);
+      L6k[h6e.type + " Median " + h6e.name] = H$7;
+      L6k[H6B + h6e.name] = H$7 ? (("200" | 72) * r_j) / H$7 : 0;
+      D70.C2v(145);
+      L6k["%b " + h6e.name] = D70.B$D(50, 1, H$7, r_j, n6N);
+    }
+  };
+  e5l.Studies.displayChannel = function (Z8d, N2Y, d0_) {
+    var j7T = U6BfN;
+    var T$d, b_r, A8B, g6r, u$Q, e2q, y6A;
+    if (N2Y.inputs["Channel Fill"]) {
+      T$d = { panelName: N2Y.panel };
+      for (var T5W in N2Y.outputs) {
+        b_r = "Ch";
+        b_r += "an";
+        b_r += "n";
+        b_r += "el";
+        A8B = "L";
+        A8B += "o";
+        A8B += "w";
+        g6r = "Bo";
+        g6r += "tto";
+        g6r += "m";
+        u$Q = "T";
+        u$Q += "o";
+        u$Q += "p";
+        e2q = T5W.split(
+          (1180, 8670) < 1897
+            ? (!![], 115.66)
+            : (3275, 694.79) <= (277, +"6707")
+              ? " "
+              : 549 > 2290
+                ? 0x24d9
+                : 5.69e3,
+        ).pop();
+        if (e2q == u$Q || e2q == "High") {
+          j7T.w6J(146);
+          var z8K = j7T.B$D(645, 19, 17, 17, 10);
+          j7T.w6J(0);
+          var E_b = j7T.B$D(0, 1);
+          T$d.topBand =
+            T5W +
+            ((z8K, "2030" * E_b) === +"8399" ? (463.22, !!{}) : " ") +
+            N2Y.name;
+        } else if (e2q == g6r || e2q == A8B) {
+          T$d.bottomBand = T5W + " " + N2Y.name;
+        } else if (e2q == "Median" || e2q == b_r) {
+          T$d.color = e5l.Studies.determineColor(N2Y.outputs[T5W]);
+        }
+      }
+      if (N2Y.parameters && N2Y.parameters.opacity) {
+        T$d.opacity = N2Y.parameters.opacity;
+      } else {
+        j7T.C2v(10);
+        T$d.opacity = j7T.B$D(0, "0.2");
+      }
+      y6A = Z8d.panels[N2Y.panel];
+      T$d.skipTransform = y6A.name != N2Y.chart.name;
+      T$d.yAxis = N2Y.getYAxis(Z8d);
+      if (!N2Y.highlight && Z8d.highlightedDraggable) {
+        T$d.opacity *= +"0.3";
+      }
+      e5l.prepareChannelFill(Z8d, T$d);
+    }
+    e5l.Studies.displaySeriesAsLine(Z8d, N2Y, d0_);
+  };
+  e5l.Studies.initAnchorHandle = function (G9E, U$w) {
+    var d96;
+    var { handle: s_Y } = U$w;
+    if (s_Y) {
+      return;
+    }
+    if (!G9E.controls.anchorHandles) {
+      G9E.controls.anchorHandles = {};
+    }
+    var { anchorHandles: C9C, chartControls: R$S } = G9E.controls;
+    if (C9C[U$w.uniqueId]) {
+      ({ handle: s_Y } = C9C[U$w.uniqueId]);
+    } else {
+      d96 = "d";
+      d96 += "i";
+      d96 += "v";
+      s_Y = document.createElement(d96);
+      s_Y.classList.add("stx_anchor_handle");
+      s_Y.setAttribute(U$w.uniqueId, "");
+      C9C[U$w.uniqueId] = { handle: s_Y, sd: U$w };
+      if (R$S) {
+        R$S.parentElement.appendChild(s_Y);
+      }
+    }
+    U$w.anchorHandle = s_Y;
+  };
+  e5l.Studies.removeAnchorHandle = function (w_b, c4c) {
+    var { handle: U4M } =
+      (w_b.controls.anchorHandles || {})[c4c.uniqueId] || {};
+    U6BfN.a3_();
+    if (U4M) {
+      delete w_b.controls.anchorHandles[c4c.uniqueId];
+      U4M.remove();
+    }
+  };
+  e5l.Studies.repositionAnchor = function (M3D, t9X) {
+    var q9f, H$v, Y29, J8V, P65, a8C, o23, I_b;
+    var { currentAnchorTime: g5_, uniqueId: B9j } = t9X;
+    var { hoverTick: x6V } = M3D.repositioningAnchorSelector || {};
+    var { dataSet: V4q, market: o_0 } = M3D.chart;
+    if (!M3D.controls.anchorHandles) {
+      M3D.controls.anchorHandles = {};
+    }
+    var { anchorHandles: L9o } = M3D.controls;
+    q9f = {};
+    if (x6V || x6V === 0) {
+      H$v = "HH";
+      H$v += ":mm:ss";
+      if (x6V >= V4q.length) {
+        return;
+      }
+      Y29 = !t9X.inputs.hasOwnProperty("Anchor Date");
+      J8V = V4q[x6V].DT;
+      P65 = e5l.Studies.getMarketOffset({
+        stx: M3D,
+        localQuoteDate: J8V,
+        shiftToDateBoundary: !0,
+      });
+      if (
+        g5_ &&
+        Y29 &&
+        new Date(J8V.getTime() + P65).getDate() !==
+          new Date(g5_.getTime() + P65).getDate()
+      ) {
+        return;
+      }
+      if (o_0.market_def && o_0.market_def.market_tz) {
+        J8V = new y8g.Date(J8V, o_0.market_def.market_tz);
+      }
+      a8C = !Y29 && e5l.dateToStr(J8V, "YYYY-MM-dd");
+      o23 = e5l.dateToStr(J8V, H$v);
+      q9f = { "Anchor Time": o23 };
+      if (a8C) {
+        q9f["Anchor Date"] = a8C;
+      }
+    } else {
+      return;
+    }
+    I_b = e5l.Studies.replaceStudy(
+      M3D,
+      t9X.inputs.id,
+      t9X.type,
+      Object.assign(t9X.inputs, q9f),
+      t9X.outputs,
+      t9X.parameters,
+      t9X.panel,
+    );
+    if (L9o[B9j]) {
+      L9o[B9j].sd = I_b;
+    }
+    U6BfN.s8u();
+    M3D.draw();
+  };
+  e5l.Studies.cancelRepositionAnchor = function (E9k) {
+    U6BfN.a3_();
+    var { sd: c64, tapToAdd: M6p } = E9k.repositioningAnchorSelector || {};
+    if (!c64) {
+      return;
+    }
+    if (M6p) {
+      e5l.Studies.removeStudy(E9k, c64);
+    }
+    E9k.repositioningAnchorSelector = null;
+    var { anchorHandles: S7d } = E9k.controls;
+    if (S7d && S7d[c64.uniqueId]) {
+      S7d[c64.uniqueId].highlighted = ![];
+      e5l.Studies.displayAnchorHandleAndLine(E9k, c64, E9k.chart.dataSegment);
+    }
+    E9k.draw();
+  };
+  e5l.Studies.displayAnchorHandleAndLine = function (m34, L1l, z2F) {
+    var e4C = U6BfN;
+    var S_q,
+      P$Z,
+      e_P,
+      u7A,
+      h93,
+      U7Q,
+      N8v,
+      j8C,
+      j9p,
+      g9s,
+      s8V,
+      z0V,
+      E3r,
+      T7E,
+      C7J,
+      a8D,
+      p7e,
+      s0e,
+      O8L,
+      m6P,
+      o6r;
+    S_q = "l";
+    S_q += "i";
+    S_q += "ne";
+    if (L1l.signalData && !L1l.signalData.reveal) {
+      return;
+    }
+    if (!z2F || !z2F["0" | 0]) {
+      return;
+    }
+    P$Z = (m34.repositioningAnchorSelector || {}).sd === L1l;
+    var { hoverTick: F6l } = P$Z && m34.repositioningAnchorSelector;
+    var { chart: o_p, panels: N2j, cy: Q0q } = m34;
+    var { market: f8H = {}, symbol: n8I } = o_p;
+    e_P = N2j[L1l.panel];
+    var { top: a95, right: k4B, left: k14, height: y55, subholder: x7C } = e_P;
+    var { bottom: x3m } = e_P.yAxis;
+    var {
+      inputs: T7M,
+      anchorHandle: X9g,
+      currentAnchorTime: S6e,
+      lineWidth: w8c = 1,
+    } = L1l;
+    var { backgroundColor: r01, borderLeftColor: T_S } =
+      m34.canvasStyle("stx_anchor_handle");
+    u7A = !T7M["Anchor Date"];
+    h93 = e5l.getFn("Market.Symbology.isForexSymbol")(n8I);
+    U7Q = (F6l || F6l === +"0") && (m34.chart.dataSet[F6l] || {}).DT;
+    e4C.s8u();
+    N8v = e5l.Studies.getMarketOffset({
+      stx: m34,
+      localQuoteDate: z2F[z2F.length - 1].DT,
+      shiftToDateBoundary: !"",
+    });
+    j8C =
+      S6e &&
+      U7Q &&
+      u7A &&
+      new Date(U7Q.getTime() + N8v).getDate() !==
+        new Date(S6e.getTime() + N8v).getDate();
+    var { floatDate: I$0, anchorHandles: I4a = {} } = m34.controls;
+    j9p = I4a[L1l.uniqueId] || {};
+    var { highlighted: a2D } = j9p;
+    var [b2T, X_R] = f8H
+      .getNormalOpen()
+      .split(":")
+      .map((n6A) => {
+        e4C.a3_();
+        return parseInt(n6A);
+      });
+    g9s = (L7r) => {
+      var T$0;
+      T$0 = L7r ? m34.tickFromDate(L7r, null, null, !!{}) : F6l;
+      return [m34.pixelFromTick(T$0, o_p), T$0];
+    };
+    s8V = { y0: a95, y1: x3m, type: S_q, confineToPanel: e_P };
+    var [h7P] = g9s();
+    if (h7P) {
+      h7P -= 0.5;
+      m34.plotLine(
+        Object.assign(s8V, {
+          x0: h7P,
+          x1: h7P,
+          color: j8C ? T_S : r01,
+          pattern: [6, 6],
+          lineWidth: 1,
+          opacity: j8C ? 0.5 : "1" << 0,
+        }),
+      );
+      e5l.efficientDOMUpdate(I$0.style, "visibility", "");
+      m34.updateChartAccessories();
+    }
+    if (X9g) {
+      z0V = "s";
+      z0V += "oli";
+      z0V += "d";
+      E3r = u7A
+        ? new Date(z2F[z2F.length - 1].DT)
+        : e5l.strToDate(T7M["Anchor Date"]);
+      if (f8H.market_def && f8H.market_def.market_tz) {
+        E3r = new y8g.Date(E3r, f8H.market_def.market_tz);
+      }
+      if (!u7A) {
+        var [e9w, K6c, e3b] = (T7M["Anchor Date"] || "").split(
+          784 !== 25.67 ? "-" : 9.45e2,
+        );
+        if (!e3b) {
+          [, e9w, K6c, e3b] = e9w.match(/([0-9]{4})([0-9]{2})([0-9]{2})/);
+        }
+        e4C.w6J(32);
+        E3r.setFullYear(e9w, e4C.Y51("1", K6c), e3b);
+      }
+      var [U$O = 0, j2K = 0, u7M = 0] = (T7M["Anchor Time"] || "").split(
+        4158 !== (773.54, 774.88)
+          ? ":"
+          : (8280, 3226) != (115, 4110)
+            ? (904.33, !{})
+            : (0x242f, 5.41e3),
+      );
+      if (!j2K && j2K !== 0) {
+        [, U$O, j2K, u7M] = U$O.match(/([0-9]{2})([0-9]{2})([0-9]{2})/);
+      }
+      E3r.setHours(U$O, j2K, u7M);
+      T7E =
+        h93 &&
+        (E3r.getHours() > b2T ||
+          (E3r.getHours() === b2T && E3r.getMinutes() >= X_R));
+      if (T7E) {
+        E3r.setDate(E3r.getDate() - 1);
+      }
+      var [y6N, J5Y] = g9s(E3r);
+      C7J = new Date(E3r);
+      C7J.setHours(...f8H.getNormalClose().split(":"));
+      if (T7E) {
+        C7J.setDate(C7J.getDate() + 1);
+      }
+      var [u0h] = (C7J && g9s(C7J)) || [];
+      if (u7A && (y6N > k4B || u0h > k4B)) {
+        a8D = new Date(E3r);
+        if (f8H) {
+          do {
+            a8D.setDate(a8D.getDate() - 1);
+          } while (!f8H.isMarketDate(a8D));
+        }
+        var [E5V, I2A] = g9s(a8D);
+        if (E5V > k14) {
+          E3r = a8D;
+          y6N = E5V;
+          J5Y = I2A;
+        }
+      }
+      y6N -= 0.5;
+      m34.plotLine(
+        Object.assign(s8V, {
+          x0: y6N,
+          x1: y6N,
+          color: r01,
+          pattern: z0V,
+          lineWidth: w8c,
+          opacity: a2D || L1l.highlight ? 1 : 0.5,
+        }),
+      );
+      j9p.currentPixel = y6N;
+      if (a2D) {
+        p7e = "ew-";
+        p7e += "resize";
+        s0e = "p";
+        s0e += "x";
+        X9g.style.display = "";
+        e4C.w6J(147);
+        var A2y = e4C.B$D(18, 7, 1301, 200, 8);
+        e4C.C2v(117);
+        var B2$ = e4C.B$D(14, 14, 5, 20);
+        e4C.w6J(0);
+        var J_I = e4C.B$D(0, 8);
+        X9g.style.height = Math.max(Math.min(A2y, y55 / B2$), J_I) + "px";
+        O8L = X9g.getBoundingClientRect();
+        m6P = Math.max(
+          Math.min(Q0q - O8L.height / 2, x3m - ("3" << 32) - O8L.height),
+          a95 + 3,
+        );
+        e4C.C2v(0);
+        X9g.style.top = e4C.Y51(m6P, "px");
+        e4C.C2v(73);
+        var f51 = e4C.B$D(36, 2, 10, 9);
+        X9g.style.left = (F6l || F6l === 0 ? h7P : y6N) - O8L.width / f51 + s0e;
+        x7C.style.cursor = p7e;
+      } else {
+        o6r = "a";
+        o6r += "u";
+        o6r += "t";
+        o6r += "o";
+        X9g.style.display = "none";
+        x7C.style.cursor = o6r;
+      }
+      L1l.currentAnchorTime = E3r;
+      L1l.currentAnchorTick = J5Y;
+    }
+  };
+  e5l.Studies.assignAliasesToStudies = function (q4P) {
+    var m4$;
+    U6BfN.a3_();
+    m4$ = this;
+    Object.entries(q4P).forEach(([v5j, o_P]) => {
+      return ((m4$.studyLibrary[v5j] || {}).alias = o_P);
+    });
+  };
+  e5l.Studies.studyScriptLibrary = {};
+  e5l.Studies.studyLibrary = e5l.Studies.studyLibrary || {};
+  e5l.extend(e5l.Studies.studyLibrary, {
+    ma: {
+      name: T6K,
+      overlay: !![],
+      calculateFN: e5l.Studies.calculateMovingAverage,
+      inputs: { Period: 50, Field: "field", Type: "ma", Offset: 0 },
+      outputs: { MA: "#FF0000" },
+    },
+    "STD Dev": {
+      name: "Standard Deviation",
+      calculateFN: e5l.Studies.calculateStandardDeviation,
+      inputs: {
+        Period: 14,
+        Field: "field",
+        "Standard Deviations": 2,
+        "Moving Average Type": "ma",
+      },
+      attributes: { "Standard Deviations": { min: 0.1, step: 0.1 } },
+    },
+    "True Range": {
+      name: "True Range",
+      calculateFN: e5l.Studies.calculateStudyATR,
+      inputs: {},
+      outputs: { "True Range": "auto" },
+    },
+    volume: {
+      name: W_6,
+      range: "0 to max",
+      yAxis: { ground: !"" },
+      seriesFN: e5l.Studies.createVolumeChart,
+      calculateFN: e5l.Studies.calculateVolume,
+      inputs: { Series: N5O },
+      attributes: {
+        Series: {
+          hidden: function (z53) {
+            return !Object.keys(z53.chart.series).length;
+          },
+        },
+      },
+      outputs: { "Up Volume": "#8cc176", "Down Volume": "#b82c0c" },
+    },
+    MACross: {
+      name: "Moving Average Cross",
+      overlay: !!1,
+      calculateFN: e5l.Studies.calculateMultMA,
+      inputs: {
+        "MA 1 Period": 20,
+        "MA 2 Period": 50,
+        "MA 3 Period": 200,
+        Field: "field",
+        "Moving Average Type": "ma",
+        Offset: "0" - 0,
+      },
+      outputs: { "MA 1": U7t, "MA 2": "#00afed", "MA 3": "#f4932f" },
+    },
+  });
+};
+O5 = (P7M) => {
+  U6BfN.s8u();
+  var p5X;
+  p5X = typeof _CIQ !== "undefined" ? _CIQ : P7M.CIQ;
+  if (!p5X.ChartEngine.Driver) {
+    console.error(
+      "symbolLookupBase feature requires first activating quoteFeed feature.",
+    );
+  } else {
+    p5X.ChartEngine.Driver.Lookup = function (z3W) {};
+    p5X.ChartEngine.Driver.Lookup.prototype.acceptText = function (
+      Z4i,
+      d1z,
+      c2o,
+      h1z,
+    ) {
+      if (!this.cb) {
+        return;
+      }
+    };
+  }
+};
+k7 = (l_$) => {
+  var a_w;
+  a_w = typeof _CIQ !== "undefined" ? _CIQ : l_$.CIQ;
+  a_w.ThemeHelper =
+    a_w.ThemeHelper ||
+    function (e2X) {
+      var R8w, W3q, Y_c, v9s, S6H, a6p, f$y, J3F, K2L, a3W;
+      R8w = "Cand";
+      R8w += "le/Ba";
+      R8w += "r";
+      W3q = "st";
+      W3q += "x_mount";
+      W3q += "ain_chart";
+      Y_c = "st";
+      Y_c += "x_line_ch";
+      Y_c += "a";
+      Y_c += "rt";
+      v9s = "Candl";
+      v9s += "e";
+      v9s += "/B";
+      v9s += "ar";
+      S6H = "stx_";
+      S6H += "candle_shadow_down";
+      a6p = "stx_candl";
+      a6p += "e_dow";
+      a6p += "n";
+      f$y = "C";
+      f$y += "andle/";
+      f$y += "B";
+      f$y += "ar";
+      J3F = "s";
+      J3F += "tx";
+      J3F += "_";
+      J3F += "xaxis";
+      this.params = e2X;
+      K2L = e2X.stx;
+      a3W = "#FFFFFF";
+      if (K2L.chart.container) {
+        a3W = getComputedStyle(K2L.chart.container).backgroundColor;
+        if (a_w.isTransparent(a3W)) {
+          a3W = K2L.containerColor;
+        }
+      }
+      this.settings.chart.Background.color = a_w.hexToRgba(a3W);
+      this.settings.chart["Grid Lines"].color = a_w.hexToRgba(
+        K2L.canvasStyle("stx_grid").color,
+      );
+      this.settings.chart["Grid Dividers"].color = a_w.hexToRgba(
+        K2L.canvasStyle("stx_grid_dark").color,
+      );
+      this.settings.chart["Axis Text"].color = a_w.hexToRgba(
+        K2L.canvasStyle(J3F).color,
+      );
+      this.settings.chartTypes[f$y].up.color = a_w.hexToRgba(
+        K2L.canvasStyle("stx_candle_up").color,
+      );
+      this.settings.chartTypes["Candle/Bar"].down.color = a_w.hexToRgba(
+        K2L.canvasStyle(a6p).color,
+      );
+      this.settings.chartTypes["Candle/Bar"].up.wick = a_w.hexToRgba(
+        K2L.canvasStyle("stx_candle_shadow_up").color,
+      );
+      this.settings.chartTypes["Candle/Bar"].down.wick = a_w.hexToRgba(
+        K2L.canvasStyle(S6H).color,
+      );
+      this.settings.chartTypes["Candle/Bar"].even.wick = a_w.hexToRgba(
+        K2L.canvasStyle("stx_candle_shadow_even").color,
+      );
+      this.settings.chartTypes["Candle/Bar"].up.border = a_w.hexToRgba(
+        K2L.canvasStyle("stx_candle_up").borderLeftColor,
+      );
+      this.settings.chartTypes["Candle/Bar"].down.border = a_w.hexToRgba(
+        K2L.canvasStyle("stx_candle_down").borderLeftColor,
+      );
+      if (a_w.isTransparent(K2L.canvasStyle("stx_candle_up").borderLeftColor)) {
+        this.settings.chartTypes[v9s].up.border = null;
+      }
+      if (
+        a_w.isTransparent(K2L.canvasStyle("stx_candle_down").borderLeftColor)
+      ) {
+        this.settings.chartTypes["Candle/Bar"].down.border = null;
+      }
+      this.settings.chartTypes.Line.color = a_w.hexToRgba(
+        K2L.canvasStyle(Y_c).color,
+      );
+      this.settings.chartTypes.Mountain.color = a_w.hexToRgba(
+        K2L.canvasStyle("stx_mountain_chart").backgroundColor,
+      );
+      this.settings.chartTypes.Mountain.basecolor = a_w.hexToRgba(
+        K2L.canvasStyle(W3q).color,
+      );
+      if (!this.settings.chartTypes["Candle/Bar"].even.color) {
+        this.settings.chartTypes["Candle/Bar"].even.color =
+          this.settings.chartTypes[R8w].even.wick;
+      }
+      if (!this.settings.chartTypes["Candle/Bar"].even.border) {
+        this.settings.chartTypes["Candle/Bar"].even.border =
+          this.settings.chartTypes["Candle/Bar"].even.wick;
+      }
+    };
+  a_w.ThemeHelper.prototype.settings = {
+    chart: {
+      Background: { color: null },
+      "Grid Lines": { color: null },
+      "Grid Dividers": { color: null },
+      "Axis Text": { color: null },
+    },
+    chartTypes: {
+      "Candle/Bar": {
+        up: { color: null, wick: null, border: null },
+        down: { color: null, wick: null, border: null },
+        even: { color: null, wick: null, border: null },
+      },
+      Line: { color: null },
+      Mountain: { color: null, basecolor: null },
+    },
+  };
+  U6BfN.a3_();
+  a_w.ThemeHelper.prototype.update = function (t6T) {
+    var h$G, N1$, D7n, Q4s, y$7, T4h, y9m, P0h, a49, X9M, d22, k6U, B8n;
+    h$G = "stx_mountain_c";
+    h$G += "hart";
+    N1$ = "ba";
+    N1$ += "ckgroundColo";
+    N1$ += "r";
+    D7n = "borde";
+    D7n += "rTo";
+    D7n += "pColo";
+    D7n += "r";
+    Q4s = "stx_ca";
+    Q4s += "ndle_do";
+    Q4s += "w";
+    Q4s += "n";
+    y$7 = "bo";
+    y$7 += "rde";
+    y$7 += "rLeftCol";
+    y$7 += "or";
+    T4h = "co";
+    T4h += "lo";
+    T4h += "r";
+    y9m = "s";
+    y9m += "tx_can";
+    y9m += "dle_even";
+    P0h = "c";
+    P0h += "olor";
+    a49 = "st";
+    a49 += "x";
+    a49 += "_candle_up";
+    X9M = "Cand";
+    X9M += "le/Bar";
+    function n6W(w_T, z_c, F$2) {
+      var H9H;
+      H9H = k6U[w_T];
+      for (var M9a in H9H) {
+        t6T.setStyle(M9a, z_c, F$2);
+      }
+    }
+    d22 = "Grid";
+    d22 += " Di";
+    d22 += "v";
+    d22 += "iders";
+    if (!t6T) {
+      t6T = this.params.stx;
+    }
+    k6U = {
+      stx_candle_up: {
+        stx_candle_up: !![],
+        stx_bar_up: !![],
+        stx_hollow_candle_up: !![],
+        stx_line_up: !!"1",
+        stx_baseline_up: !![],
+      },
+      stx_candle_down: {
+        stx_candle_down: !"",
+        stx_bar_down: !0,
+        stx_hollow_candle_down: !!1,
+        stx_line_down: !!{},
+        stx_baseline_down: !0,
+      },
+      stx_candle_even: {
+        stx_candle_even: !!{},
+        stx_bar_even: !!{},
+        stx_hollow_candle_even: !!{},
+      },
+      stx_shadow_up: { stx_candle_shadow_up: !!1 },
+      stx_shadow_down: { stx_candle_shadow_down: !!{} },
+      stx_shadow_even: { stx_candle_shadow_even: !![] },
+      stx_line_chart: { stx_bar_chart: !"", stx_line_chart: !!"1" },
+      stx_grid: { stx_grid: !0 },
+      stx_grid_dark: { stx_grid_dark: !0 },
+      stx_xaxis: {
+        stx_xaxis_dark: !!{},
+        stx_xaxis: !0,
+        stx_yaxis: !0,
+        stx_yaxis_dark: !!"1",
+        stx_grid_border: !![],
+      },
+      stx_mountain_chart: { stx_mountain_chart: !![] },
+      stx_market_session: { stx_market_session: !"" },
+    };
+    t6T.chart.container.style.backgroundColor =
+      this.settings.chart.Background.color;
+    t6T.defaultColor = "";
+    n6W("stx_grid", "color", this.settings.chart["Grid Lines"].color);
+    n6W("stx_grid_dark", "color", this.settings.chart[d22].color);
+    n6W("stx_xaxis", "color", this.settings.chart["Axis Text"].color);
+    B8n = this.settings.chartTypes[X9M];
+    if (!B8n.even) {
+      B8n.even = {
+        color: null,
+        wick: a_w.hexToRgba(t6T.canvasStyle("stx_candle_shadow_even").color),
+        border: null,
+      };
+    }
+    n6W(a49, P0h, B8n.up.color);
+    n6W("stx_candle_down", "color", B8n.down.color);
+    n6W(y9m, T4h, B8n.even.color);
+    n6W("stx_shadow_up", "color", B8n.up.wick);
+    n6W("stx_shadow_down", "color", B8n.down.wick);
+    n6W("stx_shadow_even", "color", B8n.even.wick);
+    t6T.setStyle("stx_candle_up", y$7, B8n.up.border);
+    t6T.setStyle(Q4s, "borderLeftColor", B8n.down.border);
+    n6W("stx_line_chart", "color", this.settings.chartTypes.Line.color);
+    t6T.setStyle(
+      "stx_mountain_chart",
+      D7n,
+      a_w.hexToRgba(this.settings.chartTypes.Mountain.color, 1),
+    );
+    t6T.setStyle(
+      "stx_mountain_chart",
+      N1$,
+      a_w.hexToRgba(this.settings.chartTypes.Mountain.color, +"0.5"),
+    );
+    t6T.setStyle(
+      h$G,
+      "color",
+      a_w.hexToRgba(this.settings.chartTypes.Mountain.basecolor, 0.01),
+    );
+    t6T.draw();
+  };
+  a_w.ChartEngine.prototype.setThemeSettings = function (m7m) {
+    var G63, T3E;
+    G63 = a_w.getFromNS(this, "uiContext.topNode.multiChartContainer");
+    var { breakpoint: c0O } = this.chart;
+    U6BfN.s8u();
+    if (G63) {
+      this.styles = G63.styles[c0O] || {};
+      G63.styles[c0O] = this.styles;
+    } else {
+      this.styles = {};
+    }
+    this.chart.container.style.backgroundColor = "";
+    this.defaultColor = "";
+    if (m7m) {
+      T3E = new a_w.ThemeHelper({ stx: this });
+      T3E.settings = m7m;
+      T3E.update();
+    }
+    this.updateListeners("theme");
+    this.changeOccurred("theme");
+    if (this.displayInitialized) {
+      this.headsUpHR();
+      this.clearPixelCache();
+      this.updateListeners("theme");
+      this.draw();
+    }
+  };
+};
+t4 = (o0t) => {
+  var L1h, r9R, g2p, W2j, x2S, o13, O4f, i8g;
+  L1h = "m";
+  L1h += "a";
+  L1h += "x";
+  r9R = "las";
+  r9R += "tSun";
+  g2p = "J";
+  g2p += "%s";
+  g2p += "T";
+  W2j = "Asia";
+  W2j += "/";
+  W2j += "To";
+  W2j += "kyo";
+  x2S = "und";
+  x2S += "efined";
+  o13 = "un";
+  o13 += "defined";
+  O4f = typeof _CIQ !== o13 ? _CIQ : o0t.CIQ;
+  i8g = typeof _timezoneJS !== x2S ? _timezoneJS : o0t.timezoneJS;
+  O4f.timeZoneMap = {
+    "(UTC-05:00) Eastern Time (US and Canada)": "America/New_York",
+    "(UTC) Greenwich Mean Time, Reykjavik": "UTC",
+    "(UTC) Lisbon, London": "Europe/London",
+    "(UTC+09:00) Osaka, Sapporo, Tokyo": W2j,
+  };
+  (function () {
+    var e1R,
+      X6d,
+      O7z,
+      n00,
+      b2t,
+      Z5f,
+      v9L,
+      G2$,
+      S0n,
+      M0u,
+      Y_O,
+      i9G,
+      a5_,
+      g$3,
+      T44,
+      V1U,
+      F0t,
+      D3i;
+    e1R = "De";
+    e1R += "cemb";
+    e1R += "er";
+    X6d = "Octo";
+    X6d += "be";
+    X6d += "r";
+    O7z = "Ma";
+    O7z += "r";
+    O7z += "ch";
+    n00 = "Wednes";
+    n00 += "d";
+    n00 += "a";
+    n00 += "y";
+    b2t = "S";
+    b2t += "un";
+    b2t += "day";
+    Z5f = "0";
+    Z5f += ".4";
+    Z5f += ".";
+    Z5f += "11";
+    ("use strict");
+    v9L = typeof window !== "undefined" ? window : null;
+    G2$ = v9L || (typeof global !== "undefined" ? global : {});
+    i8g.VERSION = Z5f;
+    i8g.stub = !{};
+    S0n = G2$.$ || G2$.jQuery || G2$.Zepto;
+    M0u = G2$.fleegix;
+    Y_O = i8g.Days = [
+      b2t,
+      "Monday",
+      "Tuesday",
+      n00,
+      "Thursday",
+      "Friday",
+      "Saturday",
+    ];
+    i9G = i8g.Months = [
+      "January",
+      "February",
+      O7z,
+      "April",
+      "May",
+      "June",
+      "July",
+      "August",
+      "September",
+      X6d,
+      "November",
+      e1R,
+    ];
+    a5_ = {};
+    g$3 = {};
+    T44 = {};
+    for (var S01 = 0; S01 < i9G.length; S01++) {
+      a5_[i9G[S01].substr(0, 3)] = S01;
+    }
+    for (S01 = 0; S01 < Y_O.length; S01++) {
+      g$3[Y_O[S01].substr(0, 3)] = S01;
+    }
+    V1U =
+      Array.prototype.indexOf ||
+      function (q3j) {
+        var R9h, R$I, F0M, g4F;
+        if (this === null) {
+          throw new TypeError();
+        }
+        R9h = Object(this);
+        R$I = R9h.length >>> +"0";
+        if (R$I === 0) {
+          return -1;
+        }
+        F0M = 0;
+        if (arguments.length > 1) {
+          F0M = Number(arguments[1]);
+          if (F0M != F0M) {
+            F0M = +"0";
+          } else if (F0M !== 0 && F0M !== Infinity && F0M !== -Infinity) {
+            U6BfN.C2v(40);
+            var z$C = U6BfN.B$D(3, 8, 2, 8);
+            F0M = (F0M > 0 || z$C) * Math.floor(Math.abs(F0M));
+          }
+        }
+        if (F0M >= R$I) {
+          return -1;
+        }
+        g4F = F0M >= 0 ? F0M : Math.max(R$I - Math.abs(F0M), 0);
+        for (; g4F < R$I; g4F++) {
+          if (g4F in R9h && R9h[g4F] === q3j) {
+            return g4F;
+          }
+        }
+        U6BfN.s8u();
+        return -1;
+      };
+    F0t = function (s07, u_9) {
+      var y_i = U6BfN;
+      var I1$, i74, m3g, W5G, i96, o51, h0O, M3C;
+      I1$ = "n";
+      I1$ += "u";
+      I1$ += "mbe";
+      I1$ += "r";
+      if (typeof s07 !== I1$) {
+        i74 = "not a ";
+        i74 += "number";
+        i74 += ": ";
+        y_i.w6J(0);
+        throw y_i.Y51(i74, s07);
+      }
+      m3g = -729743342;
+      W5G = 504067053;
+      i96 = 2;
+      for (
+        var B$n = 1;
+        y_i.C6S(B$n.toString(), B$n.toString().length, 11798) !== m3g;
+        B$n++
+      ) {
+        y_i.C2v(90);
+        o51 = y_i.Y51(s07, 2470);
+        h0O = s07.toString();
+        i96 += 2;
+      }
+      if (y_i.D9u(i96.toString(), i96.toString().length, 28457) !== W5G) {
+        y_i.w6J(87);
+        o51 = y_i.B$D(5040, s07);
+        h0O = s07.toString();
+      }
+      y_i.w6J(89);
+      o51 = y_i.B$D(s07, 1000);
+      h0O = s07.toString();
+      M3C = h0O.length;
+      if (o51 && M3C > u_9) {
+        y_i.C2v(10);
+        return h0O.substr(y_i.B$D(u_9, M3C), M3C);
+      }
+      h0O = [h0O];
+      while (M3C < u_9) {
+        h0O.unshift(
+          9982 > "5550" * 1
+            ? (473.71, "5080" * 1) < 3352
+              ? "N"
+              : 4.66 == 8440
+                ? ("Z", 7.1e3)
+                : "0"
+            : "t",
+        );
+        M3C++;
+      }
+      return h0O.join("");
+    };
+    D3i = function (o2e) {
+      var W7w, y04, I$y;
+      W7w = "ge";
+      W7w += "t";
+      y04 = "undefine";
+      y04 += "d";
+      I$y = "URL must be ";
+      I$y += "specified";
+      if (!o2e) {
+        return;
+      }
+      if (!o2e.url) {
+        throw new Error(I$y);
+      }
+      if (!("async" in o2e)) {
+        o2e.async = !!"1";
+      }
+      if (
+        (!M0u || typeof M0u.xhr === y04) &&
+        (!S0n || typeof S0n.ajax === "undefined")
+      ) {
+        throw new Error(
+          "Please use the Fleegix.js XHR module, jQuery ajax, Zepto ajax, or define your own transport mechanism for downloading zone files.",
+        );
+      }
+      if (!o2e.async) {
+        return M0u && M0u.xhr
+          ? M0u.xhr.doReq({ url: o2e.url, async: !{} })
+          : S0n.ajax({ url: o2e.url, async: !!"", dataType: "text" })
+              .responseText;
+      }
+      return M0u && M0u.xhr
+        ? M0u.xhr.send({
+            url: o2e.url,
+            method: W7w,
+            handleSuccess: o2e.success,
+            handleErr: o2e.error,
+          })
+        : S0n.ajax({
+            url: o2e.url,
+            dataType: "text",
+            method: "GET",
+            error: o2e.error,
+            success: o2e.success,
+          });
+    };
+    i8g.ruleCache = {};
+    i8g.Date = function () {
+      var t_Y = U6BfN;
+      var R1o, i1A, c4w, J8W, k$A, V8z, g5Q, x5Y, A9Q;
+      R1o = "s";
+      R1o += "t";
+      R1o += "ri";
+      R1o += "ng";
+      i1A = "[";
+      i1A += "objec";
+      i1A += "t";
+      i1A += " Array]";
+      if (this === i8g) {
+        c4w = "timezoneJS.Date object must be constructe";
+        c4w += "d with 'n";
+        c4w += "ew'";
+        throw c4w;
+      }
+      J8W = Array.prototype.slice.apply(arguments);
+      k$A = null;
+      V8z = null;
+      g5Q = [];
+      x5Y = ![];
+      if (Object.prototype.toString.call(J8W[0]) === i1A) {
+        J8W = J8W[0];
+      }
+      if (typeof J8W[J8W.length - 1] === R1o) {
+        x5Y = Date.parse(J8W[J8W.length - 1].replace(/GMT[+-]\d+/, ""));
+        if (isNaN(x5Y) || x5Y === null) {
+          V8z = J8W.pop();
+        }
+      }
+      A9Q = !!"";
+      switch (J8W.length) {
+        case 0:
+          k$A = new Date();
+          break;
+        case 1:
+          k$A = new Date(J8W[0]);
+          if (
+            typeof J8W[0] == "string" &&
+            J8W[0].search(/[+-][0-9]{4}/) == -1 &&
+            J8W[+"0"].search(/Z/) == -1 &&
+            J8W[0].search(/T/) == -("1" << 0)
+          ) {
+            A9Q = !!{};
+          }
+          break;
+        case 2:
+          k$A = new Date(J8W[0], J8W[1]);
+          A9Q = !!"1";
+          break;
+        default:
+          for (var K7J = 0; K7J < 7; K7J++) {
+            g5Q[K7J] = J8W[K7J] || "0" ^ 0;
+          }
+          t_Y.w6J(1);
+          k$A = new Date(
+            g5Q[0],
+            g5Q[t_Y.B$D(32, "1")],
+            g5Q[2],
+            g5Q[+"3"],
+            g5Q[4],
+            g5Q[t_Y.B$D("5", 1, t_Y.C2v(3))],
+            g5Q[6],
+          );
+          A9Q = !!{};
+          break;
+      }
+      if (isNaN(k$A.getTime())) {
+        throw new Error("Invalid date");
+      }
+      this._useCache = !{};
+      this._tzInfo = {};
+      t_Y.w6J(23);
+      this._day = t_Y.Y51("0", 0);
+      this.year = 0;
+      t_Y.C2v(3);
+      this.month = t_Y.B$D("0", 1);
+      t_Y.s8u();
+      this.date = 0;
+      this.hours = 0;
+      this.minutes = 0;
+      this.seconds = +"0";
+      this.milliseconds = 0;
+      this.timezone = V8z || null;
+      if (A9Q) {
+        this.setFromDateObjProxy(k$A);
+      } else {
+        this.setFromTimeProxy(k$A.getTime(), V8z);
+      }
+    };
+    O4f.extend(
+      i8g.Date.prototype,
+      {
+        getDate: function () {
+          return this.date;
+        },
+        getDay: function () {
+          return this._day;
+        },
+        getFullYear: function () {
+          U6BfN.a3_();
+          return this.year;
+        },
+        getMonth: function () {
+          return this.month;
+        },
+        getYear: function () {
+          U6BfN.C2v(148);
+          var v8d = U6BfN.Y51(1908, 3, 19, 1878, 1908);
+          return this.year - v8d;
+        },
+        getHours: function () {
+          U6BfN.s8u();
+          return this.hours;
+        },
+        getMilliseconds: function () {
+          return this.milliseconds;
+        },
+        getMinutes: function () {
+          return this.minutes;
+        },
+        getSeconds: function () {
+          U6BfN.a3_();
+          return this.seconds;
+        },
+        getUTCDate: function () {
+          return this.getUTCDateProxy().getUTCDate();
+        },
+        getUTCDay: function () {
+          return this.getUTCDateProxy().getUTCDay();
+        },
+        getUTCFullYear: function () {
+          U6BfN.a3_();
+          return this.getUTCDateProxy().getUTCFullYear();
+        },
+        getUTCHours: function () {
+          return this.getUTCDateProxy().getUTCHours();
+        },
+        getUTCMilliseconds: function () {
+          return this.getUTCDateProxy().getUTCMilliseconds();
+        },
+        getUTCMinutes: function () {
+          U6BfN.a3_();
+          return this.getUTCDateProxy().getUTCMinutes();
+        },
+        getUTCMonth: function () {
+          U6BfN.a3_();
+          return this.getUTCDateProxy().getUTCMonth();
+        },
+        getUTCSeconds: function () {
+          return this.getUTCDateProxy().getUTCSeconds();
+        },
+        getTime: function () {
+          U6BfN.w6J(121);
+          var e0d = U6BfN.Y51(5, 1, 55);
+          return (
+            this._timeProxy + this.getTimezoneOffset() * e0d * ("1000" - 0)
+          );
+        },
+        getTimezone: function () {
+          return this.timezone;
+        },
+        getTimezoneOffset: function () {
+          return this.getTimezoneInfo().tzOffset;
+        },
+        getTimezoneAbbreviation: function () {
+          U6BfN.s8u();
+          return this.getTimezoneInfo().tzAbbr;
+        },
+        getTimezoneInfo: function () {
+          U6BfN.a3_();
+          var s48, J16;
+          if (this._useCache) {
+            return this._tzInfo;
+          }
+          if (this.timezone) {
+            J16 = "Et";
+            J16 += "c/U";
+            J16 += "T";
+            J16 += "C";
+            s48 =
+              this.timezone === J16 || this.timezone === "Etc/GMT"
+                ? { tzOffset: 0, tzAbbr: "UTC" }
+                : i8g.timezone.getTzInfo(this._timeProxy, this.timezone);
+          } else {
+            s48 = { tzOffset: this.getLocalOffset(), tzAbbr: null };
+          }
+          this._tzInfo = s48;
+          this._useCache = !0;
+          return s48;
+        },
+        getUTCDateProxy: function () {
+          U6BfN.a3_();
+          var p6G;
+          p6G = new Date(this._timeProxy);
+          p6G.setUTCMinutes(p6G.getUTCMinutes() + this.getTimezoneOffset());
+          return p6G;
+        },
+        setDate: function (G6I) {
+          U6BfN.s8u();
+          this.setAttribute("date", G6I);
+          return this.getTime();
+        },
+        setFullYear: function (P9S, R9K, z_H) {
+          var s9u = U6BfN;
+          s9u.s8u();
+          var n2P, Y1O, t4U, s5I;
+          if (z_H !== undefined) {
+            n2P = "d";
+            n2P += "a";
+            n2P += "t";
+            n2P += "e";
+            Y1O = -899603069;
+            s9u.w6J(23);
+            t4U = s9u.Y51("864269898", 0);
+            s5I = 2;
+            for (
+              var D5W = 1;
+              s9u.D9u(D5W.toString(), D5W.toString().length, 43197) !== Y1O;
+              D5W++
+            ) {
+              s9u.w6J(10);
+              this.setAttribute("", s9u.Y51(0, "0"));
+              s5I += 2;
+            }
+            if (s9u.D9u(s5I.toString(), s5I.toString().length, 99609) !== t4U) {
+              this.setAttribute("", 0);
+            }
+            this.setAttribute(n2P, 1);
+          }
+          this.setAttribute("year", P9S);
+          if (R9K !== undefined) {
+            this.setAttribute("month", R9K);
+          }
+          if (z_H !== undefined) {
+            this.setAttribute("date", z_H);
+          }
+          return this.getTime();
+        },
+        setMonth: function (Y5f, H9d) {
+          var w0n, B9R;
+          w0n = "m";
+          w0n += "on";
+          w0n += "th";
+          this.setAttribute(w0n, Y5f);
+          if (H9d !== undefined) {
+            B9R = "dat";
+            B9R += "e";
+            this.setAttribute(B9R, H9d);
+          }
+          return this.getTime();
+        },
+        setYear: function (s08) {
+          U6BfN.a3_();
+          s08 = Number(s08);
+          if (0 <= s08 && s08 <= 99) {
+            s08 += 1900;
+          }
+          this.setUTCAttribute("year", s08);
+          return this.getTime();
+        },
+        setHours: function (M4o, l0T, z9s, a5J) {
+          var h2c, U48;
+          h2c = "h";
+          h2c += "ou";
+          h2c += "r";
+          h2c += "s";
+          this.setAttribute(h2c, M4o);
+          if (l0T !== undefined) {
+            U48 = "min";
+            U48 += "ute";
+            U48 += "s";
+            this.setAttribute(U48, l0T);
+          }
+          if (z9s !== undefined) {
+            this.setAttribute("seconds", z9s);
+          }
+          if (a5J !== undefined) {
+            this.setAttribute("milliseconds", a5J);
+          }
+          return this.getTime();
+        },
+        setMinutes: function (j1N, m2c, I7O) {
+          U6BfN.s8u();
+          var A_L;
+          A_L = "min";
+          A_L += "utes";
+          this.setAttribute(A_L, j1N);
+          if (m2c !== undefined) {
+            this.setAttribute("seconds", m2c);
+          }
+          if (I7O !== undefined) {
+            this.setAttribute("milliseconds", I7O);
+          }
+          return this.getTime();
+        },
+        setSeconds: function (b6t, z6H) {
+          this.setAttribute("seconds", b6t);
+          U6BfN.a3_();
+          if (z6H !== undefined) {
+            this.setAttribute("milliseconds", z6H);
+          }
+          return this.getTime();
+        },
+        setMilliseconds: function (F0R) {
+          this.setAttribute("milliseconds", F0R);
+          return this.getTime();
+        },
+        setTime: function (k8K) {
+          if (isNaN(k8K)) {
+            throw new Error("Units must be a number.");
+          }
+          this.setFromTimeProxy(k8K, this.timezone);
+          return this.getTime();
+        },
+        setUTCFullYear: function (p$m, h2K, h7X) {
+          var Z1e;
+          if (h7X !== undefined) {
+            this.setUTCAttribute("date", 1);
+          }
+          U6BfN.a3_();
+          this.setUTCAttribute("year", p$m);
+          if (h2K !== undefined) {
+            this.setUTCAttribute("month", h2K);
+          }
+          if (h7X !== undefined) {
+            Z1e = "d";
+            Z1e += "a";
+            Z1e += "t";
+            Z1e += "e";
+            this.setUTCAttribute(Z1e, h7X);
+          }
+          return this.getTime();
+        },
+        setUTCMonth: function (P9F, A1k) {
+          var B7T;
+          this.setUTCAttribute("month", P9F);
+          U6BfN.a3_();
+          if (A1k !== undefined) {
+            B7T = "d";
+            B7T += "at";
+            B7T += "e";
+            this.setUTCAttribute(B7T, A1k);
+          }
+          return this.getTime();
+        },
+        setUTCDate: function (Q7j) {
+          var Q1G;
+          Q1G = "da";
+          Q1G += "t";
+          Q1G += "e";
+          this.setUTCAttribute(Q1G, Q7j);
+          return this.getTime();
+        },
+        setUTCHours: function (d_o, g_B, e0f, D7K) {
+          U6BfN.s8u();
+          var r$N, Q2P;
+          r$N = "h";
+          r$N += "ours";
+          this.setUTCAttribute(r$N, d_o);
+          if (g_B !== undefined) {
+            Q2P = "m";
+            Q2P += "inutes";
+            this.setUTCAttribute(Q2P, g_B);
+          }
+          if (e0f !== undefined) {
+            this.setUTCAttribute("seconds", e0f);
+          }
+          if (D7K !== undefined) {
+            this.setUTCAttribute("milliseconds", D7K);
+          }
+          return this.getTime();
+        },
+        setUTCMinutes: function (U1Y, L71, Z$k) {
+          var N1r;
+          N1r = "m";
+          N1r += "inutes";
+          this.setUTCAttribute(N1r, U1Y);
+          if (L71 !== undefined) {
+            this.setUTCAttribute("seconds", L71);
+          }
+          if (Z$k !== undefined) {
+            this.setUTCAttribute("milliseconds", Z$k);
+          }
+          return this.getTime();
+        },
+        setUTCSeconds: function (j80, I1U) {
+          var S_J;
+          this.setUTCAttribute("seconds", j80);
+          if (I1U !== undefined) {
+            S_J = "m";
+            S_J += "il";
+            S_J += "lisec";
+            S_J += "onds";
+            this.setUTCAttribute(S_J, I1U);
+          }
+          return this.getTime();
+        },
+        setUTCMilliseconds: function (X7i) {
+          var k_r;
+          U6BfN.s8u();
+          k_r = "milliseco";
+          k_r += "n";
+          k_r += "ds";
+          this.setUTCAttribute(k_r, X7i);
+          return this.getTime();
+        },
+        setFromDateObjProxy: function (j6K) {
+          this.year = j6K.getFullYear();
+          this.month = j6K.getMonth();
+          this.date = j6K.getDate();
+          this.hours = j6K.getHours();
+          this.minutes = j6K.getMinutes();
+          this.seconds = j6K.getSeconds();
+          this.milliseconds = j6K.getMilliseconds();
+          this._day = j6K.getDay();
+          this._dateProxy = j6K;
+          this._timeProxy = Date.UTC(
+            this.year,
+            this.month,
+            this.date,
+            this.hours,
+            this.minutes,
+            this.seconds,
+            this.milliseconds,
+          );
+          this._useCache = !!0;
+        },
+        setFromTimeProxy: function (D8l, U7u) {
+          var b17, U6U;
+          b17 = new Date(D8l);
+          U6U = U7u
+            ? i8g.timezone.getTzInfo(D8l, U7u, !!1).tzOffset
+            : b17.getTimezoneOffset();
+          b17.setTime(D8l + (b17.getTimezoneOffset() - U6U) * 60000);
+          this.setFromDateObjProxy(b17);
+        },
+        setAttribute: function (e95, O70) {
+          var G4_, y0T;
+          if (isNaN(O70)) {
+            throw new Error("Units must be a number.");
+          }
+          G4_ = this._dateProxy;
+          y0T =
+            e95 === "year"
+              ? "FullYear"
+              : e95.substr(0, 1).toUpperCase() + e95.substr(1);
+          G4_["set" + y0T](O70);
+          this.setFromDateObjProxy(G4_);
+        },
+        setUTCAttribute: function (P7Q, p_k) {
+          var o4b, x9c, s_a;
+          o4b = "FullYe";
+          o4b += "ar";
+          if (isNaN(p_k)) {
+            throw new Error("Units must be a number.");
+          }
+          x9c =
+            P7Q === "year"
+              ? o4b
+              : P7Q.substr(0, +"1").toUpperCase() + P7Q.substr(1);
+          s_a = this.getUTCDateProxy();
+          s_a["setUTC" + x9c](p_k);
+          s_a.setUTCMinutes(s_a.getUTCMinutes() - this.getTimezoneOffset());
+          this.setFromTimeProxy(
+            s_a.getTime() + this.getTimezoneOffset() * 60000,
+            this.timezone,
+          );
+        },
+        setTimezone: function (d4D) {
+          var K1k;
+          K1k = this.getTimezoneInfo().tzOffset;
+          this.timezone = d4D;
+          U6BfN.s8u();
+          this._useCache = !!"";
+          this.setUTCMinutes(
+            this.getUTCMinutes() - this.getTimezoneInfo().tzOffset + K1k,
+          );
+        },
+        removeTimezone: function () {
+          this.timezone = null;
+          this._useCache = !"1";
+        },
+        valueOf: function () {
+          return this.getTime();
+        },
+        clone: function () {
+          U6BfN.a3_();
+          return this.timezone
+            ? new i8g.Date(this.getTime(), this.timezone)
+            : new i8g.Date(this.getTime());
+        },
+        toGMTString: function () {
+          return this.toString("EEE, dd MMM yyyy HH:mm:ss Z", "Etc/GMT");
+        },
+        toLocaleStringIntl: function () {},
+        toLocaleDateString: function () {},
+        toLocaleTimeString: function () {},
+        toSource: function () {},
+        toISOString: function () {
+          var L1c = U6BfN;
+          L1c.w6J(120);
+          var x45 = L1c.B$D(16700, 3340, 1656, 5, 13);
+          L1c.w6J(55);
+          var N0_ = L1c.Y51(16, 1259, 1254, 1238);
+          L1c.C2v(19);
+          var b9B = L1c.B$D(4, 8830, 6);
+          L1c.C2v(2);
+          var S$T = L1c.B$D(14, 2, 273);
+          return (
+            this.toString("yyyy-MM-ddTHH:mm:ss.SSS", "Etc/UTC") +
+            ((x45, N0_) <= "6856" << 0
+              ? (538.91, b9B) === (634.15, 782.68)
+                ? S$T
+                : "Z"
+              : !{})
+          );
+        },
+        toJSON: function () {
+          return this.toISOString();
+        },
+        toDateString: function () {
+          return this.toString("EEE MMM dd yyyy");
+        },
+        toTimeString: function () {
+          var j7l;
+          j7l = "H";
+          j7l += ":m";
+          j7l += "m ";
+          U6BfN.s8u();
+          j7l += "k";
+          return this.toString(j7l);
+        },
+        toString: function (a1F, I1A) {
+          var d_O = U6BfN;
+          var k2i, k2j, z4h, R94, z9G;
+          k2i = "yyyy-MM-ddTHH:mm:s";
+          k2i += "s.SSS";
+          if (!a1F) {
+            a1F = k2i;
+          }
+          d_O.a3_();
+          k2j = a1F;
+          z4h = I1A
+            ? i8g.timezone.getTzInfo(this.getTime(), I1A)
+            : this.getTimezoneInfo();
+          R94 = this;
+          if (I1A) {
+            R94 = this.clone();
+            R94.setTimezone(I1A);
+          }
+          z9G = R94.getHours();
+          return k2j
+            .replace(/a+/g, function () {
+              d_O.s8u();
+              return (621.33, 4570) === 5809 ? +"0x1560" : "k";
+            })
+            .replace(/y+/g, function (b6Q) {
+              return F0t(R94.getFullYear(), b6Q.length);
+            })
+            .replace(/d+/g, function (H17) {
+              d_O.a3_();
+              return F0t(R94.getDate(), H17.length);
+            })
+            .replace(/m+/g, function (l3s) {
+              return F0t(R94.getMinutes(), l3s.length);
+            })
+            .replace(/s+/g, function (H_u) {
+              return F0t(R94.getSeconds(), H_u.length);
+            })
+            .replace(/S+/g, function (V74) {
+              d_O.a3_();
+              return F0t(R94.getMilliseconds(), V74.length);
+            })
+            .replace(/h+/g, function (M_$) {
+              return F0t(z9G % 12 === 0 ? "12" ^ 0 : z9G % 12, M_$.length);
+            })
+            .replace(/M+/g, function (S9s) {
+              var w9s, D7h;
+              w9s = R94.getMonth();
+              D7h = S9s.length;
+              if (D7h > 3) {
+                return i8g.Months[w9s];
+              } else if (D7h > +"2") {
+                return i8g.Months[w9s].substring(0, D7h);
+              }
+              d_O.C2v(0);
+              return F0t(d_O.Y51(w9s, 1), D7h);
+            })
+            .replace(/k+/g, function () {
+              var j$O;
+              d_O.s8u();
+              if (z9G >= 12) {
+                j$O = "P";
+                j$O += "M";
+                if (z9G > 12) {
+                  z9G -= 12;
+                }
+                return j$O;
+              }
+              return "AM";
+            })
+            .replace(/H+/g, function (a9f) {
+              return F0t(z9G, a9f.length);
+            })
+            .replace(/E+/g, function (u2D) {
+              return Y_O[R94.getDay()].substring(0, u2D.length);
+            })
+            .replace(/Z+/gi, function () {
+              return z4h.tzAbbr;
+            });
+        },
+        toUTCString: function () {
+          U6BfN.s8u();
+          return this.toGMTString();
+        },
+        civilToJulianDayNumber: function (G3C, e8$, J90) {
+          var A$x = U6BfN;
+          var v8N, b4g, m_L;
+          e8$++;
+          if (e8$ > "12" << 0) {
+            A$x.w6J(149);
+            v8N = parseInt(A$x.B$D(32, e8$, "12"), 10);
+            A$x.C2v(81);
+            e8$ = A$x.Y51(e8$, 12);
+            G3C += v8N;
+          }
+          if (e8$ <= 2) {
+            G3C -= 1;
+            e8$ += 12;
+          }
+          A$x.C2v(11);
+          v8N = Math.floor(A$x.Y51(100, G3C));
+          A$x.C2v(0);
+          var O$n = A$x.Y51(0, 2);
+          A$x.w6J(40);
+          var i7w = A$x.B$D(73, 14, 11, 2);
+          b4g = O$n - v8N + Math.floor(v8N / i7w);
+          A$x.C2v(150);
+          var T2B = A$x.Y51(6, 51876, 1, 3933, 3);
+          A$x.w6J(151);
+          var s6j = A$x.B$D(1, 0, 18, 19);
+          A$x.C2v(152);
+          var i$0 = A$x.Y51(17, 1543, 1289, 17, 7);
+          m_L =
+            Math.floor(365.25 * (G3C + T2B)) +
+            Math.floor(30.6001 * (e8$ + s6j)) +
+            J90 +
+            b4g -
+            i$0;
+          return m_L;
+        },
+        getLocalOffset: function () {
+          return this._dateProxy.getTimezoneOffset();
+        },
+      },
+      !"",
+    );
+    i8g.timezone = new (function () {
+      var b4f,
+        M8Z,
+        H$q,
+        y1s,
+        P$7,
+        q3C,
+        O2Y,
+        S0J,
+        C9_,
+        R24,
+        y69,
+        g9b,
+        o4C,
+        B0K,
+        V$i,
+        K9E,
+        X8o;
+      b4f = "eu";
+      b4f += "ro";
+      b4f += "p";
+      b4f += "e";
+      M8Z = "etce";
+      M8Z += "t";
+      M8Z += "era";
+      function Q5r(Y4D) {
+        var i_c;
+        i_c = "Timez";
+        i_c += "one ";
+        U6BfN.a3_();
+        i_c += "'";
+        U6BfN.C2v(2);
+        throw new Error(
+          U6BfN.Y51(
+            i_c,
+            Y4D,
+            "' is either incorrect, or not loaded in the timezone registry.",
+          ),
+        );
+      }
+      H$q = "antarctic";
+      H$q += "a";
+      y1s = "eu";
+      function C1X(q49) {
+        var W4B, u7Z, V4g, L0b, V1L, I0c;
+        W4B = "s";
+        W4B += "t";
+        W4B += "ring";
+        u7Z = X8o[q49];
+        if (u7Z) {
+          return u7Z;
+        }
+        V4g = q49.split("/")[0];
+        L0b = K9E[V4g];
+        if (L0b) {
+          return L0b;
+        }
+        V1L = V$i.zones[q49];
+        if (typeof V1L === W4B) {
+          return C1X(V1L);
+        }
+        if (!V$i.loadedZones.backward) {
+          I0c = "backwa";
+          I0c += "rd";
+          V$i.loadZoneFile(I0c);
+          return C1X(q49);
+        }
+        Q5r(q49);
+      }
+      function z6g(Z6H, i7M) {
+        U6BfN.C2v(10);
+        return -Math.ceil(U6BfN.B$D(Z6H, i7M));
+      }
+      y1s += "rope";
+      function N5h(o0h) {
+        var U3V, F4W;
+        U3V = /(\d{1,2})(?::0*(\d{1,2}))?(?::0*(\d{1,2}))?([wsugz])?$/;
+        F4W = o0h.match(U3V);
+        F4W[1] = parseInt(F4W[1], 10);
+        F4W[2] = F4W[2] ? parseInt(F4W["2" ^ 0], +"10") : +"0";
+        F4W[3] = F4W[3] ? parseInt(F4W[3], 10) : 0;
+        U6BfN.a3_();
+        return F4W.slice(1, 5);
+      }
+      function R0p(t7I, k6f) {
+        var d$4 = U6BfN;
+        var E19, e5i, u$r, X08, Z7v;
+        E19 = typeof t7I === "number" ? t7I : new Date(+t7I).getTime();
+        e5i = k6f;
+        d$4.s8u();
+        u$r = V$i.zones[e5i];
+        while (typeof u$r === "string") {
+          e5i = u$r;
+          u$r = V$i.zones[e5i];
+        }
+        if (!u$r) {
+          if (!V$i.loadedZones.backward) {
+            X08 = "back";
+            X08 += "war";
+            X08 += "d";
+            V$i.loadZoneFile(X08);
+            return R0p(t7I, k6f);
+          } else if (e5i && e5i !== k6f) {
+            V$i.lazyLoadZoneFiles(e5i);
+            return R0p(t7I, e5i);
+          }
+          Q5r(e5i);
+        }
+        if (u$r.length === +"0") {
+          d$4.C2v(48);
+          throw new Error(d$4.B$D(k6f, "No Zone found for '", "' on ", t7I));
+        }
+        for (var R1N = u$r.length - 1; R1N >= 0; R1N--) {
+          Z7v = u$r[R1N];
+          if (Z7v[3] && E19 > Z7v[3]) break;
+        }
+        d$4.w6J(0);
+        return u$r[d$4.B$D(R1N, 1)];
+      }
+      P$7 = "eu";
+      P$7 += "rop";
+      P$7 += "e";
+      q3C = "eur";
+      q3C += "ope";
+      O2Y = "eu";
+      O2Y += "r";
+      O2Y += "op";
+      O2Y += "e";
+      S0J = "a";
+      S0J += "si";
+      S0J += "a";
+      C9_ = "af";
+      C9_ += "r";
+      C9_ += "ic";
+      C9_ += "a";
+      R24 = "eu";
+      R24 += "r";
+      R24 += "op";
+      function I5g(x$X, u6d) {
+        var B_R = U6BfN;
+        var H_Q;
+        B_R.C2v(10);
+        var d$r = B_R.Y51(9, 10);
+        H_Q =
+          V$i.zoneFileBasePath +
+          (+"550.46" != "524.35" * d$r ? "/" : ("a", 242.59)) +
+          x$X;
+        return !u6d || !u6d.async
+          ? V$i.parseZones(V$i.transport({ url: H_Q, async: ![] }))
+          : V$i.transport({
+              async: !!"1",
+              url: H_Q,
+              success: function (I5u) {
+                var V1w;
+                V1w = "func";
+                V1w += "t";
+                V1w += "ion";
+                return (
+                  V$i.parseZones(I5u) &&
+                  typeof u6d.callback === V1w &&
+                  u6d.callback()
+                );
+              },
+              error: function () {
+                B_R.C2v(2);
+                throw new Error(
+                  B_R.B$D("Error retrieving '", H_Q, "' zoneinfo files"),
+                );
+              },
+            });
+      }
+      R24 += "e";
+      y69 = "e";
+      function F7p(V0c) {
+        var u2E, i__, x_y, s8L;
+        if (!V0c["3" - 0]) {
+          return;
+        }
+        u2E = parseInt(V0c["3" * 1], 10);
+        i__ = 11;
+        U6BfN.s8u();
+        x_y = 31;
+        if (V0c["4" << 32]) {
+          i__ = a5_[V0c[4].substr(0, 3)];
+          x_y = parseInt(V0c[5], 10) || 1;
+        }
+        s8L = V0c[6] ? N5h(V0c[6]) : [0, 0, 0];
+        return [u2E, i__, x_y, s8L[0], s8L[1], s8L[2]];
+      }
+      y69 += "uro";
+      y69 += "pe";
+      g9b = "nor";
+      g9b += "th";
+      g9b += "ame";
+      g9b += "rica";
+      o4C = "northam";
+      function w4C(Q_u) {
+        var W_J = U6BfN;
+        var D3V, f4y;
+        D3V = N5h(Q_u);
+        f4y =
+          Q_u.charAt(0) ===
+          ((9470, 8140) >= +"1977"
+            ? (118.78, +"6710") != (8300, 304)
+              ? "-"
+              : (0x13ca, "0x23b0" << 32)
+            : +"0x21d5")
+            ? -1
+            : 1;
+        W_J.C2v(20);
+        var R4L = W_J.B$D(17, 1, 17);
+        W_J.w6J(67);
+        var s2_ = W_J.Y51(360, 4, 2456, 7);
+        W_J.C2v(10);
+        var j__ = W_J.Y51(18, 1018);
+        D3V = f4y * (((D3V[0] * +"60" + D3V[R4L]) * s2_ + D3V[+"2"]) * j__);
+        W_J.w6J(153);
+        return W_J.Y51(D3V, 96, 60, "1000");
+      }
+      o4C += "e";
+      o4C += "rica";
+      B0K = "nor";
+      B0K += "thamer";
+      B0K += "ica";
+      V$i = this;
+      K9E = {
+        Etc: "etcetera",
+        EST: "northamerica",
+        MST: "northamerica",
+        HST: "northamerica",
+        EST5EDT: "northamerica",
+        CST6CDT: "northamerica",
+        MST7MDT: B0K,
+        PST8PDT: o4C,
+        America: [g9b, "southamerica"],
+        Pacific: "australasia",
+        Atlantic: y69,
+        Africa: "africa",
+        Indian: "africa",
+        Antarctica: "antarctica",
+        Asia: "asia",
+        Australia: "australasia",
+        Europe: "europe",
+        WET: "europe",
+        CET: "europe",
+        MET: R24,
+        EET: "europe",
+      };
+      X8o = {
+        "Pacific/Honolulu": "northamerica",
+        "Atlantic/Bermuda": "northamerica",
+        "Atlantic/Cape_Verde": C9_,
+        "Atlantic/St_Helena": "africa",
+        "Indian/Kerguelen": "antarctica",
+        "Indian/Chagos": "asia",
+        "Indian/Maldives": S0J,
+        "Indian/Christmas": "australasia",
+        "Indian/Cocos": "australasia",
+        "America/Danmarkshavn": "europe",
+        "America/Scoresbysund": "europe",
+        "America/Godthab": "europe",
+        "America/Thule": "europe",
+        "Asia/Istanbul": "europe",
+        "Asia/Yekaterinburg": O2Y,
+        "Asia/Omsk": "europe",
+        "Asia/Novosibirsk": "europe",
+        "Asia/Krasnoyarsk": "europe",
+        "Asia/Irkutsk": "europe",
+        "Asia/Yakutsk": "europe",
+        "Asia/Vladivostok": "europe",
+        "Asia/Sakhalin": q3C,
+        "Asia/Magadan": P$7,
+        "Asia/Kamchatka": "europe",
+        "Asia/Anadyr": "europe",
+        "Africa/Ceuta": y1s,
+        GMT: "etcetera",
+        "Europe/Nicosia": "asia",
+      };
+      this.zoneFileBasePath = null;
+      function m1O(x8O, F6O, P5l, e9F) {
+        var u85 = U6BfN;
+        var A2$, O2h, x4b, a37, s2N, q7b, S7$, w0F, Y9D, P3y, T_K, e2c, X40;
+        A2$ = typeof x8O === "number" ? new Date(x8O) : x8O;
+        O2h = F6O[1];
+        x4b = F6O[0];
+        a37 = O2h.match(/^([0-9]):([0-9][0-9])$/);
+        if (a37) {
+          u85.C2v(28);
+          var f3z = u85.B$D(19, 265, 14);
+          u85.w6J(103);
+          var Q2Z = u85.B$D(7, 7, 1, 20, 1);
+          u85.C2v(0);
+          var T3X = u85.B$D(15, 45);
+          u85.C2v(154);
+          var n$j = u85.B$D(0, 36, 16, 18);
+          u85.C2v(19);
+          var c4L = u85.Y51(2, 27, 15);
+          return [
+            -1000000,
+            "max",
+            "-",
+            "Jan",
+            1,
+            [0, 0, 0],
+            parseInt(a37[f3z], Q2Z) * T3X + parseInt(a37[n$j], c4L),
+            9340 == 414.65 ? ("K", 5.75e3) : "-",
+          ];
+        }
+        s2N = function (X_1, V1S, Y4p) {
+          var K7y;
+          K7y = 0;
+          if (
+            V1S ===
+              ((851.45, 3980) === 2738
+                ? 9.06e3
+                : ("512" ^ 0) <= (1420, 2735)
+                  ? "u"
+                  : 9118 <= 510.78
+                    ? ("f", 218.16)
+                    : 535.19) ||
+            V1S ===
+              ("8496" - 0 != (435, 853.9)
+                ? "g"
+                : 262.74 >= "993.82" * 1
+                  ? (599.34, !!1)
+                  : (1.02e3, "k")) ||
+            V1S ===
+              (("56.51" * 1, 9815) == (647.81, 1357)
+                ? (430.29, +"4764") === +"978.21"
+                  ? "H"
+                  : (0x1f53, !{})
+                : "z")
+          ) {
+            K7y = 0;
+          } else if (V1S === "s") {
+            K7y = x4b;
+          } else if (
+            V1S ===
+              ((806.6, 685.55) != +"9530"
+                ? "w"
+                : 9602 > (+"147.62", 5143)
+                  ? ("0x1bd3" << 32, 0xce1)
+                  : +"116.97") ||
+            !V1S
+          ) {
+            K7y = z6g(x4b, Y4p[6]);
+          } else {
+            u85.w6J(0);
+            throw new Error(u85.Y51("unknown type ", V1S));
+          }
+          u85.w6J(3);
+          K7y *= u85.B$D(60, 1000);
+          u85.s8u();
+          return new Date(X_1.getTime() + K7y);
+        };
+        q7b = function (F34, O6g) {
+          var u66, M5s, r5P, r00, J0e, b$$, w8e;
+          u85.s8u();
+          u66 = F34[0];
+          M5s = F34[1];
+          r5P = M5s[5];
+          if (!T44[u66]) {
+            T44[u66] = {};
+          }
+          if (T44[u66][M5s]) {
+            r00 = T44[u66][M5s];
+          } else {
+            if (!isNaN(M5s[4])) {
+              r00 = new Date(
+                Date.UTC(
+                  u66,
+                  a5_[M5s[+"3"]],
+                  M5s["4" - 0],
+                  r5P[0],
+                  r5P["1" | 0],
+                  r5P["2" ^ 0],
+                  0,
+                ),
+              );
+            } else {
+              if (M5s[4].substr(0, 4) === "last") {
+                r00 = new Date(
+                  Date.UTC(
+                    u66,
+                    a5_[M5s[3]] + 1,
+                    1,
+                    r5P[0] - ("24" - 0),
+                    r5P[1],
+                    r5P[2],
+                    +"0",
+                  ),
+                );
+                J0e = g$3[M5s[4].substr(4, 3)];
+                b$$ = "<=";
+              } else {
+                r00 = new Date(
+                  Date.UTC(
+                    u66,
+                    a5_[M5s[3]],
+                    M5s[4].substr(5),
+                    r5P[0],
+                    r5P["1" - 0],
+                    r5P["2" ^ 0],
+                    0,
+                  ),
+                );
+                J0e = g$3[M5s[4].substr(0, 3)];
+                b$$ = M5s[+"4"].substr(3, 2);
+              }
+              w8e = r00.getUTCDay();
+              if (b$$ === ">=") {
+                r00.setUTCDate(
+                  r00.getUTCDate() + (J0e - w8e + (J0e < w8e ? 7 : 0)),
+                );
+              } else {
+                r00.setUTCDate(
+                  r00.getUTCDate() + (J0e - w8e - (J0e > w8e ? 7 : 0)),
+                );
+              }
+            }
+            T44[u66][M5s] = r00;
+          }
+          if (O6g) {
+            r00 = s2N(r00, r5P[3], O6g);
+          }
+          return r00;
+        };
+        S7$ = function (S3o, p38) {
+          var b0p, q_4;
+          b0p = [];
+          if (p38) {
+            for (var m86 = 0; m86 < p38.length; m86++) {
+              q_4 = "o";
+              q_4 += "nl";
+              q_4 += "y";
+              if (
+                p38[m86]["0" ^ 0] <= S3o &&
+                (p38[m86][1] >= S3o ||
+                  (p38[m86][0] === S3o && p38[m86][1] === q_4) ||
+                  p38[m86][1] === "max")
+              ) {
+                b0p.push([S3o, p38[m86]]);
+              }
+            }
+          }
+          return b0p;
+        };
+        w0F = function (D0q, l8Q, b2q) {
+          var g4P, y_D;
+          if (!(D0q instanceof Date)) {
+            g4P = D0q[0];
+            y_D = D0q[1];
+            D0q =
+              !b2q && T44[g4P] && T44[g4P][y_D] ? T44[g4P][y_D] : q7b(D0q, b2q);
+          } else if (b2q) {
+            D0q = s2N(
+              D0q,
+              P5l
+                ? ("3327" * 1, 8790) < 8953
+                  ? (982.16, +"185.72") > 9355
+                    ? (+"9706", "3536" | 0) != 295.23
+                      ? "e"
+                      : 389.61
+                    : "u"
+                  : ("0x67a" << 96, 490.7)
+                : 3766 !== +"6714"
+                  ? (50.39, 738.41) === +"5340"
+                    ? (![], 0x152f)
+                    : "w"
+                  : "k",
+              b2q,
+            );
+          }
+          if (!(l8Q instanceof Date)) {
+            g4P = l8Q[0];
+            y_D = l8Q[1];
+            l8Q =
+              !b2q && T44[g4P] && T44[g4P][y_D] ? T44[g4P][y_D] : q7b(l8Q, b2q);
+          } else if (b2q) {
+            l8Q = s2N(
+              l8Q,
+              P5l
+                ? 1395 < (2070, 964.49)
+                  ? (919.02, 557.33) <= 4470
+                    ? (1510, 4590) == "682.68" - 0
+                      ? (!1, 7.88e3)
+                      : "B"
+                    : "J"
+                  : "u"
+                : 105.61 != 9560
+                  ? (7440, 162.1) > 661.84
+                    ? (5.67, "487.72" * 1) <= 9470
+                      ? (7.01e3, ![])
+                      : 811.89
+                    : "w"
+                  : (![], "A"),
+              b2q,
+            );
+          }
+          D0q = Number(D0q);
+          l8Q = Number(l8Q);
+          u85.a3_();
+          u85.C2v(10);
+          return u85.B$D(l8Q, D0q);
+        };
+        Y9D = A2$.getUTCFullYear();
+        T_K = i8g.ruleCache[e9F];
+        if (!T_K) {
+          T_K = i8g.ruleCache[e9F] = {};
+        }
+        P3y = T_K[Y9D];
+        if (!P3y) {
+          u85.w6J(155);
+          P3y = S7$(u85.B$D("1", 0, Y9D), V$i.rules[O2h]);
+          P3y = P3y.concat(S7$(Y9D, V$i.rules[O2h]));
+          P3y.sort(w0F);
+          T_K[Y9D] = P3y;
+        }
+        if (!P3y || !P3y.length) {
+          return null;
+        }
+        for (var A46 = P3y.length - 1; A46 >= 0; A46--) {
+          if (A46 > 0) {
+            u85.C2v(10);
+            e2c = P3y[u85.B$D(1, A46)][1];
+          } else {
+            e2c = null;
+          }
+          X40 = P3y[A46];
+          if (!X40[+"2"]) {
+            X40[+"2"] = q7b(X40, e2c);
+          }
+          if (w0F(A2$, X40, e2c) >= 0) {
+            return X40[1];
+          }
+        }
+        return null;
+      }
+      this.zoneFiles = [
+        "africa",
+        H$q,
+        "asia",
+        "australasia",
+        "backward",
+        M8Z,
+        b4f,
+        "northamerica",
+        "pacificnew",
+        "southamerica",
+      ];
+      this.loadingSchemes = {
+        PRELOAD_ALL: "preloadAll",
+        LAZY_LOAD: "lazyLoad",
+        MANUAL_LOAD: "manualLoad",
+      };
+      this.getRegionForTimezone = C1X;
+      this.loadingScheme = this.loadingSchemes.LAZY_LOAD;
+      this.loadedZones = {};
+      function x7j(C80, q9F) {
+        var z3f, o9J;
+        z3f = C80[2];
+        if (z3f.indexOf("%s") > -("1" >> 32)) {
+          if (q9F) {
+            o9J =
+              q9F[7] === ((+"684.61", 1198) <= 830.52 ? (387.17, 0x9bd) : "-")
+                ? ""
+                : q9F[7];
+          } else {
+            o9J =
+              ("4820" << 64, 378.64) !== 802.4
+                ? 1610 === (217, 7304)
+                  ? (828.38, 7.1e3)
+                  : "S"
+                : 0xace;
+          }
+          return z3f.replace("%s", o9J);
+        } else if (
+          z3f.indexOf(7181 < ("6728" * 1, 683.18) ? ("b", "355.82" * 1) : "/") >
+          -1
+        ) {
+          return z3f.split("/", 2)[q9F ? (q9F[+"6"] ? 1 : 0) : 0];
+        }
+        return z3f;
+      }
+      this.zones = {};
+      this.rules = {};
+      this.init = function (I$C) {
+        var y9a, c5W, l_a, f8r, c4v, g3p;
+        y9a = "northameri";
+        y9a += "ca";
+        U6BfN.a3_();
+        c5W = { async: !!1 };
+        l_a =
+          this.loadingScheme === this.loadingSchemes.PRELOAD_ALL
+            ? this.zoneFiles
+            : this.defaultZoneFile || y9a;
+        for (var C04 in I$C) {
+          c5W[C04] = I$C[C04];
+        }
+        f8r = 216412419;
+        c4v = -1653809164;
+        g3p = 2;
+        for (
+          var h3F = 1;
+          U6BfN.D9u(h3F.toString(), h3F.toString().length, 77175) !== f8r;
+          h3F++
+        ) {
+          return this.loadZoneFiles(l_a, c5W);
+        }
+        if (
+          U6BfN.C6S(g3p.toString(), g3p.toString().length, "35603" - 0) !== c4v
+        ) {
+          return this.loadZoneFiles(l_a, c5W);
+        }
+      };
+      this.loadZoneFiles = function (e5a, T$B) {
+        U6BfN.s8u();
+        var g67, C9G;
+        C9G = 0;
+        if (typeof e5a === "string") {
+          return this.loadZoneFile(e5a, T$B);
+        }
+        T$B = T$B || {};
+        g67 = T$B.callback;
+        T$B.callback = function () {
+          var Q1X;
+          Q1X = "f";
+          Q1X += "un";
+          Q1X += "ctio";
+          Q1X += "n";
+          U6BfN.s8u();
+          C9G++;
+          C9G === e5a.length && typeof g67 === Q1X && g67();
+        };
+        for (var a42 = +"0"; a42 < e5a.length; a42++) {
+          this.loadZoneFile(e5a[a42], T$B);
+        }
+      };
+      this.loadZoneFile = function (h1Q, b$9) {
+        if (typeof this.zoneFileBasePath === "undefined") {
+          throw new Error(
+            "Please define a base path to your zone file directory -- timezoneJS.timezone.zoneFileBasePath.",
+          );
+        }
+        if (this.loadedZones[h1Q]) {
+          return;
+        }
+        this.loadedZones[h1Q] = !!{};
+        return I5g(h1Q, b$9);
+      };
+      this.loadZoneJSONData = function (y4f, w4z) {
+        var D3u;
+        D3u = function (K4K) {
+          U6BfN.a3_();
+          K4K = JSON.parse(K4K);
+          for (var o7t in K4K.zones) {
+            V$i.zones[o7t] = K4K.zones[o7t];
+          }
+          for (var w0P in K4K.rules) {
+            V$i.rules[w0P] = K4K.rules[w0P];
+          }
+        };
+        U6BfN.s8u();
+        return w4z
+          ? D3u(V$i.transport({ url: y4f, async: !{} }))
+          : V$i.transport({ url: y4f, success: D3u });
+      };
+      this.loadZoneDataFromObject = function (p7s) {
+        if (!p7s) {
+          return;
+        }
+        for (var S3n in p7s.zones) {
+          V$i.zones[S3n] = p7s.zones[S3n];
+        }
+        for (var V_H in p7s.rules) {
+          V$i.rules[V_H] = p7s.rules[V_H];
+        }
+      };
+      this.getAllZones = function () {
+        var r2M;
+        U6BfN.s8u();
+        r2M = [];
+        for (var u8X in this.zones) {
+          r2M.push(u8X);
+        }
+        return r2M.sort();
+      };
+      this.parseZones = function (X3u) {
+        var d3S = U6BfN;
+        var S$E, F3C, A6U, E9q, M_o, U09, b43, b_1, s5W, Y5N, K3A;
+        if (!X3u) {
+          return !{};
+        }
+        S$E = -1908008533;
+        F3C = 1465250744;
+        A6U = 2;
+        for (
+          var G18 = 1;
+          d3S.C6S(G18.toString(), G18.toString().length, 24174) !== S$E;
+          G18++
+        ) {
+          E9q = X3u.split(+"1945" != 322 ? "" : 0x4ff);
+          M_o = [];
+          U09 = "";
+          d3S.C2v(6);
+          b_1 = d3S.B$D("1", 0);
+          s5W = 1;
+          A6U += +"2";
+        }
+        if (d3S.C6S(A6U.toString(), A6U.toString().length, 33457) !== F3C) {
+          E9q = X3u.split(7440 !== 967 ? "\n" : 0x85f);
+          M_o = [];
+          U09 = "";
+          b_1 = null;
+          s5W = null;
+        }
+        for (var V_r = 0; V_r < E9q.length; V_r++) {
+          b43 = E9q[V_r];
+          if (b43.match(/^\s/)) {
+            Y5N = "Zo";
+            Y5N += "n";
+            Y5N += "e ";
+            d3S.w6J(2);
+            b43 = d3S.Y51(Y5N, b_1, b43);
+          }
+          b43 = b43.split(
+            +"740.31" > (+"379.63", +"4092")
+              ? (2760, 727.78) === 4210
+                ? (7.51e3, +"8.14e+3")
+                : (!!1, "c")
+              : "#",
+          )[0];
+          if (b43.length > 3) {
+            K3A = "R";
+            K3A += "u";
+            K3A += "l";
+            K3A += "e";
+            M_o = b43.split(/\s+/);
+            U09 = M_o.shift();
+            switch (U09) {
+              case "Zone":
+                b_1 = M_o.shift();
+                if (!V$i.zones[b_1]) {
+                  V$i.zones[b_1] = [];
+                }
+                if (M_o.length < +"3") break;
+                d3S.C2v(1);
+                M_o.splice(d3S.Y51(64, "3"), M_o.length, F7p(M_o));
+                if (M_o[+"3"]) {
+                  M_o[+"3"] = Date.UTC.apply(null, M_o[3]);
+                }
+                M_o[0] = -w4C(M_o[0]);
+                V$i.zones[b_1].push(M_o);
+                break;
+              case K3A:
+                s5W = M_o.shift();
+                if (!V$i.rules[s5W]) {
+                  V$i.rules[s5W] = [];
+                }
+                M_o[0] = parseInt(M_o[0], 10);
+                M_o[1] = parseInt(M_o[1], 10) || M_o[1];
+                M_o[5] = N5h(M_o[5]);
+                M_o[6] = w4C(M_o[6]);
+                V$i.rules[s5W].push(M_o);
+                break;
+              case "Link":
+                if (V$i.zones[M_o[1]]) {
+                  d3S.C2v(19);
+                  var Z_A = d3S.B$D(3, 20, 16);
+                  throw new Error(
+                    "Error with Link " +
+                      M_o[Z_A] +
+                      ". Cannot create link of a preexisted zone.",
+                  );
+                }
+                if (isNaN(M_o[0])) {
+                  V$i.zones[M_o[1]] = M_o[0];
+                } else {
+                  V$i.zones[M_o[1]] = parseInt(M_o[+"0"], +"10");
+                }
+                break;
+            }
+          }
+        }
+        return !0;
+      };
+      this.transport = D3i;
+      this.getTzInfo = function (X7A, R0d, Y$$) {
+        var B$z, S83, i5l, V1R;
+        this.lazyLoadZoneFiles(R0d);
+        U6BfN.s8u();
+        B$z = R0p(X7A, R0d);
+        S83 = +B$z[+"0"];
+        i5l = m1O(X7A, B$z, Y$$, R0d);
+        if (i5l) {
+          S83 = z6g(S83, i5l[+"6"]);
+        }
+        V1R = x7j(B$z, i5l);
+        return { tzOffset: S83, tzAbbr: V1R };
+      };
+      this.lazyLoadZoneFiles = function (Z_e) {
+        var Z1j;
+        U6BfN.a3_();
+        if (this.loadingScheme === this.loadingSchemes.LAZY_LOAD) {
+          Z1j = C1X(Z_e);
+          if (!Z1j) {
+            throw new Error("Not a valid timezone ID.");
+          }
+          this.loadZoneFiles(Z1j);
+        }
+      };
+    })();
+  }).call(typeof window !== "undefined" ? window : this);
+  i8g.timezone.loadingScheme = i8g.timezone.loadingSchemes.MANUAL_LOAD;
+  i8g.timezone.loadZoneDataFromObject({
+    zones: {
+      "Asia/Tokyo": [[-540, "", g2p, null]],
+      "Etc/UTC": [[+"0", "-", "UTC", null]],
+      "Europe/London": [[+"0", "EU", "GMT/BST", null]],
+      "America/New_York": [[300, "US", "E%sT", null]],
+      UTC: "Etc/UTC",
+    },
+    rules: {
+      EU: [
+        [
+          1981,
+          "max",
+          (6690, "58.99" * 1) == (+"295.79", 2340)
+            ? (0x8da, 966.66)
+            : (6810, 18.88) !== (8180, "426.35" * 1)
+              ? "-"
+              : +"8050" != 5190
+                ? "F"
+                : (0x24e1, !![]),
+          "Mar",
+          "lastSun",
+          [
+            "1" ^ 0,
+            0,
+            0,
+            8536 >= 544
+              ? (4184, 571.91) !== 7364
+                ? "u"
+                : 559 >= ("7150" | 32)
+                  ? 0x38c
+                  : 2.01e3
+              : (101.82, +"720.89"),
+          ],
+          60,
+          3379 === (4160, +"5998")
+            ? "U"
+            : (294.86, 58.68) < 121.11
+              ? 8562 < 9934
+                ? "S"
+                : ("C", "0x246b" << 32)
+              : "7.47e+3" * 1,
+        ],
+        [
+          1996,
+          "max",
+          "-",
+          "Oct",
+          r9R,
+          [+"1", 0, 0, "u"],
+          0,
+          6090 != 8157
+            ? "-"
+            : ("915.66" * 1, 2330) === +"1670"
+              ? (!!{}, 4.85e3)
+              : +"0x1918",
+        ],
+      ],
+      US: [
+        [
+          2007,
+          L1h,
+          "8820" << 64 == 2140 ? !"1" : 5460 > (3863, 1040) ? "-" : (!"", !""),
+          "Mar",
+          "Sun>=8",
+          [2, 0, 0, null],
+          60,
+          (6844, "1579" - 0) <= (8850, +"615.9") ? ("X", !{}) : "D",
+        ],
+        [
+          +"2007",
+          "max",
+          "-",
+          "Nov",
+          "Sun>=1",
+          [2, 0, 0, null],
+          0,
+          (1885, 9210) >= ("337" * 1, 7920) ? "S" : "J",
+        ],
+      ],
+    },
+  });
+};
+i4 = (u5m) => {
+  var i3A = U6BfN;
+  var C2f, N1Z;
+  C2f = typeof _CIQ !== "undefined" ? _CIQ : u5m.CIQ;
+  C2f.ChartEngine.prototype.touchSingleClick = function (G34, u8J, I5c) {
+    var F7J, K0t;
+    F7J = this;
+    K0t = arguments;
+    return function () {
+      (function () {
+        var M4O, P9n, g8x, B6G, x4m, y_Q;
+        if (!this.cancelTouchSingleClick) {
+          M4O = "touchSin";
+          M4O += "gleClick";
+          if (this.runPrepend(M4O, K0t)) {
+            return;
+          }
+          if (this.editingAnnotation) {
+            return;
+          }
+          this.clicks = {};
+          if (!this.displayCrosshairs) {
+            return;
+          }
+          if (!this.displayInitialized) {
+            return;
+          }
+          if (this.openDialog !== "") {
+            return;
+          }
+          if (
+            u8J < this.left ||
+            u8J > this.right ||
+            I5c < this.top ||
+            I5c > this.bottom
+          ) {
+            return;
+          }
+          P9n = this.crossYActualPos;
+          g8x = this.crossXActualPos;
+          this.currentPanel = this.whichPanel(P9n);
+          B6G = this.currentVectorParameters.vectorType;
+          if (
+            !C2f.Drawing ||
+            !B6G ||
+            !C2f.Drawing[B6G] ||
+            !new C2f.Drawing[B6G]().dragToDraw
+          ) {
+            if (!this.drawingClick(this.currentPanel, g8x, P9n)) {
+              D2h(this, u8J, I5c);
+            }
+            if (!this.currentVectorParameters.vectorType) {
+              x4m =
+                this.activeMarker &&
+                this.activeMarker.click({
+                  cx: g8x,
+                  cy: P9n,
+                  panel: this.currentPanel,
+                });
+              if (!x4m) {
+                y_Q = !!1;
+                if (
+                  this.anyHighlighted &&
+                  this.leftClickPinTooltip &&
+                  this.allowPinning &&
+                  this.highlightedPlot &&
+                  this.allowPinning(this.highlightedPlot.type)
+                ) {
+                  y_Q = !this.leftClickPinTooltip({ cx: g8x, cy: P9n });
+                }
+                if (y_Q) {
+                  this.dispatch("tap", {
+                    stx: this,
+                    panel: this.currentPanel,
+                    x: g8x,
+                    y: P9n,
+                  });
+                }
+              }
+            }
+          }
+        }
+        this.runAppend("touchSingleClick", K0t);
+      }).apply(F7J, K0t);
+    };
+  };
+  C2f.ChartEngine.prototype.touchDoubleClick = function (j9f, v3x, Y0O) {
+    var J84, X1e, m8P;
+    if (this.runPrepend("touchDoubleClick", arguments)) {
+      return;
+    }
+    i3A.s8u();
+    if (this.editingAnnotation) {
+      return;
+    }
+    if (C2f.ChartEngine.drawingLine) {
+      if (this.currentVectorParameters.vectorType === "continuous") {
+        J84 = this.crossYActualPos;
+        X1e = this.crossXActualPos;
+        this.currentPanel = this.whichPanel(J84);
+        this.drawingClick(this.currentPanel, X1e, J84);
+        C2f.ChartEngine.completeDrawing(this);
+      }
+      return this.undo();
+    }
+    if (this.activeDrawing) {
+      return;
+    }
+    D2h(this, v3x, Y0O);
+    m8P =
+      this.activeMarker &&
+      this.activeMarker.doubleClick({
+        cx: v3x,
+        cy: Y0O,
+        panel: this.currentPanel,
+      });
+    if (!m8P) {
+      this.dispatch("doubleTap", { stx: this, finger: j9f, x: v3x, y: Y0O });
+    }
+    this.runAppend("touchDoubleClick", arguments);
+  };
+  C2f.ChartEngine.prototype.startProxy = function (m4T) {
+    this.touchPointerType = m4T.pointerType;
+    i3A.s8u();
+    if (this.touchPointerType != "touch") {
+      this.mouseMode = !!{};
+      return;
+    }
+    this.mouseMode = !"1";
+    this.touches[this.touches.length] = {
+      pointerId: m4T.pointerId,
+      pageX: m4T.clientX,
+      pageY: m4T.clientY,
+      clientX: m4T.clientX,
+      clientY: m4T.clientY,
+    };
+    this.changedTouches = [
+      {
+        pointerId: m4T.pointerId,
+        pageX: m4T.clientX,
+        pageY: m4T.clientY,
+        clientX: m4T.clientX,
+        clientY: m4T.clientY,
+      },
+    ];
+    if (this.touches.length == 1) {
+      this.gesturePointerId = m4T.pointerId;
+    }
+    this.touchstart(m4T);
+  };
+  C2f.ChartEngine.prototype.moveProxy = function (m7N) {
+    i3A.s8u();
+    if (m7N.pointerType && m7N.pointerType != "touch") {
+      this.mouseMode = !!"1";
+      return;
+    }
+    this.mouseMode = !1;
+    this.touchmove(m7N);
+  };
+  C2f.ChartEngine.prototype.endProxy = function (R55) {
+    var p4e;
+    if (this.touchPointerType != "touch") {
+      this.mouseMode = !"";
+      return;
+    }
+    this.mouseMode = !{};
+    p4e = this.touches.length;
+    for (var y1I = 0; y1I < this.touches.length; y1I++) {
+      if (this.touches[y1I].pointerId == R55.pointerId) {
+        this.touches.splice(y1I, 1);
+        break;
+      }
+    }
+    if (y1I == p4e) {
+      this.touches = [];
+      this.grabbingScreen = ![];
+      this.touching = ![];
+      return;
+    }
+    this.changedTouches = [
+      {
+        pointerId: R55.pointerId,
+        pageX: R55.clientX,
+        pageY: R55.clientY,
+        clientX: R55.clientX,
+        clientY: R55.clientY,
+      },
+    ];
+    this.touchend(R55);
+  };
+  function D2h(W9G, U_N, L4n) {
+    var i36;
+    if (!W9G.layout.crosshair) {
+      C2f.ChartEngine.crosshairY = 0;
+      i3A.w6J(3);
+      C2f.ChartEngine.crosshairX = i3A.Y51("0", 1);
+      W9G.cx = W9G.backOutX(0);
+      W9G.cy = W9G.backOutY(0);
+      W9G.findHighlights(null, !0);
+      C2f.ChartEngine.crosshairY = L4n;
+      C2f.ChartEngine.crosshairX = U_N;
+      i36 = W9G.container.getBoundingClientRect();
+      W9G.top = i36.top;
+      W9G.left = i36.left;
+      W9G.right = W9G.left + W9G.width;
+      W9G.bottom = W9G.top + W9G.height;
+      W9G.cx = W9G.backOutX(U_N);
+      W9G.cy = W9G.backOutY(L4n);
+      if (W9G.currentPanel && W9G.currentPanel.chart.dataSet) {
+        W9G.crosshairTick = W9G.tickFromPixel(W9G.cx, W9G.currentPanel.chart);
+        W9G.crosshairValue = W9G.adjustIfNecessary(
+          W9G.currentPanel,
+          W9G.crosshairTick,
+          W9G.valueFromPixel(W9G.cy, W9G.currentPanel),
+        );
+      }
+      W9G.headsUpHR();
+    }
+    W9G.findHighlights(!![]);
+    W9G.draw();
+  }
+  i3A.a3_();
+  C2f.ChartEngine.prototype.msMouseMoveProxy = function (H_w) {
+    if (this.touches.length || !this.mouseMode) {
+      return;
+    }
+    i3A.a3_();
+    this.mousemove(H_w);
+  };
+  C2f.ChartEngine.prototype.msMouseDownProxy = function (d99) {
+    if (!this.mouseMode) {
+      return;
+    }
+    this.mousedown(d99);
+  };
+  C2f.ChartEngine.prototype.msMouseUpProxy = function (c2V) {
+    i3A.a3_();
+    if (!this.mouseMode) {
+      return;
+    }
+    this.mouseup(c2V);
+  };
+  C2f.ChartEngine.prototype.iosMouseMoveProxy = function (h5I) {
+    i3A.s8u();
+    if (this.touching) {
+      return;
+    }
+    this.mousemove(h5I);
+  };
+  C2f.ChartEngine.prototype.iosMouseDownProxy = function (C3$) {
+    var B4i, q6o, b74;
+    if (this.touching) {
+      this.mouseMode = !{};
+      return;
+    }
+    B4i = -974579001;
+    q6o = 749075929;
+    i3A.s8u();
+    i3A.C2v(1);
+    b74 = i3A.Y51(32, "2");
+    for (
+      var r$d = "1" - 0;
+      i3A.C6S(r$d.toString(), r$d.toString().length, 75986) !== B4i;
+      r$d++
+    ) {
+      this.mouseMode = !!{};
+      b74 += 2;
+    }
+    if (i3A.C6S(b74.toString(), b74.toString().length, 11897) !== q6o) {
+      this.mouseMode = ![];
+    }
+    this.mousedown(C3$);
+  };
+  C2f.ChartEngine.prototype.iosMouseUpProxy = function (R_6) {
+    if (this.touching) {
+      return;
+    }
+    this.mouseup(R_6);
+  };
+  C2f.ChartEngine.prototype.touchmove = function (c6d) {
+    var c0B,
+      G2h,
+      S57,
+      f_s,
+      Z_c,
+      N6a,
+      d2H,
+      k$5,
+      x4U,
+      x81,
+      G0j,
+      K5I,
+      n30,
+      y10,
+      Y0j,
+      I6S,
+      Y4i,
+      Q1v,
+      W17,
+      U6t,
+      H2Q,
+      O6N,
+      Q3m,
+      S_m,
+      K$y,
+      H1C,
+      f1J,
+      b$a,
+      t6p,
+      G8N,
+      I9b,
+      R6P,
+      U9C,
+      a3h,
+      h8D,
+      Y5D,
+      U57,
+      U5p,
+      p4l;
+    c0B = "to";
+    c0B += "u";
+    c0B += "c";
+    c0B += "hmove";
+    G2h = "free";
+    G2h += "form";
+    if (!this.displayInitialized) {
+      return;
+    }
+    if (this.openDialog !== "") {
+      return;
+    }
+    if (C2f.ChartEngine.ignoreTouch === !"") {
+      return;
+    }
+    S57 = [];
+    if (
+      !this.overYAxis ||
+      (this.controls &&
+        this.controls.crossX &&
+        this.controls.crossX.style.display != "none")
+    ) {
+      if (
+        c6d &&
+        c6d.preventDefault &&
+        c6d.cancelable &&
+        this.captureTouchEvents
+      ) {
+        c6d.preventDefault();
+      }
+      if (c6d) {
+        c6d.stopPropagation();
+      }
+    }
+    f_s = new Date().getTime();
+    var {
+      down: [k2P],
+    } = this.pointerEvents;
+    if (f_s - k2P.time < ("25" | 16)) {
+      return;
+    }
+    if (!c6d.pointerType) {
+      c6d.pointerType = this.touchPointerType;
+    }
+    if (C2f.isSurface) {
+      if (this.mouseMode) {
+        return;
+      }
+      if (!c6d.pointerId) {
+        c6d.pointerId = this.gesturePointerId;
+      }
+      for (var f0K = 0; f0K < this.touches.length; f0K++) {
+        if (this.touches[f0K].pointerId == c6d.pointerId) {
+          Z_c = Math.abs(this.touches[f0K].pageX - c6d.clientX);
+          N6a = Math.abs(this.touches[f0K].pageY - c6d.clientY);
+          i3A.w6J(45);
+          d2H = Math.sqrt(i3A.B$D(N6a, Z_c, N6a, Z_c));
+          if (!d2H) {
+            return;
+          }
+          if (f_s - k2P.time < 50) {
+            return;
+          }
+          if (
+            this.touches[f0K].pageX == c6d.clientX &&
+            this.touches[f0K].pageY == c6d.clientY
+          ) {
+            return;
+          }
+          this.touches[f0K].pageX = this.touches[f0K].clientX = c6d.clientX;
+          this.touches[f0K].pageY = this.touches[f0K].clientY = c6d.clientY;
+          break;
+        }
+      }
+      if (f0K === +"0") {
+        this.movedPrimary = !![];
+      } else {
+        this.movedSecondary = !![];
+      }
+      if (f0K == this.touches.length) {
+        return;
+      }
+      this.changedTouches = [
+        {
+          pointerId: c6d.pointerId,
+          pageX: c6d.clientX,
+          pageY: c6d.clientY,
+          clientX: c6d.clientX,
+          clientY: c6d.clientY,
+        },
+      ];
+      S57 = this.touches.length ? this.touches : this.changedTouches;
+    } else {
+      S57 = c6d.touches;
+      this.changedTouches = c6d.changedTouches;
+    }
+    if (
+      S57.length == 1 &&
+      C2f.withinRadius(this.clicks, { x: S57[0].clientX, y: S57[0].clientY }, 4)
+    ) {
+      return;
+    }
+    k$5 = this.crosshairXOffset;
+    x4U = this.crosshairYOffset;
+    x81 =
+      this.currentVectorParameters.vectorType &&
+      this.currentVectorParameters.vectorType !== "";
+    G0j = !this.layout.crosshair && !x81 && !this.touchNoPan;
+    if (
+      c6d.pointerType == "pen" ||
+      G0j ||
+      (this.activeDrawing && this.activeDrawing.name == G2h)
+    ) {
+      k$5 = x4U = +"0";
+    }
+    if (this.runPrepend(c0B, arguments)) {
+      return;
+    }
+    if (C2f.ChartEngine.resizingPanel) {
+      y10 = S57[0];
+      K5I = y10.clientX;
+      n30 = y10.clientY;
+      i3A.w6J(0);
+      this.mousemoveinner(i3A.Y51(K5I, k$5), i3A.B$D(n30, x4U));
+      return;
+    }
+    if (this.moveB != -+"1") {
+      this.touchMoveTime = new Date();
+    }
+    this.moveA = this.moveB;
+    this.moveB = S57[0].pageX;
+    if (S57.length == 1 && !this.twoFingerStart) {
+      i3A.C2v(23);
+      I6S = S57[i3A.Y51("0", 0)];
+      K5I = I6S.clientX;
+      n30 = I6S.clientY;
+      this.pinchingScreen = 0;
+      i3A.w6J(0);
+      this.mousemoveinner(i3A.Y51(K5I, k$5), i3A.Y51(n30, x4U));
+      Y4i = this.whichPanel(n30);
+      Q1v =
+        this.xAxisAsFooter === !!"1"
+          ? this.chart.canvasHeight
+          : this.chart.panel.bottom;
+      this.overXAxis =
+        n30 <= this.top + Q1v &&
+        n30 >= Q1v - this.xaxisHeight + this.top &&
+        this.insideChart;
+      if (!Y4i) {
+        this.overYAxis = !{};
+      } else {
+        this.overYAxis =
+          (K5I >= Y4i.right || K5I <= Y4i.left) && this.insideChart;
+      }
+    } else if (S57.length == +"2") {
+      if (!this.allowZoom || (this.activeDrawing && !this.allowDrawingZoom)) {
+        return;
+      }
+      if (!this.displayCrosshairs) {
+        return;
+      }
+      W17 = S57[0];
+      U6t = W17.clientX;
+      H2Q = W17.clientY;
+      O6N = S57[1];
+      Q3m = O6N.clientX;
+      S_m = O6N.clientY;
+      i3A.C2v(156);
+      Y0j = Math.sqrt(i3A.B$D(S_m, H2Q, S_m, H2Q, Q3m, Q3m, U6t, U6t));
+      i3A.w6J(10);
+      var n3t = i3A.B$D(11, 13);
+      this.pinchingCenter = (Math.min(U6t, Q3m) - Math.max(U6t, Q3m)) / n3t;
+      K$y = Math.round(this.gestureStartDistance - Y0j);
+      if (G0j) {
+        this.pinchingScreen = 5;
+      }
+      this.clearPixelCache();
+      if (this.pinchingScreen < +"2") {
+        if (C2f.isSurface && (!this.movedPrimary || !this.movedSecondary)) {
+          return;
+        }
+        if (
+          (U6t < this.pt.x1 && Q3m < this.pt.x2) ||
+          (U6t > this.pt.x1 && Q3m > this.pt.x2) ||
+          (H2Q < this.pt.y1 && S_m < this.pt.y2) ||
+          (H2Q > this.pt.y1 && S_m > this.pt.y2)
+        ) {
+          i3A.C2v(1);
+          this.pinchingScreen = i3A.B$D(64, "0");
+        } else {
+          this.pinchingScreen++;
+          if (this.pinchingScreen < 2) {
+            return;
+          }
+        }
+      }
+      this.pt = { x1: U6t, x2: Q3m, y1: H2Q, y2: S_m };
+      if (this.pinchingScreen === +"0") {
+        this.grabMode = "pan";
+        i3A.C2v(0);
+        this.mousemoveinner(i3A.Y51(U6t, k$5), i3A.B$D(H2Q, x4U));
+        this.gestureStartDistance = Y0j;
+      } else if (this.grabStartValues) {
+        H1C = Math.asin((Math.max(S_m, H2Q) - Math.min(S_m, H2Q)) / Y0j);
+        if (Math.abs(K$y) < "12" << 0 && !G0j) {
+          this.moveCount++;
+          if (this.moveCount == 4) {
+            this.pinchingScreen = 0;
+            this.moveCount = 0;
+            return;
+          }
+        } else {
+          this.moveCount = 0;
+        }
+        if (H1C < 1 || (!this.goneVertical && H1C < 1.37)) {
+          if (!this.currentPanel) {
+            return;
+          }
+          f1J = this.currentPanel.chart;
+          this.goneVertical = !!"";
+          Y0j = this.pt.x2 - this.pt.x1;
+          b$a = this.grabStartValues.t2 - this.grabStartValues.t1 || "1" - 0;
+          t6p = this.grabStartValues.t1 + b$a / ("2" << 0);
+          i3A.C2v(11);
+          G8N = Math.abs(i3A.B$D(b$a, Y0j));
+          if (f1J.allowScrollFuture === ![] && f1J.allowScrollPast === !!"") {
+            G8N = Math.max(G8N, f1J.width / f1J.dataSet.length);
+          }
+          I9b = this.layout.candleWidth;
+          this.setCandleWidth(G8N, f1J);
+          if (f1J.maxTicks < this.minimumZoomTicks) {
+            this.setCandleWidth(I9b, f1J);
+            return;
+          }
+          i3A.C2v(3);
+          this.micropixels = i3A.Y51("0", 1);
+          R6P = this.pixelFromTick(Math.round(t6p), f1J);
+          U9C = this.pt.x1 - this.left + Math.round(Y0j / +"2");
+          i3A.C2v(10);
+          a3h = i3A.B$D(U9C, R6P);
+          h8D = a3h / this.layout.candleWidth;
+          Y5D = Math.round(h8D);
+          f1J.scroll -= Y5D;
+          i3A.w6J(10);
+          this.microscroll = i3A.B$D(h8D, Y5D);
+          this.micropixels = G8N * this.microscroll;
+          this.draw();
+        } else {
+          U57 = this.grabStartYAxis;
+          this.goneVertical = !![];
+          if (U57) {
+            U57.zoom = this.grabStartZoom + (this.gestureStartDistance - Y0j);
+            if (this.grabStartZoom < U57.height) {
+              if (U57.zoom >= U57.height) {
+                i3A.w6J(7);
+                var a_c = i3A.B$D(6, 5);
+                U57.zoom = U57.height - a_c;
+              }
+            } else {
+              if (U57.zoom <= U57.height) {
+                U57.zoom = U57.height + ("1" | 0);
+              }
+            }
+            this.draw();
+          }
+        }
+        this.updateChartAccessories();
+      }
+    } else if (S57.length == 3 && C2f.ChartEngine.allowThreeFingerTouch) {
+      if (!this.displayCrosshairs) {
+        return;
+      }
+      U5p = S57[0];
+      p4l = U5p.clientX;
+      Y0j = this.grabStartX - p4l;
+      i3A.w6J(10);
+      var u6q = i3A.B$D(14, 24);
+      this.grabEndPeriodicity =
+        this.grabStartPeriodicity + Math.round(Y0j / u6q);
+      if (this.grabEndPeriodicity < "1" >> 32) {
+        this.grabEndPeriodicity = 1;
+      }
+    }
+    this.runAppend("touchmove", arguments);
+  };
+  C2f.ChartEngine.prototype.touchstart = function (w7P) {
+    var H6K,
+      y1V,
+      Q0p,
+      N1y,
+      i0f,
+      V1H,
+      x0Z,
+      D1Z,
+      u5o,
+      s7U,
+      J1L,
+      w3j,
+      N5A,
+      b0P,
+      C$n,
+      x0f,
+      B6V,
+      N9A,
+      a5I,
+      f63,
+      r8y,
+      s1F,
+      e7j,
+      E11,
+      X31,
+      E1H,
+      h0x,
+      j41,
+      A0O,
+      W_n,
+      S0h,
+      Z0E;
+    if (C2f.ChartEngine.ignoreTouch) {
+      return;
+    }
+    if (w7P.target && w7P.target.closest("[draggable]")) {
+      return;
+    }
+    if (C2f.isSurface) {
+      this.movedPrimary = !{};
+      this.movedSecondary = ![];
+    } else {
+      if (this.touchingEvent) {
+        clearTimeout(this.touchingEvent);
+      }
+      this.touching = !![];
+      this.touches = w7P.touches;
+      this.changedTouches = w7P.changedTouches;
+    }
+    H6K = this.crosshairXOffset;
+    y1V = this.crosshairYOffset;
+    if (this.touchPointerType == "pen") {
+      H6K = y1V = 0;
+    }
+    i3A.a3_();
+    if (this.runPrepend("touchstart", arguments)) {
+      return;
+    }
+    var { layout: o3e } = this;
+    var { vectorType: F3Y } = this.currentVectorParameters;
+    Q0p = (o3e.crosshair && F3Y !== "") || F3Y;
+    if (
+      this.manageTouchAndMouse &&
+      w7P &&
+      w7P.preventDefault &&
+      w7P.cancelable &&
+      this.captureTouchEvents
+    ) {
+      w7P.preventDefault();
+    }
+    this.hasDragged = !!0;
+    this.doubleFingerMoves = 0;
+    this.moveCount = 0;
+    this.twoFingerStart = !!"";
+    this.longHoldTookEffect = !!"";
+    if (this.touches.length == 1 || this.touches.length == 2) {
+      u5o = "flo";
+      u5o += "a";
+      u5o += "ti";
+      u5o += "ng";
+      this.touchMoveTime = Date.now();
+      s7U = this.touches[0];
+      V1H = s7U.clientX;
+      x0Z = s7U.clientY;
+      this.moveA = V1H;
+      this.moveB = -1;
+      if (this.openDialog === "") {
+        J1L = "d";
+        J1L += "own";
+        this.registerPointerEvent(
+          { x: V1H, y: x0Z, time: this.touchMoveTime },
+          J1L,
+        );
+        if (this.changedTouches.length == 1) {
+          this.clicks = {
+            x: this.changedTouches[0].pageX,
+            y: this.changedTouches["0" >> 32].pageY,
+          };
+        }
+      }
+      w3j = this.container.getBoundingClientRect();
+      this.top = w3j.top;
+      this.left = w3j.left;
+      this.right = this.left + this.width;
+      this.bottom = this.top + this.height;
+      if (this.touches.length == 1) {
+        N5A = this.backOutX(V1H);
+        b0P = this.backOutY(x0Z);
+        this.currentPanel = this.whichPanel(b0P);
+        if (!this.shouldDisplayCrosshair()) {
+          this.crossXActualPos = N5A;
+          this.crossYActualPos = b0P;
+        }
+      }
+      if (!this.currentPanel) {
+        this.currentPanel = this.chart.panel;
+      }
+      D1Z = this.currentPanel;
+      if (
+        V1H >= this.left &&
+        V1H <= this.right &&
+        x0Z >= this.top &&
+        x0Z <= this.bottom
+      ) {
+        this.insideChart = !![];
+        C$n =
+          this.xAxisAsFooter === !!{}
+            ? this.chart.canvasHeight
+            : this.chart.panel.bottom;
+        this.overXAxis =
+          x0Z <= this.top + C$n && x0Z >= this.top + C$n - this.xaxisHeight;
+        this.overYAxis =
+          V1H >= this.left + D1Z.right || V1H <= this.left + D1Z.left;
+        x0f = -1;
+        this.cy = this.backOutY(x0Z);
+        this.cx = this.backOutX(V1H);
+        this.crosshairTick = this.tickFromPixel(this.cx, D1Z.chart);
+        this.crosshairValue = this.adjustIfNecessary(
+          D1Z,
+          this.crosshairTick,
+          this.valueFromPixel(this.cy, this.currentPanel),
+        );
+        for (var D2i = 0; D2i < this.drawingObjects.length; D2i++) {
+          if (this.openDialog) break;
+          B6V = this.drawingObjects[D2i];
+          if (B6V.highlighted) {
+            if (x0f < 0) {
+              x0f = D2i;
+            }
+            N9A = B6V.highlighted;
+            this.findHighlights(!!"1");
+            if (D2i == x0f && B6V.highlighted && !B6V.permanent) {
+              this.activateRepositioning(B6V);
+              return;
+            }
+            this.anyHighlighted = !"";
+            B6V.highlighted = N9A;
+          }
+        }
+      } else {
+        this.insideChart = ![];
+      }
+      if (
+        this.insideChart &&
+        !Q0p &&
+        o3e.headsUp !== u5o &&
+        !(o3e.headsUp && o3e.headsUp.floating) &&
+        !F3Y &&
+        !this.touchNoPan
+      ) {
+        H6K = y1V = 0;
+        if (this.controls.anchorHandles) {
+          a5I = Object.values(this.controls.anchorHandles);
+          f63 = !1;
+          for (var O3P = 0; O3P < a5I.length; O3P++) {
+            r8y = a5I[O3P];
+            var { handle: I5i, sd: I6z } = r8y;
+            s1F = this.resolveX(this.cx);
+            e7j = this.resolveY(this.cy);
+            var {
+              left: Z51,
+              top: B4a,
+              right: H0P,
+              bottom: d2F,
+            } = I5i.getBoundingClientRect();
+            E11 = this.preferences.highlightsTapRadius;
+            i3A.w6J(10);
+            X31 = C2f.boxIntersects(
+              i3A.B$D(E11, Z51),
+              B4a,
+              i3A.Y51(H0P, E11, i3A.C2v(0)),
+              d2F,
+              s1F,
+              e7j,
+              s1F,
+              e7j,
+            );
+            if (X31) {
+              E1H = "stx-";
+              E1H += "g";
+              E1H += "ra";
+              E1H += "b";
+              this.repositioningAnchorSelector = { sd: I6z };
+              I5i.classList.add(E1H);
+              f63 = !!{};
+            }
+            r8y.highlighted = X31;
+          }
+          if (f63) {
+            return;
+          }
+        }
+        for (N1y in this.panels) {
+          i0f = this.panels[N1y];
+          if (i0f.highlighted) {
+            this.grabHandle(i0f);
+            return;
+          }
+        }
+        this.grabbingScreen = !"";
+        if (this.disableBackingStoreDuringTouch) {
+          this.disableBackingStore();
+        }
+        D1Z.chart.spanLock = !{};
+        this.yToleranceBroken = !!0;
+        i3A.C2v(0);
+        this.grabStartX = i3A.Y51(V1H, H6K);
+        i3A.w6J(0);
+        this.grabStartY = i3A.Y51(x0Z, y1V);
+        this.grabStartMicropixels = this.micropixels;
+        this.grabStartScrollX = D1Z.chart.scroll;
+        this.grabStartScrollY = D1Z.yAxis.scroll;
+        this.grabStartPanel = this.currentPanel;
+        if (this.swipeStart) {
+          this.swipeStart(D1Z.chart);
+        }
+        this.grabStartYAxis = this.whichYAxis(D1Z, this.backOutX(V1H));
+        this.grabStartZoom = this.grabStartYAxis ? this.grabStartYAxis.zoom : 0;
+        setTimeout(
+          (function (x0a) {
+            i3A.s8u();
+            return function () {
+              x0a.grabbingHand();
+            };
+          })(this),
+          100,
+        );
+      } else {
+        this.grabbingScreen = !{};
+        if (this.insideChart && D1Z.subholder === w7P.target) {
+          h0x = this.currentVectorParameters.vectorType;
+          if (
+            C2f.Drawing &&
+            h0x &&
+            C2f.Drawing[h0x] &&
+            new C2f.Drawing[h0x]().dragToDraw
+          ) {
+            this.userPointerDown = !0;
+            C2f.ChartEngine.crosshairX = V1H;
+            C2f.ChartEngine.crosshairY = x0Z;
+            if (D1Z && D1Z.chart.dataSet) {
+              this.crosshairTick = this.tickFromPixel(
+                this.backOutX(V1H),
+                this.currentPanel.chart,
+              );
+              this.crosshairValue = this.adjustIfNecessary(
+                D1Z,
+                this.crosshairTick,
+                this.valueFromPixel(
+                  this.backOutY(C2f.ChartEngine.crosshairY),
+                  this.currentPanel,
+                ),
+              );
+            }
+            this.drawingClick(D1Z, this.backOutX(V1H), this.backOutY(x0Z));
+            this.headsUpHR();
+            return;
+          }
+        }
+      }
+      if (this.touches.length == 1) {
+        if (!Q0p) {
+          if (this.longHoldTime || this.longHoldTime === 0) {
+            this.startLongHoldTimer(
+              ((k8$) => {
+                i3A.s8u();
+                return () => {
+                  i3A.a3_();
+                  return D2h(k8$, V1H, x0Z);
+                };
+              })(this),
+            );
+          }
+        } else if (!F3Y && D1Z.subholder === w7P.target) {
+          i3A.w6J(0);
+          this.mousemoveinner(i3A.B$D(V1H, H6K), i3A.B$D(x0Z, y1V));
+        }
+      }
+    }
+    if (this.touches.length == 2) {
+      this.cancelLongHold = !"";
+      this.swipe.end = !0;
+      if ((!this.displayCrosshairs && !this.touchNoPan) || !this.insideChart) {
+        return;
+      }
+      j41 = this.touches[1];
+      A0O = j41.clientX;
+      W_n = j41.clientY;
+      for (N1y in this.panels) {
+        i0f = this.panels[N1y];
+        if (i0f.highlighted) {
+          this.grabHandle(i0f);
+          return;
+        }
+      }
+      D1Z = this.currentPanel;
+      i3A.w6J(156);
+      this.gestureStartDistance = Math.sqrt(
+        i3A.Y51(W_n, x0Z, W_n, x0Z, A0O, A0O, V1H, V1H),
+      );
+      this.pt = { x1: V1H, x2: A0O, y1: x0Z, y2: W_n };
+      this.grabbingScreen = !!1;
+      if (this.disableBackingStoreDuringTouch) {
+        this.disableBackingStore();
+      }
+      D1Z.chart.spanLock = ![];
+      i3A.w6J(0);
+      this.grabStartX = i3A.B$D(V1H, H6K);
+      i3A.C2v(0);
+      this.grabStartY = i3A.Y51(x0Z, y1V);
+      this.grabStartMicropixels = this.micropixels;
+      this.grabStartScrollX = D1Z.chart.scroll;
+      this.grabStartScrollY = D1Z.yAxis.scroll;
+      this.grabStartPanel = D1Z;
+      if (this.swipeStart) {
+        this.swipeStart(D1Z.chart);
+      }
+      this.grabStartCandleWidth = o3e.candleWidth;
+      this.grabStartYAxis =
+        this.whichYAxis(D1Z, this.backOutX((V1H + A0O) / 2)) || D1Z.yAxis;
+      this.grabStartZoom = this.grabStartYAxis ? this.grabStartYAxis.zoom : 0;
+      this.grabStartPt = this.pt;
+      this.grabStartValues = {
+        x1: this.pt.x1,
+        x2: this.pt.x2,
+        y1: this.valueFromPixel(this.pt.y1 - this.top, D1Z),
+        y2: this.valueFromPixel(this.pt.y2 - this.top, D1Z),
+        t1: this.tickFromPixel(this.pt.x1 - this.left, D1Z.chart),
+        t2: this.tickFromPixel(this.pt.x2 - this.left, D1Z.chart),
+      };
+      this.twoFingerStart = !![];
+      setTimeout(
+        (function (f4g) {
+          i3A.a3_();
+          return function () {
+            i3A.s8u();
+            f4g.grabbingHand();
+          };
+        })(this),
+        100,
+      );
+    } else if (this.touches.length == 3) {
+      if (!this.displayCrosshairs) {
+        return;
+      }
+      S0h = this.touches[0];
+      Z0E = S0h.clientX;
+      this.grabStartX = Z0E;
+      this.grabStartPeriodicity = o3e.periodicity;
+    }
+    this.runAppend("touchstart", arguments);
+  };
+  C2f.ChartEngine.prototype.touchend = function (G9$) {
+    var w7E, n8l, W4L, D21, d9o, s6X, A8Q, O1v, S$L, N6v, E3Q, G20, B8H, K96;
+    w7E = "touch";
+    w7E += "end";
+    if (C2f.ChartEngine.ignoreTouch) {
+      return;
+    }
+    this.swipe.end = !!{};
+    if (C2f.isSurface) {
+    } else {
+      this.touches = G9$.touches;
+      this.changedTouches = G9$.changedTouches;
+    }
+    if (this.runPrepend("touchend", arguments)) {
+      return;
+    }
+    var { touches: z_B, layout: h7h } = this;
+    var { vectorType: X1E } = this.currentVectorParameters;
+    n8l = (h7h.crosshair && X1E !== "") || X1E;
+    this.cancelLongHold = !![];
+    if (z_B.length <= +"1") {
+      if (n8l) {
+        if (!z_B.length || !this.twoFingerStart) {
+          this.grabbingScreen = ![];
+        }
+      }
+    }
+    if (z_B.length) {
+      this.grabStartX = -+"1";
+      this.grabStartY = -1;
+    }
+    W4L = this.pinchingScreen;
+    if (this.disableBackingStoreDuringTouch) {
+      this.reconstituteBackingStore();
+    }
+    if (!z_B.length) {
+      this.touchingEvent = setTimeout(
+        (function (Q0m) {
+          return function () {
+            Q0m.touching = !{};
+          };
+        })(this),
+        500,
+      );
+      if (C2f.ChartEngine.resizingPanel) {
+        D21 = -1035564774;
+        d9o = -1695913674;
+        s6X = 2;
+        for (
+          var D99 = 1;
+          i3A.D9u(D99.toString(), D99.toString().length, 69126) !== D21;
+          D99++
+        ) {
+          this.releaseHandle();
+          s6X += 2;
+        }
+        if (i3A.D9u(s6X.toString(), s6X.toString().length, 84633) !== d9o) {
+          this.releaseHandle();
+        }
+        if (
+          this.changedTouches.length !== "1" >> 64 ||
+          this.grabStartY !== this.changedTouches[0].clientY
+        ) {
+          return;
+        }
+      }
+      this.pinchingScreen = null;
+      this.pinchingCenter = null;
+      this.goneVertical = !!"";
+      this.grabbingScreen = !{};
+      this.grabMode = "";
+      if (this.highlightedDraggable) {
+        if (this.dragPlotOrAxis) {
+          this.dragPlotOrAxis(this.cx, this.cy);
+        }
+        this.currentPanel = this.whichPanel(this.cy);
+      }
+      this.grabStartYAxis = null;
+      this.displayDragOK();
+      this.doDisplayCrosshairs();
+      this.updateChartAccessories();
+    } else {
+      if (C2f.ChartEngine.resizingPanel) {
+        return;
+      }
+    }
+    i3A.w6J(40);
+    var S6y = i3A.Y51(4, 10, 14, 28);
+    A8Q = z_B.length + S6y;
+    if (this.changedTouches.length === 1) {
+      O1v = Date.now();
+      i3A.C2v(10);
+      S$L = this.changedTouches[i3A.Y51(0, "0")];
+      N6v = this.backOutY(S$L.pageY) + this.crosshairYOffset;
+      E3Q = this.backOutX(S$L.pageX) + this.crosshairXOffset;
+      G20 = this.currentPanel;
+      B8H = G20 && G20.subholder === G9$.target;
+      if (this.repositioningDrawing) {
+        this.changeOccurred("vector");
+        C2f.clearCanvas(this.chart.tempCanvas, this);
+        this.activateRepositioning(null);
+        this.draw();
+        if (!n8l) {
+          this.findHighlights(!!0, !!{});
+        }
+        return;
+      }
+      if (this.repositioningAnchorSelector) {
+        if (!this.repositioningAnchorSelector.hoverTick) {
+          this.repositioningAnchorSelector.hoverTick = this.tickFromPixel(
+            E3Q - this.crosshairXOffset,
+            this.chart,
+          );
+        }
+        K96 = this.repositioningAnchorSelector.sd;
+        C2f.Studies.repositionAnchor(this, K96);
+        this.repositioningAnchorSelector = null;
+        this.controls.anchorHandles[K96.uniqueId].highlighted = !{};
+        C2f.Studies.displayAnchorHandleAndLine(
+          this,
+          K96,
+          this.chart.dataSegment,
+        );
+        Object.values(this.controls.anchorHandles).forEach(
+          ({ handle: K3y }) => {
+            i3A.a3_();
+            return K3y.classList.remove("stx-grab");
+          },
+        );
+        return;
+      }
+      if (this.openDialog === "") {
+        this.registerPointerEvent(
+          { x: S$L.clientX, y: S$L.clientY, time: O1v },
+          "up",
+        );
+      }
+      if (
+        this.isDoubleClick(!!"1") &&
+        (B8H || this.overYAxis || this.overXAxis)
+      ) {
+        this.touchDoubleClick(A8Q, this.clicks.x, this.clicks.y);
+        this.resetClickState();
+      } else {
+        if (
+          !C2f.Drawing ||
+          !X1E ||
+          !C2f.Drawing[X1E] ||
+          !new C2f.Drawing[X1E]().dragToDraw
+        ) {
+          i3A.C2v(0);
+          var o4e = i3A.B$D(6, 29);
+          var {
+              up: [E6N],
+              down: [i$t],
+            } = this.pointerEvents,
+            D_5 = o4e;
+          if (
+            C2f.withinRadius(i$t, E6N, D_5) &&
+            O1v - i$t.time < 750 &&
+            !this.longHoldTookEffect &&
+            (!this.hasDragged || n8l)
+          ) {
+            setTimeout(
+              this.touchSingleClick(A8Q, this.clicks.x, this.clicks.y),
+              this.doubleClickTime + ("1" | 1),
+            );
+          }
+        }
+        this.userPointerDown = !!0;
+        if (
+          C2f.Drawing &&
+          this.activeDrawing &&
+          this.activeDrawing.dragToDraw &&
+          B8H
+        ) {
+          this.drawingClick(G20, E3Q, N6v);
+          return;
+        }
+      }
+    } else if (this.displayCrosshairs) {
+      if (this.grabEndPeriodicity != -1 && !isNaN(this.grabEndPeriodicity)) {
+        if (
+          C2f.ChartEngine.isDailyInterval(this.layout.interval) ||
+          this.allowIntradayNMinute
+        ) {
+          this.setPeriodicity({
+            period: this.grabEndPeriodicity,
+            interval: this.layout.interval,
+          });
+        }
+        this.grabEndPeriodicity = -1;
+      }
+    }
+    if (this.changedTouches.length) {
+      if (
+        (!n8l && !this.currentVectorParameters.vectorType && A8Q == 1) ||
+        (this.twoFingerStart && !W4L && !this.touches.length)
+      ) {
+        if (this.swipeRelease) {
+          this.swipeRelease();
+        }
+        this.findHighlights(!"1", !!{});
+      }
+      if (W4L && this.continuousZoom) {
+        this.continuousZoom.execute();
+        this.continuousZoom.execute(!![]);
+      }
+    }
+    if (!z_B.length) {
+      this.twoFingerStart = !!0;
+    }
+    this.runAppend(w7E, arguments);
+  };
+  N1Z = ![];
+  C2f.ChartEngine.prototype.mousemoveinner =
+    C2f.ChartEngine.prototype.mousemoveinner ||
+    function (n9q, O1h) {
+      if (!N1Z) {
+        console.error("touch feature requires activating movement feature.");
+      }
+      N1Z = !!1;
+    };
+};
+D9 = (Y$f) => {
+  var X_q, F3D;
+  X_q = "u";
+  X_q += "ndefi";
+  X_q += "n";
+  X_q += "ed";
+  F3D = typeof _CIQ !== X_q ? _CIQ : Y$f.CIQ;
+  F3D.Visualization =
+    F3D.Visualization ||
+    function (F3m) {
+      var t9y;
+      t9y = "func";
+      U6BfN.s8u();
+      t9y += "ti";
+      t9y += "o";
+      t9y += "n";
+      if (!F3m) {
+        console.log("CIQ.Visualization() missing attributes argument.");
+        return;
+      }
+      if (typeof F3m.renderFunction !== t9y) {
+        console.log(
+          "CIQ.Visualization() missing renderFunction property in attributes.",
+        );
+        return;
+      }
+      this.container = null;
+      this.attributes = F3m;
+      this.data = null;
+      this.object = null;
+    };
+  F3D.extend(F3D.Visualization.prototype, {
+    destroy: function (s_L) {
+      var o6v;
+      o6v = this.container || {};
+      F3D.resizeObserver(o6v, null, o6v.resizeHandle);
+      if (o6v.autoGenerated) {
+        o6v.remove();
+        delete this.container;
+      } else {
+        o6v.innerHTML = "";
+      }
+      if (s_L) {
+        return;
+      }
+      this.attributes = null;
+      this.container = null;
+      this.data = null;
+      this.object = null;
+      this.destroy = this.draw = this.setAttributes = function () {};
+      this.updateData = function () {
+        return undefined;
+      };
+    },
+    draw: function (u49) {
+      var h9K, u5L, q9K, Y3y, Z8z, j88, D5J;
+      if (!this.data || typeof this.data !== "object") {
+        h9K = "CIQ.Visu";
+        h9K += "alization.draw(";
+        h9K += ") missing data.";
+        console.log(h9K);
+        return;
+      }
+      u5L = this.attributes || {};
+      q9K = u5L.document || document;
+      Y3y = u5L.container || this.container;
+      if (typeof Y3y === "string") {
+        Y3y = q9K.querySelector(Y3y);
+      }
+      if (!Y3y) {
+        Y3y = document.createElement("div");
+        Y3y.style.height = Y3y.style.width = "300px";
+        q9K.body.appendChild(Y3y);
+        Y3y.autoGenerated = !![];
+      }
+      if (u5L.stx) {
+        Z8z = u5L.stx.chart.canvasShim;
+        if (u5L.useCanvasShim && Z8z && Z8z !== Y3y && Z8z !== Y3y.parentNode) {
+          if (!Y3y.autoGenerated) {
+            Y3y = Y3y.cloneNode();
+            Y3y.id = "";
+            Y3y.autoGenerated = !!"1";
+          }
+          Z8z.appendChild(Y3y);
+        }
+      }
+      if (this.container && this.container !== Y3y) {
+        this.destroy(!![]);
+      }
+      if (!Y3y.resizeHandle) {
+        j88 = function (M5R) {
+          U6BfN.s8u();
+          return function () {
+            if (M5R.data && M5R.container && q9K.body.contains(M5R.container)) {
+              M5R.draw.call(M5R, !"");
+            }
+          };
+        };
+        Y3y.resizeHandle = F3D.resizeObserver(Y3y, j88(this));
+      }
+      this.container = Y3y;
+      function X3n(H$J, Q4t) {
+        U6BfN.a3_();
+        return H$J.index < Q4t.index
+          ? -+"1"
+          : H$J.index > Q4t.index
+            ? 1
+            : "0" | 0;
+      }
+      this.attributes = u5L;
+      u5L = F3D.ensureDefaults({ container: this.container }, this.attributes);
+      D5J = u5L.renderFunction(Object.values(this.data).sort(X3n), u5L);
+      if (D5J) {
+        if (u5L.id) {
+          D5J.id = u5L.id;
+        }
+        if (u49 || u5L.forceReplace) {
+          this.container.innerHTML = "";
+          this.container.appendChild(D5J);
+        }
+      }
+      this.attributes = u5L;
+      this.object = D5J;
+    },
+    setAttributes: function (G6R, p2$) {
+      var R5$, L2R, g$8, a3w;
+      R5$ = "useCanvasShi";
+      U6BfN.a3_();
+      R5$ += "m";
+      L2R = ["renderFunction", "container", "stx", R5$, "id", "forceReplace"];
+      g$8 = !{};
+      a3w = G6R;
+      if (typeof G6R == "string") {
+        a3w = {};
+        a3w[G6R] = p2$;
+      }
+      if (typeof a3w == "object") {
+        for (var J4S in a3w) {
+          if (this.attributes[J4S] !== a3w[J4S] && L2R.indexOf(J4S) !== -1) {
+            g$8 = !!{};
+          }
+          this.attributes[J4S] = a3w[J4S];
+        }
+      }
+      this.draw(g$8);
+    },
+    updateData: function (w1O, s7o) {
+      var e_L, y$r, U14, X1j, o_7, H5h, l4N;
+      e_L = "ad";
+      e_L += "d";
+      y$r = "upda";
+      y$r += "te";
+      U14 = "rep";
+      U14 += "l";
+      U14 += "ac";
+      U14 += "e";
+      H5h = Array.isArray(w1O)
+        ? w1O.reduce(function (X2b, m5J) {
+            X2b[m5J.name] = m5J;
+            return X2b;
+          }, {})
+        : F3D.shallowClone(w1O);
+      for (X1j in H5h) {
+        o_7 = H5h[X1j];
+        if (Object.prototype.toString.call(o_7) !== "[object Object]") {
+          H5h[X1j] = { value: o_7 };
+        }
+        if (!H5h[X1j].name) {
+          H5h[X1j].name = X1j;
+        }
+        if (!H5h[X1j].value) {
+          H5h[X1j].value = 0;
+        }
+      }
+      if (!s7o) {
+        s7o = "replace";
+      }
+      switch (s7o.toLowerCase()) {
+        case "delete":
+          for (X1j in H5h) {
+            delete this.data[X1j];
+          }
+          break;
+        case U14:
+          this.data = {};
+        case y$r:
+        case e_L:
+          for (X1j in H5h) {
+            if (!this.data[X1j]) {
+              this.data[X1j] = { name: X1j };
+            }
+            o_7 = H5h[X1j].value;
+            if (Object.prototype.toString.call(o_7) == "[object Number]") {
+              l4N = "up";
+              l4N += "d";
+              l4N += "a";
+              l4N += "te";
+              if (!this.data[X1j].value || s7o == l4N) {
+                this.data[X1j].value = 0;
+              }
+              this.data[X1j].value += o_7;
+            } else {
+              this.data[X1j].value = o_7;
+            }
+            for (var l2h in H5h[X1j]) {
+              if (l2h !== "value") {
+                this.data[X1j][l2h] = H5h[X1j][l2h];
+              }
+            }
+          }
+          break;
+        default:
+          console.log(
+            "Invalid or missing action.  Valid values are 'add', 'delete', 'replace', or 'update'.",
+          );
+      }
+      this.draw(this.attributes.forceReplace);
+      return this;
+    },
+  });
+  F3D.ChartEngine.prototype.embedVisualization = function (W61) {
+    if (!W61) {
+      W61 = {};
+    }
+    W61.stx = this;
+    W61.useCanvasShim = !!{};
+    W61.translator = function (D7Z) {
+      U6BfN.a3_();
+      return W61.stx.translateIf(D7Z);
+    };
+    W61.document = this.container.ownerDocument;
+    return new F3D.Visualization(W61);
+  };
+};
+K4 = (o0A) => {
+  var Z5T = U6BfN;
+  var Z0c, n0M, q7u;
+  Z5T.a3_();
+  Z0c = "undefi";
+  Z0c += "n";
+  Z0c += "e";
+  Z0c += "d";
+  n0M = typeof _CIQ !== Z0c ? _CIQ : o0A.CIQ;
+  if (!n0M.Studies) {
+    q7u = "medianPrice featur";
+    q7u += "e requires";
+    q7u += " f";
+    q7u += "irst activating studies feature.";
+    console.error(q7u);
+  } else {
+    n0M.Studies.calculateTypicalPrice = function (N23, z2s) {
+      var g4b, G7c, J1t, r45, R_f, I1G;
+      Z5T.s8u();
+      g4b = "h";
+      g4b += "l";
+      g4b += "/2";
+      G7c = z2s.chart.scrubbed;
+      J1t = z2s.days;
+      if (G7c.length < J1t + 1) {
+        if (!z2s.overlay) {
+          z2s.error = !![];
+        }
+        return;
+      }
+      r45 = z2s.name;
+      for (var X_B in z2s.outputs) {
+        Z5T.w6J(2);
+        r45 = Z5T.Y51(
+          X_B,
+          (3970, 7246) === (8916, 283.24)
+            ? 301.72
+            : 7673 !== (1340, 5610)
+              ? " "
+              : (744.02, +"834.35") >= (3544, 7562)
+                ? "c"
+                : ("X", 0x179e),
+          r45,
+        );
+      }
+      R_f = "hlc/3";
+      if (z2s.type == "Med Price") {
+        R_f = g4b;
+      } else if (z2s.type == "Weighted Close") {
+        R_f = "hlcc/4";
+      }
+      I1G = 0;
+      if (z2s.startFrom <= J1t) {
+        z2s.startFrom = 0;
+      }
+      for (var o1b = z2s.startFrom; o1b < G7c.length; o1b++) {
+        if (o1b && G7c[o1b - 1][r45]) {
+          Z5T.C2v(10);
+          var h5B = Z5T.B$D(6, 7);
+          I1G = G7c[o1b - h5B][r45] * J1t;
+        }
+        I1G += G7c[o1b][R_f];
+        if (o1b >= J1t) {
+          Z5T.w6J(10);
+          I1G -= G7c[Z5T.B$D(J1t, o1b)][R_f];
+          Z5T.w6J(11);
+          G7c[o1b][r45] = Z5T.B$D(J1t, I1G);
+        }
+      }
+    };
+    n0M.Studies.studyLibrary = n0M.extend(n0M.Studies.studyLibrary, {
+      "Med Price": {
+        name: "Median Price",
+        calculateFN: n0M.Studies.calculateTypicalPrice,
+        inputs: { Period: 14 },
+      },
+    });
+  }
+};
+O$ = (d7r) => {
+  var k46 = U6BfN;
+  var b4W, a1f;
+  k46.s8u();
+  b4W = typeof _CIQ !== "undefined" ? _CIQ : d7r.CIQ;
+  if (!b4W.Studies) {
+    console.error(
+      "momentum feature requires first activating studies feature.",
+    );
+  } else {
+    a1f = "f";
+    a1f += "iel";
+    a1f += "d";
+    b4W.Studies.calculateRateOfChange = function (Y9T, N29) {
+      var B7f, z3P, L7p, C1i, C8u, l2o, o73;
+      B7f = N29.chart.scrubbed;
+      if (B7f.length < N29.days + 1) {
+        N29.error = !![];
+        return;
+      }
+      z3P = N29.inputs.Field;
+      if (!z3P || z3P == "field") {
+        z3P = "Close";
+      }
+      if (N29.parameters.isVolume) {
+        z3P = "Volume";
+      }
+      L7p = N29.name;
+      for (var s8$ in N29.outputs) {
+        k46.w6J(2);
+        L7p = k46.Y51(s8$, " ", L7p);
+      }
+      C1i = N29.inputs["Center Line"];
+      if (!C1i) {
+        C1i = +"0";
+      } else {
+        C1i = parseInt(C1i, 10);
+      }
+      for (
+        var U_l = Math.max(N29.startFrom, N29.days);
+        U_l < B7f.length;
+        U_l++
+      ) {
+        C8u = b4W.Studies.getQuoteFieldValue(B7f[U_l], z3P, N29.subField);
+        l2o = b4W.Studies.getQuoteFieldValue(
+          B7f[U_l - N29.days],
+          z3P,
+          N29.subField,
+        );
+        if (N29.type == "Momentum") {
+          k46.C2v(20);
+          B7f[U_l][L7p] = k46.Y51(l2o, C1i, C8u);
+        } else {
+          o73 = l2o;
+          if (o73) {
+            k46.C2v(157);
+            B7f[U_l][L7p] = k46.B$D(C8u, o73, 1, "100", C1i);
+          }
+        }
+      }
+    };
+    b4W.Studies.studyLibrary = b4W.extend(b4W.Studies.studyLibrary, {
+      "Price ROC": {
+        name: "Price Rate of Change",
+        calculateFN: b4W.Studies.calculateRateOfChange,
+        inputs: { Period: 14, Field: a1f },
+      },
+      Momentum: {
+        name: "Momentum Indicator",
+        calculateFN: b4W.Studies.calculateRateOfChange,
+        inputs: { Period: 14 },
+        centerline: 0,
+      },
+    });
+  }
+};
+J3 = (A3B) => {
+  var R8a = U6BfN;
+  R8a.a3_();
+  var l9i;
+  l9i = typeof _CIQ !== "undefined" ? _CIQ : A3B.CIQ;
+  if (!l9i.Studies) {
+    console.error(
+      "priceRelative feature requires first activating studies feature.",
+    );
+  } else {
+    l9i.Studies.initPriceRelative = function (V2z, f6y, y7v, C4J, c9P, U87) {
+      var A9V, S7c, A$W;
+      A9V = "Compari";
+      A9V += "so";
+      A9V += "n Symbol";
+      S7c = l9i.Studies.initializeFN(V2z, f6y, y7v, C4J, c9P, U87);
+      A$W = [S7c.inputs[A9V].toUpperCase()];
+      l9i.Studies.fetchAdditionalInstruments(V2z, S7c, A$W);
+      return S7c;
+    };
+    l9i.Studies.calculatePriceRelative = function (z8c, H8n) {
+      var t2F, n71, W9$, v4b, w0B, s4u, C24;
+      t2F = "Comparison Symbo";
+      t2F += "l";
+      n71 = H8n.chart.scrubbed;
+      R8a.s8u();
+      W9$ = H8n.inputs["Comparison Symbol"].toUpperCase();
+      if (!W9$) {
+        W9$ = H8n.study.inputs[t2F];
+      }
+      v4b = {};
+      w0B = z8c.chart.symbol || "";
+      w0B = w0B.replace(/[=+\-*\\%]/g, "");
+      v4b[w0B] = n71.slice(H8n.startFrom);
+      if (!v4b[w0B].length) {
+        return;
+      }
+      if (w0B != W9$) {
+        v4b[W9$] = null;
+      }
+      R8a.C2v(83);
+      s4u = l9i.computeEquationChart(
+        R8a.B$D(
+          "[",
+          (2740, 9882) < (5470, 981.91) ? !!0 : "]",
+          "]/[",
+          W9$,
+          w0B,
+        ),
+        v4b,
+      );
+      R8a.C2v(1);
+      C24 = R8a.Y51(64, "0");
+      for (
+        var p2z = H8n.startFrom;
+        p2z < n71.length && C24 < s4u.length;
+        p2z++
+      ) {
+        while (
+          C24 < s4u.length &&
+          n71[p2z].DT.getTime() > s4u[C24].DT.getTime()
+        ) {
+          C24++;
+        }
+        if (n71[p2z].DT.getTime() < s4u[C24].DT.getTime()) continue;
+        n71[p2z]["Result " + H8n.name] = s4u[C24].Close;
+        C24++;
+      }
+    };
+    l9i.Studies.displayVsComparisonSymbol = function (W50, l4Q, f3E) {
+      var O3x, Z1X, s8W, V14;
+      O3x = l4Q.inputs["Comparison Symbol"].toUpperCase();
+      if (!W50.getSeries({ symbol: O3x, chart: l4Q.chart }).length) {
+        W50.displayErrorAsWatermark(
+          l4Q.panel,
+          W50.translateIf(l4Q.study.name) +
+            ": " +
+            W50.translateIf("Not Available"),
+        );
+        return;
+      }
+      Z1X = {
+        skipTransform: W50.panels[l4Q.panel].name != l4Q.chart.name,
+        panelName: l4Q.panel,
+        band: "Result " + l4Q.name,
+        threshold: l4Q.study.centerline,
+        yAxis: l4Q.getYAxis(W50),
+        gapDisplayStyle: !0,
+      };
+      s8W = Z1X.yAxis ? Z1X.yAxis.flipped : W50.panels[l4Q.panel].yAxis.flipped;
+      V14 = +"0.3";
+      if (!l4Q.highlight && W50.highlightedDraggable) {
+        V14 *= 0.3;
+      }
+      for (var h7Q = f3E.length - +"1"; h7Q >= 0; h7Q--) {
+        if (f3E[h7Q] && f3E[h7Q][O3x]) {
+          l9i.Studies.displaySeriesAsLine(W50, l4Q, f3E);
+          if (l4Q.study.centerline || l4Q.study.centerline === 0) {
+            if (l4Q.outputs.Gain) {
+              l9i.preparePeakValleyFill(
+                W50,
+                l9i.extend(Z1X, {
+                  direction: s8W ? -1 : 1,
+                  color: l9i.Studies.determineColor(l4Q.outputs.Gain),
+                  opacity: V14,
+                }),
+              );
+            }
+            if (l4Q.outputs.Loss) {
+              l9i.preparePeakValleyFill(
+                W50,
+                l9i.extend(Z1X, {
+                  direction: s8W ? "1" * 1 : -1,
+                  color: l9i.Studies.determineColor(l4Q.outputs.Loss),
+                  opacity: V14,
+                }),
+              );
+            }
+          }
+          return;
+        }
+      }
+    };
+    l9i.Studies.fetchAdditionalInstruments = function (r8O, G2m, m$b, F0x) {
+      var I3I, S$S, P_y, u3z, d6I, M8U, k1p, s8F;
+      if (!r8O.quoteDriver) {
+        I3I = "CIQ.S";
+        I3I += "tu";
+        I3I += "dies.fetchAdditionalInstruments: No quotefeed to fetch symbol";
+        console.log(I3I);
+        return;
+      }
+      S$S = r8O.panels[G2m.panel].chart;
+      function s1v() {
+        r8O.createDataSet();
+        r8O.draw();
+      }
+      G2m.symbols = m$b;
+      for (P_y = 0; P_y < m$b.length; P_y++) {
+        M8U = "obj";
+        M8U += "e";
+        M8U += "c";
+        M8U += "t";
+        u3z = d6I = m$b[P_y];
+        if (typeof d6I == M8U) {
+          u3z = d6I.symbol;
+        } else {
+          d6I = { symbol: u3z };
+        }
+        k1p = {
+          symbol: u3z,
+          symbolObject: d6I,
+          bucket: "study",
+          studyName: G2m.name,
+          chartName: S$S.name,
+          action: "add-study",
+        };
+        l9i.extend(k1p, F0x);
+        s8F = k1p.loadData;
+        if (r8O.currentlyImporting) {
+          k1p.loadData = ![];
+        }
+        if (!G2m.series) {
+          G2m.series = {};
+        }
+        G2m.series[u3z] = r8O.addSeries(null, k1p, s1v);
+        G2m.series[u3z].parameters.loadData = s8F;
+      }
+    };
+    l9i.Studies.studyLibrary = l9i.extend(l9i.Studies.studyLibrary, {
+      "P Rel": {
+        name: "Price Relative",
+        initializeFN: l9i.Studies.initPriceRelative,
+        seriesFN: l9i.Studies.displayVsComparisonSymbol,
+        calculateFN: l9i.Studies.calculatePriceRelative,
+        centerline: 0,
+        inputs: { "Comparison Symbol": "SPY" },
+        deferUpdate: !!"1",
+      },
+    });
+  }
+};
+P8 = (F1k) => {
+  var u57, n9A, X_8, w1d, V32, U_E, a$V;
+  u57 = "u";
+  u57 += "ndefined";
+  n9A = typeof _CIQ !== u57 ? _CIQ : F1k.CIQ;
+  X_8 = typeof _timezoneJS !== "undefined" ? _timezoneJS : F1k.timezoneJS;
+  if (!n9A.Studies) {
+    console.error("vwap feature requires first activating studies feature.");
+  } else {
+    w1d = "#85c9";
+    w1d += "9e";
+    V32 = "#8";
+    V32 += "5";
+    V32 += "c";
+    V32 += "99e";
+    U_E = "#e1e";
+    U_E += "1e1";
+    a$V = "f";
+    a$V += "ie";
+    a$V += "l";
+    a$V += "d";
+    n9A.Studies.calculateVWAP = function (r95, d2N) {
+      var I50 = U6BfN;
+      var b4z,
+        b3K,
+        D31,
+        Z7P,
+        J88,
+        w7S,
+        y0u,
+        w1e,
+        E1m,
+        i8d,
+        x9N,
+        C20,
+        X6B,
+        d17,
+        b14,
+        e2a,
+        c76,
+        V3d,
+        d$M,
+        I18,
+        D8S,
+        E7n,
+        T2k,
+        d3$,
+        i2G,
+        W1E,
+        X6N,
+        d$f,
+        L4v,
+        B9b,
+        B_X,
+        H2t,
+        T4o,
+        o90;
+      if ((d2N.parameters.state || {}).interactiveAdd) {
+        return;
+      }
+      var { inputs: h6b, name: J3_, chart: v8i } = d2N;
+      var { market: t0t } = v8i;
+      b4z = d2N.type === "AVWAP";
+      b3K = v8i.scrubbed;
+      if (!b3K.length) {
+        return;
+      }
+      if (!b4z && n9A.ChartEngine.isDailyInterval(r95.layout.interval)) {
+        D31 = "V";
+        D31 += "WAP is Intrad";
+        D31 += "ay";
+        D31 += " Only";
+        d2N.error = D31;
+        return;
+      }
+      Z7P = "hlc/3";
+      if (b4z) {
+        J88 = "fie";
+        J88 += "l";
+        J88 += "d";
+        Z7P = h6b.Field;
+        if (!Z7P || Z7P == J88) {
+          Z7P = h6b.Field = "hlc/3";
+          r95.changeOccurred("layout");
+        }
+      }
+      w7S = null;
+      y0u = 0;
+      w1e = +"0";
+      E1m = +"0";
+      i8d = !!0;
+      if (d2N.startFrom > 1) {
+        x9N = "_V";
+        x9N += "xP";
+        x9N += "2";
+        x9N += " ";
+        C20 = "_Vx";
+        C20 += "P ";
+        y0u = b3K[d2N.startFrom - 1]["_V " + J3_] || 0;
+        w1e = b3K[d2N.startFrom - 1][C20 + J3_] || 0;
+        E1m = b3K[d2N.startFrom - 1][x9N + J3_] || 0;
+      }
+      I50.a3_();
+      if (b4z) {
+        X6B = "A";
+        X6B += "nchor Dat";
+        X6B += "e";
+        var { market_tz: c8R } = t0t.market_def || {};
+        var [, Q4U, H4P, y9p] =
+          (h6b[X6B] || "").match(/^(\d{4})-?(\d{2})-?(\d{2})$/) || [];
+        I50.C2v(1);
+        var [, x2$ = 0, Q8j = 0, x9l = U6BfN.Y51(64, "0")] =
+          (h6b["Anchor Time"] || "").match(/^(\d{2}):?(\d{2}):?(\d{2})?$/) ||
+          [];
+        if (
+          ![Q4U, H4P, y9p].every((m9P) => {
+            return m9P || m9P === 0;
+          })
+        ) {
+          d17 = -879619538;
+          b14 = -1696381091;
+          e2a = 2;
+          for (
+            var c$D = +"1";
+            I50.D9u(c$D.toString(), c$D.toString().length, 63837) !== d17;
+            c$D++
+          ) {
+            c76 = "Invalid";
+            c76 += " An";
+            c76 += "cho";
+            c76 += "r Date";
+            d2N.error = c76;
+            e2a += 2;
+          }
+          if (I50.C6S(e2a.toString(), e2a.toString().length, 54171) !== b14) {
+            d2N.error = "";
+          }
+          return;
+        }
+        I50.C2v(10);
+        V3d = new X_8.Date(Q4U, I50.Y51(1, H4P), y9p, x2$, Q8j, x9l, c8R || "");
+        if (!d2N.startFrom && V3d >= b3K[0].DT) {
+          d2N.startFrom = r95.tickFromDate(V3d, r95.chart, null, !![]);
+        }
+        if (h6b["Anchor Selector"]) {
+          n9A.Studies.initAnchorHandle(r95, d2N);
+        } else {
+          n9A.Studies.removeAnchorHandle(r95, d2N);
+        }
+      }
+      for (var E79 = d2N.startFrom; E79 < b3K.length; E79++) {
+        d$M = "_";
+        d$M += "V";
+        d$M += "xP ";
+        if (!b4z) {
+          if (w7S === null) {
+            w7S = n9A.Studies.getMarketOffset({
+              stx: r95,
+              localQuoteDate: b3K[E79].DT,
+              shiftToDateBoundary: !!{},
+            });
+          }
+          if (b3K[E79 - 1] && b3K[E79 - 1].DT) {
+            I18 = new Date(
+              new Date(+b3K[E79].DT).setMilliseconds(
+                b3K[E79].DT.getMilliseconds() + w7S,
+              ),
+            );
+            D8S = new Date(
+              new Date(+b3K[E79 - 1].DT).setMilliseconds(
+                b3K[E79 - 1].DT.getMilliseconds() + w7S,
+              ),
+            );
+            if (
+              D8S.getDate() !== I18.getDate() &&
+              r95.chart.market.isMarketDate(I18)
+            ) {
+              w7S = null;
+              y0u = w1e = E1m = 0;
+            }
+          }
+        }
+        E7n = b3K[E79][Z7P];
+        T2k = b3K[E79].Volume;
+        if (b4z && !T2k) {
+          T2k = 1;
+        }
+        y0u += T2k;
+        I50.w6J(3);
+        w1e += I50.Y51(T2k, E7n);
+        I50.C2v(37);
+        E1m += I50.B$D(T2k, E7n, E7n);
+        if (!b4z && !y0u) continue;
+        I50.w6J(0);
+        b3K[E79][I50.Y51("_V ", J3_)] = y0u;
+        I50.C2v(0);
+        b3K[E79][I50.B$D(d$M, J3_)] = w1e;
+        I50.C2v(0);
+        b3K[E79][I50.Y51("_VxP2 ", J3_)] = E1m;
+        I50.C2v(0);
+        d3$ = b3K[E79][I50.Y51("_SDVWAP ", J3_)] = Math.sqrt(
+          Math.max(0, E1m / y0u - Math.pow(w1e / y0u, 2)),
+        );
+        I50.C2v(0);
+        i2G = b3K[E79][I50.Y51("VWAP ", J3_)] = I50.Y51(y0u, w1e, I50.C2v(11));
+        for (var V5S = +"1"; V5S <= 3; V5S++) {
+          W1E = "-";
+          W1E += " ";
+          I50.w6J(48);
+          b3K[E79][I50.Y51(V5S, "SDVWAP", "+ ", J3_)] = I50.Y51(
+            d3$,
+            i2G,
+            V5S,
+            I50.w6J(158),
+          );
+          I50.w6J(48);
+          b3K[E79][I50.B$D(V5S, "SDVWAP", W1E, J3_)] = I50.B$D(
+            d3$,
+            i2G,
+            V5S,
+            I50.w6J(159),
+          );
+        }
+        i8d = !!"1";
+      }
+      for (var L$Q in d2N.outputMap) {
+        if (L$Q.indexOf("VWAP") !== "0" >> 32) {
+          delete d2N.outputMap[L$Q];
+        }
+      }
+      for (var V5T = 1; V5T <= 3; V5T++) {
+        X6N = "\u03C3";
+        X6N += ")";
+        d$f = "Dis";
+        d$f += "play";
+        d$f += " ";
+        if (h6b[d$f + V5T + " Standard Deviation (" + V5T + X6N]) {
+          L4v = "-";
+          L4v += " ";
+          B9b = "\u03C3";
+          B9b += ")";
+          B_X = " Standard Devi";
+          B_X += "ation ";
+          B_X += "(";
+          H2t = "+";
+          H2t += " ";
+          T4o = "S";
+          T4o += "DV";
+          T4o += "WA";
+          T4o += "P";
+          I50.w6J(48);
+          d2N.outputMap[I50.Y51(V5T, T4o, H2t, J3_)] = I50.B$D(
+            B_X,
+            V5T,
+            V5T,
+            B9b,
+          );
+          I50.w6J(48);
+          d2N.outputMap[I50.B$D(V5T, "SDVWAP", L4v, J3_)] = I50.B$D(
+            " Standard Deviation (",
+            V5T,
+            V5T,
+            "\u03C3)",
+          );
+        }
+      }
+      if (!b4z && !i8d) {
+        o90 = "VWAP";
+        o90 += " Req";
+        o90 += "uires Volum";
+        o90 += "e";
+        d2N.error = o90;
+      }
+    };
+    n9A.Studies.initAnchoredVWAP = function (o6y, S$s, W8M, V$h, Z4T, A2l) {
+      var y5d, M9G, l9$;
+      if (!Z4T.state) {
+        Z4T.state = {};
+      }
+      var { interactiveAdd: Y$i, interactiveAddCB: T1z, state: X_L } = Z4T;
+      y5d = !(W8M["Anchor Date"] || W8M["Anchor Time"]);
+      if (y5d && (X_L.interactiveAdd || o6y.repositioningAnchorSelector)) {
+        return "abort";
+      }
+      var { dataSegment: i1S } = o6y.chart;
+      if (i1S && y5d && !Y$i) {
+        for (var S7a = 0; S7a < i1S.length; S7a++) {
+          if (i1S[S7a]) {
+            M9G = "An";
+            M9G += "ch";
+            M9G += "or Tim";
+            M9G += "e";
+            var { DT: m7V } = i1S[S7a];
+            W8M["Anchor Date"] = n9A.dateToStr(m7V, "YYYY-MM-dd");
+            W8M[M9G] = n9A.dateToStr(m7V, "HH:mm:ss");
+            break;
+          }
+        }
+      }
+      if (y5d && Y$i) {
+        X_L.interactiveAdd = !![];
+      } else {
+        delete X_L.interactiveAdd;
+        delete Z4T.interactiveAdd;
+        if (T1z) {
+          setTimeout(T1z);
+        }
+      }
+      l9$ = n9A.Studies.initializeFN(o6y, S$s, W8M, V$h, Z4T, A2l);
+      if (X_L.interactiveAdd) {
+        o6y.repositioningAnchorSelector = { sd: l9$, tapToAdd: !!{} };
+        o6y.dispatch("notification", "addAVWAP");
+      } else {
+        o6y.dispatch("notification", "removeAVWAP");
+      }
+      return l9$;
+    };
+    n9A.Studies.displayVWAP = function (p$B, G8s, Y1n) {
+      U6BfN.s8u();
+      var F5D, y9L, U0C, n62, f2t, e0a, J4Z, v7Y, i13, R4U, V0L, i8A, w9g, U0l;
+      F5D = "Display ";
+      F5D += "3 Standard Deviati";
+      F5D += "on (3\u03C3)";
+      if (!Y1n || !Y1n[+"0"]) {
+        n9A.Studies.removeAnchoredVWAP(p$B, G8s);
+        return;
+      }
+      n9A.Studies.displaySeriesAsLine(p$B, G8s, Y1n);
+      y9L = G8s.inputs["Display 1 Standard Deviation (1\u03C3)"];
+      U0C = G8s.inputs["Display 2 Standard Deviation (2\u03C3)"];
+      n62 = G8s.inputs[F5D];
+      if ((y9L || U0C || n62) && G8s.inputs.Shading) {
+        f2t = p$B.panels[G8s.panel];
+        e0a = {
+          opacity: G8s.parameters.opacity ? G8s.parameters.opacity : 0.2,
+          skipTransform: f2t.name != G8s.chart.name,
+          yAxis: G8s.getYAxis(p$B),
+        };
+        if (!G8s.highlight && p$B.highlightedDraggable) {
+          e0a.opacity *= 0.3;
+        }
+        J4Z = "VWAP " + G8s.name;
+        v7Y = "VWAP " + G8s.name;
+        if (y9L) {
+          i13 = "SDVWAP";
+          i13 += "1";
+          i13 += "-";
+          i13 += " ";
+          n9A.prepareChannelFill(
+            p$B,
+            n9A.extend(
+              {
+                panelName: G8s.panel,
+                topBand: "SDVWAP1+ " + G8s.name,
+                bottomBand: J4Z,
+                color: n9A.Studies.determineColor(
+                  G8s.outputs[G8s.outputMap["SDVWAP1+ " + G8s.name]],
+                ),
+              },
+              e0a,
+            ),
+          );
+          n9A.prepareChannelFill(
+            p$B,
+            n9A.extend(
+              {
+                panelName: G8s.panel,
+                topBand: "SDVWAP1- " + G8s.name,
+                bottomBand: v7Y,
+                color: n9A.Studies.determineColor(
+                  G8s.outputs[G8s.outputMap["SDVWAP1- " + G8s.name]],
+                ),
+              },
+              e0a,
+            ),
+          );
+          J4Z = "SDVWAP1+ " + G8s.name;
+          v7Y = i13 + G8s.name;
+        }
+        if (U0C) {
+          R4U = "SDV";
+          R4U += "WA";
+          R4U += "P2";
+          R4U += "- ";
+          V0L = "SD";
+          V0L += "VWAP2+";
+          V0L += " ";
+          n9A.prepareChannelFill(
+            p$B,
+            n9A.extend(
+              {
+                panelName: G8s.panel,
+                topBand: "SDVWAP2+ " + G8s.name,
+                bottomBand: J4Z,
+                color: n9A.Studies.determineColor(
+                  G8s.outputs[G8s.outputMap[V0L + G8s.name]],
+                ),
+              },
+              e0a,
+            ),
+          );
+          n9A.prepareChannelFill(
+            p$B,
+            n9A.extend(
+              {
+                panelName: G8s.panel,
+                topBand: "SDVWAP2- " + G8s.name,
+                bottomBand: v7Y,
+                color: n9A.Studies.determineColor(
+                  G8s.outputs[G8s.outputMap["SDVWAP2- " + G8s.name]],
+                ),
+              },
+              e0a,
+            ),
+          );
+          J4Z = "SDVWAP2+ " + G8s.name;
+          v7Y = R4U + G8s.name;
+        }
+        if (n62) {
+          i8A = "SDV";
+          i8A += "WAP3- ";
+          w9g = "SD";
+          w9g += "V";
+          w9g += "WAP3";
+          w9g += "- ";
+          U0l = "S";
+          U0l += "DVWAP";
+          U0l += "3+ ";
+          n9A.prepareChannelFill(
+            p$B,
+            n9A.extend(
+              {
+                panelName: G8s.panel,
+                topBand: U0l + G8s.name,
+                bottomBand: J4Z,
+                color: n9A.Studies.determineColor(
+                  G8s.outputs[G8s.outputMap["SDVWAP3+ " + G8s.name]],
+                ),
+              },
+              e0a,
+            ),
+          );
+          n9A.prepareChannelFill(
+            p$B,
+            n9A.extend(
+              {
+                panelName: G8s.panel,
+                topBand: w9g + G8s.name,
+                bottomBand: v7Y,
+                color: n9A.Studies.determineColor(
+                  G8s.outputs[G8s.outputMap[i8A + G8s.name]],
+                ),
+              },
+              e0a,
+            ),
+          );
+        }
+      }
+      if (G8s.anchorHandle || (G8s.parameters.state || {}).interactiveAdd) {
+        n9A.Studies.displayAnchorHandleAndLine(p$B, G8s, Y1n);
+      }
+    };
+    n9A.Studies.removeAnchoredVWAP = function (h3_, c4O) {
+      var c2y, k5w, a3d;
+      h3_.dispatch("notification", "removeAVWAP");
+      c2y = 1608452539;
+      k5w = 270091067;
+      a3d = +"2";
+      for (
+        var W9I = 1;
+        U6BfN.D9u(W9I.toString(), W9I.toString().length, "68743" * 1) !== c2y;
+        W9I++
+      ) {
+        n9A.Studies.removeAnchorHandle(h3_, c4O);
+        a3d += 2;
+      }
+      if (U6BfN.C6S(a3d.toString(), a3d.toString().length, 29382) !== k5w) {
+        n9A.Studies.removeAnchorHandle(h3_, c4O);
+      }
+    };
+    n9A.Studies.studyLibrary = n9A.extend(n9A.Studies.studyLibrary, {
+      AVWAP: {
+        name: "Anchored VWAP",
+        overlay: !![],
+        calculateFN: n9A.Studies.calculateVWAP,
+        seriesFN: n9A.Studies.displayVWAP,
+        initializeFN: n9A.Studies.initAnchoredVWAP,
+        removeFN: n9A.Studies.removeAnchoredVWAP,
+        inputs: {
+          Field: a$V,
+          "Anchor Date": "",
+          "Anchor Time": "",
+          "Display 1 Standard Deviation (1\u03C3)": !"1",
+          "Display 2 Standard Deviation (2\u03C3)": !{},
+          "Display 3 Standard Deviation (3\u03C3)": !!"",
+          Shading: !{},
+          "Anchor Selector": !"",
+        },
+        outputs: {
+          VWAP: "#FF0000",
+          "1 Standard Deviation (1\u03C3)": U_E,
+          "2 Standard Deviation (2\u03C3)": V32,
+          "3 Standard Deviation (3\u03C3)": "#fff69e",
+        },
+        parameters: { init: { opacity: 0.2, interactiveAdd: !!{} } },
+        attributes: {
+          "Anchor Date": { placeholder: "yyyy-mm-dd" },
+          "Anchor Time": { placeholder: "hh:mm:ss", step: 1 },
+        },
+      },
+      VWAP: {
+        name: "VWAP",
+        overlay: !!{},
+        calculateFN: n9A.Studies.calculateVWAP,
+        seriesFN: n9A.Studies.displayVWAP,
+        inputs: {
+          "Display 1 Standard Deviation (1\u03C3)": !!"",
+          "Display 2 Standard Deviation (2\u03C3)": !1,
+          "Display 3 Standard Deviation (3\u03C3)": !1,
+          Shading: !!0,
+        },
+        outputs: {
+          VWAP: "#FF0000",
+          "1 Standard Deviation (1\u03C3)": "#e1e1e1",
+          "2 Standard Deviation (2\u03C3)": w1d,
+          "3 Standard Deviation (3\u03C3)": "#fff69e",
+        },
+        parameters: { init: { opacity: 0.2 } },
+      },
+    });
+  }
+};
+O_ = (T4V) => {
+  var i$X = U6BfN;
+  var P1E, E7E, I5X, F6R;
+  i$X.s8u();
+  P1E = -+"898646773";
+  E7E = -1202423300;
+  i$X.w6J(3);
+  I5X = i$X.Y51("2", 1);
+  for (
+    var b5Z = 1;
+    i$X.D9u(b5Z.toString(), b5Z.toString().length, +"20133") !== P1E;
+    b5Z++
+  ) {
+    F6R = +_CIQ === "" ? _CIQ : T4V.CIQ;
+    I5X += 2;
+  }
+  if (i$X.D9u(I5X.toString(), I5X.toString().length, 49906) !== E7E) {
+    F6R = typeof _CIQ !== "undefined" ? _CIQ : T4V.CIQ;
+  }
+  if (!F6R.Studies) {
+    console.error("zigzag feature requires first activating studies feature.");
+  } else {
+    F6R.Studies.calculateZigZag = function (V8K, C6R) {
+      var X1Z,
+        a4k,
+        x9u,
+        C0k,
+        D1j,
+        O5K,
+        k6s,
+        c1c,
+        C_y,
+        d1q,
+        r14,
+        y23,
+        B8j,
+        f_6,
+        g3i,
+        j1S,
+        p8z,
+        X1t,
+        q3B,
+        K$2,
+        d55,
+        o2N,
+        g_n;
+      X1Z = "L";
+      X1Z += "o";
+      X1Z += "w";
+      a4k = "Resu";
+      a4k += "l";
+      a4k += "t";
+      a4k += " ";
+      x9u = C6R.chart.scrubbed;
+      if (!x9u || !x9u.length) {
+        return;
+      }
+      C0k = C6R.highLowChart;
+      D1j = null;
+      O5K = null;
+      k6s = C6R.inputs["Distance(%)"];
+      i$X.s8u();
+      c1c = 0;
+      C_y = 0;
+      d1q = 0;
+      r14 = null;
+      y23 = null;
+      B8j = 0;
+      for (var i6n = Math.min(x9u.length - 1, C6R.startFrom); i6n >= 0; i6n--) {
+        f_6 = "_sta";
+        f_6 += "t";
+        f_6 += "e";
+        f_6 += " ";
+        B8j = i6n;
+        if (x9u[i6n][f_6 + C6R.name]) {
+          g3i = "_s";
+          g3i += "ta";
+          g3i += "te";
+          g3i += " ";
+          j1S = x9u[i6n][g3i + C6R.name];
+          D1j = j1S[0];
+          O5K = j1S[1];
+          i$X.C2v(23);
+          c1c = j1S[i$X.Y51("2", 2)];
+          C_y = j1S[3];
+          d1q = j1S[4];
+          r14 = j1S[5];
+          y23 = j1S[6];
+          break;
+        }
+      }
+      for (var N5K = B8j; N5K < x9u.length; N5K++) {
+        p8z = "C";
+        p8z += "lo";
+        p8z += "s";
+        p8z += "e";
+        X1t = "Clo";
+        X1t += "s";
+        X1t += "e";
+        q3B = x9u[N5K][C0k ? "High" : X1t];
+        K$2 = x9u[N5K][C0k ? "Low" : p8z];
+        if (O5K === null || O5K < q3B) {
+          O5K = q3B;
+          if (c1c < 0) {
+            D1j = K$2;
+          }
+          i$X.w6J(160);
+          r14 = i$X.B$D(O5K, "100", 0, 1, k6s);
+          if (c1c > -1) {
+            if (y23 !== null && O5K > y23) {
+              x9u[C_y]["Result " + C6R.name] = x9u[C_y][C0k ? "Low" : "Close"];
+              V8X(d1q, C_y);
+              c1c = -1;
+              D1j = K$2;
+              d1q = C_y;
+              C_y = N5K;
+              continue;
+            }
+          } else {
+            C_y = N5K;
+          }
+        }
+        if (D1j === null || D1j > K$2) {
+          D1j = K$2;
+          if (c1c > 0) {
+            O5K = q3B;
+          }
+          i$X.C2v(161);
+          y23 = i$X.Y51(100, k6s, D1j, 1);
+          if (c1c < 1) {
+            if (r14 !== null && D1j < r14) {
+              x9u[C_y]["Result " + C6R.name] = x9u[C_y][C0k ? "High" : "Close"];
+              V8X(d1q, C_y);
+              c1c = 1;
+              O5K = q3B;
+              d1q = C_y;
+              C_y = N5K;
+              continue;
+            }
+          } else {
+            C_y = N5K;
+          }
+        }
+      }
+      x9u[C_y][a4k + C6R.name] =
+        x9u[C_y][C0k ? (c1c == 1 ? X1Z : "High") : "Close"];
+      x9u[C_y]["_state " + C6R.name] = [D1j, O5K, c1c, C_y, d1q, r14, y23];
+      V8X(d1q, C_y);
+      i$X.C2v(26);
+      var D6T = i$X.Y51(0, 11, 12);
+      d55 = x9u.length - D6T;
+      while (d55 > C_y) {
+        if (x9u[d55].Close || x9u[d55].Close === 0) {
+          o2N = "C";
+          o2N += "l";
+          o2N += "o";
+          o2N += "se";
+          g_n = "Re";
+          g_n += "s";
+          g_n += "u";
+          g_n += "lt ";
+          x9u[d55][g_n + C6R.name] =
+            x9u[d55][C0k ? (c1c == 1 ? "High" : "Low") : o2N];
+          break;
+        }
+        d55--;
+      }
+      V8X(C_y, d55);
+      function V8X(w7y, r8n) {
+        var y$a, R3P;
+        for (var E2J = w7y + 1; E2J < r8n; E2J++) {
+          y$a = "Result";
+          y$a += " ";
+          R3P = "Re";
+          R3P += "sult";
+          R3P += " ";
+          x9u[E2J]["ShadowResult " + C6R.name] =
+            ((x9u[r8n]["Result " + C6R.name] - x9u[w7y]["Result " + C6R.name]) *
+              (E2J - w7y)) /
+              (r8n - w7y) +
+            x9u[w7y][R3P + C6R.name];
+          delete x9u[E2J][y$a + C6R.name];
+        }
+      }
+    };
+    F6R.Studies.displayZigZag = function (x0G, o_z, s05) {
+      var k1j,
+        Q2N,
+        I2d,
+        E2B,
+        w6y,
+        M6o,
+        d6h,
+        D5E,
+        N0r,
+        f6A,
+        X8u,
+        W6q,
+        o6j,
+        E$B,
+        o9y,
+        q0h;
+      k1j = x0G.chart.highLowBars;
+      if (o_z.highLowChart != k1j) {
+        o_z.highLowChart = k1j;
+        o_z.startFrom = 0;
+        o_z.study.calculateFN(x0G, o_z);
+      }
+      Q2N = x0G.chart;
+      I2d = o_z.getYAxis(x0G);
+      for (var v8D = 0; v8D < s05.length; v8D++) {
+        E2B = s05[v8D];
+        if (E2B) {
+          if (E2B["_shadowCopy " + o_z.name]) {
+            w6y = "_shadowC";
+            w6y += "opy ";
+            delete E2B["Result " + o_z.name];
+            delete E2B[w6y + o_z.name];
+          }
+          if (!E2B["Result " + o_z.name]) {
+            M6o = "Res";
+            M6o += "ul";
+            M6o += "t ";
+            d6h = x0G.getTransformedQuote(E2B, I2d);
+            if (d6h) {
+              delete d6h[M6o + o_z.name];
+            }
+          }
+        }
+      }
+      i$X.C2v(1);
+      D5E = s05[i$X.Y51(96, "0")];
+      i$X.w6J(44);
+      var O3M = i$X.Y51(10, 17, 5, 105, 295);
+      N0r = s05[s05.length - ("1" << O3M)];
+      f6A = x0G.getTransformFunction(I2d);
+      i$X.s8u();
+      if (D5E && D5E["ShadowResult " + o_z.name]) {
+        X8u = "Sha";
+        X8u += "dowRes";
+        X8u += "ult ";
+        W6q = "Resu";
+        W6q += "lt ";
+        D5E[W6q + o_z.name] = D5E[X8u + o_z.name];
+        o6j = x0G.getTransformedQuote(D5E, I2d);
+        if (o6j) {
+          o6j["Result " + o_z.name] = f6A(
+            x0G,
+            Q2N,
+            D5E["ShadowResult " + o_z.name],
+          );
+        }
+        D5E["_shadowCopy " + o_z.name] = 1;
+      }
+      if (N0r && N0r["ShadowResult " + o_z.name]) {
+        E$B = "_sha";
+        E$B += "dowC";
+        E$B += "opy ";
+        o9y = "Resu";
+        o9y += "lt";
+        o9y += " ";
+        N0r["Result " + o_z.name] = N0r["ShadowResult " + o_z.name];
+        q0h = x0G.getTransformedQuote(N0r, I2d);
+        if (q0h) {
+          q0h[o9y + o_z.name] = f6A(x0G, Q2N, N0r["ShadowResult " + o_z.name]);
+        }
+        N0r[E$B + o_z.name] = 1;
+      }
+      F6R.Studies.displaySeriesAsLine(x0G, o_z, s05);
+    };
+    F6R.Studies.studyLibrary = F6R.extend(F6R.Studies.studyLibrary, {
+      ZigZag: {
+        name: "ZigZag",
+        overlay: !0,
+        seriesFN: F6R.Studies.displayZigZag,
+        calculateFN: F6R.Studies.calculateZigZag,
+        inputs: { "Distance(%)": "10" >> 0 },
+        parameters: { init: { label: !{} } },
+        attributes: { "Distance(%)": { min: 0.1, step: 0.1 } },
+      },
+    });
+  }
+};
+A$ = { CIQ: j3, SplinePlotter: x_, timezoneJS: m0, $$: O4, $$$: x4 };
+export { p6 as createEngine };
+export { c$ as customCharts };
+export { B2 as drawing };
+export { H0 as easeMachine };
+export { w8 as equations };
+export { W8 as events };
+export { z3 as i18n };
+export { N9 as interaction };
+export { v5 as markers };
+export { m3 as market };
+export { e3 as movement };
+export { t3 as nameValueStore };
+export { w1 as quoteFeed };
+export { c3 as series };
+export { G$ as share };
+export { R9 as span };
+export { g5 as storage };
+export { F3 as studies };
+export { O5 as symbolLookupBase };
+export { k7 as theme };
+export { t4 as timezone };
+export { i4 as touch };
+export { D9 as visualization };
+export { K4 as medianPrice };
+export { O$ as momentum };
+export { J3 as priceRelative };
+export { P8 as vwap };
+export { O_ as zigzag };
+export {
+  j3 as CIQ,
+  x_ as SplinePlotter,
+  m0 as timezoneJS,
+  O4 as $$,
+  x4 as $$$,
+};
+if (typeof __TREE_SHAKE__ === "undefined" || !__TREE_SHAKE__) {
+  A$.CIQ.activateImports(
+    p6,
+    c$,
+    B2,
+    H0,
+    w8,
+    W8,
+    z3,
+    N9,
+    v5,
+    m3,
+    e3,
+    t3,
+    w1,
+    c3,
+    G$,
+    R9,
+    g5,
+    F3,
+    O5,
+    k7,
+    t4,
+    i4,
+    D9,
+    K4,
+    O$,
+    J3,
+    P8,
+    O_,
+    null,
+  );
+} /* eslint-enable  */ /* jshint ignore:end   */ /* ignore jslint end   */

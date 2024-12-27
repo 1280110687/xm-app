@@ -6,7 +6,7 @@ import { Dialog, SwipeAction, Toast } from 'antd-mobile'
 import "./index.less";
 import useMyfHook from "./useHook.js";
 
-export default ({ children, editCallBack }) => {
+export default ({ children, editCallBack, deleteCallBack }) => {
   useMyfHook();
   const ref = useRef(null);
   const leftActions = [
@@ -22,11 +22,12 @@ export default ({ children, editCallBack }) => {
       text: '编辑',
       color: 'primary',
       onClick: async () => {
-        await Dialog.confirm({
-          content: '确定要删除吗？',
-          onConfirm: editCallBack,
-        })
-        ref.current?.close()
+        // await Dialog.confirm({
+        //   content: '确定要删除吗？',
+        //   onConfirm: editCallBack,
+        // })
+        editCallBack && editCallBack();
+        ref.current?.close();
       },
     },
     {
@@ -36,6 +37,7 @@ export default ({ children, editCallBack }) => {
       onClick: async () => {
         await Dialog.confirm({
           content: '确定要删除吗？',
+          onConfirm: deleteCallBack,
         })
         ref.current?.close()
       },

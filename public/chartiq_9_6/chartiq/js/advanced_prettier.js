@@ -1,0 +1,26902 @@
+/**!
+ *	9.6.0
+ *	Generation date: 2024-12-12T14:37:46.880Z
+ *	Package Type: Core alacarte
+ *	Build descriptor: v9.6.0-0-g23f1744fc
+ */
+
+/***********************************************************!
+ * Copyright © 2024 S&P Global All rights reserved
+ *************************************************************/
+/*************************************! DO NOT MAKE CHANGES TO THIS LIBRARY FILE!! !*************************************
+ * If you wish to overwrite default functionality, create a separate file with a copy of the methods you are overwriting *
+ * and load that file right after the library has been loaded, but before the chart engine is instantiated.              *
+ * Directly modifying library files will prevent upgrades and the ability for ChartIQ to support your solution.          *
+ *************************************************************************************************************************/
+/* eslint-disable no-extra-parens */
+
+/* eslint-disable */ /* jshint ignore:start */ /* ignore jslint start */
+u7J6i[494738] = (function () {
+  var S = 2;
+  for (; S !== 9; ) {
+    switch (S) {
+      case 5:
+        var o;
+        try {
+          var g = 2;
+          for (; g !== 6; ) {
+            switch (g) {
+              case 9:
+                delete o["\x62\x6b\x5f\x37\x37"];
+                var Q =
+                  Object["\u0070\x72\x6f\u0074\u006f\u0074\u0079\u0070\x65"];
+                delete Q["\x52\u0071\u0053\x4c\x41"];
+                g = 6;
+                break;
+              case 2:
+                Object[
+                  "\u0064\u0065\x66\x69\u006e\x65\x50\x72\u006f\x70\u0065\u0072\x74\u0079"
+                ](
+                  Object["\x70\u0072\u006f\u0074\x6f\x74\u0079\x70\u0065"],
+                  "\x52\x71\u0053\u004c\x41",
+                  {
+                    "\u0067\u0065\x74": function () {
+                      return this;
+                    },
+                    "\u0063\x6f\x6e\u0066\x69\x67\u0075\x72\x61\u0062\x6c\x65": true,
+                  },
+                );
+                o = RqSLA;
+                g = 5;
+                break;
+              case 3:
+                throw "";
+                g = 9;
+                break;
+              case 5:
+                o["\u0062\x6b\x5f\x37\x37"] = o;
+                g = 4;
+                break;
+              case 4:
+                g =
+                  typeof bk_77 ===
+                  "\u0075\x6e\x64\u0065\u0066\u0069\x6e\x65\x64"
+                    ? 3
+                    : 9;
+                break;
+            }
+          }
+        } catch (W) {
+          o = window;
+        }
+        return o;
+        break;
+      case 1:
+        return globalThis;
+        break;
+      case 2:
+        S = typeof globalThis === "\u006f\u0062\x6a\u0065\x63\u0074" ? 1 : 5;
+        break;
+    }
+  }
+})();
+u7J6i.J_hvb = J_hvb;
+X_orj(u7J6i[494738]);
+u7J6i[272497] = (function () {
+  var e2 = 2;
+  for (; e2 !== 5; ) {
+    switch (e2) {
+      case 2:
+        var q7 = {
+          O0Livj0: (function (R2) {
+            var C6 = 2;
+            for (; C6 !== 18; ) {
+              switch (C6) {
+                case 14:
+                  H5 += A8(P8(f_) ^ j0(Y_));
+                  C6 = 13;
+                  break;
+                case 2:
+                  var G2 = function (q_) {
+                    var Q5 = 2;
+                    for (; Q5 !== 11; ) {
+                      switch (Q5) {
+                        case 3:
+                          Q5 = f3 < q_.length ? 9 : 7;
+                          break;
+                        case 5:
+                          var b0 = [];
+                          Q5 = 4;
+                          break;
+                        case 6:
+                          U6 = u7J6i.z9(
+                            u7J6i.h3(b0, function () {
+                              var B3 = 2;
+                              for (; B3 !== 1; ) {
+                                switch (B3) {
+                                  case 2:
+                                    return 0.5 - m_();
+                                    break;
+                                }
+                              }
+                            }),
+                            "",
+                          );
+                          W8 = u7J6i[U6];
+                          Q5 = 13;
+                          break;
+                        case 9:
+                          b0[f3] = r0(q_[f3] + 9);
+                          Q5 = 8;
+                          break;
+                        case 2:
+                          var r0 = u7J6i.I4();
+                          var m_ = u7J6i.S1();
+                          Q5 = 5;
+                          break;
+                        case 4:
+                          var f3 = 0;
+                          Q5 = 3;
+                          break;
+                        case 13:
+                          Q5 = !W8 ? 6 : 12;
+                          break;
+                        case 8:
+                          f3++;
+                          Q5 = 3;
+                          break;
+                        case 12:
+                          return W8;
+                          break;
+                        case 7:
+                          var U6, W8;
+                          Q5 = 6;
+                          break;
+                      }
+                    }
+                  };
+                  var H5 = "",
+                    u4 = u7J6i.b4()(G2([86, 95, 89, 65, 109])());
+                  var A8 = u7J6i.I4();
+                  var P8 = u7J6i.T9().bind(u4);
+                  var j0 = u7J6i.T9().bind(R2);
+                  C6 = 9;
+                  break;
+                case 9:
+                  var f_ = 0,
+                    Y_ = 0;
+                  C6 = 8;
+                  break;
+                case 6:
+                  Y_ = 0;
+                  C6 = 14;
+                  break;
+                case 7:
+                  C6 = Y_ === R2.length ? 6 : 14;
+                  break;
+                case 8:
+                  C6 = f_ < u4.length ? 7 : 12;
+                  break;
+                case 12:
+                  H5 = u7J6i.y4(H5, ";");
+                  var N4 = 0;
+                  C6 = 10;
+                  break;
+                case 19:
+                  return H0;
+                  break;
+                case 10:
+                  var H0 = function (T8) {
+                    var P9 = 2;
+                    for (; P9 !== 26; ) {
+                      switch (P9) {
+                        case 2:
+                          P9 = N4 === 0 && T8 === 14 ? 1 : 3;
+                          break;
+                        case 27:
+                          return U3(T8);
+                          break;
+                        case 19:
+                          u7J6i.I0(
+                            u7J6i.g9(),
+                            H5,
+                            u7J6i.R7(u7J6i.R7(H5, -5, 5), 0, 4),
+                          );
+                          P9 = 4;
+                          break;
+                        case 1:
+                          N4 += 1;
+                          P9 = 5;
+                          break;
+                        case 10:
+                          P9 = N4 === 4 && T8 === 4 ? 20 : 18;
+                          break;
+                        case 3:
+                          P9 = N4 === 1 && T8 === 28 ? 9 : 7;
+                          break;
+                        case 6:
+                          N4 += 1;
+                          P9 = 14;
+                          break;
+                        case 4:
+                          return N4;
+                          break;
+                        case 12:
+                          N4 += 1;
+                          P9 = 11;
+                          break;
+                        case 20:
+                          N4 += 1;
+                          P9 = 19;
+                          break;
+                        case 16:
+                          u7J6i.I0(
+                            u7J6i.g9(),
+                            H5,
+                            u7J6i.R7(u7J6i.R7(H5, -2, 2), 0, 1),
+                          );
+                          P9 = 4;
+                          break;
+                        case 13:
+                          P9 = N4 === 3 && T8 === 27 ? 12 : 10;
+                          break;
+                        case 8:
+                          u7J6i.I0(
+                            u7J6i.g9(),
+                            H5,
+                            u7J6i.R7(u7J6i.R7(H5, -9, 9), 0, 8),
+                          );
+                          P9 = 4;
+                          break;
+                        case 15:
+                          q7.O0Livj0 = U3;
+                          P9 = 27;
+                          break;
+                        case 18:
+                          P9 = N4 === 5 && T8 === 30 ? 17 : 15;
+                          break;
+                        case 7:
+                          P9 = N4 === 2 && T8 === 16 ? 6 : 13;
+                          break;
+                        case 11:
+                          u7J6i.I0(
+                            u7J6i.g9(),
+                            H5,
+                            u7J6i.R7(u7J6i.R7(H5, -8, 8), 0, 7),
+                          );
+                          P9 = 4;
+                          break;
+                        case 5:
+                          u7J6i.I0(
+                            u7J6i.g9(),
+                            H5,
+                            u7J6i.R7(u7J6i.R7(H5, -2, 2), 0, 1),
+                          );
+                          P9 = 4;
+                          break;
+                        case 14:
+                          u7J6i.I0(
+                            u7J6i.g9(),
+                            H5,
+                            u7J6i.R7(u7J6i.R7(H5, -3, 3), 0, 1),
+                          );
+                          P9 = 4;
+                          break;
+                        case 17:
+                          N4 += 1;
+                          P9 = 16;
+                          break;
+                        case 9:
+                          N4 += 1;
+                          P9 = 8;
+                          break;
+                      }
+                    }
+                  };
+                  var U3 = function (j6) {
+                    var r1 = 2;
+                    for (; r1 !== 1; ) {
+                      switch (r1) {
+                        case 2:
+                          return H5[j6];
+                          break;
+                      }
+                    }
+                  };
+                  C6 = 19;
+                  break;
+                case 13:
+                  f_++, Y_++;
+                  C6 = 8;
+                  break;
+              }
+            }
+          })("^QB!V^"),
+        };
+        return q7;
+        break;
+    }
+  }
+})();
+u7J6i.N2 = function () {
+  return typeof u7J6i[272497].O0Livj0 === "function"
+    ? u7J6i[272497].O0Livj0.apply(u7J6i[272497], arguments)
+    : u7J6i[272497].O0Livj0;
+};
+u7J6i.D_ = function () {
+  return typeof u7J6i[272497].O0Livj0 === "function"
+    ? u7J6i[272497].O0Livj0.apply(u7J6i[272497], arguments)
+    : u7J6i[272497].O0Livj0;
+};
+var K4sLQ = 2;
+for (; K4sLQ !== 6; ) {
+  switch (K4sLQ) {
+    case 5:
+      K4sLQ = u7J6i.N2(16) > u7J6i.D_(27) ? 4 : 3;
+      break;
+    case 4:
+      u7J6i.Q6 = 41;
+      K4sLQ = 3;
+      break;
+    case 1:
+      u7J6i.j1 = 22;
+      K4sLQ = 5;
+      break;
+    case 7:
+      u7J6i.S2 = 77;
+      K4sLQ = 6;
+      break;
+    case 2:
+      K4sLQ = u7J6i.N2(14) == u7J6i.D_(28) ? 1 : 5;
+      break;
+    case 9:
+      u7J6i.U8 = 17;
+      K4sLQ = 8;
+      break;
+    case 8:
+      K4sLQ = u7J6i.D_(30) <= 48 ? 7 : 6;
+      break;
+    case 3:
+      K4sLQ = u7J6i.D_(4) !== 87 ? 9 : 8;
+      break;
+  }
+}
+u7J6i.p24 = function () {
+  return typeof u7J6i[11142].a$mdTan === "function"
+    ? u7J6i[11142].a$mdTan.apply(u7J6i[11142], arguments)
+    : u7J6i[11142].a$mdTan;
+};
+u7J6i.y$ = function () {
+  return typeof u7J6i[294995].L4e9iwW === "function"
+    ? u7J6i[294995].L4e9iwW.apply(u7J6i[294995], arguments)
+    : u7J6i[294995].L4e9iwW;
+};
+u7J6i[249301] = true;
+u7J6i.a$ = function () {
+  return typeof u7J6i[294995].L4e9iwW === "function"
+    ? u7J6i[294995].L4e9iwW.apply(u7J6i[294995], arguments)
+    : u7J6i[294995].L4e9iwW;
+};
+u7J6i[595683] = (function (c3o) {
+  return {
+    g7kAwqc: function () {
+      var C66,
+        J5J = arguments;
+      switch (c3o) {
+        case 152:
+          C66 = -J5J[3] * J5J[2] + J5J[1] + J5J[0];
+          break;
+        case 121:
+          C66 = J5J[3] + J5J[2] + J5J[0] + J5J[1];
+          break;
+        case 106:
+          C66 = J5J[1] - J5J[0] / (J5J[3] | J5J[2]);
+          break;
+        case 16:
+          C66 = J5J[0] + J5J[2] - J5J[1];
+          break;
+        case 163:
+          C66 = J5J[2] + J5J[1] * (J5J[3] - J5J[0]);
+          break;
+        case 118:
+          C66 = J5J[1] * +J5J[0];
+          break;
+        case 32:
+          C66 = J5J[0] - (J5J[2] - J5J[1]);
+          break;
+        case 143:
+          C66 = (J5J[4] / J5J[3] - J5J[1]) * J5J[2] - J5J[0];
+          break;
+        case 172:
+          C66 = J5J[1] * (J5J[0] + J5J[2]);
+          break;
+        case 136:
+          C66 = (J5J[1] + J5J[2]) * J5J[0];
+          break;
+        case 151:
+          C66 = -J5J[0] - J5J[2] - J5J[3] + J5J[1];
+          break;
+        case 3:
+          C66 = J5J[0] * J5J[1];
+          break;
+        case 38:
+          C66 = J5J[3] - J5J[1] - J5J[0] + J5J[2];
+          break;
+        case 101:
+          C66 = J5J[2] - J5J[0] * J5J[1];
+          break;
+        case 100:
+          C66 = J5J[1] - (J5J[0] ^ J5J[2]);
+          break;
+        case 150:
+          C66 = ((-J5J[0] - J5J[3]) / J5J[2]) * J5J[4] + J5J[1];
+          break;
+        case 109:
+          C66 = (J5J[2] + J5J[0] * J5J[1]) / J5J[3];
+          break;
+        case 133:
+          C66 = J5J[0] + J5J[3] - J5J[2] - J5J[1] - J5J[4];
+          break;
+        case 190:
+          C66 = (-J5J[3] / J5J[0] + J5J[4]) / J5J[1] + J5J[2];
+          break;
+        case 170:
+          C66 = -J5J[1] - J5J[2] + J5J[3] + J5J[0];
+          break;
+        case 83:
+          C66 = (J5J[1] + J5J[4] - J5J[0]) / J5J[3] - J5J[2];
+          break;
+        case 92:
+          C66 = (J5J[2] - J5J[1] * J5J[0]) / J5J[3];
+          break;
+        case 44:
+          C66 = J5J[2] * J5J[1] - J5J[3] - J5J[0];
+          break;
+        case 10:
+          C66 = J5J[2] - J5J[0] + J5J[1];
+          break;
+        case 9:
+          C66 = (-J5J[1] - J5J[3]) / J5J[2] + J5J[0];
+          break;
+        case 45:
+          C66 = J5J[0] << J5J[1];
+          break;
+        case 96:
+          C66 = (J5J[0] / J5J[2]) * J5J[1] + J5J[3];
+          break;
+        case 70:
+          C66 = (J5J[2] - J5J[0]) / (J5J[1] - J5J[3]);
+          break;
+        case 119:
+          C66 = J5J[0] - J5J[1] - +J5J[2];
+          break;
+        case 149:
+          C66 = J5J[1] / J5J[0] - J5J[2] + J5J[3];
+          break;
+        case 168:
+          C66 = ((J5J[2] % J5J[3]) + (J5J[4] ^ J5J[1])) * J5J[0];
+          break;
+        case 58:
+          C66 = (J5J[0] - J5J[2]) / J5J[3] + J5J[1];
+          break;
+        case 23:
+          C66 = J5J[3] / J5J[4] / J5J[1] / J5J[0] - J5J[2];
+          break;
+        case 69:
+          C66 = J5J[0] < J5J[1];
+          break;
+        case 30:
+          C66 = J5J[2] / J5J[1] + J5J[4] - J5J[3] + J5J[0];
+          break;
+        case 89:
+          C66 = (J5J[2] * (J5J[1] + J5J[0])) / J5J[3];
+          break;
+        case 139:
+          C66 = J5J[2] - J5J[4] - J5J[3] - J5J[0] + J5J[1];
+          break;
+        case 137:
+          C66 = J5J[2] + J5J[3] - J5J[1] + J5J[0];
+          break;
+        case 131:
+          C66 = (J5J[4] - J5J[1]) / J5J[3] / J5J[0] + J5J[2];
+          break;
+        case 84:
+          C66 = +J5J[1] / J5J[0];
+          break;
+        case 62:
+          C66 = J5J[0] / J5J[2] + J5J[1];
+          break;
+        case 76:
+          C66 =
+            ((J5J[6] - J5J[5]) * (J5J[2] - J5J[1])) / (J5J[0] - J5J[4]) +
+            J5J[3];
+          break;
+        case 13:
+          C66 = (J5J[0] * J5J[3]) / J5J[2] / J5J[1];
+          break;
+        case 67:
+          C66 = J5J[2] - J5J[3] + J5J[1] - J5J[0];
+          break;
+        case 155:
+          C66 = (-J5J[4] + J5J[3]) * J5J[0] + J5J[1] - J5J[2];
+          break;
+        case 46:
+          C66 = (J5J[0] - J5J[4]) * J5J[1] * J5J[3] + J5J[2];
+          break;
+        case 37:
+          C66 = (J5J[2] + J5J[0]) / J5J[1] - J5J[3];
+          break;
+        case 14:
+          C66 = J5J[2] - J5J[1] + J5J[0] + J5J[3];
+          break;
+        case 54:
+          C66 = J5J[1] + J5J[0] / J5J[2];
+          break;
+        case 98:
+          C66 = (J5J[1] / J5J[2]) * J5J[0];
+          break;
+        case 128:
+          C66 = J5J[1] / J5J[0] / J5J[2] + J5J[3];
+          break;
+        case 134:
+          C66 = (J5J[3] + J5J[1]) / J5J[2] / J5J[4] - J5J[0];
+          break;
+        case 2:
+          C66 = (J5J[0] / J5J[3]) * J5J[2] - J5J[1];
+          break;
+        case 57:
+          C66 = J5J[1] + J5J[0] + J5J[3] - J5J[2];
+          break;
+        case 192:
+          C66 = J5J[0] - (J5J[2] >> J5J[1]);
+          break;
+        case 99:
+          C66 = (J5J[1] / J5J[2]) * J5J[0] * J5J[3] - J5J[4];
+          break;
+        case 144:
+          C66 = J5J[4] - J5J[2] - J5J[3] + J5J[0] + J5J[1];
+          break;
+        case 145:
+          C66 = J5J[3] * J5J[4] - J5J[2] - J5J[1] - J5J[0];
+          break;
+        case 138:
+          C66 = J5J[3] * J5J[1] * J5J[6] + (+J5J[0] - J5J[4] * J5J[2]) * J5J[5];
+          break;
+        case 158:
+          C66 = ((-J5J[4] + J5J[2]) * J5J[0]) / J5J[3] + J5J[1];
+          break;
+        case 20:
+          C66 = -J5J[2] * J5J[1] + J5J[0];
+          break;
+        case 51:
+          C66 = J5J[0] / J5J[4] / J5J[1] - J5J[2] + J5J[3];
+          break;
+        case 111:
+          C66 = (J5J[2] * J5J[0]) / J5J[1];
+          break;
+        case 141:
+          C66 = (J5J[3] / J5J[4]) * J5J[2] - J5J[0] + J5J[1];
+          break;
+        case 105:
+          C66 = J5J[0] - J5J[1] / +J5J[2];
+          break;
+        case 85:
+          C66 = J5J[1] / +J5J[0];
+          break;
+        case 71:
+          C66 = (J5J[1] + J5J[0]) / J5J[2] + J5J[3] - J5J[4];
+          break;
+        case 95:
+          C66 = J5J[0] - +J5J[1];
+          break;
+        case 40:
+          C66 = J5J[1] * J5J[2] - J5J[0] + J5J[4] - J5J[3];
+          break;
+        case 187:
+          C66 = J5J[0] == J5J[1];
+          break;
+        case 140:
+          C66 = (J5J[3] + J5J[0]) * J5J[1] - J5J[2];
+          break;
+        case 142:
+          C66 = (J5J[3] + J5J[2] - J5J[0]) / J5J[1] + J5J[4];
+          break;
+        case 35:
+          C66 = J5J[1] * J5J[2] + J5J[3] - J5J[0];
+          break;
+        case 154:
+          C66 = (-J5J[4] + J5J[3]) / J5J[0] / J5J[1] - J5J[2];
+          break;
+        case 166:
+          C66 = J5J[3] - J5J[4] + J5J[1] + J5J[2] + J5J[0];
+          break;
+        case 108:
+          C66 = (J5J[0] + J5J[1]) / +J5J[2];
+          break;
+        case 129:
+          C66 = J5J[1] + J5J[4] - J5J[2] + J5J[0] - J5J[3];
+          break;
+        case 11:
+          C66 = J5J[1] | J5J[0];
+          break;
+        case 120:
+          C66 = (-J5J[4] - J5J[2] - J5J[3]) * J5J[0] + J5J[1];
+          break;
+        case 185:
+          C66 = J5J[3] - J5J[0] * J5J[2] - J5J[1];
+          break;
+        case 34:
+          C66 = J5J[1] * J5J[0] - J5J[2];
+          break;
+        case 21:
+          C66 = -J5J[1] / J5J[0] + J5J[2];
+          break;
+        case 52:
+          C66 = -J5J[0] + J5J[4] - J5J[1] - J5J[3] + J5J[2];
+          break;
+        case 176:
+          C66 = J5J[2] * J5J[0] * J5J[4] * J5J[3] - J5J[1];
+          break;
+        case 39:
+          C66 = (J5J[4] - J5J[1] + J5J[3]) * J5J[2] - J5J[0];
+          break;
+        case 94:
+          C66 = ((J5J[1] / J5J[2]) * J5J[4]) / J5J[0] - J5J[3];
+          break;
+        case 6:
+          C66 = J5J[0] * J5J[2] * J5J[3] - J5J[1];
+          break;
+        case 191:
+          C66 = J5J[0] * J5J[4] * J5J[1] + J5J[2] - J5J[3];
+          break;
+        case 181:
+          C66 = J5J[2] * -(J5J[1] << J5J[0]);
+          break;
+        case 189:
+          C66 = J5J[3] + (J5J[4] / J5J[2] - J5J[1] / J5J[0]);
+          break;
+        case 8:
+          C66 = -J5J[0] + J5J[1];
+          break;
+        case 66:
+          C66 = -J5J[2] / J5J[3] - J5J[1] + J5J[0];
+          break;
+        case 65:
+          C66 = (J5J[3] * J5J[1] - J5J[2]) / J5J[0] - J5J[4];
+          break;
+        case 15:
+          C66 = (J5J[2] + J5J[1]) / J5J[0];
+          break;
+        case 160:
+          C66 = J5J[1] - J5J[2] / (J5J[3] + J5J[0] / J5J[4]);
+          break;
+        case 110:
+          C66 = -J5J[2] * J5J[1] - J5J[3] + J5J[0];
+          break;
+        case 156:
+          C66 = J5J[2] - J5J[0] - J5J[3] - J5J[1];
+          break;
+        case 113:
+          C66 = (-J5J[4] + J5J[3]) / J5J[2] / J5J[1] + J5J[0];
+          break;
+        case 123:
+          C66 = -J5J[1] + J5J[2] + J5J[0];
+          break;
+        case 87:
+          C66 = J5J[3] - J5J[2] * (J5J[1] - J5J[0]);
+          break;
+        case 169:
+          C66 = J5J[1] / (J5J[3] * J5J[0]) <= J5J[2];
+          break;
+        case 73:
+          C66 = (J5J[2] - J5J[0]) * J5J[1] + J5J[3];
+          break;
+        case 91:
+          C66 =
+            (J5J[1] * J5J[6] - J5J[3] * J5J[2]) / (J5J[0] * J5J[4] - J5J[5]);
+          break;
+        case 27:
+          C66 = J5J[1] - (J5J[2] - J5J[0]) * J5J[3];
+          break;
+        case 102:
+          C66 = J5J[1] + (J5J[2] >> J5J[0]);
+          break;
+        case 31:
+          C66 = (-J5J[3] / J5J[0]) * J5J[2] + J5J[1];
+          break;
+        case 167:
+          C66 = (J5J[3] - J5J[2]) / J5J[0] + J5J[1] + J5J[4];
+          break;
+        case 64:
+          C66 = (J5J[0] + J5J[1]) / J5J[3] + J5J[2];
+          break;
+        case 29:
+          C66 = J5J[1] / (J5J[0] / +J5J[2]);
+          break;
+        case 25:
+          C66 = -J5J[0] * J5J[2] * J5J[3] + J5J[1];
+          break;
+        case 82:
+          C66 = (J5J[2] * J5J[1]) / J5J[3] - J5J[0];
+          break;
+        case 60:
+          C66 = -J5J[2] - J5J[0] + J5J[1];
+          break;
+        case 26:
+          C66 = J5J[2] + J5J[0] * J5J[1];
+          break;
+        case 177:
+          C66 = (-J5J[2] * J5J[4]) / J5J[1] - J5J[0] + J5J[3];
+          break;
+        case 179:
+          C66 = J5J[0] + +J5J[2] * J5J[1];
+          break;
+        case 1:
+          C66 = J5J[0] + J5J[1];
+          break;
+        case 61:
+          C66 = J5J[2] + J5J[0] - J5J[3] + J5J[1] + J5J[4];
+          break;
+        case 43:
+          C66 = J5J[1] + (J5J[2] - J5J[0]);
+          break;
+        case 135:
+          C66 = J5J[2] + (J5J[0] | J5J[1]);
+          break;
+        case 117:
+          C66 = ((J5J[1] - J5J[3]) / J5J[0]) * J5J[2] - J5J[4];
+          break;
+        case 122:
+          C66 = ((-J5J[0] + J5J[4]) * J5J[1]) / J5J[3] - J5J[2];
+          break;
+        case 24:
+          C66 = J5J[0] / (J5J[2] / J5J[1]);
+          break;
+        case 86:
+          C66 = J5J[3] + (J5J[1] - J5J[0]) / J5J[2];
+          break;
+        case 165:
+          C66 = (J5J[0] - J5J[1]) * J5J[4] + J5J[3] + J5J[2];
+          break;
+        case 79:
+          C66 = J5J[0] / J5J[1] - J5J[2];
+          break;
+        case 104:
+          C66 = J5J[3] - J5J[1] / (J5J[0] ^ J5J[2]);
+          break;
+        case 93:
+          C66 = J5J[2] * J5J[1] + J5J[0];
+          break;
+        case 90:
+          C66 = (J5J[3] * ((J5J[4] ^ J5J[2]) * J5J[1] + J5J[5])) / J5J[0];
+          break;
+        case 75:
+          C66 = J5J[1] / J5J[3] - J5J[4] + J5J[0] + J5J[2];
+          break;
+        case 132:
+          C66 = J5J[1] - J5J[0] + J5J[4] + J5J[3] - J5J[2];
+          break;
+        case 42:
+          C66 = J5J[0] * J5J[1] < J5J[2];
+          break;
+        case 59:
+          C66 = (J5J[1] - J5J[0]) / (J5J[3] - J5J[2]) > J5J[4];
+          break;
+        case 124:
+          C66 = (-J5J[3] + J5J[0] - J5J[4]) * J5J[1] - J5J[2];
+          break;
+        case 159:
+          C66 = J5J[2] * J5J[0] * J5J[1];
+          break;
+        case 97:
+          C66 = J5J[3] / (J5J[0] * J5J[2] * +J5J[1]);
+          break;
+        case 116:
+          C66 = J5J[2] / J5J[4] - J5J[0] - J5J[3] + J5J[1];
+          break;
+        case 0:
+          C66 = J5J[1] ^ J5J[0];
+          break;
+        case 146:
+          C66 = (J5J[0] - J5J[1]) * J5J[2] - J5J[3];
+          break;
+        case 127:
+          C66 = ((J5J[2] + J5J[3]) * J5J[1]) / J5J[0] + J5J[4];
+          break;
+        case 164:
+          C66 = ((J5J[1] - J5J[0]) / J5J[2]) * J5J[4] + J5J[3];
+          break;
+        case 88:
+          C66 = J5J[2] + +J5J[1] / J5J[0];
+          break;
+        case 74:
+          C66 = -J5J[3] + J5J[1] - J5J[2] + J5J[0];
+          break;
+        case 173:
+          C66 = (J5J[3] - J5J[0] - J5J[4]) * J5J[2] - J5J[1];
+          break;
+        case 80:
+          C66 = ((J5J[0] + J5J[4]) / J5J[3]) * J5J[1] - J5J[2];
+          break;
+        case 53:
+          C66 = J5J[0] - J5J[2] / J5J[1];
+          break;
+        case 78:
+          C66 = (J5J[4] + J5J[1]) * J5J[0] + J5J[2] - J5J[3];
+          break;
+        case 81:
+          C66 = J5J[0] + +J5J[1];
+          break;
+        case 188:
+          C66 = J5J[2] + J5J[3] / J5J[0] + J5J[1];
+          break;
+        case 5:
+          C66 = (J5J[0] * J5J[1]) % J5J[2];
+          break;
+        case 182:
+          C66 = J5J[0] - J5J[3] + J5J[4] - J5J[1] - J5J[2];
+          break;
+        case 63:
+          C66 = (J5J[2] - J5J[0]) * J5J[4] * J5J[1] - J5J[3];
+          break;
+        case 48:
+          C66 = (J5J[0] - J5J[3]) / J5J[1] - J5J[2];
+          break;
+        case 47:
+          C66 = (-J5J[3] - J5J[0]) / J5J[1] / J5J[2] + J5J[4];
+          break;
+        case 130:
+          C66 = -J5J[1] / J5J[2] / J5J[0] + J5J[3];
+          break;
+        case 175:
+          C66 = J5J[1] - J5J[3] + (J5J[0] - J5J[2]);
+          break;
+        case 19:
+          C66 = J5J[0] / J5J[1] + J5J[2] - J5J[3];
+          break;
+        case 4:
+          C66 = J5J[0] - J5J[1];
+          break;
+        case 157:
+          C66 = (J5J[0] * J5J[3]) / (J5J[1] + J5J[2]);
+          break;
+        case 56:
+          C66 = (J5J[0] + J5J[3] - J5J[2]) * J5J[4] + J5J[1];
+          break;
+        case 186:
+          C66 = J5J[2] + J5J[1] * J5J[0] + J5J[3];
+          break;
+        case 77:
+          C66 = J5J[1] + J5J[3] + J5J[2] + J5J[4] - J5J[0];
+          break;
+        case 174:
+          C66 = J5J[0] - +J5J[2] / (J5J[1] + J5J[3]);
+          break;
+        case 33:
+          C66 = (J5J[2] - J5J[1]) / J5J[0];
+          break;
+        case 55:
+          C66 = J5J[0] + J5J[2] / (J5J[3] >> J5J[1]);
+          break;
+        case 41:
+          C66 = (-J5J[0] - J5J[3]) * J5J[2] + J5J[1];
+          break;
+        case 49:
+          C66 = J5J[2] + (J5J[0] << J5J[1]);
+          break;
+        case 28:
+          C66 = J5J[1] - J5J[0] - J5J[2];
+          break;
+        case 183:
+          C66 = (J5J[4] / J5J[1] + J5J[0]) * J5J[2] - J5J[3];
+          break;
+        case 22:
+          C66 = (J5J[2] + J5J[5] + J5J[0] + J5J[4]) / (J5J[3] ^ J5J[1]);
+          break;
+        case 103:
+          C66 = (-J5J[1] + J5J[3]) / J5J[0] + J5J[2];
+          break;
+        case 171:
+          C66 = J5J[0] > J5J[1];
+          break;
+        case 178:
+          C66 = J5J[4] + J5J[0] - J5J[2] - J5J[1] + J5J[3];
+          break;
+        case 72:
+          C66 = (J5J[4] - J5J[2] - J5J[3]) / J5J[0] + J5J[1];
+          break;
+        case 114:
+          C66 = (J5J[4] - J5J[3]) / J5J[1] - J5J[0] + J5J[2];
+          break;
+        case 50:
+          C66 = -J5J[1] + J5J[0] - J5J[2];
+          break;
+        case 7:
+          C66 = J5J[1] >> J5J[0];
+          break;
+        case 18:
+          C66 = J5J[0] / (J5J[1] - J5J[2]);
+          break;
+        case 68:
+          C66 = J5J[1] + J5J[2] + J5J[0];
+          break;
+        case 153:
+          C66 = (-J5J[1] * J5J[4] * J5J[3]) / J5J[0] + J5J[2];
+          break;
+        case 184:
+          C66 = (J5J[1] / J5J[4]) * J5J[3] + J5J[2] - J5J[0];
+          break;
+        case 161:
+          C66 = J5J[1] / J5J[0] / J5J[2] - J5J[3] - J5J[4];
+          break;
+        case 36:
+          C66 = (J5J[3] * J5J[4] - J5J[1]) * J5J[2] - J5J[0];
+          break;
+        case 180:
+          C66 = J5J[1] * -J5J[0];
+          break;
+        case 162:
+          C66 = J5J[0] * (J5J[3] / J5J[1] - J5J[2]);
+          break;
+        case 112:
+          C66 = J5J[1] !== J5J[0];
+          break;
+        case 107:
+          C66 = (J5J[0] * J5J[3] + J5J[2]) / J5J[1];
+          break;
+        case 147:
+          C66 = (J5J[2] * J5J[0]) / J5J[3] + J5J[1];
+          break;
+        case 12:
+          C66 = J5J[1] / J5J[0];
+          break;
+        case 125:
+          C66 = J5J[1] / J5J[2] + J5J[0] + J5J[3];
+          break;
+        case 126:
+          C66 = (J5J[1] + J5J[0] + J5J[2]) * J5J[3] - J5J[4];
+          break;
+        case 115:
+          C66 = (J5J[3] + J5J[0]) * J5J[4] * J5J[1] - J5J[2];
+          break;
+        case 148:
+          C66 = J5J[1] * J5J[2] + J5J[4] - J5J[3] - J5J[0];
+          break;
+        case 17:
+          C66 = J5J[0] + J5J[2] - J5J[3] - J5J[1];
+          break;
+      }
+      return C66;
+    },
+    u7Y4kHN: function (z6d) {
+      c3o = z6d;
+    },
+  };
+})();
+u7J6i.o0D = function () {
+  return typeof u7J6i[631144].e3ulEkn === "function"
+    ? u7J6i[631144].e3ulEkn.apply(u7J6i[631144], arguments)
+    : u7J6i[631144].e3ulEkn;
+};
+u7J6i.o6M = function () {
+  return typeof u7J6i[595683].g7kAwqc === "function"
+    ? u7J6i[595683].g7kAwqc.apply(u7J6i[595683], arguments)
+    : u7J6i[595683].g7kAwqc;
+};
+u7J6i[631144] = (function () {
+  var J33 = function (c4N, Y84) {
+      var E2e = Y84 & 0xffff;
+      var n94 = Y84 - E2e;
+      return (((n94 * c4N) | 0) + ((E2e * c4N) | 0)) | 0;
+    },
+    e3ulEkn = function (Y9_, q74, J8Y) {
+      var Y09 = 0xcc9e2d51,
+        z3S = 0x1b873593;
+      var V_5 = J8Y;
+      var P2F = q74 & ~0x3;
+      for (var m4g = 0; m4g < P2F; m4g += 4) {
+        var t16 =
+          (u7J6i.T9(Y9_, m4g) & 0xff) |
+          ((u7J6i.T9(Y9_, m4g + 1) & 0xff) << 8) |
+          ((u7J6i.T9(Y9_, m4g + 2) & 0xff) << 16) |
+          ((u7J6i.T9(Y9_, m4g + 3) & 0xff) << 24);
+        t16 = J33(t16, Y09);
+        t16 = ((t16 & 0x1ffff) << 15) | (t16 >>> 17);
+        t16 = J33(t16, z3S);
+        V_5 ^= t16;
+        V_5 = ((V_5 & 0x7ffff) << 13) | (V_5 >>> 19);
+        V_5 = (V_5 * 5 + 0xe6546b64) | 0;
+      }
+      t16 = 0;
+      switch (q74 % 4) {
+        case 3:
+          t16 = (u7J6i.T9(Y9_, P2F + 2) & 0xff) << 16;
+        case 2:
+          t16 |= (u7J6i.T9(Y9_, P2F + 1) & 0xff) << 8;
+        case 1:
+          t16 |= u7J6i.T9(Y9_, P2F) & 0xff;
+          t16 = J33(t16, Y09);
+          t16 = ((t16 & 0x1ffff) << 15) | (t16 >>> 17);
+          t16 = J33(t16, z3S);
+          V_5 ^= t16;
+      }
+      V_5 ^= q74;
+      V_5 ^= V_5 >>> 16;
+      V_5 = J33(V_5, 0x85ebca6b);
+      V_5 ^= V_5 >>> 13;
+      V_5 = J33(V_5, 0xc2b2ae35);
+      V_5 ^= V_5 >>> 16;
+      return V_5;
+    };
+  return { e3ulEkn: e3ulEkn };
+})();
+u7J6i[316120] = u7J6i[595683];
+u7J6i.R4I = function () {
+  return typeof u7J6i[11142].a$mdTan === "function"
+    ? u7J6i[11142].a$mdTan.apply(u7J6i[11142], arguments)
+    : u7J6i[11142].a$mdTan;
+};
+u7J6i[11142] = (function () {
+  var K7j = 2;
+  for (; K7j !== 9; ) {
+    switch (K7j) {
+      case 4:
+        u_C[5].a$mdTan = function () {
+          var L6S = 2;
+          for (; L6S !== 90; ) {
+            switch (L6S) {
+              case 2:
+                var Z8T = [arguments];
+                L6S = 1;
+                break;
+              case 69:
+                L6S = (function (q5P) {
+                  var P4Y = 2;
+                  for (; P4Y !== 22; ) {
+                    switch (P4Y) {
+                      case 17:
+                        V7d[9] = 0;
+                        P4Y = 16;
+                        break;
+                      case 2:
+                        var V7d = [arguments];
+                        P4Y = 1;
+                        break;
+                      case 20:
+                        V7d[6][V7d[5][Z8T[19]]].h += true;
+                        P4Y = 19;
+                        break;
+                      case 1:
+                        P4Y = V7d[0][0].length === 0 ? 5 : 4;
+                        break;
+                      case 7:
+                        P4Y = V7d[9] < V7d[0][0].length ? 6 : 18;
+                        break;
+                      case 13:
+                        V7d[6][V7d[5][Z8T[19]]] = u7J6i.I0(
+                          function () {
+                            var s9j = 2;
+                            for (; s9j !== 9; ) {
+                              switch (s9j) {
+                                case 4:
+                                  D28[5].t = 0;
+                                  return D28[5];
+                                  break;
+                                case 2:
+                                  var D28 = [arguments];
+                                  D28[5] = {};
+                                  D28[5].h = 0;
+                                  s9j = 4;
+                                  break;
+                              }
+                            }
+                          },
+                          this,
+                          arguments,
+                        );
+                        P4Y = 12;
+                        break;
+                      case 12:
+                        u7J6i.L3a(V7d[7], V7d[5][Z8T[19]]);
+                        P4Y = 11;
+                        break;
+                      case 19:
+                        V7d[9]++;
+                        P4Y = 7;
+                        break;
+                      case 24:
+                        V7d[9]++;
+                        P4Y = 16;
+                        break;
+                      case 18:
+                        V7d[2] = false;
+                        P4Y = 17;
+                        break;
+                      case 5:
+                        return;
+                        break;
+                      case 4:
+                        V7d[6] = {};
+                        V7d[7] = [];
+                        V7d[9] = 0;
+                        P4Y = 8;
+                        break;
+                      case 26:
+                        P4Y = V7d[1] >= 0.5 ? 25 : 24;
+                        break;
+                      case 25:
+                        V7d[2] = true;
+                        P4Y = 24;
+                        break;
+                      case 8:
+                        V7d[9] = 0;
+                        P4Y = 7;
+                        break;
+                      case 6:
+                        V7d[5] = V7d[0][0][V7d[9]];
+                        P4Y = 14;
+                        break;
+                      case 14:
+                        P4Y =
+                          typeof V7d[6][V7d[5][Z8T[19]]] === "undefined"
+                            ? 13
+                            : 11;
+                        break;
+                      case 16:
+                        P4Y = V7d[9] < V7d[7].length ? 15 : 23;
+                        break;
+                      case 15:
+                        V7d[3] = V7d[7][V7d[9]];
+                        V7d[1] = V7d[6][V7d[3]].h / V7d[6][V7d[3]].t;
+                        P4Y = 26;
+                        break;
+                      case 23:
+                        return V7d[2];
+                        break;
+                      case 10:
+                        P4Y = V7d[5][Z8T[55]] === Z8T[25] ? 20 : 19;
+                        break;
+                      case 11:
+                        V7d[6][V7d[5][Z8T[19]]].t += true;
+                        P4Y = 10;
+                        break;
+                    }
+                  }
+                })(Z8T[33])
+                  ? 68
+                  : 67;
+                break;
+              case 71:
+                Z8T[23]++;
+                L6S = 76;
+                break;
+              case 32:
+                Z8T[86].x1G = function () {
+                  var N62 = typeof u7J6i.v6G() === "function";
+                  return N62;
+                };
+                Z8T[40] = Z8T[86];
+                Z8T[39] = {};
+                Z8T[39].i5_ = ["Z7Q"];
+                L6S = 28;
+                break;
+              case 67:
+                u_C[9] = 94;
+                return 17;
+                break;
+              case 26:
+                Z8T[31].i5_ = ["Z7Q"];
+                Z8T[31].x1G = function () {
+                  var m9w = typeof u7J6i.C0C() === "function";
+                  return m9w;
+                };
+                Z8T[28] = Z8T[31];
+                Z8T[38] = {};
+                Z8T[38].i5_ = ["m8X"];
+                Z8T[38].x1G = function () {
+                  var h8h = function () {
+                    return String.fromCharCode(0x61);
+                  };
+                  var f0P = !u7J6i.f_8(/\x30\x78\066\u0031/, h8h + []);
+                  return f0P;
+                };
+                L6S = 35;
+                break;
+              case 56:
+                Z8T[57] = Z8T[6][Z8T[98]];
+                try {
+                  Z8T[79] = Z8T[57][Z8T[56]]() ? Z8T[25] : Z8T[13];
+                } catch (x2p) {
+                  Z8T[79] = Z8T[13];
+                }
+                L6S = 77;
+                break;
+              case 58:
+                Z8T[98] = 0;
+                L6S = 57;
+                break;
+              case 75:
+                Z8T[27] = {};
+                Z8T[27][Z8T[19]] = Z8T[57][Z8T[44]][Z8T[23]];
+                Z8T[27][Z8T[55]] = Z8T[79];
+                u7J6i.L3a(Z8T[33], Z8T[27]);
+                L6S = 71;
+                break;
+              case 17:
+                Z8T[8].i5_ = ["m8X"];
+                Z8T[8].x1G = function () {
+                  var T9b = function () {
+                    return "aa".lastIndexOf("a");
+                  };
+                  var U_Z = u7J6i.f_8(/\u0031/, T9b + []);
+                  return U_Z;
+                };
+                Z8T[2] = Z8T[8];
+                Z8T[31] = {};
+                L6S = 26;
+                break;
+              case 1:
+                L6S = u_C[9] ? 5 : 4;
+                break;
+              case 35:
+                Z8T[37] = Z8T[38];
+                Z8T[86] = {};
+                Z8T[86].i5_ = ["Z7Q"];
+                L6S = 32;
+                break;
+              case 50:
+                u7J6i.L3a(Z8T[6], Z8T[2]);
+                u7J6i.L3a(Z8T[6], Z8T[3]);
+                u7J6i.L3a(Z8T[6], Z8T[28]);
+                u7J6i.L3a(Z8T[6], Z8T[37]);
+                L6S = 46;
+                break;
+              case 63:
+                Z8T[13] = "G6x";
+                Z8T[44] = "i5_";
+                Z8T[55] = "O_L";
+                Z8T[56] = "x1G";
+                Z8T[19] = "Z4O";
+                L6S = 58;
+                break;
+              case 57:
+                L6S = Z8T[98] < Z8T[6].length ? 56 : 69;
+                break;
+              case 19:
+                Z8T[7] = Z8T[5];
+                Z8T[8] = {};
+                L6S = 17;
+                break;
+              case 41:
+                Z8T[46].x1G = function () {
+                  var z0O = function () {
+                    return "aaaa|a".substr(0, 3);
+                  };
+                  var I85 = !u7J6i.f_8(/\174/, z0O + []);
+                  return I85;
+                };
+                Z8T[58] = Z8T[46];
+                Z8T[93] = {};
+                Z8T[93].i5_ = ["Z7Q"];
+                Z8T[93].x1G = function () {
+                  var p1_ = false;
+                  var a4R = [];
+                  try {
+                    for (var t6b in console) u7J6i.L3a(a4R, t6b);
+                    p1_ = a4R.length === 0;
+                  } catch (R82) {}
+                  var A5Y = p1_;
+                  return A5Y;
+                };
+                Z8T[14] = Z8T[93];
+                u7J6i.L3a(Z8T[6], Z8T[58]);
+                L6S = 53;
+                break;
+              case 68:
+                L6S = 66 ? 68 : 67;
+                break;
+              case 12:
+                Z8T[3] = Z8T[9];
+                Z8T[5] = {};
+                Z8T[5].i5_ = ["m8X"];
+                Z8T[5].x1G = function () {
+                  var h2Q = function () {
+                    return "x".startsWith("x");
+                  };
+                  var J7B = u7J6i.f_8(/\x74\x72\165\x65/, h2Q + []);
+                  return J7B;
+                };
+                L6S = 19;
+                break;
+              case 70:
+                Z8T[98]++;
+                L6S = 57;
+                break;
+              case 77:
+                Z8T[23] = 0;
+                L6S = 76;
+                break;
+              case 6:
+                Z8T[9] = {};
+                Z8T[9].i5_ = ["m8X"];
+                Z8T[9].x1G = function () {
+                  var B2X = function () {
+                    return [] + "a".concat("a");
+                  };
+                  var C_u =
+                    !u7J6i.f_8(/\x5b\135/, B2X + []) &&
+                    u7J6i.f_8(/\u0061\u0061/, B2X + []);
+                  return C_u;
+                };
+                L6S = 12;
+                break;
+              case 5:
+                return 46;
+                break;
+              case 4:
+                Z8T[6] = [];
+                Z8T[1] = {};
+                Z8T[1].i5_ = ["m8X"];
+                Z8T[1].x1G = function () {
+                  var l57 = function () {
+                    return atob("PQ==");
+                  };
+                  var z5u = !u7J6i.f_8(/\x61\u0074\157\142/, l57 + []);
+                  return z5u;
+                };
+                Z8T[4] = Z8T[1];
+                L6S = 6;
+                break;
+              case 46:
+                u7J6i.L3a(Z8T[6], Z8T[65]);
+                u7J6i.L3a(Z8T[6], Z8T[40]);
+                Z8T[33] = [];
+                Z8T[25] = "j67";
+                L6S = 63;
+                break;
+              case 76:
+                L6S = Z8T[23] < Z8T[57][Z8T[44]].length ? 75 : 70;
+                break;
+              case 28:
+                Z8T[39].x1G = function () {
+                  var G04 = typeof u7J6i.X2y() === "function";
+                  return G04;
+                };
+                Z8T[65] = Z8T[39];
+                Z8T[46] = {};
+                Z8T[46].i5_ = ["m8X"];
+                L6S = 41;
+                break;
+              case 53:
+                u7J6i.L3a(Z8T[6], Z8T[4]);
+                u7J6i.L3a(Z8T[6], Z8T[7]);
+                u7J6i.L3a(Z8T[6], Z8T[14]);
+                L6S = 50;
+                break;
+            }
+          }
+        };
+        return u_C[5];
+        break;
+      case 2:
+        var u_C = [arguments];
+        u_C[9] = undefined;
+        u_C[5] = {};
+        K7j = 4;
+        break;
+    }
+  }
+})();
+function X_orj(Q6F) {
+  function N96(s3R) {
+    var u8e = 2;
+    for (; u8e !== 5; ) {
+      switch (u8e) {
+        case 2:
+          var j3T = [arguments];
+          return j3T[0][0].String;
+          break;
+      }
+    }
+  }
+  function X_B(H7g) {
+    var v1t = 2;
+    for (; v1t !== 5; ) {
+      switch (v1t) {
+        case 2:
+          var k9M = [arguments];
+          return k9M[0][0].Function;
+          break;
+      }
+    }
+  }
+  function c7q(X_S) {
+    var V9s = 2;
+    for (; V9s !== 5; ) {
+      switch (V9s) {
+        case 2:
+          var x6K = [arguments];
+          return x6K[0][0].Array;
+          break;
+      }
+    }
+  }
+  var U42 = 2;
+  for (; U42 !== 132; ) {
+    switch (U42) {
+      case 2:
+        var r7K = [arguments];
+        r7K[5] = "";
+        r7K[5] = "z";
+        r7K[6] = "";
+        U42 = 3;
+        break;
+      case 3:
+        r7K[6] = "S";
+        r7K[4] = "";
+        r7K[4] = "b";
+        r7K[1] = "";
+        r7K[1] = "T";
+        r7K[2] = "h";
+        U42 = 13;
+        break;
+      case 119:
+        var R$p = function (H2B, w79, W11, O0n, x3n) {
+          var f0G = 2;
+          for (; f0G !== 5; ) {
+            switch (f0G) {
+              case 2:
+                var d4D = [arguments];
+                t6z(
+                  r7K[0][0],
+                  d4D[0][0],
+                  d4D[0][1],
+                  d4D[0][2],
+                  d4D[0][3],
+                  d4D[0][4],
+                );
+                f0G = 5;
+                break;
+            }
+          }
+        };
+        U42 = 118;
+        break;
+      case 112:
+        R$p(P0U, "decodeURI", r7K[60], r7K[80], r7K[60]);
+        U42 = 111;
+        break;
+      case 25:
+        r7K[47] = "";
+        r7K[47] = "3";
+        r7K[29] = "";
+        r7K[29] = "re";
+        r7K[63] = "";
+        r7K[78] = "sidual";
+        r7K[63] = "G";
+        U42 = 33;
+        break;
+      case 42:
+        r7K[50] = "";
+        r7K[14] = "L";
+        r7K[50] = "8";
+        r7K[92] = "";
+        r7K[66] = "0";
+        U42 = 37;
+        break;
+      case 20:
+        r7K[3] = "1";
+        r7K[7] = "7";
+        r7K[28] = "";
+        r7K[28] = "";
+        U42 = 16;
+        break;
+      case 107:
+        R$p(c7q, "splice", r7K[51], r7K[36], r7K[60]);
+        U42 = 106;
+        break;
+      case 118:
+        R$p(c7q, "sort", r7K[51], r7K[40], r7K[60]);
+        U42 = 117;
+        break;
+      case 117:
+        R$p(c7q, "join", r7K[51], r7K[38], r7K[60]);
+        U42 = 116;
+        break;
+      case 100:
+        r7K[97] = r7K[63];
+        r7K[97] += r7K[49];
+        r7K[88] = r7K[8];
+        r7K[88] += r7K[9];
+        U42 = 96;
+        break;
+      case 61:
+        r7K[71] += r7K[62];
+        r7K[17] = r7K[94];
+        r7K[17] += r7K[30];
+        r7K[17] += r7K[99];
+        U42 = 57;
+        break;
+      case 110:
+        R$p(N96, "split", r7K[51], r7K[20], r7K[60]);
+        U42 = 109;
+        break;
+      case 13:
+        r7K[9] = "";
+        r7K[9] = "4";
+        r7K[8] = "I";
+        r7K[7] = "";
+        U42 = 20;
+        break;
+      case 105:
+        R$p(P0U, r7K[61], r7K[60], r7K[56], r7K[60]);
+        U42 = 135;
+        break;
+      case 106:
+        R$p(c7q, "push", r7K[51], r7K[11], r7K[60]);
+        U42 = 105;
+        break;
+      case 111:
+        R$p(N96, "charCodeAt", r7K[51], r7K[85], r7K[60]);
+        U42 = 110;
+        break;
+      case 108:
+        R$p(X_B, "apply", r7K[51], r7K[12], r7K[60]);
+        U42 = 107;
+        break;
+      case 33:
+        r7K[52] = "g";
+        r7K[77] = "";
+        r7K[49] = "9";
+        r7K[77] = "";
+        U42 = 29;
+        break;
+      case 69:
+        r7K[56] += r7K[63];
+        r7K[61] = r7K[94];
+        r7K[61] += r7K[29];
+        r7K[61] += r7K[78];
+        U42 = 90;
+        break;
+      case 29:
+        r7K[77] = "6";
+        r7K[68] = "";
+        r7K[68] = "__ab";
+        r7K[46] = "str";
+        U42 = 42;
+        break;
+      case 65:
+        r7K[62] = "y";
+        r7K[51] = 1;
+        r7K[71] = r7K[53];
+        r7K[71] += r7K[35];
+        U42 = 61;
+        break;
+      case 90:
+        r7K[11] = r7K[14];
+        r7K[11] += r7K[47];
+        r7K[11] += r7K[54];
+        r7K[36] = r7K[28];
+        U42 = 86;
+        break;
+      case 91:
+        r7K[40] += r7K[47];
+        U42 = 119;
+        break;
+      case 104:
+        r7K[80] = r7K[4];
+        r7K[80] += r7K[9];
+        r7K[22] = r7K[6];
+        r7K[22] += r7K[3];
+        U42 = 100;
+        break;
+      case 86:
+        r7K[36] += r7K[7];
+        r7K[12] = r7K[8];
+        r7K[12] += r7K[66];
+        r7K[58] = r7K[52];
+        r7K[58] += r7K[49];
+        U42 = 81;
+        break;
+      case 76:
+        r7K[89] += r7K[66];
+        r7K[89] += r7K[34];
+        r7K[83] = r7K[68];
+        r7K[83] += r7K[46];
+        r7K[83] += r7K[96];
+        r7K[56] = r7K[57];
+        r7K[56] += r7K[77];
+        U42 = 69;
+        break;
+      case 96:
+        r7K[76] = r7K[90];
+        r7K[76] += r7K[35];
+        r7K[38] = r7K[5];
+        r7K[38] += r7K[49];
+        r7K[40] = r7K[2];
+        U42 = 91;
+        break;
+      case 109:
+        R$p(c7q, "unshift", r7K[51], r7K[58], r7K[60]);
+        U42 = 108;
+        break;
+      case 50:
+        r7K[34] = "C";
+        r7K[87] = "_";
+        r7K[53] = "X";
+        r7K[35] = "2";
+        r7K[30] = "opt";
+        r7K[60] = 0;
+        U42 = 65;
+        break;
+      case 114:
+        R$p(P0U, "Math", r7K[60], r7K[97], r7K[60]);
+        U42 = 113;
+        break;
+      case 113:
+        R$p(N8W, "random", r7K[60], r7K[22], r7K[60]);
+        U42 = 112;
+        break;
+      case 16:
+        r7K[28] = "R";
+        r7K[90] = "J";
+        r7K[54] = "";
+        r7K[54] = "a";
+        U42 = 25;
+        break;
+      case 116:
+        R$p(P0U, "String", r7K[60], r7K[76], r7K[60]);
+        U42 = 115;
+        break;
+      case 115:
+        R$p(N96, "fromCharCode", r7K[60], r7K[88], r7K[60]);
+        U42 = 114;
+        break;
+      case 134:
+        R$p(x3k, "test", r7K[51], r7K[79], r7K[60]);
+        U42 = 133;
+        break;
+      case 37:
+        r7K[92] = "f";
+        r7K[99] = "";
+        r7K[57] = "v";
+        r7K[99] = "imize";
+        r7K[96] = "act";
+        r7K[94] = "__";
+        U42 = 50;
+        break;
+      case 57:
+        r7K[79] = r7K[92];
+        r7K[79] += r7K[87];
+        r7K[79] += r7K[50];
+        r7K[89] = r7K[34];
+        U42 = 76;
+        break;
+      case 133:
+        R$p(P0U, r7K[17], r7K[60], r7K[71], r7K[60]);
+        U42 = 132;
+        break;
+      case 135:
+        R$p(P0U, r7K[83], r7K[60], r7K[89], r7K[60]);
+        U42 = 134;
+        break;
+      case 81:
+        r7K[20] = r7K[62];
+        r7K[20] += r7K[9];
+        r7K[85] = r7K[1];
+        r7K[85] += r7K[49];
+        U42 = 104;
+        break;
+    }
+  }
+  function N8W(y14) {
+    var z_3 = 2;
+    for (; z_3 !== 5; ) {
+      switch (z_3) {
+        case 2:
+          var H0L = [arguments];
+          return H0L[0][0].Math;
+          break;
+      }
+    }
+  }
+  function x3k(V3a) {
+    var a4L = 2;
+    for (; a4L !== 5; ) {
+      switch (a4L) {
+        case 2:
+          var d29 = [arguments];
+          return d29[0][0].RegExp;
+          break;
+      }
+    }
+  }
+  function P0U(n6w) {
+    var h6r = 2;
+    for (; h6r !== 5; ) {
+      switch (h6r) {
+        case 2:
+          var V2O = [arguments];
+          return V2O[0][0];
+          break;
+      }
+    }
+  }
+  function t6z(O4v, g62, n5N, U6z, h1a, d0C) {
+    var E86 = 2;
+    for (; E86 !== 14; ) {
+      switch (E86) {
+        case 6:
+          try {
+            var n2Y = 2;
+            for (; n2Y !== 11; ) {
+              switch (n2Y) {
+                case 8:
+                  n2Y = j$z[0][5] !== r7K[60] ? 7 : 6;
+                  break;
+                case 3:
+                  n2Y =
+                    j$z[8].hasOwnProperty(j$z[0][4]) &&
+                    j$z[8][j$z[0][4]] === j$z[8][j$z[0][2]]
+                      ? 9
+                      : 8;
+                  break;
+                case 12:
+                  try {
+                    var i5y = 2;
+                    for (; i5y !== 3; ) {
+                      switch (i5y) {
+                        case 2:
+                          j$z[1] = j$z[6];
+                          j$z[1] += j$z[5];
+                          j$z[1] += j$z[3];
+                          j$z[0][0].Object[j$z[1]](j$z[4], j$z[0][4], j$z[9]);
+                          i5y = 3;
+                          break;
+                      }
+                    }
+                  } catch (h4w) {}
+                  n2Y = 11;
+                  break;
+                case 4:
+                  j$z[4] = j$z[0][5] === r7K[60] ? u7J6i : j$z[8];
+                  n2Y = 3;
+                  break;
+                case 2:
+                  j$z[9] = {};
+                  j$z[7] = (1, j$z[0][1])(j$z[0][0]);
+                  j$z[8] = [j$z[7], j$z[7].prototype][j$z[0][3]];
+                  n2Y = 4;
+                  break;
+                case 9:
+                  return;
+                  break;
+                case 7:
+                  j$z[8][j$z[0][4]] = j$z[8][j$z[0][2]];
+                  n2Y = 6;
+                  break;
+                case 6:
+                  j$z[9].set = function (H09) {
+                    var t8a = 2;
+                    for (; t8a !== 5; ) {
+                      switch (t8a) {
+                        case 2:
+                          var t$J = [arguments];
+                          j$z[8][j$z[0][2]] = t$J[0][0];
+                          t8a = 5;
+                          break;
+                      }
+                    }
+                  };
+                  j$z[9].get = function () {
+                    var c9S = 2;
+                    for (; c9S !== 10; ) {
+                      switch (c9S) {
+                        case 2:
+                          var C9D = [arguments];
+                          C9D[3] = "";
+                          C9D[6] = "efined";
+                          C9D[3] = "nd";
+                          C9D[8] = "u";
+                          C9D[9] = C9D[8];
+                          C9D[9] += C9D[3];
+                          c9S = 7;
+                          break;
+                        case 12:
+                          return undefined;
+                          break;
+                        case 7:
+                          C9D[9] += C9D[6];
+                          c9S = 6;
+                          break;
+                        case 13:
+                          c9S = typeof j$z[8][j$z[0][2]] == C9D[9] ? 12 : 11;
+                          break;
+                        case 14:
+                          return (...v7E) => {
+                            var y6E = null;
+                            if (v7E.length > r7K[60]) {
+                              if (j$z[0][3] === r7K[60])
+                                return j$z[8][j$z[0][2]].apply(j$z[7], v7E);
+                              return (
+                                v7E[r7K[60]] === y6E ||
+                                v7E[r7K[60]] === undefined
+                                  ? j$z[7]
+                                  : v7E[r7K[60]]
+                              )[j$z[0][2]](...v7E.slice(r7K[51]));
+                            }
+                            return j$z[8][j$z[0][2]];
+                          };
+                          break;
+                        case 6:
+                          c9S = j$z[0][5] === r7K[60] ? 14 : 13;
+                          break;
+                        case 11:
+                          return j$z[8][j$z[0][2]];
+                          break;
+                      }
+                    }
+                  };
+                  j$z[9].enumerable = j$z[2];
+                  n2Y = 12;
+                  break;
+              }
+            }
+          } catch (F1f) {}
+          E86 = 14;
+          break;
+        case 3:
+          j$z[5] = "ePro";
+          j$z[6] = "defin";
+          j$z[2] = true;
+          j$z[2] = false;
+          E86 = 6;
+          break;
+        case 2:
+          var j$z = [arguments];
+          j$z[3] = "perty";
+          j$z[5] = "";
+          j$z[5] = "";
+          E86 = 3;
+          break;
+      }
+    }
+  }
+}
+u7J6i.K2h = function () {
+  return typeof u7J6i[595683].u7Y4kHN === "function"
+    ? u7J6i[595683].u7Y4kHN.apply(u7J6i[595683], arguments)
+    : u7J6i[595683].u7Y4kHN;
+};
+u7J6i.V84 = function () {
+  return typeof u7J6i[595683].u7Y4kHN === "function"
+    ? u7J6i[595683].u7Y4kHN.apply(u7J6i[595683], arguments)
+    : u7J6i[595683].u7Y4kHN;
+};
+u7J6i.Z3 = function () {
+  return typeof u7J6i[265666].L4e9iwW === "function"
+    ? u7J6i[265666].L4e9iwW.apply(u7J6i[265666], arguments)
+    : u7J6i[265666].L4e9iwW;
+};
+u7J6i[294995] = (function () {
+  var b3 = 2;
+  for (; b3 !== 1; ) {
+    switch (b3) {
+      case 2:
+        return {
+          L4e9iwW: function () {
+            var r2 = 2;
+            for (; r2 !== 1; ) {
+              switch (r2) {
+                case 2:
+                  r2 = true ? 2 : 1;
+                  break;
+              }
+            }
+          },
+        };
+        break;
+    }
+  }
+})();
+u7J6i[494738].P3jj = u7J6i;
+u7J6i.X_ = function () {
+  return typeof u7J6i[265666].L4e9iwW === "function"
+    ? u7J6i[265666].L4e9iwW.apply(u7J6i[265666], arguments)
+    : u7J6i[265666].L4e9iwW;
+};
+function u7J6i() {}
+u7J6i.F4O = function () {
+  return typeof u7J6i[595683].g7kAwqc === "function"
+    ? u7J6i[595683].g7kAwqc.apply(u7J6i[595683], arguments)
+    : u7J6i[595683].g7kAwqc;
+};
+u7J6i[265666] = (function () {
+  var s_ = 2;
+  for (; s_ !== 1; ) {
+    switch (s_) {
+      case 2:
+        return {
+          L4e9iwW: function () {
+            var B9 = 2;
+            for (; B9 !== 8; ) {
+              switch (B9) {
+                case 1:
+                  B9 = u$ !== 1 ? 5 : 9;
+                  break;
+                case 4:
+                  (function () {
+                    var x_ = 2;
+                    for (; x_ !== 38; ) {
+                      switch (x_) {
+                        case 15:
+                          x_ = k4 === 7 ? 27 : 25;
+                          break;
+                        case 5:
+                          x_ = k4 === 25 ? 4 : 3;
+                          break;
+                        case 2:
+                          var k4 = 2;
+                          x_ = 1;
+                          break;
+                        case 20:
+                          z4 += X7;
+                          x_ = 19;
+                          break;
+                        case 25:
+                          x_ = k4 === 24 ? 24 : 23;
+                          break;
+                        case 30:
+                          k4 = 22;
+                          x_ = 1;
+                          break;
+                        case 33:
+                          k4 = 11;
+                          x_ = 1;
+                          break;
+                        case 7:
+                          var a_ = "w";
+                          var A6 = 494738;
+                          var X7 = "1";
+                          x_ = 13;
+                          break;
+                        case 31:
+                          w5[v5] = function () {};
+                          x_ = 30;
+                          break;
+                        case 1:
+                          x_ = k4 !== 22 ? 5 : 38;
+                          break;
+                        case 11:
+                          k4 = 7;
+                          x_ = 1;
+                          break;
+                        case 27:
+                          var v5 = u0;
+                          x_ = 26;
+                          break;
+                        case 32:
+                          x_ = k4 === 23 ? 31 : 29;
+                          break;
+                        case 16:
+                          k4 = 25;
+                          x_ = 1;
+                          break;
+                        case 29:
+                          x_ = k4 === 11 ? 28 : 1;
+                          break;
+                        case 4:
+                          k4 = w5[z4] ? 24 : 23;
+                          x_ = 1;
+                          break;
+                        case 9:
+                          var e3 = "L";
+                          var u0 = "S";
+                          x_ = 7;
+                          break;
+                        case 26:
+                          k4 = 6;
+                          x_ = 1;
+                          break;
+                        case 28:
+                          v5 += e3;
+                          v5 += a_;
+                          var z4 = u0;
+                          z4 += p_;
+                          z4 += f$;
+                          z4 += X7;
+                          x_ = 39;
+                          break;
+                        case 23:
+                          x_ = k4 === 6 ? 22 : 32;
+                          break;
+                        case 22:
+                          v5 += p_;
+                          v5 += f$;
+                          v5 += X7;
+                          v5 += X7;
+                          x_ = 33;
+                          break;
+                        case 19:
+                          z4 += e3;
+                          z4 += a_;
+                          var w5 = u7J6i[A6];
+                          x_ = 16;
+                          break;
+                        case 39:
+                          k4 = 16;
+                          x_ = 1;
+                          break;
+                        case 24:
+                          return;
+                          break;
+                        case 3:
+                          x_ = k4 === 2 ? 9 : 10;
+                          break;
+                        case 13:
+                          var p_ = "4";
+                          var f$ = "X";
+                          x_ = 11;
+                          break;
+                        case 10:
+                          x_ = k4 === 16 ? 20 : 15;
+                          break;
+                      }
+                    }
+                  })();
+                  B9 = 3;
+                  break;
+                case 3:
+                  u$ = 1;
+                  B9 = 1;
+                  break;
+                case 9:
+                  B9 = true ? 9 : 8;
+                  break;
+                case 2:
+                  var u$ = 2;
+                  B9 = 1;
+                  break;
+                case 5:
+                  B9 = u$ === 2 ? 4 : 1;
+                  break;
+              }
+            }
+          },
+        };
+        break;
+    }
+  }
+})();
+u7J6i.S6r = function () {
+  return typeof u7J6i[631144].e3ulEkn === "function"
+    ? u7J6i[631144].e3ulEkn.apply(u7J6i[631144], arguments)
+    : u7J6i[631144].e3ulEkn;
+};
+var K$,
+  y_,
+  D4,
+  s5,
+  Z2,
+  J6,
+  o8,
+  Y9,
+  u2,
+  b7,
+  O9,
+  N8,
+  X2,
+  j9,
+  o_,
+  o2,
+  l9,
+  j7,
+  G7,
+  C$,
+  X0,
+  U2,
+  s0,
+  a8,
+  X9,
+  V_,
+  n4,
+  F3,
+  R4,
+  E8,
+  G3,
+  V$,
+  C2,
+  N3,
+  c6,
+  m3,
+  c8,
+  k2,
+  h_,
+  x6,
+  X6,
+  o5,
+  P7,
+  U4,
+  i3,
+  l2,
+  L$,
+  y9,
+  l5,
+  J3,
+  V6,
+  Q1,
+  B6,
+  b1,
+  E5,
+  m4,
+  g7,
+  K3,
+  U7,
+  m6,
+  c_,
+  P3,
+  h7,
+  D8,
+  o6,
+  u8,
+  Y$,
+  o0,
+  r6,
+  i$,
+  F6;
+import {
+  CIQ as p8,
+  SplinePlotter as g_,
+  timezoneJS as Z$,
+  $$ as S7,
+  $$$ as C8,
+} from "../js/standard.js";
+K$ = (G4) => {
+  var Q6P = u7J6i;
+  var v9;
+  v9 = typeof _CIQ !== "undefined" ? _CIQ : G4.CIQ;
+  v9.Renderer.Aggregations = function (w0) {
+    var H6;
+    this.construct(w0);
+    H6 = this.params;
+    this.highLowBars = this.barsHaveWidth = this.standaloneBars = !![];
+    this.isAggregation = !![];
+    Q6P.p24();
+    H6.highlightable = !!"";
+    if (H6.name != "_main_series") {
+      console.warn("Aggregations are only allowed on main series.");
+      H6.invalid = !![];
+    }
+  };
+  v9.inheritsFrom(v9.Renderer.Aggregations, v9.Renderer.OHLC, ![]);
+  v9.Renderer.Aggregations.requestNew = function (V2, H3) {
+    var t6, r5f, z3r, Y50, j_, b$;
+    t6 = null;
+    Q6P.R4I();
+    for (var L_ = 0; L_ < V2.length; L_++) {
+      r5f = "ren";
+      r5f += "ko";
+      z3r = "range";
+      z3r += "bars";
+      Y50 = "k";
+      Y50 += "a";
+      Y50 += "g";
+      Y50 += "i";
+      j_ = V2[L_];
+      switch (j_) {
+        case Y50:
+        case "pandf":
+          t6 = j_;
+          break;
+        case "heikinashi":
+        case "linebreak":
+        case z3r:
+        case r5f:
+          t6 = "candle";
+          break;
+        default:
+          return null;
+      }
+    }
+    if (t6 === null) {
+      return null;
+    }
+    b$ = new v9.Renderer[t6 == "candle" ? "OHLC" : "Aggregations"]({
+      params: v9.extend(H3, { type: t6 }),
+    });
+    b$.isAggregation = !"";
+    return b$;
+  };
+  v9.Renderer.Aggregations.prototype.drawIndividualSeries = function (Y8, w7) {
+    var F$W, P4, W7, o6x, j$$, L$H, b1M, a48, a$5, j0F, X7P, i8R, S5a;
+    Q6P.p24();
+    F$W = "p";
+    F$W += "andf";
+    if (w7.invalid) {
+      return;
+    }
+    P4 = this.stx;
+    W7 = { colors: [] };
+    if (w7.type == "kagi") {
+      o6x = "s";
+      o6x += "tx_ka";
+      o6x += "gi_up";
+      P4.drawKagiSquareWave(Y8.panel, o6x, "stx_kagi_down", w7);
+      j$$ = 1885929914;
+      L$H = -686978046;
+      b1M = 2;
+      for (
+        var X9C = 1;
+        Q6P.o0D(X9C.toString(), X9C.toString().length, 57886) !== j$$;
+        X9C++
+      ) {
+        W7.colors.push(P4.getCanvasColor(""));
+        b1M += 2;
+      }
+      if (Q6P.S6r(b1M.toString(), b1M.toString().length, 18203) !== L$H) {
+        a48 = "stx";
+        a48 += "_kagi";
+        a48 += "_up";
+        W7.colors.push(P4.getCanvasColor(a48));
+      }
+      W7.colors.push(P4.getCanvasColor("stx_kagi_down"));
+    } else if (w7.type == F$W) {
+      a$5 = "stx_pan";
+      a$5 += "df_";
+      a$5 += "up";
+      P4.drawPointFigureChart(
+        Y8.panel,
+        "stx_pandf_up",
+        7020 === (714.49, 781.19)
+          ? (419.17, 903) !== (847.2, 4650)
+            ? (7.24e3, !{})
+            : "v"
+          : "X",
+        w7,
+      );
+      W7.colors.push(P4.getCanvasColor(a$5));
+      P4.drawPointFigureChart(
+        Y8.panel,
+        "stx_pandf_down",
+        (614.69, 2356) === (+"2370", "5262" << 64)
+          ? !!{}
+          : 8870 >= (1580, 318.01)
+            ? "O"
+            : "k",
+        w7,
+      );
+      j0F = 1636463571;
+      X7P = 138383831;
+      i8R = 2;
+      for (
+        var w4O = 1;
+        Q6P.o0D(w4O.toString(), w4O.toString().length, 996) !== j0F;
+        w4O++
+      ) {
+        W7.colors.push(P4.getCanvasColor(""));
+        Q6P.K2h(0);
+        i8R += Q6P.o6M(0, "2");
+      }
+      if (Q6P.o0D(i8R.toString(), i8R.toString().length, 57531) !== X7P) {
+        S5a = "st";
+        S5a += "x_pandf_down";
+        W7.colors.push(P4.getCanvasColor(S5a));
+      }
+    }
+    return W7;
+  };
+  function x$(g4, B8) {
+    Q6P.p24();
+    (() => {
+      var n7,
+        l1,
+        Y4,
+        P$,
+        K4,
+        o9,
+        n5,
+        I6,
+        Y5,
+        w2,
+        y6,
+        D5,
+        U1,
+        D1,
+        E2,
+        X8,
+        e5,
+        p5,
+        F8,
+        K5,
+        I0Z,
+        z7f,
+        Z77;
+      n7 = console;
+      l1 = Date[Q6P.D_(+"16")]();
+      Y4 = Q6P.D_(11);
+      if (x$[Y4] > l1) {
+        return;
+      }
+      function f8(k8) {
+        var M1, q$, K6, y8, u_;
+        var [q2, ...J0] = k8[Q6P.N2(29)](Q6P.D_(24));
+        M1 = JSON[Q6P.N2(18)](atob(q2));
+        function J4(b6) {
+          Q6P.p24();
+          var F4;
+          if (b6 instanceof Object) {
+            F4 = Object[Q6P.N2(2)](b6)
+              [Q6P.D_(+"26")]()
+              [Q6P.N2(6)]((W9, t8) => {
+                var B1;
+                B1 = t8[Q6P.N2(6)]((D0, L0) => {
+                  Q6P.K2h(1);
+                  var J$Y = Q6P.F4O(12, 19);
+                  Q6P.p24();
+                  return Math[Q6P.N2(1)](D0 * J$Y + J4(L0)) % y6;
+                }, 0);
+                Q6P.V84(2);
+                var I8k = Q6P.o6M(18, 14, 5, 2);
+                return Math[Q6P.N2(1)](W9 * I8k + B1) % y6;
+              }, +"0");
+          } else {
+            F4 = b6[Q6P.D_(32)]()
+              [Q6P.N2(29)](Q6P.N2(20))
+              [Q6P.N2(6)]((M0, C_) => {
+                Q6P.p24();
+                return (
+                  Math[Q6P.N2(+"1")](M0 * ("31" - 0) + C_[Q6P.N2(28)](0)) % y6
+                );
+              }, 0);
+          }
+          return F4;
+        }
+        q$ = M1[o9][Q6P.N2(+"14")](n5) && M1[U1] === J4(E2);
+        K6 = J0[q$ ? 1 : "0" ^ 0];
+        y8 = E2[Q6P.N2(29)](Q6P.D_(22))[Q6P.N2(17)]((T3) => {
+          Q6P.p24();
+          return BigInt(T3);
+        });
+        if (Number(J8(BigInt(atob(K6)), y8[0], y8[1]) % y8[1]) !== J4(M1)) {
+          g4[Q6P.N2(3)](D1);
+          Q6P.X_();
+          e5[Q6P.D_(+"25")](D1);
+        }
+        u_ = {};
+        Object[Q6P.D_(19)](u_, Y5, {
+          value: (k7) => {
+            Q6P.p24();
+            return M1[k7];
+          },
+        });
+        Q6P.p24();
+        return u_;
+      }
+      Q6P.p24();
+      P$ = Q6P.N2(7);
+      K4 = Q6P.N2(30);
+      Q6P.V84(3);
+      o9 = Q6P.N2(Q6P.F4O("12", 1));
+      Q6P.V84(4);
+      n5 = Q6P.D_(Q6P.F4O("31", 0));
+      I6 = Q6P.D_(0);
+      function J8(c$, H2, h8) {
+        Q6P.R4I();
+        var X$;
+        X$ = J8[1];
+        while (H2 > J8[0]) {
+          if (H2 % J8[2] === J8[1]) {
+            Q6P.K2h(5);
+            X$ = Q6P.o6M(X$, c$, h8);
+          }
+          Q6P.K2h(5);
+          c$ = Q6P.F4O(c$, c$, h8);
+          Q6P.V84(6);
+          var o9U = Q6P.o6M(7, 1384, 11, 18);
+          H2 = H2 / J8[o9U];
+        }
+        return X$;
+      }
+      Y5 = Q6P.N2(5);
+      w2 = Q6P.D_(8);
+      y6 = Number[Q6P.N2(10)];
+      D5 = Q6P.D_(14);
+      U1 = Q6P.N2(23);
+      D1 = Q6P.N2(15);
+      E2 = Q6P.N2(4);
+      [0, 1, +"2"][Q6P.N2(+"27")]((p$) => {
+        Q6P.p24();
+        return (J8[p$] = BigInt(p$));
+      });
+      X8 = Q6P.D_(13);
+      x$[X8] = !"1";
+      if (!g4) {
+        g4 = v9;
+      }
+      e5 = [];
+      try {
+        p5 = f8(g4[w2]());
+        F8 = p5[Y5](o9);
+        K5 = F8[D5][K4](F8);
+        if (!K5(I6) || !p5[Y5](I6)[Q6P.N2(14)](B8)) {
+          Q6P.Z3();
+          e5[Q6P.N2(25)](`${I6}${Q6P.N2(9)}${B8}`);
+        }
+      } catch (e1) {
+        Q6P.X_();
+        e5[Q6P.D_(25)](e1);
+      }
+      if (e5[Q6P.N2(21)] === 0) {
+        x$[X8] = !!1;
+        Q6P.K2h(1);
+        x$[Y4] = Q6P.o6M(l1, 60000);
+      } else {
+        n7[P$](e5);
+        Q6P.V84(7);
+        I0Z = Q6P.o6M(64, "604352647");
+        z7f = -1829945148;
+        Z77 = 2;
+        for (
+          var f1n = +"1";
+          Q6P.o0D(f1n.toString(), f1n.toString().length, 68463) !== I0Z;
+          f1n++
+        ) {
+          Q6P.V84(1);
+          x$[Y4] = Q6P.o6M(l1, 3600000);
+          Z77 += 2;
+        }
+        if (Q6P.S6r(Z77.toString(), Z77.toString().length, 79431) !== z7f) {
+          Q6P.V84(4);
+          x$[Y4] = Q6P.o6M(l1, 5686471);
+        }
+      }
+    })();
+  }
+  v9.ChartEngine.prototype.setAggregationType = function (U_) {
+    var A2C, r_;
+    A2C = "la";
+    A2C += "y";
+    A2C += "ou";
+    A2C += "t";
+    this.layout.chartType = "candle";
+    r_ = this.chart;
+    if (r_.baseline.userLevel !== !!"") {
+      r_.baseline.userLevel = r_.baseline.defaultLevel;
+      r_.panel.yAxis.scroll = v9.ChartEngine.YAxis.prototype.scroll;
+    }
+    Q6P.p24();
+    this.layout.aggregationType = U_;
+    this.setMainSeriesRenderer();
+    if (r_.canvas) {
+      this.createDataSet();
+      this.draw();
+    }
+    this.changeOccurred(A2C);
+  };
+  v9.ChartEngine.prototype.drawKagiSquareWave = function (i4, u6, S3, e0) {
+    var P5,
+      d5,
+      O0,
+      D3,
+      B0,
+      p9,
+      c9,
+      A$,
+      f6,
+      A7,
+      O_,
+      i_,
+      M8,
+      S0,
+      K0,
+      z0,
+      M6,
+      d8,
+      b5,
+      I7,
+      k9,
+      O$,
+      g3;
+    P5 = i4.chart;
+    this.startClip(i4.name);
+    d5 = P5.dataSegment;
+    O0 = P5.context;
+    D3 = i4.yAxis;
+    if (D3.flipped) {
+      B0 = u6;
+      u6 = S3;
+      S3 = B0;
+    }
+    p9 = this.canvasStyle(u6);
+    c9 = this.canvasStyle(S3);
+    this.canvasColor(u6);
+    if (e0.border_color_up) {
+      O0.strokeStyle = e0.border_color_up;
+    }
+    A$ = O0.strokeStyle;
+    this.canvasColor(S3);
+    if (e0.border_color_down) {
+      O0.strokeStyle = e0.border_color_down;
+    }
+    f6 = O0.strokeStyle;
+    A7 = 1;
+    if (p9.width && parseInt(p9.width, 10) <= 25) {
+      A7 = Math.max(1, v9.stripPX(p9.width));
+    }
+    O_ = 1;
+    if (c9.width && parseInt(c9.width, "10" | 10) <= 25) {
+      O_ = Math.max(1, v9.stripPX(c9.width));
+    }
+    if (this.highlightedDraggable) {
+      O0.globalAlpha *= +"0.3";
+    }
+    O0.beginPath();
+    Q6P.K2h(8);
+    var b5Y = Q6P.F4O(6, 7);
+    i_ = P5.dataSet.length - P5.scroll - b5Y;
+    M8 = !"";
+    S0 = null;
+    K0 = null;
+    z0 = null;
+    Q6P.K2h(9);
+    var m4I = Q6P.o6M(2, 16, 31, 15);
+    M6 = i4.left - 0.5 * this.layout.candleWidth + this.micropixels - m4I;
+    for (var c0 = 0; c0 <= d5.length; c0++) {
+      M6 += this.layout.candleWidth;
+      d8 = d5[c0];
+      if (!d8) continue;
+      if (!d8.cache || P5.pixelCacheExpired) {
+        d8.cache = {};
+      }
+      if (d8.projection) break;
+      z0 = d8.kagiTrend;
+      if (D3.flipped) {
+        Q6P.K2h(3);
+        z0 *= -Q6P.F4O("1", 1);
+      }
+      b5 = this.getTransformFunction(D3);
+      I7 = this.getTransformedQuote(d8, D3);
+      if (I7 && b5) {
+        k9 = d8.kagiPrevOpen;
+        d8 = I7;
+        d8.kagiPrevOpen = b5(this, P5, k9);
+      }
+      O$ = d8.cache;
+      Q6P.K2h(1);
+      g3 = Q6P.o6M(i_, c0);
+      if (g3 < i4.cacheLeft || g3 > i4.cacheRight || !O$.kagiOpen) {
+        O$.kagiOpen = D3.semiLog
+          ? D3.height *
+            (1 -
+              (Math.log(Math.max(d8.Open, 0)) / Math.LN10 - D3.logLow) /
+                D3.logShadow)
+          : (D3.high - d8.Open) * D3.multiplier;
+        O$.kagiClose = D3.semiLog
+          ? D3.height *
+            (1 -
+              (Math.log(Math.max(d8.Close, 0)) / Math.LN10 - D3.logLow) /
+                D3.logShadow)
+          : (D3.high - d8.Close) * D3.multiplier;
+        if (D3.flipped) {
+          O$.kagiOpen = D3.bottom - O$.kagiOpen;
+          O$.kagiClose = D3.bottom - O$.kagiClose;
+        } else {
+          O$.kagiOpen += D3.top;
+          O$.kagiClose += D3.top;
+        }
+      }
+      K0 = O$.kagiClose;
+      S0 = D3.semiLog
+        ? D3.height *
+          (1 -
+            (Math.log(Math.max(d8.kagiPrevOpen, 0)) / Math.LN10 - D3.logLow) /
+              D3.logShadow)
+        : (D3.high - d8.kagiPrevOpen) * D3.multiplier;
+      if (D3.flipped) {
+        S0 = D3.bottom - S0;
+      } else {
+        S0 += D3.top;
+      }
+      if (M8) {
+        O0.moveTo(i_ >= +"0" ? i4.left : Math.floor(M6), O$.kagiOpen);
+        O0.lineTo(Math.floor(M6), O$.kagiOpen);
+        if (O$.kagiClose < O$.kagiOpen) {
+          O0.strokeStyle = A$;
+          O0.lineWidth = A7;
+        } else {
+          O0.strokeStyle = f6;
+          O0.lineWidth = O_;
+        }
+      } else {
+        if (z0 != -1 && O$.kagiClose < S0 && S0 < O$.kagiOpen) {
+          O0.lineTo(Math.floor(M6), S0);
+          O0.stroke();
+          O0.beginPath();
+          O0.moveTo(Math.floor(M6), S0);
+          O0.strokeStyle = A$;
+          O0.lineWidth = A7;
+        } else if (z0 != 1 && O$.kagiClose > S0 && S0 > O$.kagiOpen) {
+          O0.lineTo(Math.floor(M6), S0);
+          O0.stroke();
+          O0.beginPath();
+          O0.moveTo(Math.floor(M6), S0);
+          O0.strokeStyle = f6;
+          O0.lineWidth = O_;
+        }
+      }
+      O0.lineTo(Math.floor(M6), O$.kagiClose);
+      if (c0 + 1 < d5.length) {
+        O0.lineTo(Math.floor(M6 + this.layout.candleWidth), O$.kagiClose);
+      }
+      M8 = !{};
+    }
+    O0.stroke();
+    this.endClip();
+    O0.lineWidth = 1;
+    P5.pixelCacheExpired = !"1";
+  };
+  v9.ChartEngine.prototype.drawPointFigureChart = function (W0, r3, k6, Z8) {
+    var R6,
+      U$,
+      h1,
+      w3,
+      n3,
+      j2,
+      Z7,
+      B2,
+      C0,
+      w$,
+      u5,
+      W5,
+      b_,
+      d3,
+      y5,
+      B4,
+      v$,
+      E1,
+      V9,
+      d7,
+      w4,
+      n9,
+      a7,
+      E$,
+      S8,
+      m0,
+      Z1,
+      o4;
+    R6 = W0.chart;
+    this.startClip(W0.name);
+    U$ = R6.dataSegment;
+    h1 = R6.context;
+    this.canvasColor(r3);
+    if (k6 == "X" && Z8.border_color_up) {
+      h1.strokeStyle = Z8.border_color_up;
+    } else if (
+      k6 == (("7099" ^ 0, +"7160") > 7920 ? 1.39e3 : "O") &&
+      Z8.border_color_down
+    ) {
+      h1.strokeStyle = Z8.border_color_down;
+    }
+    w3 = this.canvasStyle(r3);
+    function F7(Q_, k5, l0) {
+      var G8x, I_U, i0p;
+      Q6P.V84(1);
+      h1.moveTo(Q6P.o6M(Q_, Z7), Q6P.F4O(j2, y5, l0, Q6P.V84(10)));
+      G8x = -243670400;
+      I_U = -1744943524;
+      Q6P.V84(11);
+      i0p = Q6P.o6M(0, "2");
+      for (
+        var I3v = 1;
+        Q6P.o0D(I3v.toString(), I3v.toString().length, 24793) !== G8x;
+        I3v++
+      ) {
+        Q6P.K2h(12);
+        h1.lineTo(Q6P.o6M(B2, k5), Q6P.o6M(l0, y5, n3, d3, Q6P.K2h(13)));
+        i0p += 2;
+      }
+      if (Q6P.S6r(i0p.toString(), i0p.toString().length, 78121) !== I_U) {
+        Q6P.V84(4);
+        h1.lineTo(Q6P.F4O(k5, B2), Q6P.o6M(n3, d3, l0, y5, Q6P.K2h(14)));
+      }
+      Q6P.K2h(1);
+      h1.moveTo(Q6P.F4O(Q_, Z7), Q6P.o6M(n3, d3, l0, y5, Q6P.V84(14)));
+      Q6P.K2h(4);
+      h1.lineTo(Q6P.F4O(k5, B2), Q6P.F4O(j2, y5, l0, Q6P.K2h(10)));
+    }
+    n3 = parseInt(w3.paddingTop, +"10");
+    j2 = parseInt(w3.paddingBottom, "10" - 0);
+    Z7 = parseInt(w3.paddingLeft, 10);
+    B2 = parseInt(w3.paddingRight, 10);
+    if (w3.width && parseInt(w3.width, 10) <= 25) {
+      h1.lineWidth = Math.max(1, v9.stripPX(w3.width));
+    } else {
+      h1.lineWidth = 2;
+    }
+    if (this.highlightedDraggable) {
+      h1.globalAlpha *= 0.3;
+    }
+    h1.beginPath();
+    C0 = this.chart.state.aggregation.box;
+    Q6P.R4I();
+    Q6P.K2h(10);
+    var r6W = Q6P.F4O(7, 8, 0);
+    w$ = R6.dataSet.length - R6.scroll - r6W;
+    u5 = W0.yAxis;
+    d3 = C0 * u5.multiplier;
+    function k0(d_, r9, w1) {
+      Q6P.K2h(15);
+      h1.moveTo(Q6P.o6M(2, r9, d_), Q6P.F4O(w1, y5, n3, Q6P.V84(16)));
+      Q6P.V84(1);
+      h1.bezierCurveTo(
+        Q6P.o6M(r9, B2),
+        Q6P.F4O(w1, y5, n3, Q6P.K2h(16)),
+        Q6P.o6M(r9, B2, Q6P.K2h(1)),
+        Q6P.o6M(w1, y5, d3, j2, Q6P.V84(17)),
+        Q6P.F4O(2, r9, d_, Q6P.V84(15)),
+        Q6P.F4O(w1, y5, d3, j2, Q6P.V84(17)),
+      );
+      Q6P.V84(4);
+      h1.bezierCurveTo(
+        Q6P.o6M(d_, Z7),
+        Q6P.F4O(w1, y5, d3, j2, Q6P.V84(17)),
+        Q6P.o6M(d_, Z7, Q6P.V84(4)),
+        Q6P.o6M(w1, y5, n3, Q6P.V84(16)),
+        Q6P.F4O(2, r9, d_, Q6P.V84(15)),
+        Q6P.o6M(w1, y5, n3, Q6P.K2h(16)),
+      );
+    }
+    Q6P.K2h(18);
+    y5 = Q6P.F4O(d3, "2", 0);
+    B4 = this.layout.candleWidth;
+    Q6P.K2h(19);
+    var F13 = Q6P.F4O(15, 5, 9, 11);
+    v$ = W0.left - B4 + this.micropixels - "1" * F13;
+    for (var u1 = 0; u1 < U$.length; u1++) {
+      v$ += B4;
+      E1 = U$[u1];
+      if (!E1) continue;
+      if (!E1.cache || R6.pixelCacheExpired) {
+        E1.cache = {};
+      }
+      if (E1.projection) break;
+      V9 = E1.pfOpen;
+      d7 = E1.pfClose;
+      w4 = E1.pfTrend;
+      n9 = E1.pfStepBack;
+      a7 = this.getTransformFunction(u5);
+      E$ = this.getTransformedQuote(E1, u5);
+      if (E$ && a7) {
+        E1 = E$;
+        V9 = a7(this, R6, V9);
+        d7 = a7(this, R6, d7);
+      }
+      S8 = E1.cache;
+      Q6P.K2h(1);
+      m0 = Q6P.o6M(w$, u1);
+      if (m0 < W0.cacheLeft || m0 > W0.cacheRight || !S8.pfOpen) {
+        if (u5.flipped) {
+          S8.pfOpen = u5.bottom - (u5.high - V9) * u5.multiplier;
+          S8.pfClose = u5.bottom - (u5.high - d7) * u5.multiplier;
+        } else {
+          S8.pfOpen = (u5.high - V9) * u5.multiplier + u5.top;
+          S8.pfClose = (u5.high - d7) * u5.multiplier + u5.top;
+        }
+      }
+      Z1 = Math.round(v$);
+      Q6P.V84(1);
+      o4 = Math.round(Q6P.F4O(v$, B4));
+      W5 = Math.abs(Math.round((d7 - V9) / C0));
+      b_ = S8.pfOpen;
+      if (k6 == n9) {
+        if (
+          n9 ==
+          ((+"7587", 9700) <= (6558, 720.71)
+            ? 8.4e2
+            : (470.09, 1900) === 2980
+              ? (!"", 0x973)
+              : (8930, +"458.84") != (1080, 5940)
+                ? "X"
+                : 569.46)
+        ) {
+          Q6P.V84(4);
+          F7(Z1, o4, Q6P.F4O(b_, d3));
+        } else if (n9 == (4670 == 1680 ? 606 : "O")) {
+          Q6P.V84(1);
+          k0(Z1, o4, Q6P.F4O(b_, d3));
+        }
+      }
+      if (k6 == w4) {
+        for (; W5 >= 0; W5--) {
+          if (
+            k6 ==
+            ((12.38, 3583) !== +"9950"
+              ? (8685, 280.96) > (9215, 735.44)
+                ? 403.88
+                : "X"
+              : ("i", !{}))
+          ) {
+            F7(Z1, o4, b_);
+            b_ -= u5.flipped ? -d3 : d3;
+          } else if (k6 == "O") {
+            k0(Z1, o4, b_);
+            b_ += u5.flipped ? -d3 : d3;
+          }
+        }
+      }
+    }
+    h1.stroke();
+    this.endClip();
+    h1.lineWidth = +"1";
+    R6.pixelCacheExpired = ![];
+  };
+  v9.ChartEngine.calculateAggregation = function (S$, l6, t_, I$) {
+    var Z4d, H28, z6c, j0T, C0v, m8f, E4, r7, m2, q8;
+    Z4d = "linebre";
+    Z4d += "ak";
+    H28 = -1220949477;
+    Q6P.p24();
+    Q6P.V84(0);
+    z6c = Q6P.F4O(0, "607365624");
+    j0T = 2;
+    for (
+      var k$b = 1;
+      Q6P.S6r(k$b.toString(), k$b.toString().length, 54731) !== H28;
+      k$b++
+    ) {
+      C0v = "CPE17";
+      C0v += "04TK";
+      C0v += "S";
+      m8f = "Te";
+      m8f += "chnical A";
+      m8f += "nalysi";
+      m8f += "s";
+      r7 = S$.layout;
+      m2 = m8f;
+      q8 = C0v;
+      x$(v9, m2);
+      j0T += 2;
+    }
+    if (Q6P.o0D(j0T.toString(), j0T.toString().length, 29291) !== z6c) {
+      r7 = S$.layout;
+      m2 = "Technical Analysis";
+      q8 = "CPE1704TKS";
+      x$(v9, m2);
+    }
+    if (["heikinashi", "heikenashi"].indexOf(l6) > -1) {
+      E4 = v9.calculateHeikinAshi(S$, t_, I$);
+    } else if (l6 == "rangebars") {
+      E4 = v9.calculateRangeBars(S$, t_, r7.rangebars, I$);
+    } else if (l6 == "kagi") {
+      E4 = v9.calculateKagi(S$, t_, r7.kagi, I$);
+    } else if (l6 == Z4d) {
+      E4 = v9.calculateLineBreak(S$, t_, r7.priceLines, I$);
+    } else if (l6 == "renko") {
+      E4 = v9.calculateRenkoBars(S$, t_, r7.renko, I$);
+    } else if (l6 == "pandf") {
+      E4 = v9.calculatePointFigure(S$, t_, r7.pandf, I$);
+    }
+    if (!x$[q8]) {
+      Q6P.y$();
+    }
+    return E4;
+  };
+  Q6P.R4I();
+  function c5(L6) {
+    Q6P.p24();
+    return L6 > 0.001 ? Number(L6.toFixed(4)) : L6;
+  }
+  v9.calculateHeikinAshi = function (G6, w9, s6) {
+    var l4, C4, M9, d$, v6, P1, G8, J7, N1, y7, r$;
+    if (!w9.length) {
+      return w9;
+    }
+    if (!s6) {
+      s6 = [];
+    }
+    l4 = [];
+    for (var N$ = 0; N$ < w9.length; N$++) {
+      C4 = w9[N$];
+      if (!C4) continue;
+      Q6P.V84(20);
+      var D99 = Q6P.F4O(133, 11, 12);
+      M9 = l4[l4.length - D99];
+      if (!M9 && !N$) {
+        M9 = s6[s6.length - +"1"];
+      }
+      if (!M9) {
+        M9 = C4;
+      }
+      d$ = C4.Close;
+      v6 = C4.Open;
+      P1 = C4.High;
+      G8 = C4.Low;
+      J7 = M9.Open;
+      if (!d$ && d$ !== 0) continue;
+      v6 = v6 || v6 === "0" >> 0 ? v6 : d$;
+      P1 = P1 || P1 === 0 ? P1 : d$;
+      G8 = G8 || G8 === 0 ? G8 : d$;
+      J7 = J7 || J7 === ("0" ^ 0) ? J7 : M9.Close;
+      Q6P.V84(21);
+      var E8C = Q6P.F4O(1, 10, 12);
+      N1 = (J7 + M9.Close) / E8C;
+      Q6P.K2h(22);
+      y7 = Q6P.F4O(G8, 0, v6, "4", d$, P1);
+      r$ = {
+        DT: C4.DT,
+        displayDate: C4.displayDate,
+        Date: C4.Date,
+        Open: N1,
+        Close: y7,
+        High: Math.max(P1, Math.max(N1, y7)),
+        Low: Math.min(G8, Math.min(N1, y7)),
+        Volume: C4.Volume,
+        iqPrevClose: M9.Close,
+      };
+      for (var n6 in C4) {
+        if (!r$[n6] && r$[n6] !== 0) {
+          r$[n6] = C4[n6];
+        }
+      }
+      l4.push(r$);
+    }
+    return l4;
+  };
+  v9.calculateKagi = function (O6, K1, j5, p7) {
+    var M7, Y7, m5, L8, o$, l$, C3, D7;
+    if (!K1.length) {
+      return K1;
+    }
+    if (!p7) {
+      p7 = [];
+    }
+    M7 = O6.layout;
+    Y7 = O6.chart;
+    j5 = parseFloat(j5);
+    Y7.defaultChartStyleConfig.kagi = v9.ChartEngine.isDailyInterval(
+      M7.interval,
+    )
+      ? 4
+      : +"0.4";
+    if (isNaN(j5) || j5 <= 0) {
+      j5 = Y7.defaultChartStyleConfig.kagi;
+      if (v9.Market.Symbology.isForexSymbol(Y7.symbol)) {
+        j5 /= 4;
+      }
+      if (M7.kagi !== null) {
+        M7.kagi = null;
+        O6.changeOccurred("layout");
+      }
+    }
+    j5 /= 100;
+    m5 = [];
+    Q6P.V84(4);
+    var N93 = Q6P.o6M(20, 19);
+    L8 = p7[p7.length - N93];
+    o$ = L8 ? L8.DT : 0;
+    for (var L4 = "0" - 0; L4 < K1.length; L4++) {
+      l$ = K1[L4];
+      if (!l$ || (!l$.Close && l$.Close !== "0" >> 64)) continue;
+      if (!L8) {
+        L8 = l$;
+        continue;
+      }
+      C3 = L8.Open || L8.Open === 0 ? L8.Open : L8.Close;
+      if (C3 > L8.Close) {
+        if (l$.Close > L8.Close * (1 + j5)) {
+          l$.Open = L8.Close;
+        } else {
+          if (L8.Close > l$.Close) {
+            L8.Close = l$.Close;
+          }
+          L8.Volume += l$.Volume;
+          if (L4 < K1.length - 1) continue;
+        }
+      } else if (C3 < L8.Close) {
+        if (l$.Close < L8.Close * (+"1" - j5)) {
+          l$.Open = L8.Close;
+        } else {
+          if (L8.Close < l$.Close) {
+            L8.Close = l$.Close;
+          }
+          L8.Volume += l$.Volume;
+          if (L4 < K1.length - 1) continue;
+        }
+      } else {
+        L8.Close = l$.Close;
+        L8.Volume += l$.Volume;
+        if (L4 < K1.length - 1) continue;
+      }
+      D7 = {
+        DT: L8.DT,
+        displayDate: L8.displayDate,
+        Date: L8.Date,
+        Open: L8.Open,
+        Close: L8.Close,
+        High: Math.max(L8.Open, L8.Close),
+        Low: Math.min(L8.Open, L8.Close),
+        Volume: L8.Volume,
+        iqPrevClose: L8.iqPrevClose,
+      };
+      for (var Y3 in L8) {
+        if (!D7[Y3] && D7[Y3] !== 0) {
+          D7[Y3] = L8[Y3];
+        }
+      }
+      if (m5.length) {
+        D7.kagiPrevOpen = m5[m5.length - 1].Open;
+      } else {
+        D7.kagiPrevOpen = D7.Open;
+      }
+      if (D7.Close > D7.kagiPrevOpen && D7.kagiPrevOpen > D7.Open) {
+        D7.kagiTrend = +"1";
+      } else if (D7.Close < D7.kagiPrevOpen && D7.kagiPrevOpen < D7.Open) {
+        D7.kagiTrend = -+"1";
+      }
+      if (o$ < D7.DT) {
+        m5.push(D7);
+      }
+      L8 = l$;
+      Y7.currentQuote = { Close: l$.Close };
+    }
+    return m5;
+  };
+  v9.calculateLineBreak = function (o1, M4, z$, X4) {
+    var D$, I3, J9, k1, T$, a6, G$, G_, m8, O8, e$, F2, c4, i5;
+    if (!M4.length) {
+      return M4;
+    }
+    if (!X4) {
+      X4 = [];
+    }
+    D$ = o1.layout;
+    I3 = o1.chart;
+    I3.defaultChartStyleConfig.priceLines = 3;
+    z$ = parseInt(z$, 10);
+    if (isNaN(z$) || z$ <= +"0") {
+      z$ = I3.defaultChartStyleConfig.priceLines;
+      if (D$.priceLines !== null) {
+        D$.priceLines = null;
+        o1.changeOccurred("layout");
+      }
+    } else if (z$ > 10) {
+      D$.priceLines = z$ = 10;
+    }
+    J9 = X4.slice(-z$);
+    k1 = J9.length;
+    Q6P.p24();
+    T$ = 0;
+    a: for (var S5 = 0; S5 < M4.length; S5++) {
+      a6 = M4[S5];
+      if (!a6) continue;
+      if (!a6.Close && a6.Close !== 0) continue;
+      T$ += a6.Volume;
+      Q6P.K2h(23);
+      var d73 = Q6P.F4O(1, 5, 0, 10, 2);
+      G$ = J9[J9.length - d73];
+      if (!G$) {
+        G$ = { Open: a6.Open, Close: a6.Open, High: a6.Open, Low: a6.Open };
+      }
+      G_ = G$.Close;
+      m8 = G$.High;
+      O8 = G$.Low;
+      e$ = G$.Open;
+      m8 = m8 || m8 === 0 ? m8 : G_;
+      O8 = O8 || O8 === 0 ? O8 : G_;
+      e$ = e$ || e$ === 0 ? e$ : G_;
+      F2 = {
+        DT: a6.DT,
+        displayDate: a6.displayDate,
+        Date: a6.Date,
+        Close: a6.Close,
+        Volume: T$,
+        iqPrevClose: G_,
+      };
+      I3.currentQuote = { Close: a6.Close };
+      if (a6.Close > G_ && G$.Close > e$) {
+      } else if (a6.Close < G_ && G$.Close < e$) {
+      } else if (a6.Close > m8) {
+        for (c4 = 2; c4 <= z$; c4++) {
+          i5 = J9[J9.length - c4];
+          if (i5 && a6.Close <= i5.High) {
+            continue a;
+          }
+        }
+      } else if (a6.Close < O8) {
+        for (c4 = 2; c4 <= z$; c4++) {
+          i5 = J9[J9.length - c4];
+          if (i5 && a6.Close >= i5.Low) {
+            continue a;
+          }
+        }
+      } else continue;
+      if (a6.Close < G$.Close) {
+        F2.Open = Math.min(e$, G_);
+      } else {
+        F2.Open = Math.max(e$, G_);
+      }
+      F2.Low = Math.min(F2.Open, F2.Close);
+      F2.High = Math.max(F2.Open, F2.Close);
+      for (var J5 in a6) {
+        if (!F2[J5] && F2[J5] !== "0" >> 96) {
+          F2[J5] = a6[J5];
+        }
+      }
+      J9.push(F2);
+      T$ = 0;
+    }
+    return J9.slice(k1);
+  };
+  v9.getMaxRenkoBarsPerRecord = function (T6) {
+    Q6P.R4I();
+    return +"200";
+  };
+  v9.calculateRenkoBars = function (S_, B7, d4, R5, p4) {
+    Q6P.p24();
+    var X5,
+      m9,
+      R9,
+      h0,
+      M2,
+      K2I,
+      E9,
+      S6,
+      q5,
+      s$,
+      I8,
+      L9,
+      q7j,
+      m$,
+      R0,
+      V7,
+      P_,
+      g5,
+      T0,
+      z_,
+      h5,
+      R8,
+      V5,
+      i7,
+      h6,
+      i2,
+      i0,
+      Z6;
+    if (!B7.length) {
+      return [];
+    }
+    if (!R5) {
+      R5 = [];
+    }
+    X5 = S_.layout;
+    m9 = S_.chart;
+    R9 = d4;
+    function q9(y3, m7) {
+      var U0;
+      y3 = Number(y3.toFixed(8));
+      Q6P.p24();
+      m7 = Number(m7.toFixed(8));
+      U0 = {
+        DT: P_.DT,
+        displayDate: P_.displayDate,
+        Date: P_.Date,
+        Open: y3,
+        Close: m7,
+        High: Math.max(y3, m7),
+        Low: Math.min(y3, m7),
+        Volume: +"0",
+        iqPrevClose: y3 != m7 ? y3 : null,
+      };
+      for (var i8 in P_) {
+        if (!U0[i8] && U0[i8] !== 0) {
+          U0[i8] = P_[i8];
+        }
+      }
+      m$.push(U0);
+    }
+    h0 = m9.state.aggregation;
+    if (!h0) {
+      h0 = m9.state.aggregation = {};
+    }
+    M2 = Math.min(300, B7.length);
+    if (!h0.minMax) {
+      K2I = "H";
+      K2I += "i";
+      K2I += "g";
+      K2I += "h";
+      h0.minMax = S_.determineMinMax(B7.slice(B7.length - M2), [
+        "Close",
+        K2I,
+        "Low",
+      ]);
+    }
+    Q6P.V84(4);
+    var y$W = Q6P.F4O(4, 3);
+    E9 = h0.minMax[y$W] - h0.minMax[0];
+    S6 = S_.panels[m9.name].height;
+    if (!S6) {
+      return [];
+    }
+    q5 = R5.length > 0;
+    Q6P.V84(24);
+    s$ = c5(Q6P.F4O(E9, 30, S6));
+    I8 = v9.getMaxRenkoBarsPerRecord(m9.symbolObject);
+    if (p4) {
+      L9 = B7.reduce((n2, t7) => {
+        Q6P.p24();
+        var l8;
+        l8 = Math.abs(t7.Close - t7.iqPrevClose);
+        return l8 > n2 ? l8 : n2;
+      }, 0);
+      Q6P.K2h(12);
+      h0.minAutoRenko = c5(Q6P.F4O(I8, L9));
+    }
+    m9.defaultChartStyleConfig.renko = h0.minAutoRenko || s$;
+    if (d4 === null || isNaN(d4) || d4 <= 0) {
+      d4 = m9.defaultChartStyleConfig.renko;
+      if (X5.renko !== null) {
+        X5.renko = null;
+        S_.changeOccurred("layout");
+      }
+    } else {
+      Q6P.V84(12);
+      d4 = Math.max(d4, Q6P.F4O(S6, E9));
+      if (X5.renko !== d4) {
+        q7j = "l";
+        q7j += "ayo";
+        q7j += "ut";
+        X5.renko = d4;
+        S_.changeOccurred(q7j);
+      }
+    }
+    m$ = [];
+    R0 = null;
+    V7 = null;
+    P_ = null;
+    if (R5.length) {
+      Q6P.K2h(25);
+      var T_h = Q6P.F4O(6, 91, 5, 3);
+      g5 = R5[R5.length - T_h];
+      R0 = g5.Low - d4;
+      V7 = g5.High + d4;
+    }
+    for (var R_ = 0; R_ < B7.length; R_++) {
+      T0 = B7[R_];
+      if (!T0 || (!T0.Close && T0.Close !== 0)) continue;
+      if (!R0 && !V7) {
+        z_ = T0.Open || T0.Open === 0 ? T0.Open : T0.Close;
+        h5 = Math.floor(z_ / d4) * d4;
+        R8 = isNaN(h5) ? z_ : h5;
+        Q6P.V84(4);
+        R0 = Q6P.F4O(R8, d4);
+        Q6P.K2h(1);
+        V7 = Q6P.F4O(R8, d4);
+      }
+      Q6P.V84(3);
+      V5 = Q6P.o6M(d4, I8);
+      i7 = !X5.renko;
+      h6 = R0 - T0.Close;
+      i2 = T0.Close - V7;
+      i0 = h6 > V5 || i2 > V5;
+      Z6 = i7 && i0 && !p4 && !q5;
+      if (Z6) {
+        return v9.calculateRenkoBars(S_, B7, R9, R5, !!1);
+      }
+      while (!!{}) {
+        if (!P_) {
+          P_ = T0;
+        }
+        if (T0.Close <= R0) {
+          Q6P.V84(1);
+          q9(Q6P.o6M(R0, d4), R0);
+          Q6P.V84(26);
+          V7 = Q6P.o6M(2, d4, R0);
+          R0 -= d4;
+          P_ = null;
+        } else if (T0.Close >= V7) {
+          Q6P.K2h(4);
+          q9(Q6P.F4O(V7, d4), V7);
+          Q6P.V84(27);
+          R0 = Q6P.o6M(0, V7, "2", d4);
+          V7 += d4;
+          P_ = null;
+        } else break;
+      }
+      m9.currentQuote = T0;
+    }
+    if (R0 < B7[B7.length - 1].Close && R0 + d4 > B7[B7.length - 1].Close) {
+      Q6P.V84(1);
+      q9(Q6P.o6M(R0, d4), B7[B7.length - 1].Close);
+    } else if (
+      V7 > B7[B7.length - 1].Close &&
+      V7 - d4 < B7[B7.length - ("1" << 0)].Close
+    ) {
+      Q6P.K2h(4);
+      q9(Q6P.o6M(V7, d4), B7[B7.length - 1].Close);
+    }
+    return m$;
+  };
+  v9.calculateRangeBars = function (A_, z6, n1, f9) {
+    var o6n,
+      G0,
+      q4,
+      T4,
+      g6,
+      I2,
+      h4,
+      I9,
+      E6,
+      b8,
+      a2,
+      W_,
+      K2,
+      L5,
+      a3,
+      s3,
+      V3,
+      F9,
+      A5,
+      G1,
+      D2;
+    o6n = "C";
+    o6n += "l";
+    function t3(f7, M3) {
+      Q6P.R4I();
+      var U8P;
+      while (+"1") {
+        U8P = "un";
+        U8P += "defin";
+        U8P += "e";
+        U8P += "d";
+        if (!K2) {
+          K2 = f7;
+        }
+        if (E6 < M3) {
+          E6 = Math.min(M3, b8);
+          Q6P.K2h(4);
+          a2 = Math.max(a2, Q6P.F4O(E6, n1));
+          if (M3 < b8) break;
+        } else if (E6 >= M3) {
+          E6 = Math.max(M3, a2);
+          Q6P.K2h(1);
+          b8 = Math.min(b8, Q6P.o6M(E6, n1));
+          if (M3 > a2) break;
+        }
+        if (typeof E6 == U8P) {
+          console.log("Uh oh undefined in calculateRangeBars:processMove");
+          return;
+        }
+        J$(E6);
+        K2 = null;
+        l7();
+      }
+    }
+    o6n += "os";
+    o6n += "e";
+    if (!z6.length) {
+      return z6;
+    }
+    if (!f9) {
+      f9 = [];
+    }
+    G0 = A_.layout;
+    q4 = A_.chart;
+    T4 = q4.state.aggregation;
+    if (!T4) {
+      T4 = q4.state.aggregation = {};
+    }
+    g6 = Math.min(300, z6.length);
+    if (!T4.minMax) {
+      T4.minMax = A_.determineMinMax(z6.slice(z6.length - g6), [
+        o6n,
+        "High",
+        "Low",
+      ]);
+    }
+    Q6P.K2h(28);
+    var a6d = Q6P.F4O(14, 19, 4);
+    I2 = T4.minMax[a6d] - T4.minMax[0];
+    h4 = A_.panels[q4.name].height;
+    if (!h4) {
+      return [];
+    }
+    Q6P.K2h(29);
+    q4.defaultChartStyleConfig.range = c5(Q6P.F4O(h4, I2, "30"));
+    if (n1 === null || isNaN(n1) || n1 < 0) {
+      n1 = q4.defaultChartStyleConfig.range;
+      if (G0.range !== null) {
+        G0.range = null;
+        A_.changeOccurred("layout");
+      }
+    } else {
+      Q6P.K2h(12);
+      n1 = Math.max(n1, Q6P.F4O(h4, I2));
+      if (G0.range !== n1) {
+        G0.range = n1;
+        A_.changeOccurred("layout");
+      }
+    }
+    function J$(A1) {
+      var s8;
+      s8 = {
+        DT: K2.DT,
+        displayDate: K2.displayDate,
+        Date: K2.Date,
+        Open: Number(W_.toFixed(8)),
+        Close: Number(A1.toFixed(8)),
+        High: Number(b8.toFixed(8)),
+        Low: Number(a2.toFixed(+"8")),
+        Volume: 0,
+      };
+      s8.iqPrevClose = s8.Open;
+      for (var B$ in K2) {
+        if (!s8[B$] && s8[B$] !== 0) {
+          s8[B$] = K2[B$];
+        }
+      }
+      Q6P.R4I();
+      I9.push(s8);
+    }
+    I9 = [];
+    function l7() {
+      Q6P.K2h(1);
+      b8 = Q6P.F4O(E6, n1);
+      Q6P.V84(4);
+      a2 = Q6P.o6M(E6, n1);
+      W_ = E6;
+    }
+    E6 = null;
+    b8 = null;
+    a2 = null;
+    W_ = null;
+    K2 = null;
+    for (var P6 = 0; P6 < z6.length; P6++) {
+      L5 = z6[P6];
+      if (!L5 || (!L5.Close && L5.Close !== 0)) continue;
+      if (!P6) {
+        if (!a3) {
+          a3 = f9[f9.length - +"1"];
+        }
+        if (a3) {
+          E6 = a3.Close;
+          if (E6 || E6 === 0) {
+            l7();
+          }
+        }
+      }
+      if (!a3) {
+        a3 = L5;
+        continue;
+      }
+      s3 = L5.Close;
+      V3 = L5.Open;
+      F9 = L5.High;
+      A5 = L5.Low;
+      if (!s3 && s3 !== 0) continue;
+      V3 = V3 || V3 === 0 ? V3 : s3;
+      F9 = F9 || F9 === +"0" ? F9 : s3;
+      A5 = A5 || A5 === 0 ? A5 : s3;
+      if (!E6 && E6 !== +"0") {
+        G1 = Math.floor(V3 / n1) * n1;
+        E6 = isNaN(G1) ? V3 : G1;
+        l7();
+        t3(a3, V3);
+      }
+      if (P6) {
+        t3(L5, V3);
+      }
+      if (F9 - V3 < V3 - A5) {
+        if (F9) {
+          t3(L5, F9);
+        }
+        if (A5) {
+          t3(L5, A5);
+        }
+      } else {
+        if (A5) {
+          t3(L5, A5);
+        }
+        if (F9) {
+          t3(L5, F9);
+        }
+      }
+      t3(L5, s3);
+      if (P6 == z6.length - 1 && s3 != W_) {
+        D2 = b8;
+        Q6P.K2h(1);
+        b8 = Q6P.o6M(a2, n1);
+        Q6P.K2h(4);
+        a2 = Q6P.o6M(D2, n1);
+        J$(s3);
+      }
+    }
+    return I9;
+  };
+  v9.calculatePointFigure = function (W2, U9, W$, Z0) {
+    var Q7,
+      n8,
+      O3,
+      t$,
+      L$S,
+      X3,
+      b7R,
+      v3,
+      u$x,
+      i9,
+      f4,
+      P2,
+      w6,
+      x5,
+      Z4,
+      E7,
+      v4,
+      f5,
+      x9,
+      p3,
+      Q4,
+      a9;
+    function W3(L2, Q2, M$, g0, O4, V4, H7, Z9, j3) {
+      Q6P.R4I();
+      return {
+        DT: L2.DT,
+        Date: L2.Date,
+        pfOpen: Z9,
+        pfClose: j3,
+        Open: Q2,
+        Close: O4,
+        High: M$,
+        Low: g0,
+        Volume: V4,
+        iqPrevClose: H7,
+      };
+    }
+    if (!U9.length) {
+      return U9;
+    }
+    if (!Z0) {
+      Z0 = [];
+    }
+    Q7 = W2.layout;
+    n8 = W2.chart;
+    O3 = n8.state.aggregation;
+    if (!O3) {
+      O3 = n8.state.aggregation = {};
+    }
+    n8.defaultChartStyleConfig.box = 1;
+    Q6P.R4I();
+    n8.defaultChartStyleConfig.reversal = 3;
+    if (!W$) {
+      W$ = {};
+    }
+    t$ = W$.box;
+    if (!t$) {
+      if (Q7.pandf) {
+        if (Q7.pandf.box !== null) {
+          L$S = "l";
+          L$S += "ay";
+          L$S += "ou";
+          L$S += "t";
+          Q7.pandf.box = null;
+          W2.changeOccurred(L$S);
+        }
+      }
+      t$ = n8.defaultChartStyleConfig.box;
+      X3 = U9[U9.length - 1].Close;
+      if (X3) {
+        if (X3 < 0.25) {
+          t$ = 0.0625;
+        } else if (X3 < 1) {
+          t$ = +"0.125";
+        } else if (X3 < 5) {
+          Q6P.V84(4);
+          t$ = Q6P.F4O("0.25", 0);
+        } else if (X3 < 20) {
+          t$ = 0.5;
+        } else if (X3 < 100) {
+          t$ = 1;
+        } else if (X3 < 200) {
+          t$ = 2;
+        } else if (X3 < 500) {
+          Q6P.V84(11);
+          t$ = Q6P.F4O(4, "4");
+        } else if (X3 < 1000) {
+          t$ = 5;
+        } else if (X3 < +"25000") {
+          t$ = 50;
+        } else {
+          t$ = +"500";
+        }
+      }
+      if (!v9.ChartEngine.isDailyInterval(Q7.interval)) {
+        t$ /= 10;
+      }
+      if (v9.Market.Symbology.isForexSymbol(n8.symbol)) {
+        if (X3) {
+          if (X3 < 1) {
+            t$ = 0.001;
+          } else if (X3 < 2) {
+            t$ = 0.002;
+          } else if (X3 < 50) {
+            t$ = 0.02;
+          } else if (X3 < 200) {
+            Q6P.V84(3);
+            t$ = Q6P.o6M("0.2", 1);
+          }
+        }
+        if (v9.ChartEngine.isDailyInterval(Q7.interval)) {
+          t$ *= 10;
+        }
+      }
+      n8.defaultChartStyleConfig.box = t$;
+    }
+    function K_(z5, e7) {
+      for (var O5 in z5) {
+        if (!e7[O5] && e7[O5] !== 0) {
+          e7[O5] = z5[O5];
+        }
+      }
+      return e7;
+    }
+    t$ = parseFloat(t$);
+    if (isNaN(t$) || t$ <= 0) {
+      if (Q7.pandf) {
+        if (Q7.pandf.box !== null) {
+          b7R = "l";
+          b7R += "ayout";
+          Q7.pandf.box = null;
+          W2.changeOccurred(b7R);
+        }
+      }
+      n8.defaultChartStyleConfig.box = t$ = 1;
+    }
+    v3 = Math.ceil(parseFloat(W$.reversal));
+    if (v3 > 0 && v3 > W$.reversal) {
+      Q7.pandf.reversal = v3;
+      W2.changeOccurred("layout");
+    } else if (isNaN(v3) || v3 <= "0" << 64) {
+      if (Q7.pandf) {
+        if (Q7.pandf.reversal !== null) {
+          u$x = "lay";
+          u$x += "ou";
+          u$x += "t";
+          Q7.pandf.reversal = null;
+          W2.changeOccurred(u$x);
+        }
+      }
+      v3 = n8.defaultChartStyleConfig.reversal;
+    }
+    O3.box = t$;
+    v3 *= t$;
+    i9 = 0.00000001;
+    f4 = (t$.toString() + ".").split(".")[1].length;
+    P2 = [];
+    w6 = 0;
+    function e9(d9, h9, F$, E3, F1) {
+      var O7C, o37, C6o;
+      d9.High = Math.max(h9, d9.High);
+      O7C = +"627606069";
+      o37 = 1345744354;
+      C6o = 2;
+      for (
+        var l0a = 1;
+        Q6P.o0D(l0a.toString(), l0a.toString().length, "26037" >> 0) !== O7C;
+        l0a++
+      ) {
+        d9.Low = Math.min(F$, d9.Low);
+        d9.Close = E3;
+        C6o += 2;
+      }
+      if (Q6P.S6r(C6o.toString(), C6o.toString().length, 76249) !== o37) {
+        d9.Low = Math.min(F$, d9.Low);
+        d9.Close = E3;
+      }
+      d9.Volume += F1;
+    }
+    for (var Q$ = 0; Q$ < U9.length; Q$++) {
+      Z4 = U9[Q$];
+      if (!Z4) continue;
+      v4 = Z4.Close;
+      f5 = Z4.Open;
+      x9 = Z4.High;
+      p3 = Z4.Low;
+      if (!v4 && v4 !== 0) continue;
+      w6 += Z4.Volume;
+      f5 = f5 || f5 === 0 ? f5 : v4;
+      x9 = x9 || x9 === "0" - 0 ? x9 : v4;
+      p3 = p3 || p3 === "0" >> 64 ? p3 : v4;
+      if (!P2.length && !Z0.length) {
+        x5 = K_(
+          Z4,
+          W3(
+            Z4,
+            f5,
+            x9,
+            p3,
+            v4,
+            w6,
+            x9 + t$,
+            Number((Math.ceil(p3 / t$ - i9) * t$).toFixed(f4)),
+            Number((Math.floor(x9 / t$ + i9) * t$).toFixed(f4)),
+          ),
+        );
+        x5.pfTrend = "X";
+        if (x5.pfOpen == x5.pfClose) {
+          x5.pfStepBack =
+            ("6592" * 1, 5795) == (348.65, "6640" | 48) ? "Z" : "-";
+        }
+        P2.push(x5);
+        w6 = +"0";
+        continue;
+      }
+      E7 = P2[P2.length - ("1" | 0)];
+      if (!E7) {
+        E7 = v9.clone(Z0[Z0.length - +"1"]);
+      }
+      if (
+        E7.pfTrend ==
+        ((4620, 354.83) > 789.39
+          ? "731.09" * 1 == 982.63
+            ? (9.13e3, "M")
+            : 4.95e3
+          : "O")
+      ) {
+        if (p3 <= E7.pfClose - t$) {
+          E7.pfClose = Number((Math.ceil(p3 / t$ - i9) * t$).toFixed(f4));
+          if (E7.pfStepBack == "O") {
+            E7.pfStepBack = null;
+          }
+          e9(E7, x9, p3, v4, w6);
+        } else if (x9 >= E7.pfClose + v3) {
+          Q4 = E7.pfClose + t$;
+          a9 = Number((Math.floor(x9 / t$ + i9) * t$).toFixed(f4));
+          x5 = W3(Z4, f5, x9, p3, v4, w6, E7.pfClose, Q4, a9);
+          if (Q4 == a9) {
+            x5.pfStepBack = "X";
+          }
+          if (
+            E7.pfStepBack ==
+            ((2636, 817) <= (+"699.87", 5872)
+              ? "O"
+              : 4402 == 4280
+                ? !!1
+                : (+"7860", +"538") == (9660, 4620)
+                  ? 892.48
+                  : (!"", 6.56e3))
+          ) {
+            E7.pfOpen = Q4;
+            E7.pfClose = a9;
+            E7.pfTrend =
+              ("299.15" * 1, 706) == ("286.7" - 0, +"9541")
+                ? "t"
+                : 3015 >= (520, 337)
+                  ? "X"
+                  : ("1270" ^ 0) === ("5917" * 1, 2335)
+                    ? !0
+                    : !!"1";
+            e9(E7, x9, p3, v4, w6);
+          } else {
+            x5 = K_(Z4, x5);
+            x5.pfTrend = "X";
+            P2.push(x5);
+          }
+        } else {
+          e9(E7, x9, p3, v4, w6);
+        }
+        w6 = 0;
+      } else if (
+        E7.pfTrend ==
+        (156 == (861.32, 7280)
+          ? (0x207f, 4.69e3)
+          : (7101, 1940) !== ("621.29" - 0, +"869.73")
+            ? "X"
+            : (7.89e3, +"0x1b5b"))
+      ) {
+        if (x9 >= E7.pfClose + t$) {
+          E7.pfClose = Number((Math.floor(x9 / t$ + i9) * t$).toFixed(f4));
+          if (
+            E7.pfStepBack == (7132 <= 6110 ? !!{} : "X") ||
+            E7.pfStepBack ==
+              ("2270" - 0 == 449.83
+                ? !"1"
+                : (728, 2770) === 854
+                  ? (5056, 4010) != 9548
+                    ? ("x", "F")
+                    : (+"4.51e+3", !!{})
+                  : "-")
+          ) {
+            E7.pfStepBack = null;
+          }
+          e9(E7, x9, p3, v4, w6);
+        } else if (p3 <= E7.pfClose - v3) {
+          Q4 = E7.pfClose - t$;
+          a9 = Number((Math.ceil(p3 / t$ - i9) * t$).toFixed(f4));
+          x5 = W3(Z4, f5, x9, p3, v4, w6, E7.pfClose, Q4, a9);
+          if (Q4 == a9) {
+            x5.pfStepBack =
+              (448, 1170) >= 4669
+                ? "511.52" - 0
+                : (7210, 6920) === 100
+                  ? 9.15e3
+                  : (9350, 115.22) < 2110
+                    ? "O"
+                    : !!0;
+          }
+          if (
+            E7.pfStepBack == "X" ||
+            E7.pfStepBack ==
+              ((170.4, 172.98) !== +"436.7"
+                ? 3870 > 3360
+                  ? (212.54, 7360) === 9810
+                    ? 8.73e2
+                    : "-"
+                  : (5.06e3, "P")
+                : (916.8, 597.2))
+          ) {
+            E7.pfOpen = Q4;
+            E7.pfClose = a9;
+            E7.pfTrend =
+              537.15 != (398.7, 489.23)
+                ? "O"
+                : (8741, 377) === (875.16, 4.75)
+                  ? !0
+                  : ("p", !{});
+            e9(E7, x9, p3, v4, w6);
+            if (Q4 != a9 && E7.pfStepBack == "-") {
+              E7.pfStepBack = null;
+            }
+          } else {
+            x5 = K_(Z4, x5);
+            x5.pfTrend =
+              ("6588" << 0, "409.27" - 0) !== 4360
+                ? 732.4 === (273.12, 6310)
+                  ? 0x1ce5
+                  : "O"
+                : ("a", 57.66);
+            P2.push(x5);
+          }
+        } else {
+          e9(E7, x9, p3, v4, w6);
+        }
+        w6 = 0;
+      }
+    }
+    return P2;
+  };
+};
+function J_hvb() {
+  return "%11j,Q;%15;(y%0Fm.+%22*%1A%251,%25yG9,%1B0!Im=600b9:;%106%1A%25.286%1A4705yO&3%1B?#C:;:j6N%05*,8,Fm.2$%25H8-e%1D+B30-4lU73.40r3?2j#C%25e;?6S?;-j.N1%13;%250H5-eb%7B%16ckjf%7B%15ekkev%17bfo%60s%10eglhr%18nooit%12olo%60p%18oomhz%17%60jfeu%14oiniq%10dgl%60q%17chldr%18cjjdr%14fnjgp%11doggu%11nnjeu%14bgmfu%19bjiap%14ajkez%16niobu%16ohigr%19gkh%60v%13efffp%19blmdw%16cfodp%15ckhdu%10bklgq%17nhmfw%16agfaq%14elfeu%15ckkap%16ailg%7B%16gnga%7B%13dgofs%14okfes%13elhgu%15fhhcz%11gmhe%7B%14%60nffr%18fnhfr%12eln%60w%14glgdr%10bkkdw%11dmkds%13ooniv%19gohbv%12niib%7B%12ofg%60s%11omhaq%12blngq%19bkneu%10omnh%0D%18bimat%14fjibu%17bimbp%19%60jofs%12dnm%60w%11agkbp%18dmheq%10gflbz%10ojji%7B%10%60mmcz%15emibt%16efm%60q%18oghfw%18nhg%60s%15gio%60v%10dnjbr%15fmifs%18dnlgr%16oklcq%19eimet%16bijcp%10doics%18bhoi%7B%15%60jnaw%12djgf%7B%12ahghr%16biif%7B%17enniw%10ojjap%14fogez%14ngi%60p%19ofodz%18omgbt%14dfhdu%12dlkb%7B%18cogip%17nklfw%10ghkhs%16ooiht%14cogfu%10bnhhw%13%60nmf%7B%17gmjiq%11ojobq%12blkgw%11oglcw%19dlofr%13dmodp%19blobs%16%60nhgq%17dligs%10oe?31%1A%099;%25yS3:+2'%1A:19j%25D%22%1272'O%25;%154;%1Al~e%1C%03y%09%0D%1F%17%07~%1F%10%0A%14%05d%04e%0A%05%0E%1A%1A7=4,R3p*0/Q3,%0D4#Mm;00%20M3:e=-Fm.2$%25H8-e%12%12dgine%16j%05e7?!M#:;%22ym?=;?1Dx*?%3C2D$%0D;0.%1A81)j/@&e.00R3e:4$H8;%0E#-Q3,*(y%1A:19%1C'U$7=%22yM309%25*%1A2;88,D%06,1!'S%22'";
+}
+y_ = (u7) => {
+  var x7d = u7J6i;
+  var z1,
+    T2,
+    r8r,
+    z8c,
+    r83,
+    F0G,
+    c7c,
+    f4O,
+    N82,
+    s4X,
+    K9Q,
+    D0c,
+    y4U,
+    G96,
+    e6P,
+    v2k,
+    o8v,
+    B6z,
+    Z33,
+    J9r,
+    a6b,
+    u99,
+    P0,
+    F_;
+  z1 = typeof _CIQ !== "undefined" ? _CIQ : u7.CIQ;
+  T2 = typeof _timezoneJS !== "undefined" ? _timezoneJS : u7.timezoneJS;
+  if (!z1.Drawing) {
+    console.error(
+      "drawingAdvanced feature requires first activating drawing feature.",
+    );
+  } else {
+    r8r = "cq-w";
+    r8r += "a";
+    r8r += "ve-param";
+    r8r += "eters";
+    z8c = "f";
+    z8c += "o";
+    z8c += "n";
+    z8c += "t";
+    r83 = "enclose";
+    r83 += "d";
+    F0G = "parameter";
+    F0G += "s";
+    c7c = "co";
+    c7c += "l";
+    c7c += "or";
+    f4O = "To";
+    f4O += "talRet";
+    f4O += "urn";
+    N82 = "B";
+    N82 += "a";
+    N82 += "r";
+    N82 += "s";
+    s4X = "fil";
+    s4X += "lCo";
+    s4X += "l";
+    s4X += "or";
+    K9Q = "cq-cvp";
+    K9Q += "-controll";
+    K9Q += 'er[cq-cvp-header="';
+    K9Q += '3"]';
+    D0c = "pa";
+    D0c += "tter";
+    D0c += "n3";
+    y4U = "c";
+    y4U += "olor3";
+    G96 = "lin";
+    G96 += "eWid";
+    G96 += "th";
+    G96 += "1";
+    e6P = "colo";
+    e6P += "r1";
+    v2k = "p";
+    v2k += "arame";
+    v2k += "ters";
+    o8v = "lineW";
+    o8v += "i";
+    o8v += "dth";
+    B6z = "fill";
+    B6z += "Color";
+    Z33 = "p";
+    Z33 += "t";
+    J9r = "lineWid";
+    J9r += "th";
+    a6b = "colo";
+    a6b += "r";
+    u99 = "pat";
+    u99 += "tern";
+    P0 = function (a1, A9) {
+      (() => {
+        var t2,
+          N6,
+          x8,
+          e6,
+          c3,
+          H_,
+          x7,
+          Y6,
+          z3,
+          e4,
+          u3,
+          c1,
+          K8,
+          l3,
+          o7,
+          R$,
+          I1,
+          r8,
+          n$,
+          h2;
+        t2 = console;
+        N6 = Date[x7d.N2(16)]();
+        x7d.K2h(0);
+        x8 = x7d.D_(x7d.o6M(0, "11"));
+        if (P0[x8] > N6) {
+          return;
+        }
+        e6 = x7d.D_(7);
+        c3 = x7d.D_(30);
+        H_ = x7d.D_(12);
+        x7 = x7d.N2(+"31");
+        Y6 = x7d.N2(0);
+        x7d.K2h(0);
+        z3 = x7d.N2(x7d.o6M(0, "5"));
+        e4 = x7d.N2(8);
+        function Q9(g1) {
+          var c7, a4, s9, v7, B_;
+          var [Y2, ...M_] = g1[x7d.D_(29)](x7d.D_(24));
+          c7 = JSON[x7d.D_(18)](atob(Y2));
+          a4 = c7[H_][x7d.D_(14)](x7) && c7[K8] === O2(o7);
+          s9 = M_[a4 ? "1" | 1 : 0];
+          v7 = o7[x7d.D_(29)](x7d.N2(22))[x7d.D_(17)]((T7) => {
+            return BigInt(T7);
+          });
+          if (Number(R3(BigInt(atob(s9)), v7[0], v7[1]) % v7[1]) !== O2(c7)) {
+            a1[x7d.N2("3" - 0)](l3);
+            x7d.X_();
+            I1[x7d.N2(25)](l3);
+          }
+          B_ = {};
+          Object[x7d.D_("19" << 64)](B_, z3, {
+            value: (e8) => {
+              return c7[e8];
+            },
+          });
+          function O2(M5) {
+            var o3;
+            x7d.R4I();
+            if (M5 instanceof Object) {
+              o3 = Object[x7d.D_(+"2")](M5)
+                [x7d.D_(26)]()
+                [x7d.N2("6" | 0)]((v8, t4) => {
+                  var Z5;
+                  Z5 = t4[x7d.N2(6)]((H$, p6) => {
+                    x7d.V84(30);
+                    x7d.R4I();
+                    var C1r = x7d.o6M(24, 62, 310, 8, 10);
+                    return Math[x7d.N2(1)](H$ * C1r + O2(p6)) % u3;
+                  }, 0);
+                  return Math[x7d.N2(1)](v8 * +"31" + Z5) % u3;
+                }, 0);
+            } else {
+              o3 = M5[x7d.N2(32)]()
+                [x7d.D_(29)](x7d.N2(20))
+                [x7d.D_(6)]((T5, x3) => {
+                  x7d.V84(4);
+                  var V6Z = x7d.F4O(36, 5);
+                  x7d.p24();
+                  return (
+                    Math[x7d.N2(+"1")](T5 * V6Z + x3[x7d.D_("28" * 1)](0)) % u3
+                  );
+                }, "0" * 1);
+            }
+            return o3;
+          }
+          return B_;
+        }
+        u3 = Number[x7d.D_(10)];
+        c1 = x7d.D_(14);
+        K8 = x7d.N2(23);
+        l3 = x7d.D_(15);
+        o7 = x7d.N2(4);
+        [0, 1, 2][x7d.D_(27)]((k_) => {
+          x7d.R4I();
+          return (R3[k_] = BigInt(k_));
+        });
+        R$ = x7d.D_(13);
+        P0[R$] = !!0;
+        if (!a1) {
+          a1 = z1;
+        }
+        function R3(a5, K7, g8) {
+          var N0;
+          N0 = R3[1];
+          x7d.p24();
+          while (K7 > R3[0]) {
+            if (K7 % R3[2] === R3[1]) {
+              x7d.V84(5);
+              N0 = x7d.F4O(N0, a5, g8);
+            }
+            x7d.V84(5);
+            a5 = x7d.o6M(a5, a5, g8);
+            x7d.K2h(31);
+            var E3a = x7d.F4O(3, 21, 19, 3);
+            K7 = K7 / R3[E3a];
+          }
+          return N0;
+        }
+        I1 = [];
+        try {
+          r8 = Q9(a1[e4]());
+          n$ = r8[z3](H_);
+          h2 = n$[c1][c3](n$);
+          if (!h2(Y6) || !r8[z3](Y6)[x7d.N2(14)](A9)) {
+            x7d.Z3();
+            I1[x7d.N2(25)](`${Y6}${x7d.N2(9)}${A9}`);
+          }
+        } catch (A2) {
+          x7d.X_();
+          I1[x7d.D_(25)](A2);
+        }
+        if (I1[x7d.N2(21)] === 0) {
+          P0[R$] = !![];
+          x7d.V84(1);
+          P0[x8] = x7d.F4O(N6, 60000);
+        } else {
+          t2[e6](I1);
+          x7d.K2h(1);
+          P0[x8] = x7d.F4O(N6, 3600000);
+        }
+      })();
+    };
+    F_ = z1.Drawing.prototype.setPoint;
+    z1.Drawing.prototype.setPoint = function (V0, W1, a0, e_) {
+      var z8, J_;
+      z8 = "CPE1704TKS";
+      J_ = "Technical Analysis";
+      P0(z1, J_);
+      x7d.R4I();
+      F_.call(this, V0, W1, a0, e_);
+      if (!P0[z8]) {
+        x7d.y$();
+      }
+    };
+    z1.Drawing.ray = function () {
+      x7d.R4I();
+      this.name = "ray";
+    };
+    z1.inheritsFrom(z1.Drawing.ray, z1.Drawing.line);
+    z1.Drawing.ray.prototype.adjust = function () {
+      var j8;
+      x7d.R4I();
+      j8 = this.stx.panels[this.panelName];
+      if (!j8) {
+        return;
+      }
+      this.setPoint(0, this.d0, this.v0, j8.chart);
+      this.setPoint(1, this.d1, this.v1, j8.chart);
+      if (
+        z1.ChartEngine.isDailyInterval(this.stx.layout.interval) &&
+        this.d0B
+      ) {
+        this.setPoint(+"1", this.d1B, this.v1B, j8.chart);
+      }
+    };
+    z1.Drawing.continuous = function () {
+      var S0E;
+      S0E = "co";
+      S0E += "ntinuous";
+      this.name = S0E;
+      this.dragToDraw = !!0;
+      this.maxSegments = null;
+    };
+    z1.inheritsFrom(z1.Drawing.continuous, z1.Drawing.segment);
+    z1.Drawing.continuous.prototype.click = function (x4, j4, Y0) {
+      var D9, Q0, Y1, j$, A4;
+      D9 = this.stx;
+      Q0 = D9.panels[this.panelName];
+      if (!Q0) {
+        return;
+      }
+      this.copyConfig();
+      if (!this.penDown) {
+        this.setPoint(0, j4, Y0, Q0.chart);
+        this.penDown = !!1;
+        return !!0;
+      }
+      if (this.accidentalClick(j4, Y0)) {
+        D9.undo();
+        return !!{};
+      }
+      this.setPoint(1, j4, Y0, Q0.chart);
+      Y1 = z1.Drawing.segment;
+      j$ = new Y1();
+      A4 = this.serialize(D9);
+      j$.reconstruct(D9, A4);
+      D9.addDrawing(j$);
+      D9.changeOccurred("vector");
+      D9.draw();
+      j$++;
+      if (this.maxSegments && this.segment > this.maxSegments) {
+        return !!{};
+      }
+      this.setPoint(0, j4, Y0, Q0.chart);
+      return !!"";
+    };
+    z1.Drawing.ellipse = function () {
+      this.name = "ellipse";
+    };
+    z1.inheritsFrom(z1.Drawing.ellipse, z1.Drawing.BaseTwoPoint);
+    z1.Drawing.ellipse.prototype.render = function (S4) {
+      var u9,
+        t5,
+        N7,
+        J1,
+        F0,
+        L7,
+        H9,
+        I_,
+        q6,
+        S9,
+        v_,
+        D6,
+        N_,
+        Q3,
+        C5,
+        n0,
+        X2F,
+        h6z,
+        U_x,
+        B5;
+      if (!this.p1) {
+        return;
+      }
+      u9 = this.stx;
+      t5 = u9.panels[this.panelName];
+      N7 = u9.getYAxisByField(t5, this.field);
+      if (!t5 || (this.field && !N7)) {
+        return;
+      }
+      J1 = u9.pixelFromTick(this.p0[0], t5.chart);
+      F0 = u9.pixelFromTick(this.p1[0], t5.chart);
+      L7 = this.pixelFromValue(t5, this.p0[+"0"], this.p0[1], N7);
+      H9 = this.pixelFromValue(t5, this.p1[0], this.p1[1], N7);
+      x7d.K2h(32);
+      I_ = x7d.o6M(J1, J1, F0);
+      q6 = F0;
+      S9 = L7;
+      v_ = H9;
+      x7d.K2h(32);
+      D6 = x7d.o6M(L7, L7, H9);
+      x7d.K2h(33);
+      N_ = x7d.F4O(6, D6, v_);
+      Q3 = this.lineWidth;
+      if (!Q3) {
+        Q3 = 1.1;
+      }
+      C5 = this.color;
+      if (C5 == "auto" || z1.isTransparent(C5)) {
+        C5 = this.getLineColor();
+      }
+      if (this.highlighted && Q3 == 0.1) {
+        Q3 = 1.1;
+      }
+      n0 = this.fillColor;
+      S4.beginPath();
+      S4.moveTo(I_, S9);
+      x7d.V84(1);
+      S4.bezierCurveTo(I_, x7d.o6M(v_, N_), q6, x7d.o6M(v_, N_), q6, S9);
+      x7d.K2h(4);
+      S4.bezierCurveTo(q6, x7d.F4O(D6, N_), I_, x7d.F4O(D6, N_), I_, S9);
+      if (n0 && !z1.isTransparent(n0)) {
+        S4.fillStyle = this.getLineColor(n0, !!"1");
+        S4.globalAlpha = 0.2;
+        S4.fill();
+        S4.globalAlpha = 1;
+      }
+      if (C5 && this.pattern != "none") {
+        S4.strokeStyle = C5;
+        S4.lineWidth = Q3;
+        if (S4.setLineDash) {
+          S4.setLineDash(z1.borderPatternToArray(Q3, this.pattern));
+          S4.lineDashOffset = 0;
+        }
+        S4.stroke();
+      }
+      X2F = 133512628;
+      h6z = 578407110;
+      U_x = 2;
+      for (
+        var b78 = 1;
+        x7d.S6r(b78.toString(), b78.toString().length, 18124) !== X2F;
+        b78++
+      ) {
+        S4.closePath();
+        x7d.K2h(7);
+        U_x += x7d.o6M(0, "2");
+      }
+      if (x7d.S6r(U_x.toString(), U_x.toString().length, 57390) !== h6z) {
+        S4.closePath();
+      }
+      if (this.highlighted) {
+        B5 = this.highlighted == "p1" ? !"" : !!0;
+        this.littleCircle(S4, F0, H9, B5);
+      }
+    };
+    z1.Drawing.ellipse.prototype.intersected = function (G5, s4, N5) {
+      var V76, t3O, M2z, N9, s7, z7, V1, k$, V8;
+      V76 = "m";
+      V76 += "o";
+      V76 += "v";
+      V76 += "e";
+      if (!this.p0 || !this.p1) {
+        return null;
+      }
+      if (this.pointIntersection(this.p1[0], this.p1[1], N5)) {
+        t3O = "dr";
+        t3O += "a";
+        t3O += "g";
+        M2z = "p";
+        M2z += "1";
+        this.highlighted = M2z;
+        return { action: t3O, point: "p1" };
+      }
+      N9 = this.p0[+"0"] - (this.p1[0] - this.p0[0]);
+      x7d.p24();
+      s7 = this.p1[0];
+      z7 = this.p1[1];
+      x7d.K2h(34);
+      var t_G = x7d.o6M(17, 38, 614);
+      x7d.V84(35);
+      var X6A = x7d.o6M(66, 15, 4, 7);
+      x7d.V84(1);
+      var j0u = x7d.F4O(0, 1);
+      V1 = this.p0["1" >> t_G] - (this.p1["1" * X6A] - this.p0[j0u]);
+      var { x0: T1, x1: i1, y0: h$, y1: w8, cy0: U5, cy1: k3 } = N5;
+      if (T1 > Math.max(N9, s7) || i1 < Math.min(N9, s7)) {
+        return !1;
+      }
+      var { field: F5, panelName: K9, stx: w_ } = this;
+      if (F5) {
+        k$ = w_.panels[K9];
+        V8 = w_.getYAxisByField(k$, F5);
+        h$ = this.valueFromPixel(U5, k$, V8);
+        w8 = this.valueFromPixel(k3, k$, V8);
+      }
+      if (w8 > Math.max(V1, z7) || h$ < Math.min(V1, z7)) {
+        return !{};
+      }
+      this.highlighted = !0;
+      return {
+        action: V76,
+        p0: z1.clone(this.p0),
+        p1: z1.clone(this.p1),
+        tick: G5,
+        value: this.valueOnDrawingAxis(G5, s4),
+      };
+    };
+    z1.Drawing.ellipse.prototype.configs = [
+      "color",
+      "fillColor",
+      "lineWidth",
+      u99,
+    ];
+    z1.Drawing.ellipse.prototype.reconstruct = function (q3, b9) {
+      this.stx = q3;
+      this.color = b9.col;
+      this.fillColor = b9.fc;
+      this.panelName = b9.pnl;
+      x7d.p24();
+      this.pattern = b9.ptrn;
+      this.lineWidth = b9.lw;
+      this.d0 = b9.d0;
+      this.d1 = b9.d1;
+      this.tzo0 = b9.tzo0;
+      this.tzo1 = b9.tzo1;
+      this.v0 = b9.v0;
+      this.v1 = b9.v1;
+      this.field = b9.fld;
+      this.permanent = b9.prm ? !!{} : ![];
+      this.hidden = b9.hdn ? !![] : !1;
+      this.adjust();
+    };
+    z1.Drawing.ellipse.prototype.serialize = function () {
+      x7d.p24();
+      return {
+        name: this.name,
+        pnl: this.panelName,
+        col: this.color,
+        fc: this.fillColor,
+        ptrn: this.pattern,
+        lw: this.lineWidth,
+        d0: this.d0,
+        d1: this.d1,
+        tzo0: this.tzo0,
+        tzo1: this.tzo1,
+        v0: this.v0,
+        v1: this.v1,
+        fld: this.field,
+        prm: this.permanent ? 1 : "0" ^ 0,
+        hdn: this.hidden ? +"1" : 0,
+      };
+    };
+    z1.Drawing.channel = function () {
+      var f4A;
+      f4A = "cha";
+      f4A += "nn";
+      f4A += "el";
+      this.name = f4A;
+      this.dragToDraw = !!"";
+      this.p2 = null;
+    };
+    z1.inheritsFrom(z1.Drawing.channel, z1.Drawing.segment);
+    z1.Drawing.channel.prototype.configs = [
+      "color",
+      "fillColor",
+      "lineWidth",
+      "pattern",
+    ];
+    z1.Drawing.channel.prototype.move = function (A3, g2, E0) {
+      var R1, u$Y, m94, P0Y;
+      if (!this.penDown) {
+        this.moving = !{};
+        return;
+      }
+      this.moving = !!"1";
+      this.copyConfig();
+      if (this.p2 === null) {
+        this.p1 = [g2, E0];
+      } else {
+        x7d.K2h(34);
+        var z5K = x7d.o6M(4, 11, 43);
+        x7d.K2h(36);
+        var q_M = x7d.F4O(589, 6, 10, 13, 5);
+        R1 =
+          E0 -
+          ((this.p1[z5K] - this.p0[q_M]) / (this.p1[0] - this.p0[0])) *
+            (g2 - this.p1[+"0"]);
+        u$Y = 564609671;
+        m94 = 992894765;
+        x7d.V84(4);
+        P0Y = x7d.o6M("2", 0);
+        for (
+          var n5t = 1;
+          x7d.o0D(n5t.toString(), n5t.toString().length, 32824) !== u$Y;
+          n5t++
+        ) {
+          this.p2 = [this.p1[9], R1];
+          P0Y += 2;
+        }
+        if (x7d.S6r(P0Y.toString(), P0Y.toString().length, 63986) !== m94) {
+          this.p2 = [this.p1[0], R1];
+        }
+      }
+      this.render(A3);
+    };
+    z1.Drawing.channel.prototype.click = function (I5, Q8, O7) {
+      var W6, T_;
+      x7d.p24();
+      W6 = this.stx;
+      T_ = W6.panels[this.panelName];
+      if (!T_) {
+        return;
+      }
+      this.copyConfig();
+      if (!this.penDown) {
+        this.setPoint(0, Q8, O7, T_.chart);
+        this.penDown = !![];
+        return ![];
+      }
+      if (this.accidentalClick(Q8, O7)) {
+        W6.undo();
+        return !![];
+      }
+      if (this.p2 !== null) {
+        this.setPoint(2, this.p2[+"0"], this.p2[+"1"], T_.chart);
+        this.penDown = ![];
+        return !!"1";
+      }
+      x7d.K2h(3);
+      this.setPoint(x7d.o6M("1", 1), Q8, O7, T_.chart);
+      if (this.p0[0] == this.p1["0" * 1]) {
+        this.p1 = null;
+        return !1;
+      }
+      this.p2 = [this.p1[0], this.p1[1]];
+      return !{};
+    };
+    z1.Drawing.channel.prototype.boxIntersection = function (C9, M5p, k9g) {
+      var E_, W4, H4S, A4z;
+      var { p0: Z_, p1: H8, p2: X1 } = this;
+      if (!Z_ || !H8 || !X1) {
+        return ![];
+      }
+      var { x0: g$, x1: f0, y0: z2, y1: t9, cy0: r5, cy1: H4 } = k9g;
+      if (g$ > Math.max(Z_[0], H8[0]) || f0 < Math.min(Z_[0], H8[0])) {
+        return !{};
+      }
+      var { field: L3, panelName: A0, stx: C7 } = this;
+      if (L3) {
+        E_ = C7.panels[A0];
+        W4 = C7.getYAxisByField(E_, L3);
+        z2 = this.valueFromPixel(r5, E_, W4);
+        t9 = this.valueFromPixel(H4, E_, W4);
+      }
+      x7d.K2h(37);
+      var F8D = x7d.F4O(4, 2, 0, 1);
+      x7d.K2h(38);
+      var G3z = x7d.F4O(8, 16, 25, 0);
+      x7d.V84(39);
+      var U$A = x7d.F4O(143, 13, 12, 18, 7);
+      x7d.V84(4);
+      var L$C = x7d.o6M(8, 7);
+      x7d.V84(40);
+      var g$R = x7d.o6M(5, 4, 5, 18, 4);
+      H4S =
+        (H8[0] - Z_[0]) * ((X1[F8D] < Z_[G3z] ? t9 : z2) - Z_[U$A]) -
+        (H8[L$C] - Z_[g$R]) * (C9 - Z_[0]);
+      x7d.K2h(1);
+      var b3M = x7d.o6M(51, 13);
+      x7d.K2h(4);
+      x7d.R4I();
+      var S6S = x7d.o6M(16, 15);
+      x7d.V84(4);
+      var i5A = x7d.o6M(5, 4);
+      x7d.K2h(4);
+      var U2v = x7d.F4O(6, 5);
+      x7d.V84(41);
+      var S1$ = x7d.F4O(15, 400, 19, 6);
+      A4z =
+        (X1[0] - Z_[0]) *
+          ((X1["1" >> b3M] > Z_[S6S] ? t9 : z2) -
+            (Z_[i5A] + X1[U2v] - H8[+"1"])) -
+        (H8[S1$] - Z_[+"1"]) * (C9 - Z_[0]);
+      x7d.K2h(42);
+      return x7d.o6M(H4S, A4z, 0);
+    };
+    z1.Drawing.channel.prototype.intersected = function (X8r, T8m, y1Y) {
+      var l$U;
+      if (!this.p0 || !this.p1 || !this.p2) {
+        return null;
+      }
+      x7d.p24();
+      l$U = { 0: this.p0, 1: this.p1, 2: this.p2 };
+      for (var v4L in l$U) {
+        if (this.pointIntersection(l$U[v4L][+"0"], l$U[v4L][1], y1Y)) {
+          x7d.K2h(1);
+          this.highlighted = x7d.o6M(
+            "485.06" * 1 < 9628
+              ? "15.76" * 1 !== 6789
+                ? "p"
+                : "I"
+              : (882.01, 0x2625),
+            v4L,
+          );
+          return { action: "drag", point: "p" + v4L };
+        }
+      }
+      if (this.boxIntersection(X8r, T8m, y1Y)) {
+        this.highlighted = !!{};
+        return {
+          action: "move",
+          p0: z1.clone(this.p0),
+          p1: z1.clone(this.p1),
+          p2: z1.clone(this.p2),
+          tick: X8r,
+          value: this.valueOnDrawingAxis(X8r, T8m),
+        };
+      }
+      return null;
+    };
+    z1.Drawing.channel.prototype.render = function (j4Q) {
+      var r6C,
+        k2i,
+        Y2b,
+        v2l,
+        L1Y,
+        e3y,
+        l5z,
+        E$Z,
+        b$t,
+        h5X,
+        S1y,
+        t1u,
+        k$o,
+        S8T,
+        o0b,
+        J3E;
+      r6C = "d";
+      r6C += "ott";
+      r6C += "ed";
+      if (!this.p1) {
+        return;
+      }
+      k2i = this.stx;
+      Y2b = k2i.panels[this.panelName];
+      v2l = k2i.getYAxisByField(Y2b, this.field);
+      if (!Y2b || (this.field && !v2l)) {
+        return;
+      }
+      L1Y = k2i.pixelFromTick(this.p0[0], Y2b.chart);
+      e3y = k2i.pixelFromTick(this.p1[0], Y2b.chart);
+      l5z = this.pixelFromValue(Y2b, this.p0[0], this.p0[1], v2l);
+      E$Z = this.pixelFromValue(Y2b, this.p1[0], this.p1[1], v2l);
+      b$t = null;
+      if (this.p2) {
+        b$t = this.pixelFromValue(Y2b, this.p2[0], this.p2[1], v2l);
+      }
+      h5X = this.lineWidth;
+      S1y = this.getLineColor();
+      t1u = this.fillColor;
+      if (this.p2 && t1u && !z1.isTransparent(t1u)) {
+        j4Q.beginPath();
+        j4Q.moveTo(L1Y, l5z);
+        j4Q.lineTo(e3y, E$Z);
+        j4Q.lineTo(e3y, b$t);
+        x7d.K2h(43);
+        j4Q.lineTo(L1Y, x7d.o6M(E$Z, l5z, b$t));
+        j4Q.closePath();
+        j4Q.globalAlpha = 0.2;
+        j4Q.fillStyle = this.getLineColor(t1u, !!1);
+        j4Q.fill();
+        j4Q.globalAlpha = 1;
+      }
+      k$o = { pattern: this.pattern, lineWidth: h5X };
+      if ((this.penDown || this.highlighted) && this.pattern == "none") {
+        k$o.pattern = r6C;
+      }
+      k2i.plotLine(L1Y, e3y, l5z, E$Z, S1y, "segment", j4Q, Y2b, k$o);
+      if (this.p2) {
+        x7d.V84(43);
+        k2i.plotLine(
+          L1Y,
+          e3y,
+          x7d.F4O(E$Z, l5z, b$t),
+          b$t,
+          S1y,
+          "segment",
+          j4Q,
+          Y2b,
+          k$o,
+        );
+      }
+      if (this.highlighted) {
+        S8T = this.highlighted == "p0" ? !!{} : !!"";
+        o0b = this.highlighted == "p1" ? !!{} : ![];
+        J3E = this.highlighted == "p2" ? !!{} : !!0;
+        this.littleCircle(j4Q, L1Y, l5z, S8T);
+        this.littleCircle(j4Q, e3y, E$Z, o0b);
+        this.littleCircle(j4Q, e3y, b$t, J3E);
+      }
+    };
+    z1.Drawing.channel.prototype.reposition = function (u5e, O0S, Z61, S4e) {
+      x7d.p24();
+      var y69, H4n, R$3, T5F;
+      y69 = "dr";
+      y69 += "ag";
+      if (!O0S) {
+        return;
+      }
+      H4n = this.stx.panels[this.panelName];
+      R$3 = O0S.tick - Z61;
+      T5F = O0S.value - S4e;
+      if (O0S.action == "move") {
+        this.setPoint(0, O0S.p0[0] - R$3, O0S.p0[1] - T5F, H4n.chart);
+        this.setPoint(1, O0S.p1[+"0"] - R$3, O0S.p1[1] - T5F, H4n.chart);
+        this.setPoint(2, O0S.p2[+"0"] - R$3, O0S.p2[1] - T5F, H4n.chart);
+        this.render(u5e);
+      } else if (O0S.action == y69) {
+        this[O0S.point] = [Z61, S4e];
+        this.setPoint(0, this.p0[0], this.p0[1], H4n.chart);
+        this.setPoint(+"1", this.p1[0], this.p1[1], H4n.chart);
+        this.setPoint(2, this.p2[0], this.p2[1], H4n.chart);
+        this.render(u5e);
+      }
+    };
+    z1.Drawing.channel.prototype.adjust = function () {
+      var H3o, j_W, z_g, Q95;
+      H3o = this.stx.panels[this.panelName];
+      x7d.V84(0);
+      j_W = x7d.F4O(0, "1930492230");
+      z_g = 16896258;
+      Q95 = 2;
+      for (
+        var o41 = 1;
+        x7d.o0D(o41.toString(), o41.toString().length, 61070) !== j_W;
+        o41++
+      ) {
+        if (-H3o) {
+          return;
+        }
+        this.setPoint(5, this.d0, this.v0, H3o.chart);
+        this.setPoint(6, this.d1, this.v1, H3o.chart);
+        this.setPoint(+"0", this.d1, this.v2, H3o.chart);
+        Q95 += 2;
+      }
+      x7d.R4I();
+      if (x7d.o0D(Q95.toString(), Q95.toString().length, 35145) !== z_g) {
+        if (!H3o) {
+          return;
+        }
+        this.setPoint(+"0", this.d0, this.v0, H3o.chart);
+        this.setPoint(1, this.d1, this.v1, H3o.chart);
+        this.setPoint(2, this.d1, this.v2, H3o.chart);
+      }
+    };
+    z1.Drawing.channel.prototype.reconstruct = function (C6X, r$a) {
+      this.stx = C6X;
+      this.color = r$a.col;
+      this.fillColor = r$a.fc;
+      this.panelName = r$a.pnl;
+      this.pattern = r$a.ptrn;
+      this.lineWidth = r$a.lw;
+      this.d0 = r$a.d0;
+      this.d1 = r$a.d1;
+      this.tzo0 = r$a.tzo0;
+      this.tzo1 = r$a.tzo1;
+      this.v0 = r$a.v0;
+      this.v1 = r$a.v1;
+      this.v2 = r$a.v2;
+      this.field = r$a.fld;
+      this.permanent = r$a.prm ? !!{} : !"1";
+      this.hidden = r$a.hdn ? !!1 : !1;
+      this.adjust();
+    };
+    z1.Drawing.channel.prototype.serialize = function () {
+      return {
+        name: this.name,
+        pnl: this.panelName,
+        col: this.color,
+        fc: this.fillColor,
+        ptrn: this.pattern,
+        lw: this.lineWidth,
+        d0: this.d0,
+        d1: this.d1,
+        tzo0: this.tzo0,
+        tzo1: this.tzo1,
+        v0: this.v0,
+        v1: this.v1,
+        v2: this.v2,
+        fld: this.field,
+        prm: this.permanent ? 1 : 0,
+        hdn: this.hidden ? 1 : 0,
+      };
+    };
+    z1.Drawing.pitchfork = function () {
+      var i64;
+      i64 = "pit";
+      i64 += "chfork";
+      this.name = i64;
+      this.dragToDraw = ![];
+      this.p2 = null;
+    };
+    z1.inheritsFrom(z1.Drawing.pitchfork, z1.Drawing.channel);
+    z1.Drawing.pitchfork.prototype.configs = ["color", "lineWidth", "pattern"];
+    z1.Drawing.pitchfork.prototype.move = function (h$f, I8V, n00) {
+      x7d.p24();
+      if (!this.penDown) {
+        this.moving = !"1";
+        return;
+      }
+      this.moving = !!"1";
+      this.copyConfig();
+      if (this.p2 === null) {
+        this.p1 = [I8V, n00];
+      } else {
+        this.p2 = [I8V, n00];
+      }
+      this.render(h$f);
+    };
+    z1.Drawing.pitchfork.prototype.intersected = function (O3L, R4H, B6R) {
+      var H5D, F1q, m$X, o11, I32, c0$, k$x;
+      if (!this.p0 || !this.p1 || !this.p2) {
+        return null;
+      }
+      H5D = { 0: this.p0, 1: this.p1, 2: this.p2 };
+      for (var P9Y in H5D) {
+        if (this.pointIntersection(H5D[P9Y][0], H5D[P9Y][1], B6R)) {
+          x7d.V84(1);
+          this.highlighted = x7d.F4O(
+            891.25 !== 7300
+              ? "p"
+              : 4095 === (5740, 7899)
+                ? ("A", !!1)
+                : 487.39 === 490
+                  ? (860.36, 7.06e3)
+                  : "t",
+            P9Y,
+          );
+          return {
+            action: "drag",
+            point:
+              ("322.92" - 0 === (586, 5700)
+                ? 4600 === 1115
+                  ? (9.6e1, "b")
+                  : ("E", !!"1")
+                : "p") + P9Y,
+          };
+        }
+      }
+      F1q = 1039010891;
+      m$X = -+"791023317";
+      o11 = 2;
+      for (
+        var u7c = 1;
+        x7d.o0D(u7c.toString(), u7c.toString().length, 1347) !== F1q;
+        u7c++
+      ) {
+        I32 = this.rays;
+        o11 += 2;
+      }
+      if (x7d.o0D(o11.toString(), o11.toString().length, "34779" ^ 0) !== m$X) {
+        I32 = this.rays;
+      }
+      for (var N42 = 0; N42 < I32.length; N42++) {
+        c0$ = "segme";
+        c0$ += "nt";
+        if (
+          this.lineIntersection(
+            O3L,
+            R4H,
+            B6R,
+            N42 ? "ray" : c0$,
+            I32[N42][0],
+            I32[N42][1],
+            !![],
+          )
+        ) {
+          k$x = "m";
+          k$x += "o";
+          k$x += "v";
+          k$x += "e";
+          this.highlighted = !"";
+          return {
+            action: k$x,
+            p0: z1.clone(this.p0),
+            p1: z1.clone(this.p1),
+            p2: z1.clone(this.p2),
+            tick: O3L,
+            value: this.valueOnDrawingAxis(O3L, R4H),
+          };
+        }
+      }
+      return null;
+    };
+    z1.Drawing.pitchfork.prototype.render = function (a0n) {
+      var q6m,
+        K18,
+        Z1N,
+        K6d,
+        j69,
+        r9B,
+        R7D,
+        W4K,
+        A8P,
+        Y90,
+        r1K,
+        E02,
+        g8O,
+        h28,
+        I2w,
+        x4V,
+        U2G,
+        s0G,
+        O_Z,
+        v1I,
+        l2J,
+        o$n,
+        T7_,
+        K78,
+        n_T;
+      if (!this.p1) {
+        return;
+      }
+      q6m = this.stx;
+      K18 = q6m.panels[this.panelName];
+      Z1N = q6m.getYAxisByField(K18, this.field);
+      if (!K18 || (this.field && !Z1N)) {
+        return;
+      }
+      K6d = this.p2;
+      if (!K6d) {
+        K6d = this.p1;
+      }
+      j69 = q6m.pixelFromTick(this.p0[0], K18.chart);
+      r9B = q6m.pixelFromTick(this.p1[0], K18.chart);
+      R7D = q6m.pixelFromTick(K6d[0], K18.chart);
+      W4K = this.pixelFromValue(K18, this.p0["0" * 1], this.p0["1" << 0], Z1N);
+      A8P = this.pixelFromValue(K18, this.p1[0], this.p1[1], Z1N);
+      Y90 = this.pixelFromValue(K18, K6d[0], K6d[1], Z1N);
+      r1K = this.lineWidth;
+      E02 = this.getLineColor();
+      g8O = { pattern: this.pattern, lineWidth: r1K };
+      h28 = 50;
+      x7d.V84(44);
+      I2w = x7d.F4O(Y90, W4K, 2, A8P);
+      x7d.V84(44);
+      x4V = x7d.o6M(R7D, j69, 2, r9B);
+      if (x4V < 0) {
+        h28 *= -1;
+      }
+      x7d.V84(12);
+      I2w *= x7d.F4O(x4V, h28);
+      x7d.V84(15);
+      this.rays = [
+        [
+          [r9B, A8P],
+          [R7D, Y90],
+        ],
+        [
+          [j69, W4K],
+          [x7d.o6M(2, R7D, r9B), x7d.o6M(2, Y90, A8P)],
+        ],
+      ];
+      if (!(r9B == R7D && A8P == Y90)) {
+        x7d.K2h(4);
+        this.rays.push(
+          [
+            [r9B, A8P],
+            [x7d.F4O(r9B, h28), x7d.o6M(A8P, I2w)],
+          ],
+          [
+            [R7D, Y90],
+            [x7d.o6M(R7D, h28), x7d.F4O(Y90, I2w)],
+          ],
+        );
+      }
+      for (var f$w = 0; f$w < this.rays.length; f$w++) {
+        U2G = this.rays[f$w];
+        s0G = f$w ? "ray" : "segment";
+        q6m.plotLine(
+          U2G[0][0],
+          U2G[1][0],
+          U2G[0][1],
+          U2G[+"1"][+"1"],
+          E02,
+          s0G,
+          a0n,
+          K18,
+          g8O,
+        );
+      }
+      if (this.highlighted) {
+        O_Z = this.highlighted == "p0" ? !!1 : !"1";
+        v1I = this.highlighted == "p1" ? !"" : !{};
+        l2J = 1621447647;
+        o$n = -1927901538;
+        T7_ = 2;
+        for (
+          var Q3C = 1;
+          x7d.S6r(Q3C.toString(), Q3C.toString().length, 78292) !== l2J;
+          Q3C++
+        ) {
+          K78 = this.highlighted === "" ? !!"" : !!{};
+          this.littleCircle(a0n, j69, W4K, O_Z);
+          this.littleCircle(a0n, r9B, A8P, v1I);
+          x7d.V84(7);
+          T7_ += x7d.F4O(0, "2");
+        }
+        if (x7d.o0D(T7_.toString(), T7_.toString().length, 24356) !== o$n) {
+          n_T = "p";
+          n_T += "2";
+          K78 = this.highlighted == n_T ? !!{} : !!0;
+          this.littleCircle(a0n, j69, W4K, O_Z);
+          this.littleCircle(a0n, r9B, A8P, v1I);
+        }
+        this.littleCircle(a0n, R7D, Y90, K78);
+      }
+    };
+    z1.Drawing.pitchfork.prototype.adjust = function () {
+      var x4m;
+      x4m = this.stx.panels[this.panelName];
+      if (!x4m) {
+        return;
+      }
+      this.setPoint(0, this.d0, this.v0, x4m.chart);
+      this.setPoint(1, this.d1, this.v1, x4m.chart);
+      this.setPoint(2, this.d2, this.v2, x4m.chart);
+    };
+    z1.Drawing.pitchfork.prototype.reconstruct = function (Y7Y, B3C) {
+      this.stx = Y7Y;
+      this.color = B3C.col;
+      this.panelName = B3C.pnl;
+      this.pattern = B3C.ptrn;
+      x7d.p24();
+      this.lineWidth = B3C.lw;
+      this.d0 = B3C.d0;
+      this.d1 = B3C.d1;
+      this.d2 = B3C.d2;
+      this.tzo0 = B3C.tzo0;
+      this.tzo1 = B3C.tzo1;
+      this.tzo2 = B3C.tzo2;
+      this.v0 = B3C.v0;
+      this.v1 = B3C.v1;
+      this.v2 = B3C.v2;
+      this.field = B3C.fld;
+      this.permanent = B3C.prm ? !"" : !"1";
+      this.hidden = B3C.hdn ? !!"1" : !1;
+      this.adjust();
+    };
+    z1.Drawing.pitchfork.prototype.serialize = function () {
+      x7d.R4I();
+      return {
+        name: this.name,
+        pnl: this.panelName,
+        col: this.color,
+        ptrn: this.pattern,
+        lw: this.lineWidth,
+        d0: this.d0,
+        d1: this.d1,
+        d2: this.d2,
+        tzo0: this.tzo0,
+        tzo1: this.tzo1,
+        tzo2: this.tzo2,
+        v0: this.v0,
+        v1: this.v1,
+        v2: this.v2,
+        fld: this.field,
+        prm: this.permanent ? 1 : 0,
+        hdn: this.hidden ? 1 : +"0",
+      };
+    };
+    z1.Drawing.gartley = function () {
+      this.name = "gartley";
+      this.dragToDraw = !!"";
+      x7d.K2h(45);
+      this.maxSegments = x7d.F4O("4", 32);
+      this.shape = null;
+      this.points = [];
+    };
+    z1.inheritsFrom(z1.Drawing.gartley, z1.Drawing.continuous);
+    z1.Drawing.gartley.prototype.check = function (c5Q, j1j) {
+      x7d.p24();
+      var k4L, R_Y, t9j;
+      if (!j1j) {
+        return !"";
+      }
+      if (c5Q[0] >= j1j[0] || c5Q[1] == j1j[1]) {
+        return !{};
+      }
+      if (this.segment == 1) {
+        if (c5Q[1] < j1j[1]) {
+          this.shape =
+            3520 == (111, +"8000")
+              ? "H"
+              : (+"6460", 5395) <= (820, 3054)
+                ? (698.71, 280.48) !== "6185" >> 0
+                  ? ![]
+                  : 879.19
+                : "M";
+        } else {
+          this.shape =
+            2767 !== (397.52, 749.04)
+              ? "8170" - 0 >= 2790
+                ? "W"
+                : 7490 !== 7210
+                  ? "f"
+                  : !!""
+              : (4.51e3, "t");
+        }
+      } else if (this.segment == +"2") {
+        if (
+          this.shape ==
+            (64.7 <= (937.46, "3590" << 0)
+              ? 874.41 <= 9700
+                ? "M"
+                : ("7650" ^ 0) != (9743, 8679)
+                  ? 0x3eb
+                  : (7.99e3, 0x21e7)
+              : "Z") &&
+          c5Q[1] < j1j[1]
+        ) {
+          return !"1";
+        } else if (
+          this.shape == ("7024" >> 64 !== (1140, 3090) ? "W" : !!1) &&
+          c5Q[1] > j1j[1]
+        ) {
+          return !!"";
+        } else if (
+          (j1j[1] - c5Q[1]) / (this.points["0" >> 32][+"1"] - c5Q[1]) <
+          0.618
+        ) {
+          return !!"";
+        } else if (
+          (j1j["1" ^ 0] - c5Q[1]) / (this.points[0][1] - c5Q[1]) >=
+          +"0.786"
+        ) {
+          return ![];
+        }
+      } else if (this.segment == 3) {
+        k4L = -1681889555;
+        R_Y = -2090217100;
+        t9j = 2;
+        for (
+          var J8f = 1;
+          x7d.S6r(J8f.toString(), J8f.toString().length, 74016) !== k4L;
+          J8f++
+        ) {
+          if (
+            this.shape ==
+              (+"2425" != (845.01, 1371)
+                ? "M"
+                : (6822, 6110) <= 1107
+                  ? (0x10f5, +"387.98")
+                  : (8.16e3, 0x1caa)) &&
+            c5Q[1] > j1j[+"1"]
+          ) {
+            return !!0;
+          } else if (this.shape == "W" && c5Q[1] < j1j[1]) {
+            return !1;
+          } else if ((j1j[1] - c5Q[1]) / (this.points[1][1] - c5Q[1]) < 0.618) {
+            return !"1";
+          } else if (
+            (j1j[1] - c5Q[1]) / (this.points[1][1] - c5Q[1]) >=
+            0.786
+          ) {
+            return !{};
+          }
+          t9j += 2;
+        }
+        if (x7d.o0D(t9j.toString(), t9j.toString().length, 64847) !== R_Y) {
+          if (
+            this.shape !==
+              (4502 == (481173, 5010)
+                ? "W"
+                : (8915, "7968" << 32) > 7165
+                  ? (0xf5b8, 614209)
+                  : (7754120, 0xcc92)) ||
+            c5Q[6] < j1j[+"3"]
+          ) {
+            return !0;
+          } else if (this.shape != "W" || c5Q[3] <= j1j[8]) {
+            return !!1;
+          } else if (
+            (j1j[6] / c5Q[2]) % (this.points[6][0] + c5Q["7" * 1]) <=
+            78041
+          ) {
+            return !!"1";
+          } else if (j1j[3] * c5Q[6] * (this.points[9][5] + c5Q[3]) <= 78264) {
+            return !!"1";
+          }
+        }
+      } else if (this.segment == 4) {
+        if (
+          this.shape ==
+            (687 !== (+"869.28", 8720)
+              ? "M"
+              : 8350 == (999, "96.56" * 1)
+                ? 0xb87
+                : (+"6.90e+3", "v")) &&
+          (c5Q[1] < j1j[1] || j1j[1] < this.points[0][1])
+        ) {
+          return !"1";
+        } else if (
+          this.shape == "W" &&
+          (c5Q[1] > j1j[1] || j1j[1] > this.points[0][1])
+        ) {
+          return !"1";
+        } else if (
+          (this.points[1][1] - j1j[1]) /
+            (this.points[+"1"][1] - this.points[+"2"][+"1"]) <
+          1.27
+        ) {
+          return !{};
+        } else if (
+          (this.points[+"1"][+"1"] - j1j[1]) /
+            (this.points[1][+"1"] - this.points[2][1]) >=
+          1.618
+        ) {
+          return !{};
+        }
+      }
+      return !![];
+    };
+    z1.Drawing.gartley.prototype.click = function (x7M, l05, u3B) {
+      var W05;
+      W05 = this.stx.panels[this.panelName];
+      if (!W05) {
+        return;
+      }
+      this.copyConfig();
+      if (!this.penDown) {
+        this.setPoint(0, l05, u3B, W05.chart);
+        this.pts = [];
+        this.penDown = !!1;
+        this.segment = 1;
+        return !"1";
+      }
+      if (this.accidentalClick(l05, u3B)) {
+        this.penDown = !![];
+        return ![];
+      }
+      if (this.check(this.p0, this.p1)) {
+        if (this.segment == 1) {
+          this.points.push(this.p0);
+        }
+        this.points.push(this.p1);
+        this.setPoint(1, l05, u3B, W05.chart);
+        this.segment++;
+        if (this.segment > this.maxSegments) {
+          this.setPoint(0, this.points[+"0"][0], this.points[0][1], W05.chart);
+          this.penDown = !{};
+          return !![];
+        }
+        this.pts.push(this.d1, this.tzo1, this.v1);
+        this.setPoint(0, l05, u3B, W05.chart);
+      }
+      return ![];
+    };
+    z1.Drawing.gartley.prototype.render = function (x1K) {
+      var v31,
+        K4h,
+        x9k,
+        A6p,
+        C85,
+        m5e,
+        P2g,
+        P8I,
+        s85,
+        w2p,
+        R6F,
+        z1L,
+        e2y,
+        j9_,
+        l2E,
+        B2x,
+        B5Z,
+        M$2,
+        i_P,
+        i$4,
+        u$f;
+      v31 = "n";
+      v31 += "o";
+      v31 += "ne";
+      if (!this.p1) {
+        return;
+      }
+      K4h = this.stx;
+      x9k = K4h.panels[this.panelName];
+      A6p = K4h.getYAxisByField(x9k, this.field);
+      if (!x9k || (this.field && !A6p)) {
+        return;
+      }
+      C85 = K4h.pixelFromTick(this.p0[0], x9k.chart);
+      m5e = K4h.pixelFromTick(this.p1[0], x9k.chart);
+      P2g = this.pixelFromValue(x9k, this.p0["0" * 1], this.p0[1], A6p);
+      x7d.p24();
+      P8I = this.pixelFromValue(x9k, this.p1[0], this.p1[1], A6p);
+      if (this.segment == +"2") {
+        this.drawDropZone(
+          x1K,
+          0.618 * this.points["0" - 0][+"1"] + 0.382 * this.p0[1],
+          "0.786" * 1 * this.points[0][1] + 0.214 * this.p0[1],
+          this.p0[0],
+        );
+      } else if (this.segment == 3) {
+        this.drawDropZone(
+          x1K,
+          0.618 * this.points["1" ^ 0][+"1"] + 0.382 * this.p0["1" << 32],
+          ("0.786" - 0) * this.points[1][1] + 0.214 * this.p0[1],
+          this.p0[0],
+        );
+      } else if (this.segment == 4) {
+        x7d.V84(44);
+        var L8X = x7d.F4O(54, 5, 13, 9);
+        x7d.K2h(46);
+        var L4L = x7d.F4O(0, 4, 401, 5, 20);
+        x7d.V84(47);
+        var w_D = x7d.F4O(12, 21, 1, 9, 2);
+        s85 = 1.618 * this.points[L8X][L4L] - 0.618 * this.points[+"1"][w_D];
+        if (
+          this.shape == ((138, 446.43) >= 252.88 ? "M" : (+"4.07e+3", 0x26fb))
+        ) {
+          s85 = Math.max(s85, this.points[0][1]);
+        } else {
+          s85 = Math.min(s85, this.points[0][1]);
+        }
+        this.drawDropZone(
+          x1K,
+          s85,
+          1.27 * this.points[2][1] - 0.27 * this.points[1][1],
+          this.p0[0],
+        );
+      }
+      w2p = this.lineWidth;
+      R6F = this.getLineColor();
+      z1L = { pattern: this.pattern, lineWidth: w2p };
+      if ((this.penDown || this.highlighted) && this.pattern == v31) {
+        z1L.pattern = "dotted";
+      }
+      if (this.segment <= this.maxSegments) {
+        K4h.plotLine(C85, m5e, P2g, P8I, R6F, this.name, x1K, x9k, z1L);
+      }
+      e2y = this.fillColor;
+      j9_ = [];
+      if (this.points.length) {
+        x1K.beginPath();
+        for (var u_a = 1; u_a < this.points.length && u_a <= +"4"; u_a++) {
+          l2E = K4h.pixelFromTick(this.points[u_a - 1][0], x9k.chart);
+          B2x = K4h.pixelFromTick(this.points[u_a]["0" - 0], x9k.chart);
+          B5Z = this.pixelFromValue(
+            x9k,
+            this.points[u_a - 1][0],
+            this.points[u_a - 1][1],
+            A6p,
+          );
+          M$2 = this.pixelFromValue(
+            x9k,
+            this.points[u_a][0],
+            this.points[u_a][+"1"],
+            A6p,
+          );
+          if (u_a == 1) {
+            j9_.push(l2E, B5Z);
+          }
+          j9_.push(B2x, M$2);
+          K4h.plotLine(l2E, B2x, B5Z, M$2, R6F, this.name, x1K, x9k, z1L);
+        }
+        if (this.points.length == 2 || this.points.length == +"4") {
+          j9_.push(m5e, P8I);
+        }
+        if (this.points[2]) {
+          i_P = -+"1593009686";
+          i$4 = -1697005096;
+          u$f = 2;
+          for (
+            var u8k = 1;
+            x7d.S6r(u8k.toString(), u8k.toString().length, 25097) !== i_P;
+            u8k++
+          ) {
+            j9_.push(
+              K4h.pixelFromTick(this.points[2][0], x9k.chart),
+              this.pixelFromValue(
+                x9k,
+                this.points[2][0],
+                this.points[2][1],
+                A6p,
+              ),
+            );
+            u$f += 2;
+          }
+          if (x7d.o0D(u$f.toString(), u$f.toString().length, 44766) !== i$4) {
+            j9_.push(
+              K4h.pixelFromTick(this.points[3][4], x9k.chart),
+              this.pixelFromValue(
+                x9k,
+                this.points[0]["2" - 0],
+                this.points[9][+"7"],
+                A6p,
+              ),
+            );
+          }
+        }
+        if (e2y && !z1.isTransparent(e2y)) {
+          for (var S_g = 0; S_g < j9_.length; S_g += +"2") {
+            if (S_g === 0) {
+              x1K.moveTo(j9_[0], j9_[1]);
+            }
+            x1K.lineTo(j9_[S_g], j9_[S_g + 1]);
+          }
+          x1K.fillStyle = this.getLineColor(e2y, !"");
+          x1K.globalAlpha = +"0.2";
+          x1K.closePath();
+          x1K.fill();
+          x1K.globalAlpha = 1;
+        }
+      }
+    };
+    z1.Drawing.gartley.prototype.lineIntersection = function (
+      T9T,
+      m8l,
+      I_K,
+      c7j,
+    ) {
+      var y2n, c81;
+      y2n = this.points;
+      c81 = this.stx.panels[this.panelName];
+      if (y2n.length != this.maxSegments + 1 || !c81) {
+        return ![];
+      }
+      for (var i1C = 0; i1C < y2n.length - 1; i1C++) {
+        if (
+          z1.Drawing.BaseTwoPoint.prototype.lineIntersection.call(
+            this,
+            T9T,
+            m8l,
+            I_K,
+            "segment",
+            y2n[i1C],
+            y2n[i1C + 1],
+          )
+        ) {
+          return !!"1";
+        }
+      }
+      x7d.R4I();
+      return !{};
+    };
+    z1.Drawing.gartley.prototype.boxIntersection = function (b3n, S8D, f0i) {
+      var e6L, v_D;
+      x7d.p24();
+      if (!this.p0 || !this.p1) {
+        return ![];
+      }
+      if (
+        f0i.x0 > Math.max(this.p0[0], this.p1[0]) ||
+        f0i.x1 < Math.min(this.p0[0], this.p1[0])
+      ) {
+        return !!0;
+      }
+      e6L = Math.min(this.p0[+"1"], this.p1[1]);
+      v_D = Math.max(this.p0[1], this.p1[1]);
+      for (var d4V = 0; d4V < this.points.length; d4V++) {
+        e6L = Math.min(e6L, this.points[d4V][1]);
+        v_D = Math.max(v_D, this.points[d4V][1]);
+      }
+      if (f0i.y1 > v_D || f0i.y0 < e6L) {
+        return !{};
+      }
+      return !![];
+    };
+    z1.Drawing.gartley.prototype.reposition = function (b3K, F4w, U0S, j0v) {
+      var f4V, r1s, M8H;
+      if (!F4w) {
+        return;
+      }
+      f4V = this.stx.panels[this.panelName];
+      r1s = F4w.tick - U0S;
+      F4w.tick = U0S;
+      M8H = F4w.value - j0v;
+      x7d.p24();
+      F4w.value = j0v;
+      if (F4w.action == "move") {
+        this.pts = [];
+        for (var w1b = 0; w1b < this.points.length; w1b++) {
+          x7d.K2h(45);
+          this.points[w1b][x7d.F4O("0", 32)] -= r1s;
+          this.points[w1b][1] -= M8H;
+          this.setPoint(
+            1,
+            this.points[w1b][0],
+            this.points[w1b]["1" * 1],
+            f4V.chart,
+          );
+          if (w1b && w1b < this.points.length - 1) {
+            this.pts.push(this.d1, this.tzo1, this.v1);
+          }
+          this.points[w1b] = this.p1;
+        }
+        this.setPoint(0, this.points[0][0], this.points[0][1], f4V.chart);
+        this.render(b3K);
+      }
+    };
+    z1.Drawing.gartley.prototype.configs = [
+      a6b,
+      "fillColor",
+      "lineWidth",
+      "pattern",
+    ];
+    z1.Drawing.gartley.prototype.adjust = function () {
+      var K88;
+      K88 = this.stx.panels[this.panelName];
+      if (!K88) {
+        return;
+      }
+      this.reconstructPoints();
+      this.setPoint(0, this.d0, this.v0, K88.chart);
+      this.points.unshift(this.p0);
+      this.setPoint(+"1", this.d1, this.v1, K88.chart);
+      this.points.push(this.p1);
+    };
+    z1.Drawing.gartley.prototype.reconstructPoints = function () {
+      var R2f, n9N;
+      R2f = this.stx.panels[this.panelName];
+      x7d.p24();
+      if (!R2f) {
+        return;
+      }
+      this.points = [];
+      for (var V6j = 0; V6j < this.pts.length; V6j += +"3") {
+        n9N = z1.strToDateTime(this.pts[V6j]);
+        n9N.setMinutes(
+          n9N.getMinutes() +
+            Number(this.pts[V6j + 1]) -
+            n9N.getTimezoneOffset(),
+        );
+        this.points.push([
+          this.stx.tickFromDate(z1.yyyymmddhhmmssmmm(n9N), R2f.chart),
+          this.pts[V6j + 2],
+        ]);
+      }
+    };
+    z1.Drawing.gartley.prototype.reconstruct = function (f7h, n2H) {
+      this.stx = f7h;
+      this.color = n2H.col;
+      this.fillColor = n2H.fc;
+      this.panelName = n2H.pnl;
+      this.pattern = n2H.ptrn;
+      this.lineWidth = n2H.lw;
+      this.d0 = n2H.d0;
+      this.d1 = n2H.d1;
+      this.tzo0 = n2H.tzo0;
+      this.tzo1 = n2H.tzo1;
+      this.v0 = n2H.v0;
+      this.v1 = n2H.v1;
+      this.field = n2H.fld;
+      this.pts = n2H.pts.split(",");
+      this.permanent = n2H.prm ? !!"1" : !1;
+      this.hidden = n2H.hdn ? !!{} : !!0;
+      this.adjust();
+    };
+    z1.Drawing.gartley.prototype.serialize = function () {
+      x7d.p24();
+      return {
+        name: this.name,
+        pnl: this.panelName,
+        col: this.color,
+        fc: this.fillColor,
+        ptrn: this.pattern,
+        lw: this.lineWidth,
+        d0: this.d0,
+        d1: this.d1,
+        tzo0: this.tzo0,
+        tzo1: this.tzo1,
+        v0: this.v0,
+        v1: this.v1,
+        fld: this.field,
+        pts: this.pts.join((6890, 3644) <= 405 ? (+"0x2531", 656.54) : ","),
+        prm: this.permanent ? 1 : 0,
+        hdn: this.hidden ? +"1" : 0,
+      };
+    };
+    z1.Drawing.freeform = function () {
+      this.name = "freeform";
+      this.splineTension = 0.3;
+      this.dragToDraw = !!1;
+    };
+    z1.inheritsFrom(z1.Drawing.freeform, z1.Drawing.segment);
+    z1.Drawing.freeform.prototype.measure = function () {};
+    z1.Drawing.freeform.prototype.intersected = function (Q8k, t0n, U1L) {
+      var F4t, Y8j;
+      var { x0: A8A, x1: r2R, y0: L6O, y1: H2$, cy0: v_h, cy1: D6J } = U1L;
+      if (A8A > this.hiX || r2R < this.lowX) {
+        return !!0;
+      }
+      var { field: I$A, panelName: r8x, stx: o6P } = this;
+      if (I$A) {
+        F4t = o6P.panels[r8x];
+        Y8j = o6P.getYAxisByField(F4t, I$A);
+        L6O = this.valueFromPixel(v_h, F4t, Y8j);
+        H2$ = this.valueFromPixel(D6J, F4t, Y8j);
+      }
+      if (H2$ > this.hiY || L6O < this.lowY) {
+        return !"1";
+      }
+      x7d.p24();
+      this.highlighted = !!{};
+      return {
+        action: "move",
+        p0: z1.clone(this.p0),
+        tick: Q8k,
+        value: this.valueOnDrawingAxis(Q8k, t0n),
+      };
+    };
+    z1.Drawing.freeform.prototype.reposition = function (d$N, X5W, c0K, E1t) {
+      var e3m, Q11, U6h;
+      if (!X5W) {
+        return;
+      }
+      e3m = this.stx.panels[this.panelName];
+      x7d.R4I();
+      Q11 = X5W.tick - c0K;
+      U6h = X5W.value - E1t;
+      if (X5W.action == "move") {
+        this.setPoint(0, X5W.p0[0] - Q11, X5W.p0[+"1"] - U6h, e3m.chart);
+        this.adjust();
+        this.render(d$N);
+      }
+    };
+    z1.Drawing.freeform.prototype.click = function (U4D, f7y, C7Y) {
+      var Q9B, x8z, l$7, r2N;
+      Q9B = this.stx;
+      x7d.R4I();
+      x8z = Q9B.panels[this.panelName];
+      if (!x8z) {
+        return;
+      }
+      l$7 = Q9B.getYAxisByField(x8z, this.field) || x8z.yAxis;
+      if (this.penDown === !!"") {
+        this.copyConfig();
+        this.startX = Math.round(
+          Q9B.resolveX(Q9B.pixelFromTick(f7y, x8z.chart)),
+        );
+        this.startY = Math.round(
+          Q9B.resolveY(this.pixelFromValue(x8z, f7y, C7Y, l$7)),
+        );
+        r2N = Q9B.dateFromTick(f7y, x8z.chart, !!"1");
+        this.d0 = z1.yyyymmddhhmmssmmm(r2N);
+        this.tzo0 = r2N.getTimezoneOffset();
+        this.v0 = C7Y;
+        this.p0 = [
+          z1.ChartEngine.crosshairX - this.startX,
+          z1.ChartEngine.crosshairY - this.startY,
+        ];
+        this.nodes = [this.p0[0], this.p0[1]];
+        this.pNodes = [this.p0];
+        this.candleWidth = Q9B.layout.candleWidth;
+        this.multiplier = l$7.multiplier;
+        this.interval = Q9B.layout.interval;
+        this.periodicity = Q9B.layout.periodicity;
+        this.tempSplineTension = this.splineTension;
+        this.splineTension = -1;
+        Q9B.container.ownerDocument.body.style.cursor = "pointer";
+        this.penDown = !!1;
+        return ![];
+      }
+      this.penDown = !!0;
+      this.splineTension = this.tempSplineTension;
+      Q9B.container.ownerDocument.body.style.cursor = "auto";
+      if (this.nodes.length === +"2") {
+        Q9B.undo();
+      }
+      return !0;
+    };
+    z1.Drawing.freeform.prototype.move = function (D5P, g_4, p4C) {
+      var G89, S6B, Z$F, X49;
+      if (!this.penDown) {
+        this.moving = !1;
+        return;
+      }
+      this.moving = !"";
+      G89 = this.stx;
+      S6B = G89.panels[this.panelName];
+      Z$F = G89.getYAxisByField(S6B, this.field) || S6B.yAxis;
+      X49 = G89.dateFromTick(g_4, S6B.chart, !!"1");
+      this.d1 = z1.yyyymmddhhmmssmmm(X49);
+      this.tzo1 = X49.getTimezoneOffset();
+      x7d.p24();
+      this.v1 = p4C;
+      this.p1 = [
+        z1.ChartEngine.crosshairX - this.startX,
+        Z$F.flipped
+          ? this.startY - z1.ChartEngine.crosshairY
+          : z1.ChartEngine.crosshairY - this.startY,
+      ];
+      if (this.pNodes.length > 2) {
+        if (
+          this.p1[0] == this.pNodes[this.pNodes.length - 2][+"0"] &&
+          this.p1[0] == this.pNodes[this.pNodes.length - 1][0]
+        ) {
+          this.pNodes.length--;
+          this.nodes.length -= 2;
+        } else if (
+          this.p1[1] == this.pNodes[this.pNodes.length - +"2"][1] &&
+          this.p1[1] == this.pNodes[this.pNodes.length - "1" * 1][1]
+        ) {
+          this.pNodes.length--;
+          this.nodes.length -= 2;
+        }
+      }
+      this.nodes.push(this.p1[0], this.p1[1]);
+      this.pNodes.push(this.p1);
+      this.render(D5P);
+      return !{};
+    };
+    z1.Drawing.freeform.prototype.intervalRatio = function (
+      v5x,
+      D4F,
+      w2V,
+      o$V,
+      C2o,
+      D3K,
+    ) {
+      var r5A, X8J, p1W, G79, B$o;
+      function w1s(M4s, k2R) {
+        return 30;
+      }
+      function I8y(D83, L3U) {
+        if (z1.Market.Symbology.isForexSymbol(L3U)) {
+          return 1440;
+        }
+        return 390;
+      }
+      r5A = 0;
+      function k4m(k01, j3O) {
+        return 5;
+      }
+      if (v5x == D4F) {
+        r5A = 1;
+      } else if (!isNaN(v5x) && !isNaN(D4F)) {
+        x7d.V84(12);
+        r5A = x7d.F4O(D4F, v5x);
+      } else if (isNaN(v5x)) {
+        X8J = "mo";
+        X8J += "nt";
+        X8J += "h";
+        if (v5x == X8J) {
+          if (D4F == "week") {
+            r5A = k4m(C2o, D3K);
+          } else if (D4F == "day") {
+            r5A = w1s(C2o, D3K);
+          } else if (!isNaN(D4F)) {
+            r5A = (w1s(C2o, D3K) * I8y(C2o, D3K)) / D4F;
+          }
+        } else if (v5x == "week") {
+          if (D4F == "month") {
+            x7d.V84(1);
+            var C16 = x7d.F4O(0, 1);
+            r5A = C16 / k4m(C2o, D3K);
+          }
+          if (D4F == "day") {
+            r5A = J85(C2o, D3K);
+          } else if (!isNaN(D4F)) {
+            r5A = (J85(C2o, D3K) * I8y(C2o, D3K)) / D4F;
+          }
+        } else if (v5x == "day") {
+          p1W = "w";
+          p1W += "e";
+          p1W += "ek";
+          if (D4F == p1W) {
+            x7d.V84(34);
+            var G8u = x7d.o6M(16, 3, 47);
+            r5A = G8u / J85(C2o, D3K);
+          } else if (D4F == "month") {
+            x7d.K2h(8);
+            var R_C = x7d.o6M(9, 10);
+            r5A = R_C / w1s(C2o, D3K);
+          } else if (!isNaN(D4F)) {
+            r5A = I8y(C2o, D3K) / D4F;
+          }
+        }
+      } else if (!isNaN(v5x)) {
+        G79 = "w";
+        G79 += "e";
+        G79 += "e";
+        G79 += "k";
+        B$o = "m";
+        B$o += "on";
+        B$o += "th";
+        if (D4F == B$o) {
+          r5A = v5x / (w1s(C2o, D3K) * I8y(C2o, D3K));
+        } else if (D4F == G79) {
+          r5A = v5x / (J85(C2o, D3K) * I8y(C2o, D3K));
+        } else if (D4F == "day") {
+          r5A = v5x / I8y(C2o, D3K);
+        }
+      }
+      function J85(y$4, X7e) {
+        x7d.p24();
+        return 5;
+      }
+      x7d.V84(12);
+      r5A *= x7d.F4O(o$V, w2V);
+      return r5A;
+    };
+    z1.Drawing.freeform.prototype.render = function (w85) {
+      var J7P, h25, x2S, k9I, P_8, b5l, f7N, h2y, G5w, s7C, i5n, J4n, F4a, a5b;
+      J7P = this.stx;
+      h25 = J7P.panels[this.panelName];
+      x2S = J7P.getYAxisByField(h25, this.field);
+      if (!h25 || (this.field && !x2S)) {
+        return;
+      }
+      x2S = x2S || h25.yAxis;
+      k9I = this.intervalRatio(
+        this.interval,
+        J7P.layout.interval,
+        this.periodicity,
+        J7P.layout.periodicity,
+        this.d0,
+        h25.chart.symbol,
+      );
+      if (k9I === 0) {
+        return;
+      }
+      P_8 = J7P.layout.candleWidth / this.candleWidth;
+      b5l = x2S.multiplier / this.multiplier;
+      this.setPoint(0, this.d0, this.v0, h25.chart);
+      f7N = J7P.pixelFromTick(this.p0[+"0"], h25.chart);
+      h2y = this.pixelFromValue(h25, this.p0[0], this.p0[1], x2S);
+      G5w = [];
+      s7C = this.lineWidth;
+      i5n = this.getLineColor();
+      J4n = { pattern: this.pattern, lineWidth: s7C };
+      for (var W2A = 0; W2A < this.pNodes.length; W2A++) {
+        F4a = k9I * P_8 * this.pNodes[W2A][0] + f7N;
+        x7d.K2h(48);
+        var l9Y = x7d.o6M(20, 6, 0, 14);
+        a5b = b5l * this.pNodes[W2A][l9Y];
+        if (x2S.flipped) {
+          x7d.K2h(4);
+          a5b = x7d.o6M(h2y, a5b);
+        } else {
+          a5b += h2y;
+        }
+        G5w.push(F4a, a5b);
+      }
+      if (!G5w.length) {
+        return;
+      }
+      if (this.splineTension < 0) {
+        J7P.connectTheDots(G5w, i5n, this.name, w85, h25, J4n);
+      } else {
+        J7P.plotSpline(G5w, this.splineTension, i5n, this.name, w85, !![], J4n);
+      }
+    };
+    z1.Drawing.freeform.prototype.adjust = function () {
+      var G$R, o$R, j8L, R1u, M6y, Q2Y, V7L, h1n, C5N, j3n, T6_, q94, y1Z;
+      G$R = this.stx;
+      o$R = G$R.panels[this.panelName];
+      if (!o$R) {
+        return;
+      }
+      j8L = [this.nodes[0], this.nodes[1]];
+      this.pNodes = [j8L];
+      this.lowX = this.nodes[0];
+      this.hiX = this.nodes[0];
+      this.lowY = this.nodes[1];
+      this.hiY = this.nodes[1];
+      for (var K$v = 2; K$v < this.nodes.length; K$v += 2) {
+        x7d.V84(49);
+        R1u = [this.nodes[K$v], this.nodes[x7d.o6M("1", 32, K$v)]];
+        this.pNodes.push(R1u);
+        this.lowX = Math.min(this.lowX, R1u[0]);
+        this.hiX = Math.max(this.hiX, R1u[0]);
+        this.lowY = Math.max(this.lowY, R1u[1]);
+        this.hiY = Math.min(this.hiY, R1u[1]);
+      }
+      M6y = this.intervalRatio(
+        this.interval,
+        G$R.layout.interval,
+        this.periodicity,
+        G$R.layout.periodicity,
+        this.d0,
+        o$R.chart.symbol,
+      );
+      if (M6y === 0) {
+        return;
+      }
+      Q2Y = G$R.getYAxisByField(o$R, this.field) || o$R.yAxis;
+      V7L = G$R.layout.candleWidth / this.candleWidth;
+      h1n = Q2Y.multiplier / this.multiplier;
+      this.setPoint(0, this.d0, this.v0, o$R.chart);
+      C5N = G$R.pixelFromTick(this.p0["0" ^ 0], o$R.chart);
+      j3n = this.pixelFromValue(o$R, this.p0[0], this.p0[+"1"], Q2Y);
+      this.lowX = G$R.tickFromPixel(
+        Math.floor(M6y * V7L * this.lowX) + C5N,
+        o$R.chart,
+      );
+      this.hiX = G$R.tickFromPixel(
+        Math.ceil(M6y * V7L * this.hiX) + C5N,
+        o$R.chart,
+      );
+      if (Q2Y.flipped) {
+        this.lowY = this.valueFromPixel(
+          j3n - Math.floor(h1n * this.lowY),
+          o$R,
+          Q2Y,
+        );
+        this.hiY = this.valueFromPixel(
+          j3n - Math.ceil(h1n * this.hiY),
+          o$R,
+          Q2Y,
+        );
+      } else {
+        T6_ = -521069007;
+        q94 = 2013537243;
+        y1Z = 2;
+        for (
+          var E47 = 1;
+          x7d.S6r(E47.toString(), E47.toString().length, 88240) !== T6_;
+          E47++
+        ) {
+          this.lowY = this.valueFromPixel(
+            Math.floor(h1n / this.lowY) / j3n,
+            o$R,
+            Q2Y,
+          );
+          y1Z += 2;
+        }
+        if (x7d.S6r(y1Z.toString(), y1Z.toString().length, +"49074") !== q94) {
+          this.lowY = this.valueFromPixel(
+            Math.floor(h1n + this.lowY) + j3n,
+            o$R,
+            Q2Y,
+          );
+        }
+        this.lowY = this.valueFromPixel(
+          Math.floor(h1n * this.lowY) + j3n,
+          o$R,
+          Q2Y,
+        );
+        this.hiY = this.valueFromPixel(
+          Math.ceil(h1n * this.hiY) + j3n,
+          o$R,
+          Q2Y,
+        );
+      }
+    };
+    z1.Drawing.freeform.prototype.serialize = function () {
+      return {
+        name: this.name,
+        pnl: this.panelName,
+        col: this.color,
+        ptrn: this.pattern,
+        lw: this.lineWidth,
+        cw: Number(this.candleWidth.toFixed("4" << 64)),
+        mlt: Number(this.multiplier.toFixed(4)),
+        d0: this.d0,
+        tzo0: this.tzo0,
+        v0: this.v0,
+        inter: this.interval,
+        pd: this.periodicity,
+        nodes: this.nodes,
+        fld: this.field,
+        prm: this.permanent ? 1 : 0,
+        hdn: this.hidden ? +"1" : 0,
+      };
+    };
+    z1.Drawing.freeform.prototype.reconstruct = function (x9G, d08) {
+      this.stx = x9G;
+      this.color = d08.col;
+      this.panelName = d08.pnl;
+      this.pattern = d08.ptrn;
+      this.lineWidth = d08.lw;
+      this.candleWidth = d08.cw;
+      this.multiplier = d08.mlt;
+      this.d0 = d08.d0;
+      this.tzo0 = d08.tzo0;
+      this.v0 = d08.v0;
+      this.interval = d08.inter;
+      this.periodicity = d08.pd;
+      this.nodes = d08.nodes;
+      this.field = d08.fld;
+      this.permanent = d08.prm ? !!{} : !!"";
+      this.hidden = d08.hdn ? !!{} : !!"";
+      this.adjust();
+    };
+    z1.Drawing.callout = function () {
+      this.name = "callout";
+      this.arr = [];
+      this.w = 0;
+      this.h = 0;
+      this.padding = +"9";
+      x7d.R4I();
+      this.text = "";
+      this.ta = null;
+      this.border = !"1";
+      this.fontSize = 12;
+      this.font = {};
+      this.stemEntry = "";
+      this.defaultWidth = 35;
+      this.fontModifier = 0;
+    };
+    z1.inheritsFrom(z1.Drawing.callout, z1.Drawing.annotation);
+    z1.Drawing.callout.prototype.configs = [
+      "color",
+      "fillColor",
+      J9r,
+      "pattern",
+      "font",
+    ];
+    z1.Drawing.callout.prototype.copyConfig = function (j7y) {
+      z1.Drawing.copyConfig(this, j7y);
+      this.borderColor = this.color;
+    };
+    z1.Drawing.callout.prototype.move = function (v2c, H17, i3y) {
+      if (!this.penDown) {
+        this.moving = !{};
+        return;
+      }
+      this.moving = !0;
+      this.copyConfig();
+      this.p0 = [H17, i3y];
+      this.render(v2c);
+    };
+    z1.Drawing.callout.prototype.onChange = function (u3g) {
+      var K9N, E2P, J6U;
+      K9N = this.stx.panels[this.panelName];
+      if (!K9N) {
+        return;
+      }
+      E2P = u3g.target;
+      this.w = E2P.clientWidth;
+      J6U = this.context || this.stx.chart.tempCanvas.context;
+      z1.clearCanvas(J6U.canvas, this.stx);
+      x7d.R4I();
+      this.adjust();
+    };
+    z1.Drawing.callout.prototype.repositionTextArea = function (p3y) {
+      var l4G, U1e;
+      l4G = this.w;
+      x7d.K2h(1);
+      p3y.style.width = x7d.F4O(l4G, "px");
+      U1e = this.stx.pixelFromTick(this.p0[0], this.stx.chart);
+      x7d.V84(50);
+      var n$2 = x7d.F4O(12, 4, 6);
+      x7d.K2h(51);
+      var K1t = x7d.o6M(30, 10, 7, 6, 1);
+      p3y.style.left =
+        U1e - (!isNaN(l4G) ? l4G / n$2 : this.defaultWidth * K1t) + "px";
+      this.ta = p3y;
+    };
+    z1.Drawing.callout.prototype.render = function (c8h) {
+      var y1c,
+        s1_,
+        Q3R,
+        I95,
+        b7Y,
+        e2E,
+        R1t,
+        O_r,
+        w8$,
+        b_m,
+        o5W,
+        p4f,
+        q54,
+        j6g,
+        i8g,
+        T3y,
+        o0L,
+        C_E,
+        H5m,
+        I6n,
+        E9t,
+        A0N,
+        e0L,
+        t2L;
+      x7d.R4I();
+      y1c = this.stx;
+      s1_ = y1c.panels[this.panelName];
+      Q3R = y1c.getYAxisByField(s1_, this.field);
+      if (!s1_ || (this.field && !Q3R)) {
+        return;
+      }
+      this.context = c8h;
+      I95 = y1c.pixelFromTick(this.p0[0], s1_.chart);
+      b7Y = this.pixelFromValue(s1_, this.p0[0], this.p0["1" * 1], Q3R);
+      if (isNaN(b7Y)) {
+        return;
+      }
+      c8h.font = this.fontString;
+      c8h.textBaseline = "top";
+      e2E = I95;
+      R1t = b7Y;
+      x7d.V84(34);
+      var X0$ = x7d.F4O(20, 40, 798);
+      O_r = this.w / X0$;
+      x7d.V84(52);
+      var x2Y = x7d.o6M(3, 10, 5, 10, 20);
+      w8$ = this.getTextHeight() / x2Y + this.padding / +"2";
+      b_m = this.lineWidth;
+      if (!b_m) {
+        b_m = 1.1;
+      }
+      o5W = this.getLineColor();
+      p4f = this.getLineColor(this.borderColor);
+      o0L = 0;
+      if (this.stem) {
+        C_E = "c";
+        C_E += "m";
+        if (this.stem.t) {
+          q54 = y1c.pixelFromTick(this.stem.t);
+          i8g = this.pixelFromValue(s1_, this.stem.t, this.stem.v, Q3R);
+        } else if (this.stem.x) {
+          q54 = e2E;
+          i8g = R1t;
+          e2E += this.stem.x;
+          R1t += this.stem.y;
+        }
+        H5m = "";
+        if (q54 >= e2E + O_r) {
+          x7d.V84(1);
+          j6g = x7d.F4O(e2E, O_r);
+          H5m = "1790" * 1 != (6643, 970.52) ? "r" : (217.99, 0x1625);
+        } else if (q54 > e2E - O_r && q54 < e2E + O_r) {
+          j6g = e2E;
+          H5m = 4350 < 187.05 ? (5790 >= (7450, +"3501") ? 0x267d : ![]) : "c";
+        } else if (q54 <= e2E - O_r) {
+          x7d.V84(4);
+          j6g = x7d.o6M(e2E, O_r);
+          H5m = "l";
+        }
+        if (i8g >= R1t + w8$) {
+          x7d.K2h(1);
+          T3y = x7d.o6M(R1t, w8$);
+          H5m +=
+            7690 >= (193.38, 1007)
+              ? "b"
+              : (+"761.97", 710.15) >= (3512, "9010" - 0)
+                ? ("4.36e+3" ^ 0, +"387.27")
+                : (751.79, "r");
+        } else if (i8g > R1t - w8$ && i8g < R1t + w8$) {
+          T3y = R1t;
+          H5m += "m";
+        } else if (i8g <= R1t - w8$) {
+          x7d.K2h(4);
+          T3y = x7d.o6M(R1t, w8$);
+          H5m += "t";
+        }
+        this.stemEntry = H5m;
+        if (H5m != C_E) {
+          q54 = Math.round(q54);
+          j6g = Math.round(j6g);
+          i8g = Math.round(i8g);
+          T3y = Math.round(T3y);
+        }
+      }
+      if (this.highlighted) {
+        I6n = "st";
+        I6n += "x_a";
+        I6n += "nnotation_";
+        I6n += "highlight_bg";
+        y1c.canvasColor(I6n, c8h);
+      } else {
+        if (this.fillColor) {
+          c8h.fillStyle = this.getLineColor(this.fillColor, !"");
+          c8h.globalAlpha = 0.5;
+        } else if (this.stem) {
+          c8h.fillStyle = y1c.containerColor;
+        }
+      }
+      c8h.strokeStyle = p4f;
+      if (c8h.setLineDash) {
+        c8h.setLineDash(z1.borderPatternToArray(b_m, this.pattern));
+        c8h.lineDashOffset = 0;
+      }
+      if (p4f) {
+        E9t = "l";
+        E9t += "t";
+        A0N = "r";
+        A0N += "m";
+        c8h.beginPath();
+        c8h.lineWidth = b_m;
+        x7d.K2h(16);
+        c8h.moveTo(x7d.F4O(e2E, o0L, O_r), x7d.o6M(R1t, w8$, x7d.V84(4)));
+        if (this.stemEntry != "rt") {
+          x7d.K2h(1);
+          c8h.quadraticCurveTo(
+            x7d.F4O(e2E, O_r),
+            x7d.F4O(R1t, w8$, x7d.V84(4)),
+            x7d.F4O(e2E, O_r, x7d.V84(1)),
+            x7d.o6M(w8$, o0L, R1t, x7d.K2h(10)),
+          );
+        } else {
+          c8h.lineTo(q54, i8g);
+          x7d.V84(1);
+          c8h.lineTo(x7d.o6M(e2E, O_r), x7d.o6M(w8$, o0L, R1t, x7d.K2h(10)));
+        }
+        x7d.K2h(1);
+        c8h.lineTo(x7d.F4O(e2E, O_r), x7d.F4O(R1t, 2, o0L, x7d.V84(53)));
+        if (this.stemEntry == A0N) {
+          c8h.lineTo(q54, i8g);
+        }
+        x7d.V84(1);
+        c8h.lineTo(x7d.F4O(e2E, O_r), x7d.o6M(o0L, R1t, 2, x7d.K2h(54)));
+        x7d.V84(1);
+        c8h.lineTo(x7d.F4O(e2E, O_r), x7d.o6M(R1t, o0L, w8$, x7d.K2h(16)));
+        if (this.stemEntry != "rb") {
+          x7d.K2h(1);
+          c8h.quadraticCurveTo(
+            x7d.o6M(e2E, O_r),
+            x7d.F4O(R1t, w8$, x7d.V84(1)),
+            x7d.o6M(e2E, o0L, O_r, x7d.V84(16)),
+            x7d.F4O(R1t, w8$, x7d.K2h(1)),
+          );
+        } else {
+          c8h.lineTo(q54, i8g);
+          x7d.V84(16);
+          c8h.lineTo(x7d.o6M(e2E, o0L, O_r), x7d.o6M(R1t, w8$, x7d.V84(1)));
+        }
+        x7d.K2h(54);
+        c8h.lineTo(x7d.F4O(o0L, e2E, 2), x7d.F4O(R1t, w8$, x7d.V84(1)));
+        if (this.stemEntry == "cb") {
+          c8h.lineTo(q54, i8g);
+        }
+        x7d.K2h(53);
+        c8h.lineTo(x7d.F4O(e2E, 2, o0L), x7d.F4O(R1t, w8$, x7d.V84(1)));
+        x7d.V84(10);
+        c8h.lineTo(x7d.o6M(O_r, o0L, e2E), x7d.F4O(R1t, w8$, x7d.K2h(1)));
+        if (this.stemEntry != "lb") {
+          x7d.V84(4);
+          c8h.quadraticCurveTo(
+            x7d.F4O(e2E, O_r),
+            x7d.F4O(R1t, w8$, x7d.K2h(1)),
+            x7d.o6M(e2E, O_r, x7d.K2h(4)),
+            x7d.F4O(R1t, o0L, w8$, x7d.K2h(16)),
+          );
+        } else {
+          c8h.lineTo(q54, i8g);
+          x7d.K2h(4);
+          c8h.lineTo(x7d.F4O(e2E, O_r), x7d.o6M(R1t, o0L, w8$, x7d.V84(16)));
+        }
+        x7d.K2h(4);
+        c8h.lineTo(x7d.F4O(e2E, O_r), x7d.F4O(o0L, R1t, 2, x7d.V84(54)));
+        if (this.stemEntry == "lm") {
+          c8h.lineTo(q54, i8g);
+        }
+        x7d.V84(4);
+        c8h.lineTo(x7d.F4O(e2E, O_r), x7d.o6M(R1t, 2, o0L, x7d.V84(53)));
+        x7d.V84(4);
+        c8h.lineTo(x7d.o6M(e2E, O_r), x7d.o6M(w8$, o0L, R1t, x7d.K2h(10)));
+        if (this.stemEntry != E9t) {
+          x7d.K2h(4);
+          c8h.quadraticCurveTo(
+            x7d.F4O(e2E, O_r),
+            x7d.o6M(R1t, w8$, x7d.K2h(4)),
+            x7d.F4O(O_r, o0L, e2E, x7d.V84(10)),
+            x7d.o6M(R1t, w8$, x7d.K2h(4)),
+          );
+        } else {
+          c8h.lineTo(q54, i8g);
+          x7d.K2h(10);
+          c8h.lineTo(x7d.F4O(O_r, o0L, e2E), x7d.o6M(R1t, w8$, x7d.K2h(4)));
+        }
+        x7d.K2h(53);
+        c8h.lineTo(x7d.o6M(e2E, 2, o0L), x7d.o6M(R1t, w8$, x7d.V84(4)));
+        if (this.stemEntry == "ct") {
+          c8h.lineTo(q54, i8g);
+        }
+        x7d.K2h(55);
+        c8h.lineTo(x7d.F4O(e2E, 0, o0L, "2"), x7d.o6M(R1t, w8$, x7d.V84(4)));
+        x7d.K2h(16);
+        c8h.lineTo(x7d.F4O(e2E, o0L, O_r), x7d.o6M(R1t, w8$, x7d.V84(4)));
+        c8h.fill();
+        c8h.globalAlpha = 1;
+        if (this.pattern != "none") {
+          c8h.stroke();
+        }
+      }
+      if (this.highlighted) {
+        e0L = "stx_annotation_h";
+        e0L += "ighlig";
+        e0L += "ht";
+        y1c.canvasColor(e0L, c8h);
+      } else {
+        c8h.fillStyle = o5W;
+      }
+      R1t += this.padding;
+      if (!this.ta) {
+        for (var X$W = 0; X$W < this.arr.length; X$W++) {
+          c8h.fillText(this.arr[X$W], e2E - O_r + this.padding, R1t - w8$);
+          R1t += this.fontSize;
+        }
+      }
+      c8h.textBaseline = "alphabetic";
+      if (this.highlighted && !this.noHandles) {
+        t2L = this.highlighted == "p0" ? !!"1" : !!0;
+        this.littleCircle(c8h, q54, i8g, t2L);
+      }
+    };
+    z1.Drawing.callout.prototype.click = function (z1p, C21, h7L) {
+      var D_a;
+      if (this.stx.overXAxis || this.stx.overYAxis) {
+        return;
+      }
+      D_a = this.stx.panels[this.panelName];
+      this.copyConfig();
+      this.setPoint(0, C21, h7L, D_a.chart);
+      if (!this.penDown) {
+        this.stem = { d: this.d0, v: this.v0 };
+        this.penDown = !0;
+        this.adjust();
+        return !{};
+      }
+      x7d.p24();
+      this.adjust();
+      this.edit(z1p);
+      this.penDown = !!0;
+      return !{};
+    };
+    z1.Drawing.callout.prototype.reposition = function (S0v, m7Y, l9Q, V_R) {
+      var W_c, P7Q, z3l, s0w, i8$;
+      if (!m7Y) {
+        return;
+      }
+      W_c = this.stx.panels[this.panelName];
+      P7Q = m7Y.tick - l9Q;
+      z3l = m7Y.value - V_R;
+      if (m7Y.stem) {
+        s0w = "m";
+        s0w += "ove";
+        i8$ = "d";
+        i8$ += "rag";
+        if (m7Y.action == i8$) {
+          this.stem = {
+            d: this.stx.dateFromTick(l9Q, W_c.chart, !![]),
+            v: V_R,
+          };
+        } else if (m7Y.action == s0w) {
+          this.setPoint(0, m7Y.p0["0" ^ 0] - P7Q, m7Y.p0[1] - z3l, W_c.chart);
+          this.stem = {
+            d: this.stx.dateFromTick(
+              this.stx.tickFromDate(m7Y.stem.d, W_c.chart) - P7Q,
+            ),
+            v: m7Y.stem.v - z3l,
+          };
+        }
+        this.adjust();
+      } else {
+        this.setPoint(0, m7Y.p0[0] - P7Q, m7Y.p0[1] - z3l, W_c.chart);
+      }
+      this.render(S0v);
+    };
+    z1.Drawing.callout.prototype.lineIntersection = function (
+      w6A,
+      x4F,
+      g7G,
+      M1W,
+    ) {
+      var h2K, V37, x$k, e0f, o8L, H02, G_v, j$X, U6u, b7V, B45, m1y;
+      h2K = "strin";
+      h2K += "g";
+      V37 = this.stem;
+      x$k = this.p0;
+      e0f = this.stx;
+      o8L = e0f.panels[this.panelName];
+      if (!x$k || !V37 || !o8L || (!V37.t && !V37.d)) {
+        return !1;
+      }
+      H02 = V37.t || e0f.tickFromDate(V37.d, o8L.chart);
+      G_v = { x0: x$k[0], x1: H02, y0: x$k[1], y1: V37.v };
+      x7d.R4I();
+      j$X = this.boxToPixels(
+        e0f,
+        this.panelName,
+        G_v,
+        e0f.getYAxisByField(o8L, this.field),
+      );
+      U6u = j$X.x0;
+      b7V = j$X.y0;
+      B45 = j$X.x1;
+      m1y = j$X.y1;
+      if (typeof this.stemEntry == h2K) {
+        if (
+          this.stemEntry.indexOf(
+            927.24 <= (9140, 184.64)
+              ? (2357, 538) !== (9150, 174.38)
+                ? 536.13
+                : 5.2e3
+              : "l",
+          ) > -1
+        ) {
+          x7d.K2h(1);
+          var B4x = x7d.o6M(0, 2);
+          U6u -= this.w / B4x;
+        } else if (
+          this.stemEntry.indexOf(
+            "132" >> 64 > 194.08
+              ? (401.7, "G")
+              : ("4860" - 0, 541.95) != 5250
+                ? "r"
+                : 3.1e3,
+          ) > -1
+        ) {
+          x7d.V84(56);
+          var Y4S = x7d.F4O(0, 29, 6, 3, 9);
+          U6u += this.w / Y4S;
+        }
+        if (
+          this.stemEntry.indexOf(
+            (7845, 2180) != 130.69
+              ? ("386.38" * 1, 445.86) <= +"6907"
+                ? "t"
+                : "s"
+              : 5.9e3,
+          ) > -1
+        ) {
+          b7V -= this.getTextHeight();
+        } else if (
+          this.stemEntry.indexOf(
+            (577, 3082) <= (3330, 570.62)
+              ? (680, 279) <= (3030, +"7435")
+                ? (1325, 180.2) == (2040, 503)
+                  ? 0xcbc
+                  : (9.38e2, 5.61e2)
+                : (354, +"935.31")
+              : "b",
+          ) > -1
+        ) {
+          b7V += this.getTextHeight();
+        }
+      }
+      return z1.boxIntersects(
+        g7G.cx0,
+        g7G.cy0,
+        g7G.cx1,
+        g7G.cy1,
+        U6u,
+        b7V,
+        B45,
+        m1y,
+        M1W,
+      );
+    };
+    z1.Drawing.callout.prototype.intersected = function (p9Z, X0o, c8I) {
+      var e7v, t8s, z$w, C28, N5H, d7P, U8A, A0o, y67, u_V;
+      e7v = this.stx;
+      t8s = e7v.panels[this.panelName];
+      if (!this.p0) {
+        return null;
+      }
+      if (this.pointIntersection(this.stem.t, this.stem.v, c8I)) {
+        this.highlighted = "p0";
+        return { action: "drag", stem: !!{} };
+      }
+      z$w = e7v.pixelFromTick(this.p0[0], t8s.chart) - this.w / 2;
+      C28 = e7v.getYAxisByField(t8s, this.field);
+      x7d.V84(57);
+      var w05 = x7d.F4O(5, 0, 19, 15);
+      x7d.K2h(58);
+      var q20 = x7d.F4O(0, 19, 17, 1);
+      N5H =
+        this.pixelFromValue(t8s, this.p0[0], this.p0[w05], C28) -
+        this.getTextHeight() / q20;
+      d7P = z$w + this.w;
+      U8A = N5H + this.getTextHeight();
+      if (this.stem && this.stem.x) {
+        z$w += this.stem.x;
+        d7P += this.stem.x;
+        N5H += this.stem.y;
+        U8A += this.stem.y;
+      }
+      A0o = e7v.pixelFromTick(p9Z, t8s.chart);
+      y67 = e7v.pixelFromValueAdjusted(t8s, p9Z, X0o);
+      if (
+        A0o + c8I.r >= z$w &&
+        A0o - c8I.r <= d7P &&
+        y67 + c8I.r >= N5H &&
+        y67 - c8I.r <= U8A
+      ) {
+        this.highlighted = !![];
+        return {
+          p0: z1.clone(this.p0),
+          tick: p9Z,
+          value: this.valueOnDrawingAxis(p9Z, X0o),
+        };
+      }
+      u_V = this.lineIntersection(p9Z, X0o, c8I, "segment");
+      if (u_V) {
+        this.highlighted = !!1;
+        return {
+          action: "move",
+          stem: z1.clone(this.stem),
+          p0: z1.clone(this.p0),
+          tick: p9Z,
+          value: this.valueOnDrawingAxis(p9Z, X0o),
+        };
+      }
+      return null;
+    };
+    z1.Drawing.fibonacci = function () {
+      var i1P;
+      i1P = "fibon";
+      i1P += "a";
+      i1P += "cci";
+      this.name = "fibonacci";
+      this.configurator = i1P;
+    };
+    z1.inheritsFrom(z1.Drawing.fibonacci, z1.Drawing.BaseTwoPoint);
+    z1.Drawing.fibonacci.mapping = {
+      trend:
+        (6237, 1438) <= 34.34
+          ? (0x1350, !1)
+          : +"7048" !== (2546, +"671.6")
+            ? "t"
+            : 1970 === (9760, 6132)
+              ? "0x14bc" * 1
+              : (942.6, "g"),
+      color: "c",
+      parameters:
+        (+"6810", 4786) >= (6760, 7438)
+          ? 0x1879
+          : (399, +"2963") >= 2025
+            ? "p"
+            : 0x1fb2,
+      pattern: Z33,
+      opacity:
+        +"9924" < (666.46, 501.64)
+          ? 2766 != 2996
+            ? (446.21, +"0x17c7")
+            : 0x12e0
+          : "o",
+      lineWidth: "lw",
+      level: 4213 >= 8760 ? +"963.68" : 666.97 !== (6980, 8289) ? "l" : 132.85,
+      extendLeft: "e",
+      printLevels: "pl",
+      printValues: "pv",
+      timezone: "tz",
+      display: "d",
+    };
+    z1.Drawing.fibonacci.prototype.recommendedLevels = [
+      -0.618,
+      -0.382,
+      +"0",
+      0.382,
+      0.5,
+      0.618,
+      1,
+      1.382,
+      1.618,
+    ];
+    z1.Drawing.fibonacci.prototype.configs = [
+      "color",
+      B6z,
+      o8v,
+      "pattern",
+      v2k,
+    ];
+    z1.Drawing.fibonacci.prototype.initializeSettings = function (e1t) {
+      var y_I, v48;
+      y_I = this.recommendedLevels;
+      if (y_I && !e1t.currentVectorParameters.fibonacci.fibsAlreadySet) {
+        v48 = e1t.currentVectorParameters.fibonacci.fibs;
+        for (var q0M = 0; q0M < v48.length; q0M++) {
+          delete v48[q0M].display;
+          for (var z8x = 0; z8x < y_I.length; z8x++) {
+            if (v48[q0M].level == y_I[z8x]) {
+              v48[q0M].display = !![];
+            }
+          }
+        }
+      }
+    };
+    z1.Drawing.fibonacci.prototype.setOuter = function () {
+      var K1U,
+        u2q,
+        b7P,
+        V6r,
+        a12,
+        j$Q,
+        n$W,
+        h4E,
+        G5X,
+        O97,
+        v0H,
+        Q$5,
+        h_p,
+        w2$,
+        p55;
+      x7d.p24();
+      if (!this.p1) {
+        return;
+      }
+      K1U = this.stx;
+      u2q = K1U.panels[this.panelName];
+      if (!u2q) {
+        return;
+      }
+      b7P = Math.max(this.p0["1" ^ 0], this.p1[1]);
+      V6r = Math.min(this.p0[1], this.p1[1]);
+      x7d.K2h(4);
+      a12 = x7d.o6M(b7P, V6r);
+      this.outer = { p0: z1.clone(this.p0), p1: z1.clone(this.p1) };
+      j$Q = K1U.pixelFromTick(this.p0[0], u2q.chart);
+      n$W = K1U.pixelFromTick(this.p1[0], u2q.chart);
+      h4E = K1U.getYAxisByField(u2q, this.field);
+      G5X = this.pixelFromValue(u2q, this.p0[0], this.p0[1], h4E);
+      O97 = this.pixelFromValue(u2q, this.p1[0], this.p1[1], h4E);
+      v0H = 0;
+      Q$5 = 1;
+      for (var c4V = 0; c4V < this.parameters.fibs.length; c4V++) {
+        h_p = this.parameters.fibs[c4V];
+        if ((h_p.level >= v0H && h_p.level <= Q$5) || !h_p.display) continue;
+        w2$ = this.pixelFromValue(
+          u2q,
+          this.p0[0],
+          O97 < G5X ? b7P - a12 * h_p.level : V6r + a12 * h_p.level,
+          h4E,
+        );
+        p55 = z1.xIntersection({ x0: j$Q, x1: n$W, y0: G5X, y1: O97 }, w2$);
+        if (h_p.level < v0H) {
+          v0H = h_p.level;
+          this.outer.p1[1] = this.valueFromPixel(w2$, u2q, h4E);
+          this.outer.p1[+"0"] = K1U.tickFromPixel(p55, u2q.chart);
+        } else if (h_p.level > Q$5) {
+          Q$5 = h_p.level;
+          this.outer.p0[+"1"] = this.valueFromPixel(w2$, u2q, h4E);
+          this.outer.p0[0] = K1U.tickFromPixel(p55, u2q.chart);
+        }
+      }
+    };
+    z1.Drawing.fibonacci.prototype.click = function (f_2, O2k, n3U) {
+      var w_X;
+      w_X = this.stx.panels[this.panelName];
+      x7d.R4I();
+      if (!w_X) {
+        return;
+      }
+      this.copyConfig();
+      if (!this.penDown) {
+        this.setPoint(0, O2k, n3U, w_X.chart);
+        this.penDown = !0;
+        return !!"";
+      }
+      if (this.accidentalClick(O2k, n3U)) {
+        return !!{};
+      }
+      this.setPoint(1, O2k, n3U, w_X.chart);
+      this.setOuter();
+      this.parameters = z1.clone(this.parameters);
+      this.penDown = !"1";
+      return !![];
+    };
+    z1.Drawing.fibonacci.prototype.render = function (M40) {
+      var h$A,
+        U$1,
+        P0a,
+        y6C,
+        i9I,
+        p5E,
+        P3W,
+        i8H,
+        S0R,
+        g4B,
+        M8F,
+        A1E,
+        y5W,
+        K$w,
+        Q3T,
+        z6g,
+        W4p,
+        d8J,
+        Z9r,
+        U1O,
+        g9V,
+        h$F,
+        J_K,
+        x3W,
+        a9Q,
+        Z_3,
+        T7g,
+        U1J,
+        U9s,
+        i5F,
+        a4$,
+        m1W,
+        n39,
+        u4h,
+        P3D,
+        U08,
+        D_D,
+        B_V,
+        u9K,
+        R6f,
+        C1e,
+        q3Q;
+      h$A = "se";
+      h$A += "gme";
+      h$A += "nt";
+      U$1 = "mid";
+      U$1 += "dle";
+      P0a = this.stx;
+      y6C = P0a.panels[this.panelName];
+      i9I = P0a.getYAxisByField(y6C, this.field);
+      if (!y6C || (this.field && !i9I)) {
+        return;
+      }
+      i9I = i9I || y6C.yAxis;
+      if (!this.p1) {
+        return;
+      }
+      p5E = Math.max(this.p0[1], this.p1[1]);
+      P3W = Math.min(this.p0[1], this.p1[1]);
+      i8H = i9I.flipped ? P3W - p5E : p5E - P3W;
+      S0R = P0a.pixelFromTick(this.p0[0], y6C.chart);
+      g4B = P0a.pixelFromTick(this.p1[0], y6C.chart);
+      M8F = this.pixelFromValue(y6C, this.p0[0], this.p0[1], i9I);
+      A1E = this.pixelFromValue(y6C, this.p1[0], this.p1[1], i9I);
+      y5W = Math.min(A1E, M8F);
+      K$w = Math.max(A1E, M8F);
+      x7d.V84(4);
+      Q3T = x7d.F4O(K$w, y5W);
+      x7d.V84(59);
+      z6g = x7d.F4O(M8F, A1E, S0R, g4B, 0);
+      W4p = {
+        color: "auto",
+        parameters: { pattern: "solid", opacity: "0.25" * 1, lineWidth: 1 },
+      };
+      if (!this.parameters.trend) {
+        this.parameters.trend = W4p;
+      }
+      d8J = this.getLineColor(this.parameters.trend.color);
+      M40.textBaseline = U$1;
+      P0a.canvasFont("stx_yaxis", M40);
+      x7d.K2h(39);
+      var Z6d = x7d.o6M(350, 3, 15, 7, 20);
+      Z9r = M40.measureText("161.8%").width + Z6d;
+      U1O = Number.MAX_VALUE;
+      g9V = Number.MAX_VALUE;
+      x7d.K2h(60);
+      var q6F = x7d.o6M(9, 24, 16);
+      h$F = Number.MAX_VALUE * q6F;
+      x7d.V84(41);
+      var p2v = x7d.F4O(18, 495, 16, 13);
+      J_K = Number.MAX_VALUE * p2v;
+      x3W = this.getLineColor();
+      this.rays = [];
+      for (var F4S = 0; F4S < this.parameters.fibs.length; F4S++) {
+        a9Q = "und";
+        a9Q += "ef";
+        a9Q += "i";
+        a9Q += "ned";
+        Z_3 = "a";
+        Z_3 += "u";
+        Z_3 += "t";
+        Z_3 += "o";
+        T7g = "a";
+        T7g += "uto";
+        M40.textAlign = "left";
+        M40.fillStyle = x3W;
+        U1J = this.parameters.fibs[F4S];
+        if (!U1J.display) continue;
+        U9s = this.pixelFromValue(
+          y6C,
+          this.p0[0],
+          A1E < M8F ? p5E - i8H * U1J.level : P3W + i8H * U1J.level,
+          i9I,
+        );
+        i5F = z1.xIntersection({ x0: S0R, x1: g4B, y0: M8F, y1: A1E }, U9s);
+        a4$ = this.parameters.extendLeft ? +"0" : i5F;
+        m1W = y6C.left + y6C.width;
+        if (this.parameters.printLevels) {
+          x7d.V84(61);
+          var B$H = x7d.o6M(6, 7, 91, 6, 902);
+          x7d.V84(62);
+          var i1G = x7d.F4O(4225, 4215, 845);
+          x7d.V84(17);
+          var k3o = x7d.F4O(1341, 11, 5, 9);
+          x7d.V84(4);
+          var e5D = x7d.o6M(80622, 76143);
+          x7d.V84(44);
+          var T$t = x7d.F4O(634086, 19, 33570, 14);
+          x7d.K2h(63);
+          var j0N = x7d.o6M(6, 13, 890, 28246, 3);
+          x7d.V84(64);
+          var s1W = x7d.F4O(147, 4, 165, 151);
+          x7d.K2h(4);
+          var T_A = x7d.F4O(5404, 14);
+          x7d.K2h(65);
+          var c16 = x7d.F4O(6, 16, 18, 40020, 102715);
+          n39 =
+            Math.round(U1J.level * B$H) / ("10" - 0) +
+            ((i1G, k3o) >= 406.33
+              ? (e5D, T$t) === j0N
+                ? (s1W, T_A)
+                : "%"
+              : c16);
+          m1W -= Z9r;
+          if (this.parameters.printValues) {
+            u4h = "stx";
+            u4h += "_";
+            u4h += "yaxi";
+            u4h += "s";
+            M40.fillStyle = x3W;
+            P0a.canvasFont(u4h, M40);
+          }
+          if (m1W < a4$) {
+            M40.textAlign = "right";
+          }
+          M40.fillText(n39, m1W, U9s);
+          if (m1W < a4$) {
+            m1W += 5;
+          } else {
+            m1W -= 5;
+          }
+        }
+        if (this.parameters.printValues) {
+          if (i5F < y6C.width) {
+            P3D = this.valueFromPixel(U9s, y6C, i9I);
+            if (i9I.priceFormatter) {
+              P3D = i9I.priceFormatter(P0a, y6C, P3D);
+            } else {
+              P3D = P0a.formatYAxisPrice(P3D, y6C, null, i9I);
+            }
+            if (M40 == P0a.chart.context) {
+              P0a.endClip();
+            }
+            P0a.createYAxisLabel(
+              y6C,
+              P3D,
+              U9s,
+              this.getLineColor(null, !![]),
+              null,
+              M40,
+              i9I,
+            );
+            if (M40 == P0a.chart.context) {
+              P0a.startClip(y6C.name);
+            }
+          }
+        }
+        U08 = U1J.color;
+        if (U08 == T7g || z1.isTransparent(U08)) {
+          U08 = this.getLineColor();
+        }
+        D_D = U1J.color;
+        if (D_D == Z_3 || z1.isTransparent(D_D)) {
+          D_D = this.fillColor;
+        }
+        M40.fillStyle = this.getLineColor(D_D, !![]);
+        B_V = z1.clone(U1J.parameters);
+        if (this.highlighted) {
+          x7d.V84(7);
+          B_V.opacity = x7d.F4O(64, "1");
+        }
+        P0a.plotLine(a4$, m1W, U9s, U9s, U08, "segment", M40, y6C, B_V);
+        this.rays.push([
+          [a4$, U9s],
+          [m1W, U9s],
+        ]);
+        M40.globalAlpha = 0.05;
+        M40.beginPath();
+        M40.moveTo(m1W, U9s);
+        M40.lineTo(a4$, U9s);
+        if (a4$) {
+          M40.lineTo(g4B, A1E);
+        } else {
+          M40.lineTo(a4$, A1E);
+        }
+        M40.lineTo(m1W, A1E);
+        if (typeof D_D != a9Q) {
+          M40.fill();
+        }
+        M40.globalAlpha = 1;
+        if (U9s < g9V) {
+          U1O = i5F;
+          g9V = U9s;
+        }
+        if (U9s > J_K) {
+          h$F = i5F;
+          J_K = U9s;
+        }
+      }
+      x7d.R4I();
+      for (var e2O = 0; e2O <= +"1"; e2O++) {
+        u9K = z6g ? K$w - Q3T * e2O : y5W + Q3T * e2O;
+        u9K = Math.round(u9K);
+        if (u9K < g9V) {
+          U1O = z1.xIntersection({ x0: S0R, x1: g4B, y0: M8F, y1: A1E }, u9K);
+          g9V = u9K;
+        }
+        if (u9K > J_K) {
+          h$F = z1.xIntersection({ x0: S0R, x1: g4B, y0: M8F, y1: A1E }, u9K);
+          J_K = u9K;
+        }
+      }
+      R6f = z1.clone(this.parameters.trend.parameters);
+      if (this.highlighted) {
+        R6f.opacity = 1;
+      }
+      P0a.plotLine(U1O, h$F, g9V, J_K, d8J, h$A, M40, y6C, R6f);
+      if (this.highlighted) {
+        C1e = this.highlighted == "p0" ? !"" : !!"";
+        q3Q = this.highlighted == "p1" ? !0 : !"1";
+        this.littleCircle(M40, S0R, M8F, C1e);
+        this.littleCircle(M40, g4B, A1E, q3Q);
+      }
+    };
+    z1.Drawing.fibonacci.prototype.reposition = function (W7v, M10, x$g, C5E) {
+      if (!M10) {
+        return;
+      }
+      x7d.R4I();
+      z1.Drawing.BaseTwoPoint.prototype.reposition.apply(this, arguments);
+      this.adjust();
+    };
+    z1.Drawing.fibonacci.prototype.intersected = function (I4V, F6v, D6d) {
+      var x6b, y7k, f3G, H99, r8M, k6o, v0G, c$D;
+      x6b = this.p0;
+      y7k = this.p1;
+      if (!x6b || !y7k) {
+        return null;
+      }
+      f3G = { 0: x6b, 1: y7k };
+      x7d.p24();
+      for (var n_m in f3G) {
+        if (this.pointIntersection(f3G[n_m][0], f3G[n_m][1], D6d)) {
+          H99 = "dra";
+          H99 += "g";
+          x7d.V84(1);
+          this.highlighted = x7d.F4O(
+            5610 === 416
+              ? "3477" << 64 <= +"4900"
+                ? ("354.90" * 1, "Q")
+                : ("v", "S")
+              : "p",
+            n_m,
+          );
+          return {
+            action: H99,
+            point:
+              (1363 === +"4980"
+                ? 589.36 >= (1820, 983)
+                  ? 3.57e3
+                  : "F"
+                : "p") + n_m,
+          };
+        }
+      }
+      r8M = this.outer;
+      k6o = this.rays;
+      v0G =
+        r8M && this.lineIntersection(I4V, F6v, D6d, "segment", r8M.p0, r8M.p1);
+      if (!v0G) {
+        for (var F3K = "0" ^ 0; F3K < k6o.length; F3K++) {
+          c$D = "ra";
+          c$D += "y";
+          if (
+            this.lineIntersection(
+              I4V,
+              F6v,
+              D6d,
+              c$D,
+              k6o[F3K][0],
+              k6o[F3K][1],
+              !!{},
+            )
+          ) {
+            v0G = !"";
+            break;
+          }
+        }
+      }
+      if (v0G) {
+        this.highlighted = !!{};
+        return {
+          action: "move",
+          p0: z1.clone(x6b),
+          p1: z1.clone(y7k),
+          tick: I4V,
+          value: this.valueOnDrawingAxis(I4V, F6v),
+        };
+      }
+      return null;
+    };
+    z1.Drawing.fibonacci.prototype.reconstruct = function (V05, p$5) {
+      p$5 = z1.replaceFields(
+        p$5,
+        z1.reverseObject(z1.Drawing.fibonacci.mapping),
+      );
+      this.stx = V05;
+      this.parameters = p$5.parameters;
+      if (!this.parameters) {
+        this.parameters = z1.clone(this.stx.currentVectorParameters.fibonacci);
+      }
+      x7d.R4I();
+      this.color = p$5.col;
+      this.fillColor = p$5.fc;
+      this.panelName = p$5.pnl;
+      this.d0 = p$5.d0;
+      this.d1 = p$5.d1;
+      this.d2 = p$5.d2;
+      this.tzo0 = p$5.tzo0;
+      this.tzo1 = p$5.tzo1;
+      this.tzo2 = p$5.tzo2;
+      this.v0 = p$5.v0;
+      this.v1 = p$5.v1;
+      this.v2 = p$5.v2;
+      this.field = p$5.fld;
+      this.permanent = p$5.prm ? !!{} : ![];
+      this.hidden = p$5.hdn ? !![] : ![];
+      this.adjust();
+    };
+    z1.Drawing.fibonacci.prototype.adjust = function () {
+      var W5W;
+      W5W = this.stx.panels[this.panelName];
+      if (!W5W) {
+        return;
+      }
+      this.setPoint(+"0", this.d0, this.v0, W5W.chart);
+      this.setPoint(1, this.d1, this.v1, W5W.chart);
+      this.setOuter();
+    };
+    z1.Drawing.fibonacci.prototype.serialize = function () {
+      var Z$K;
+      Z$K = {
+        name: this.name,
+        parameters: this.parameters,
+        pnl: this.panelName,
+        col: this.color,
+        fc: this.fillColor,
+        d0: this.d0,
+        d1: this.d1,
+        d2: this.d2,
+        tzo0: this.tzo0,
+        tzo1: this.tzo1,
+        tzo2: this.tzo2,
+        v0: this.v0,
+        v1: this.v1,
+        v2: this.v2,
+        fld: this.field,
+        prm: this.permanent ? 1 : "0" << 64,
+        hdn: this.hidden ? 1 : 0,
+      };
+      return z1.replaceFields(Z$K, z1.Drawing.fibonacci.mapping);
+    };
+    z1.Drawing.retracement = function () {
+      x7d.R4I();
+      this.name = "retracement";
+    };
+    z1.inheritsFrom(z1.Drawing.retracement, z1.Drawing.fibonacci);
+    z1.Drawing.fibprojection = function () {
+      this.name = "fibprojection";
+      this.dragToDraw = !!0;
+      x7d.p24();
+      this.p2 = null;
+    };
+    z1.inheritsFrom(z1.Drawing.fibprojection, z1.Drawing.fibonacci);
+    x7d.V84(45);
+    z1.Drawing.fibprojection.prototype.recommendedLevels = [
+      x7d.F4O("0", 0),
+      x7d.F4O("0.618", 1, x7d.K2h(3)),
+      1,
+      1.272,
+      1.618,
+      2.618,
+      4.236,
+    ];
+    z1.Drawing.fibprojection.prototype.click = function (j5c, A85, y3h) {
+      var V82, N6x, D5Z, j3U, i_s;
+      V82 = this.stx;
+      N6x = V82.panels[this.panelName];
+      if (!N6x) {
+        return;
+      }
+      this.copyConfig();
+      if (!this.penDown) {
+        this.setPoint(0, A85, y3h, N6x.chart);
+        this.penDown = !!"1";
+        return ![];
+      }
+      if (this.accidentalClick(A85, y3h)) {
+        V82.undo();
+        return !![];
+      }
+      if (this.p2 !== null) {
+        this.setPoint(2, this.p2["0" >> 32], this.p2[+"1"], N6x.chart);
+        this.parameters = z1.clone(this.parameters);
+        D5Z = 2018470309;
+        j3U = -813936800;
+        i_s = +"2";
+        for (
+          var O$1 = 1;
+          x7d.o0D(O$1.toString(), O$1.toString().length, 9396) !== D5Z;
+          O$1++
+        ) {
+          return !![];
+        }
+        if (x7d.S6r(i_s.toString(), i_s.toString().length, 8214) !== j3U) {
+          return ![];
+        }
+      }
+      this.setPoint(+"1", A85, y3h, N6x.chart);
+      x7d.V84(7);
+      this.p2 = [this.p1[+"0"], this.p1[x7d.o6M(0, "1")]];
+      return !!"";
+    };
+    z1.Drawing.fibprojection.prototype.render = function (S_x) {
+      var y7$,
+        B1Z,
+        k6r,
+        p7Q,
+        N2s,
+        P3c,
+        d_9,
+        D$v,
+        G_m,
+        h6D,
+        c6$,
+        Q4o,
+        K3q,
+        j0O,
+        V8F,
+        p9n,
+        h9J,
+        t$L,
+        W4T,
+        S_T,
+        t5Y,
+        Y8K,
+        e5g,
+        w$j,
+        e8G,
+        a6N,
+        c0p,
+        K1_,
+        H3V,
+        w2E,
+        r$J,
+        l_N;
+      y7$ = "seg";
+      y7$ += "m";
+      y7$ += "e";
+      y7$ += "nt";
+      B1Z = "a";
+      B1Z += "u";
+      B1Z += "t";
+      B1Z += "o";
+      k6r = this.stx;
+      p7Q = k6r.panels[this.panelName];
+      N2s = k6r.getYAxisByField(p7Q, this.field);
+      if (!p7Q || (this.field && !N2s)) {
+        return;
+      }
+      N2s = N2s || p7Q.yAxis;
+      if (!this.p1) {
+        return;
+      }
+      x7d.V84(46);
+      var Q1r = x7d.F4O(0, 13, 183, 7, 2);
+      x7d.K2h(66);
+      var p98 = x7d.o6M(22, 19, 2, 1);
+      P3c = this.p1[Q1r] - this.p0[p98];
+      d_9 = k6r.pixelFromTick(this.p0[+"0"], p7Q.chart);
+      D$v = k6r.pixelFromTick(this.p1[0], p7Q.chart);
+      G_m = this.pixelFromValue(p7Q, this.p0["0" << 64], this.p0[1], N2s);
+      h6D = this.pixelFromValue(p7Q, this.p1[0], this.p1[1], N2s);
+      c6$ = null;
+      Q4o = null;
+      if (this.p2) {
+        c6$ = k6r.pixelFromTick(this.p2[0], p7Q.chart);
+        Q4o = this.pixelFromValue(p7Q, this.p2[0], this.p2[+"1"], N2s);
+      }
+      K3q = {
+        color: B1Z,
+        parameters: { pattern: "solid", opacity: "0.25" - 0, lineWidth: 1 },
+      };
+      if (!this.parameters.trend) {
+        this.parameters.trend = K3q;
+      }
+      j0O = this.getLineColor(this.parameters.trend.color);
+      S_x.textBaseline = "middle";
+      k6r.canvasFont("stx_yaxis", S_x);
+      x7d.V84(67);
+      var c_p = x7d.o6M(19, 14, 30, 15);
+      V8F = S_x.measureText("161.8%").width + c_p;
+      p9n = this.getLineColor();
+      if (this.p2) {
+        this.rays = [];
+        for (var J0f = +"0"; J0f < this.parameters.fibs.length; J0f++) {
+          h9J = "aut";
+          h9J += "o";
+          S_x.textAlign = "left";
+          S_x.fillStyle = p9n;
+          t$L = this.parameters.fibs[J0f];
+          if (!t$L.display) continue;
+          W4T = this.pixelFromValue(
+            p7Q,
+            this.p2[0],
+            this.p2[1] + P3c * t$L.level,
+            N2s,
+          );
+          S_T = z1.xIntersection({ x0: d_9, x1: D$v, y0: G_m, y1: h6D }, W4T);
+          t5Y = this.parameters.extendLeft ? 0 : d_9;
+          Y8K = p7Q.left + p7Q.width;
+          if (this.parameters.printLevels) {
+            e5g = "r";
+            e5g += "ig";
+            e5g += "h";
+            e5g += "t";
+            x7d.V84(68);
+            var s0u = x7d.o6M(1, 986, 13);
+            w$j = Math.round(t$L.level * s0u) / +"10" + "%";
+            Y8K -= V8F;
+            if (this.parameters.printValues) {
+              S_x.fillStyle = p9n;
+              k6r.canvasFont("stx_yaxis", S_x);
+            }
+            if (Y8K < t5Y) {
+              S_x.textAlign = e5g;
+            }
+            S_x.fillText(w$j, Y8K, W4T);
+            if (Y8K < t5Y) {
+              Y8K += 5;
+            } else {
+              Y8K -= 5;
+            }
+          }
+          if (this.parameters.printValues) {
+            if (S_T < p7Q.width) {
+              e8G = this.valueFromPixel(W4T, p7Q, N2s);
+              if (N2s.priceFormatter) {
+                e8G = N2s.priceFormatter(k6r, p7Q, e8G);
+              } else {
+                e8G = k6r.formatYAxisPrice(e8G, p7Q, null, N2s);
+              }
+              if (S_x == k6r.chart.context) {
+                k6r.endClip();
+              }
+              k6r.createYAxisLabel(
+                p7Q,
+                e8G,
+                W4T,
+                this.getLineColor(null, !0),
+                null,
+                S_x,
+                N2s,
+              );
+              if (S_x == k6r.chart.context) {
+                k6r.startClip(p7Q.name);
+              }
+            }
+          }
+          a6N = t$L.color;
+          if (a6N == "auto" || z1.isTransparent(a6N)) {
+            a6N = this.getLineColor();
+          }
+          c0p = t$L.color;
+          if (c0p == h9J || z1.isTransparent(c0p)) {
+            c0p = this.fillColor;
+          }
+          S_x.fillStyle = this.getLineColor(c0p, !!1);
+          K1_ = z1.clone(t$L.parameters);
+          if (this.highlighted) {
+            K1_.opacity = 1;
+          }
+          k6r.plotLine(t5Y, Y8K, W4T, W4T, a6N, "segment", S_x, p7Q, K1_);
+          this.rays.push([
+            [t5Y, W4T],
+            [Y8K, W4T],
+          ]);
+          S_x.globalAlpha = 0.05;
+          S_x.beginPath();
+          S_x.moveTo(Y8K, W4T);
+          S_x.lineTo(t5Y, W4T);
+          if (t5Y) {
+            S_x.lineTo(d_9, Q4o);
+          } else {
+            S_x.lineTo(t5Y, Q4o);
+          }
+          S_x.lineTo(Y8K, Q4o);
+          if (typeof c0p != "undefined") {
+            S_x.fill();
+          }
+          S_x.globalAlpha = 1;
+        }
+      }
+      H3V = z1.clone(this.parameters.trend.parameters);
+      if (this.highlighted) {
+        H3V.opacity = 1;
+      }
+      k6r.plotLine(d_9, D$v, G_m, h6D, j0O, "segment", S_x, p7Q, H3V);
+      if (this.p2) {
+        k6r.plotLine(D$v, c6$, h6D, Q4o, j0O, y7$, S_x, p7Q, H3V);
+      }
+      if (this.highlighted) {
+        w2E = this.highlighted == "p0" ? !![] : ![];
+        r$J = this.highlighted == "p1" ? !![] : !1;
+        l_N = this.highlighted == "p2" ? !![] : !{};
+        this.littleCircle(S_x, d_9, G_m, w2E);
+        this.littleCircle(S_x, D$v, h6D, r$J);
+        this.littleCircle(S_x, c6$, Q4o, l_N);
+      }
+    };
+    z1.Drawing.fibprojection.prototype.move = function (V_T, l$I, q7M) {
+      if (!this.penDown) {
+        this.moving = !{};
+        return;
+      }
+      this.moving = !![];
+      this.copyConfig();
+      if (this.p2 === null) {
+        this.p1 = [l$I, q7M];
+      } else {
+        this.p2 = [l$I, q7M];
+      }
+      x7d.p24();
+      this.render(V_T);
+    };
+    z1.Drawing.fibprojection.prototype.reposition = function (
+      k63,
+      m39,
+      s20,
+      K7T,
+    ) {
+      var V_G, F_j, i1c;
+      x7d.R4I();
+      if (!m39) {
+        return;
+      }
+      V_G = this.stx.panels[this.panelName];
+      F_j = m39.tick - s20;
+      i1c = m39.value - K7T;
+      if (m39.action == "move") {
+        this.setPoint(0, m39.p0[0] - F_j, m39.p0[1] - i1c, V_G.chart);
+        this.setPoint(1, m39.p1["0" * 1] - F_j, m39.p1[1] - i1c, V_G.chart);
+        this.setPoint(2, m39.p2[0] - F_j, m39.p2[1] - i1c, V_G.chart);
+        this.render(k63);
+      } else if (m39.action == "drag") {
+        this[m39.point] = [s20, K7T];
+        this.setPoint(0, this.p0[+"0"], this.p0[1], V_G.chart);
+        x7d.K2h(11);
+        this.setPoint(x7d.o6M(0, "1"), this.p1[0], this.p1[1], V_G.chart);
+        this.setPoint(2, this.p2[0], this.p2[1], V_G.chart);
+        this.render(k63);
+      }
+    };
+    z1.Drawing.fibprojection.prototype.intersected = function (A7J, N44, D3Y) {
+      var A5r, q1d, d51, H0P, U3i, a8H;
+      A5r = this.p0;
+      q1d = this.p1;
+      d51 = this.p2;
+      if (!A5r || !q1d || !d51) {
+        return null;
+      }
+      H0P = { 0: A5r, 1: q1d, 2: d51 };
+      for (var f1p in H0P) {
+        if (this.pointIntersection(H0P[f1p][0], H0P[f1p][1], D3Y)) {
+          x7d.V84(1);
+          this.highlighted = x7d.F4O(
+            (1269, 585.58) !== ("8010" ^ 0)
+              ? (258.72, 3800) !== 2777
+                ? "p"
+                : (5.92e2, 0x11e8)
+              : (!!1, 328.95),
+            f1p,
+          );
+          return {
+            action: "drag",
+            point: ((7430, 2780) !== 32.4 ? "p" : "58.29" * 1) + f1p,
+          };
+        }
+      }
+      U3i = this.rays;
+      a8H =
+        this.lineIntersection(A7J, N44, D3Y, "segment", A5r, q1d) ||
+        this.lineIntersection(A7J, N44, D3Y, "segment", q1d, d51);
+      x7d.R4I();
+      if (!a8H) {
+        for (var e2h = 0; e2h < U3i.length; e2h++) {
+          if (
+            this.lineIntersection(
+              A7J,
+              N44,
+              D3Y,
+              "ray",
+              U3i[e2h]["0" >> 0],
+              U3i[e2h][1],
+              !"",
+            )
+          ) {
+            a8H = !"";
+            break;
+          }
+        }
+      }
+      if (a8H) {
+        this.highlighted = !!1;
+        return {
+          action: "move",
+          p0: z1.clone(A5r),
+          p1: z1.clone(q1d),
+          p2: z1.clone(d51),
+          tick: A7J,
+          value: this.valueOnDrawingAxis(A7J, N44),
+        };
+      }
+      return null;
+    };
+    z1.Drawing.fibprojection.prototype.adjust = function () {
+      var p2B;
+      p2B = this.stx.panels[this.panelName];
+      if (!p2B) {
+        return;
+      }
+      this.setPoint(+"0", this.d0, this.v0, p2B.chart);
+      this.setPoint(1, this.d1, this.v1, p2B.chart);
+      this.setPoint(2, this.d2, this.v2, p2B.chart);
+    };
+    z1.Drawing.fibarc = function () {
+      x7d.R4I();
+      this.name = "fibarc";
+    };
+    z1.inheritsFrom(z1.Drawing.fibarc, z1.Drawing.fibonacci);
+    z1.Drawing.fibarc.prototype.recommendedLevels = [0.382, 0.5, 0.618, 1];
+    z1.Drawing.fibarc.prototype.setOuter = function () {
+      var i9i, k5m, Z3a, f7Y, G7H, U4h, j9U, R8v, p2J;
+      if (!this.p1) {
+        return;
+      }
+      i9i = this.stx;
+      k5m = i9i.panels[this.panelName];
+      if (!k5m) {
+        return;
+      }
+      this.outer = { p0: z1.clone(this.p0), p1: z1.clone(this.p1) };
+      Z3a = i9i.getYAxisByField(k5m, this.field);
+      x7d.p24();
+      f7Y = this.pixelFromValue(k5m, this.p0[0], this.p0[1], Z3a);
+      G7H = this.pixelFromValue(k5m, this.p1[0], this.p1[1], Z3a);
+      U4h = i9i.pixelFromTick(this.p0[0], k5m.chart);
+      j9U = i9i.pixelFromTick(this.p1[0], k5m.chart);
+      x7d.K2h(34);
+      R8v = x7d.o6M(f7Y, 2, G7H);
+      p2J = z1.xIntersection({ x0: U4h, x1: j9U, y0: f7Y, y1: G7H }, R8v);
+      this.outer.p0[1] = this.valueFromPixel(R8v, k5m, Z3a);
+      this.outer.p0[0] = i9i.tickFromPixel(p2J, k5m.chart);
+    };
+    z1.Drawing.fibarc.prototype.intersected = function (Q9s, T1F, x1T) {
+      var s39, i5t, V5C, K0O, S4u, e0b, b6q, o$E, T9e, n3E, p4M, e9v, u7O, K6q;
+      s39 = this.stx;
+      i5t = s39.panels[this.panelName];
+      x7d.p24();
+      if (!i5t) {
+        return;
+      }
+      V5C = this.p0;
+      K0O = this.p1;
+      S4u = this.outer;
+      if (!V5C || !K0O) {
+        return null;
+      }
+      e0b = { 0: V5C, 1: K0O };
+      for (var m_2 in e0b) {
+        if (this.pointIntersection(e0b[m_2][0], e0b[m_2][1], x1T)) {
+          b6q = "d";
+          b6q += "rag";
+          x7d.K2h(1);
+          this.highlighted = x7d.o6M(
+            7230 < 3795 ? !{} : 116.01 == 6690 ? 12.86 : "p",
+            m_2,
+          );
+          return {
+            action: b6q,
+            point:
+              ((3520, 4307) <= "816.72" * 1
+                ? (5952, 8340) == (956.86, "6340" << 32)
+                  ? 0xb94
+                  : "k"
+                : "p") + m_2,
+          };
+        }
+      }
+      o$E = this.valueOnDrawingAxis(Q9s, T1F);
+      if (this.lineIntersection(Q9s, o$E, x1T, "segment", S4u.p0, S4u.p1)) {
+        this.highlighted = !"";
+        return {
+          action: "move",
+          p0: z1.clone(V5C),
+          p1: z1.clone(K0O),
+          tick: Q9s,
+          value: o$E,
+        };
+      }
+      T9e = s39.getYAxisByField(i5t, this.field);
+      n3E = { x0: V5C[0], x1: K0O[0], y0: V5C[1], y1: K0O[1] };
+      p4M = this.boxToPixels(s39, this.panelName, n3E, T9e);
+      e9v = {
+        x: Math.abs(Math.sqrt(2) * (p4M.x1 - p4M.x0)),
+        y: Math.abs(Math.sqrt(2) * (p4M.y1 - p4M.y0)),
+      };
+      u7O = s39.pixelFromTick(Q9s, i5t.chart);
+      K6q = s39.pixelFromValueAdjusted(i5t, Q9s, T1F);
+      if (u7O + x1T.r < p4M.x1 - e9v.x || u7O - x1T.r > p4M.x1 + e9v.x) {
+        return null;
+      }
+      if (K6q + x1T.r < p4M.y1 - e9v.y || K6q - x1T.r > p4M.y1 + e9v.y) {
+        return null;
+      }
+      if (p4M.y0 < p4M.y1 && K6q - x1T.r > p4M.y1) {
+        return null;
+      }
+      if (p4M.y0 > p4M.y1 && K6q + x1T.r < p4M.y1) {
+        return null;
+      }
+      this.highlighted = !!1;
+      return {
+        action: "move",
+        p0: z1.clone(this.p0),
+        p1: z1.clone(this.p1),
+        tick: Q9s,
+        value: o$E,
+      };
+    };
+    z1.Drawing.fibarc.prototype.render = function (N3G) {
+      var d1g,
+        m6i,
+        D8g,
+        T7v,
+        L2l,
+        E$3,
+        f36,
+        J4s,
+        z3u,
+        q6E,
+        k96,
+        X7$,
+        H8S,
+        t_1,
+        j9G,
+        o4V,
+        D1M,
+        O1q,
+        E96,
+        p9T,
+        E00,
+        K3c,
+        p$T,
+        K7v,
+        K_N,
+        z5A;
+      d1g = this.stx;
+      m6i = d1g.panels[this.panelName];
+      D8g = d1g.getYAxisByField(m6i, this.field);
+      if (!m6i || (this.field && !D8g)) {
+        return;
+      }
+      D8g = D8g || m6i.yAxis;
+      if (!this.p1) {
+        return;
+      }
+      T7v = d1g.pixelFromTick(this.p0[0], m6i.chart);
+      L2l = d1g.pixelFromTick(this.p1[0], m6i.chart);
+      E$3 = this.pixelFromValue(m6i, this.p0[0], this.p0[1], D8g);
+      f36 = this.pixelFromValue(m6i, this.p1["0" * 1], this.p1[1], D8g);
+      x7d.V84(69);
+      J4s = x7d.o6M(f36, E$3);
+      x7d.K2h(70);
+      z3u = Math.abs(x7d.F4O(E$3, L2l, f36, T7v));
+      q6E = this.getLineColor(this.parameters.trend.color);
+      N3G.textBaseline = "middle";
+      d1g.canvasFont("stx_yaxis", N3G);
+      k96 = this.getLineColor();
+      for (var E84 = 0; E84 < this.parameters.fibs.length; E84++) {
+        X7$ = "no";
+        X7$ += "n";
+        X7$ += "e";
+        H8S = "au";
+        H8S += "to";
+        N3G.fillStyle = k96;
+        t_1 = this.parameters.fibs[E84];
+        if (t_1.level < 0 || !t_1.display) continue;
+        x7d.K2h(71);
+        var q1b = x7d.F4O(9, 20, 29, 15, 15);
+        x7d.K2h(21);
+        var T6R = x7d.o6M(1, 13, 14);
+        x7d.K2h(8);
+        var O4J = x7d.F4O(6, 8);
+        j9G =
+          Math.abs(this.p1[q1b] - this.p0[T6R]) * Math.sqrt(O4J) * t_1.level;
+        x7d.K2h(72);
+        var F4m = x7d.F4O(25, 2, 16, 9, 0);
+        x7d.V84(31);
+        var P2K = x7d.o6M(9, 9, 5, 18);
+        x7d.V84(38);
+        var l3Z = x7d.o6M(16, 20, 25, 12);
+        x7d.V84(73);
+        var C31 = x7d.o6M(11, 3, 0, 32);
+        x7d.K2h(34);
+        var C8M = x7d.F4O(19, 8, 151);
+        o4V =
+          this.p1[F4m] + j9G * (J4s ? P2K : l3Z) * (D8g.flipped ? C31 : C8M);
+        D1M = this.pixelFromValue(m6i, this.p0[0], o4V, D8g);
+        O1q = z1.xIntersection({ x0: T7v, x1: L2l, y0: E$3, y1: f36 }, D1M);
+        if (this.parameters.printLevels) {
+          N3G.textAlign = "center";
+          x7d.K2h(58);
+          var d4K = x7d.F4O(59, 987, 7, 4);
+          x7d.K2h(74);
+          var i7b = x7d.o6M(8, 12, 2, 8);
+          x7d.V84(41);
+          var v56 = x7d.F4O(7, 29, 2, 7);
+          x7d.V84(16);
+          var T83 = x7d.F4O(83430, 74168, 8);
+          E96 =
+            Math.round(t_1.level * d4K) / i7b +
+            ((+"849.94", 642.16) > (+"975.01", "707.96" * v56)
+              ? (+"4.40e+3", T83)
+              : "%");
+          if (this.parameters.printValues) {
+            p9T = "st";
+            p9T += "x_yaxis";
+            N3G.fillStyle = k96;
+            d1g.canvasFont(p9T, N3G);
+          }
+          N3G.fillText(E96, L2l, Math.round(D1M - 5));
+        }
+        N3G.textAlign = "left";
+        if (this.parameters.printValues) {
+          if (O1q < m6i.width) {
+            E00 = o4V;
+            if (D8g.priceFormatter) {
+              E00 = D8g.priceFormatter(d1g, m6i, E00);
+            } else {
+              E00 = d1g.formatYAxisPrice(E00, m6i, null, D8g);
+            }
+            if (N3G == d1g.chart.context) {
+              d1g.endClip();
+            }
+            d1g.createYAxisLabel(
+              m6i,
+              E00,
+              D1M,
+              this.getLineColor(null, !!{}),
+              null,
+              N3G,
+              D8g,
+            );
+            if (N3G == d1g.chart.context) {
+              d1g.startClip(m6i.name);
+            }
+          }
+        }
+        K3c = t_1.color;
+        if (K3c == "auto" || z1.isTransparent(K3c)) {
+          K3c = this.getLineColor();
+        }
+        N3G.strokeStyle = K3c;
+        p$T = t_1.color;
+        if (p$T == H8S || z1.isTransparent(p$T)) {
+          p$T = this.fillColor;
+        }
+        N3G.fillStyle = this.getLineColor(p$T, !!1);
+        N3G.globalAlpha = this.highlighted ? 1 : t_1.parameters.opacity;
+        N3G.lineWidth = t_1.parameters.lineWidth;
+        if (N3G.setLineDash) {
+          N3G.setLineDash(
+            z1.borderPatternToArray(N3G.lineWidth, t_1.parameters.pattern),
+          );
+          N3G.lineDashOffset = 0;
+        }
+        N3G.save();
+        N3G.beginPath();
+        x7d.K2h(12);
+        N3G.scale(x7d.F4O(z3u, 1), 1);
+        x7d.V84(3);
+        N3G.arc(x7d.o6M(L2l, z3u), f36, Math.abs(D1M - f36), 0, Math.PI, !J4s);
+        if (this.pattern != X7$) {
+          N3G.stroke();
+        }
+        N3G.globalAlpha = 0.05;
+        N3G.fill();
+        N3G.restore();
+        if (N3G.setLineDash) {
+          N3G.setLineDash([]);
+        }
+        N3G.globalAlpha = 1;
+      }
+      N3G.textAlign = "left";
+      K7v = z1.clone(this.parameters.trend.parameters);
+      if (this.highlighted) {
+        K7v.opacity = 1;
+      }
+      x7d.K2h(34);
+      d1g.plotLine(
+        L2l,
+        x7d.F4O(T7v, 2, L2l),
+        f36,
+        x7d.o6M(E$3, 2, f36),
+        q6E,
+        "segment",
+        N3G,
+        m6i,
+        K7v,
+      );
+      if (this.highlighted) {
+        K_N = this.highlighted == "p0" ? !!{} : !!"";
+        z5A = this.highlighted == "p1" ? !!"1" : !{};
+        this.littleCircle(N3G, T7v, E$3, K_N);
+        this.littleCircle(N3G, L2l, f36, z5A);
+      }
+    };
+    z1.Drawing.fibfan = function () {
+      x7d.p24();
+      this.name = "fibfan";
+    };
+    z1.inheritsFrom(z1.Drawing.fibfan, z1.Drawing.fibonacci);
+    z1.Drawing.fibfan.prototype.recommendedLevels = [
+      +"0",
+      0.382,
+      0.5,
+      0.618,
+      1,
+    ];
+    z1.Drawing.fibfan.prototype.setOuter = function () {};
+    z1.Drawing.fibfan.prototype.render = function (N4r) {
+      var M83,
+        p7S,
+        K8T,
+        e08,
+        i5a,
+        z5V,
+        Z0e,
+        X07,
+        A1b,
+        E0f,
+        T4A,
+        C$5,
+        N1f,
+        q23,
+        v3L,
+        Z1c,
+        J8y,
+        v0V,
+        L3S,
+        O8E,
+        H2Z,
+        V3_,
+        Q4L,
+        V9f,
+        d3X,
+        v50,
+        S5T,
+        y2S,
+        s1T,
+        V7y,
+        B9Q;
+      M83 = this.stx;
+      p7S = M83.panels[this.panelName];
+      K8T = M83.getYAxisByField(p7S, this.field);
+      if (!p7S || (this.field && !K8T)) {
+        return;
+      }
+      K8T = K8T || p7S.yAxis;
+      if (!this.p1) {
+        return;
+      }
+      e08 = M83.pixelFromTick(this.p0[0], p7S.chart);
+      i5a = M83.pixelFromTick(this.p1[0], p7S.chart);
+      z5V = this.pixelFromValue(p7S, this.p0[0], this.p0[1], K8T);
+      Z0e = this.pixelFromValue(p7S, this.p1[0], this.p1[1], K8T);
+      X07 = Math.min(Z0e, z5V);
+      A1b = Math.max(Z0e, z5V);
+      x7d.V84(4);
+      E0f = x7d.o6M(A1b, X07);
+      x7d.K2h(59);
+      T4A = x7d.F4O(z5V, Z0e, e08, i5a, 0);
+      C$5 = this.getLineColor(this.parameters.trend.color);
+      N4r.textBaseline = "middle";
+      M83.canvasFont("stx_yaxis", N4r);
+      x7d.V84(75);
+      var w9i = x7d.F4O(2, 3, 23, 1, 18);
+      N1f = N4r.measureText("161.8%").width + w9i;
+      q23 = Number.MAX_VALUE;
+      x7d.K2h(20);
+      var y6o = x7d.F4O(168, 13, 13);
+      v3L = Number.MAX_VALUE * y6o;
+      Z1c = this.getLineColor();
+      this.rays = [];
+      for (var O0C = 0; O0C < this.parameters.fibs.length; O0C++) {
+        N4r.fillStyle = Z1c;
+        J8y = this.parameters.fibs[O0C];
+        if (!J8y.display) continue;
+        v0V = this.pixelFromValue(
+          p7S,
+          this.p0[0],
+          (this.p0[1] - this.p1[1]) * J8y.level + this.p1[1],
+          K8T,
+        );
+        L3S = z1.xIntersection({ x0: i5a, x1: i5a, y0: z5V, y1: Z0e }, v0V);
+        O8E = p7S.left;
+        if (i5a > e08) {
+          O8E += p7S.width;
+        }
+        x7d.K2h(76);
+        H2Z = x7d.F4O(L3S, z5V, v0V, z5V, e08, e08, O8E);
+        if (
+          e08 > O8E - (this.parameters.printLevels ? N1f + 5 : 0) &&
+          i5a > e08
+        )
+          continue;
+        else if (
+          e08 < O8E + (this.parameters.printLevels ? N1f + 5 : 0) &&
+          i5a < e08
+        )
+          continue;
+        if (this.parameters.printLevels) {
+          x7d.V84(77);
+          var y8V = x7d.o6M(43, 1011, 12, 3, 17);
+          x7d.K2h(78);
+          var w7c = x7d.o6M(2, 14, 2, 380, 180);
+          x7d.K2h(4);
+          var s3L = x7d.o6M(4115, 3292);
+          x7d.K2h(4);
+          var d6o = x7d.F4O(2750, 2200);
+          x7d.K2h(79);
+          var R79 = x7d.F4O(384, 3, 64);
+          x7d.K2h(4);
+          var u3I = x7d.o6M(3965, 15);
+          V3_ =
+            Math.round(J8y.level * y8V) / w7c +
+            ((499.32, 278.46) == (s3L, d6o)
+              ? !![]
+              : ("6610" >> R79, 200.77) != 496.7
+                ? "%"
+                : u3I);
+          if (i5a > e08) {
+            O8E -= N1f;
+            N4r.textAlign = "left";
+          } else {
+            O8E += N1f;
+            N4r.textAlign = "right";
+          }
+          if (this.parameters.printValues) {
+            Q4L = "stx";
+            Q4L += "_";
+            Q4L += "yax";
+            Q4L += "is";
+            N4r.fillStyle = Z1c;
+            M83.canvasFont(Q4L, N4r);
+          }
+          x7d.K2h(76);
+          H2Z = x7d.F4O(L3S, z5V, v0V, z5V, e08, e08, O8E);
+          N4r.fillText(V3_, O8E, H2Z);
+          if (i5a > e08) {
+            O8E -= 5;
+          } else {
+            O8E += 5;
+          }
+        }
+        N4r.textAlign = "left";
+        if (this.parameters.printValues) {
+          if (L3S < p7S.width) {
+            V9f = this.valueFromPixel(v0V, p7S, K8T);
+            if (K8T.priceFormatter) {
+              V9f = K8T.priceFormatter(M83, p7S, V9f);
+            } else {
+              V9f = M83.formatYAxisPrice(V9f, p7S, null, K8T);
+            }
+            if (N4r == M83.chart.context) {
+              M83.endClip();
+            }
+            M83.createYAxisLabel(
+              p7S,
+              V9f,
+              v0V,
+              this.getLineColor(null, !""),
+              null,
+              N4r,
+              K8T,
+            );
+            if (N4r == M83.chart.context) {
+              M83.startClip(p7S.name);
+            }
+          }
+        }
+        d3X = J8y.color;
+        if (d3X == "auto" || z1.isTransparent(d3X)) {
+          d3X = this.getLineColor();
+        }
+        v50 = J8y.color;
+        if (v50 == "auto" || z1.isTransparent(v50)) {
+          v50 = this.fillColor;
+        }
+        N4r.fillStyle = this.getLineColor(v50, !!"1");
+        if (this.parameters.printLevels) {
+          x7d.V84(76);
+          H2Z = x7d.F4O(L3S, z5V, v0V, z5V, e08, e08, O8E);
+        }
+        S5T = z1.clone(J8y.parameters);
+        if (this.highlighted) {
+          S5T.opacity = +"1";
+        }
+        M83.plotLine(e08, O8E, z5V, H2Z, d3X, "segment", N4r, p7S, S5T);
+        this.rays.push([
+          [e08, z5V],
+          [O8E, H2Z],
+        ]);
+        N4r.globalAlpha = 0.05;
+        N4r.beginPath();
+        N4r.moveTo(O8E, H2Z);
+        N4r.lineTo(e08, z5V);
+        N4r.lineTo(O8E, z5V);
+        N4r.fill();
+        N4r.globalAlpha = 1;
+        if (v0V < q23) {
+          q23 = v0V;
+        }
+        if (v0V > v3L) {
+          v3L = v0V;
+        }
+      }
+      for (var r3$ = 0; r3$ <= 1; r3$++) {
+        y2S = T4A ? A1b - E0f * r3$ : X07 + E0f * r3$;
+        y2S = Math.round(y2S);
+        if (y2S < q23) {
+          q23 = y2S;
+        }
+        if (y2S > v3L) {
+          v3L = y2S;
+        }
+      }
+      if (this.highlighted) {
+        s1T = "p";
+        s1T += "0";
+        V7y = this.highlighted == s1T ? !![] : !!0;
+        B9Q = this.highlighted == "p1" ? !![] : !"1";
+        this.littleCircle(N4r, e08, z5V, V7y);
+        this.littleCircle(N4r, i5a, Z0e, B9Q);
+      }
+    };
+    z1.Drawing.fibtimezone = function () {
+      var S7P;
+      S7P = "f";
+      S7P += "ibti";
+      S7P += "mezo";
+      S7P += "ne";
+      this.name = S7P;
+    };
+    z1.inheritsFrom(z1.Drawing.fibtimezone, z1.Drawing.fibonacci);
+    z1.Drawing.fibtimezone.prototype.render = function (N$B) {
+      var n0j,
+        o21,
+        Y6I,
+        Q7I,
+        M6n,
+        P1u,
+        a7V,
+        Y$4,
+        o5k,
+        k_3,
+        V5x,
+        r0h,
+        e2_,
+        K5i,
+        P8k,
+        M3g,
+        f4C,
+        d5H,
+        A_I,
+        l2X,
+        U7_,
+        Y8A,
+        l$z;
+      var { stx: B_q } = this;
+      n0j = B_q.panels[this.panelName];
+      o21 = B_q.getYAxisByField(n0j, this.field);
+      if (!n0j || (this.field && !o21)) {
+        return;
+      }
+      o21 = o21 || n0j.yAxis;
+      if (!this.p1) {
+        return;
+      }
+      Y6I = z1.strToDateTime(this.d0);
+      x7d.R4I();
+      Q7I = z1.strToDateTime(this.d1);
+      M6n = B_q.chart.dataSet[0].DT;
+      if (Y6I < M6n || Q7I < M6n) {
+        return;
+      }
+      var { chart: s8M, left: P2O, width: E1N } = n0j;
+      var { p0: m9i, p1: B4W, parameters: D1U, highlighted: u_Z } = this;
+      P1u = B_q.pixelFromTick(m9i[0], s8M);
+      a7V = B_q.pixelFromTick(B4W[0], s8M);
+      Y$4 = this.pixelFromValue(n0j, m9i[0], m9i[1], o21);
+      o5k = this.pixelFromValue(n0j, B4W[0], B4W[1], o21);
+      k_3 = [1, 0];
+      V5x = this.getLineColor(D1U.trend.color);
+      N$B.textBaseline = "middle";
+      B_q.canvasFont("stx_yaxis", N$B);
+      r0h = +"20";
+      e2_ = this.p1[0] - this.p0[0];
+      K5i = this.getLineColor();
+      N$B.textAlign = "center";
+      P8k = P1u;
+      M3g = 0;
+      var { top: O_h } = o21;
+      f4C = o21.bottom;
+      var { printLevels: L5R, timezone: w4d } = D1U;
+      d5H = w4d.color;
+      if (d5H == "auto" || z1.isTransparent(d5H)) {
+        d5H = this.getLineColor();
+      }
+      A_I = w4d.color;
+      if (A_I == "auto" || z1.isTransparent(A_I)) {
+        A_I = this.fillColor;
+      }
+      if (L5R) {
+        x7d.K2h(4);
+        f4C -= x7d.o6M(r0h, 7);
+      }
+      l2X = z1.clone(D1U.timezone.parameters);
+      if (u_Z) {
+        x7d.V84(4);
+        l2X.opacity = x7d.o6M("1", 0);
+      }
+      while (!!{}) {
+        P8k = B_q.pixelFromTick(m9i[0] + M3g * e2_, s8M);
+        if ((P1u < a7V && P8k > P2O + E1N) || (P1u > a7V && P8k < P2O)) break;
+        if (L5R) {
+          N$B.fillStyle = K5i;
+          N$B.fillText(a7V > P1u ? M3g : M3g * -1, P8k, f4C + 7);
+        }
+        N$B.fillStyle = this.getLineColor(A_I, !!"1");
+        B_q.plotLine(P8k, P8k, 0, f4C, d5H, "segment", N$B, n0j, l2X);
+        N$B.globalAlpha = 0.05;
+        N$B.beginPath();
+        N$B.moveTo(P1u, O_h);
+        N$B.lineTo(P8k, O_h);
+        N$B.lineTo(P8k, f4C);
+        N$B.lineTo(P1u, f4C);
+        N$B.fill();
+        N$B.globalAlpha = 1;
+        x7d.K2h(80);
+        var Y4H = x7d.F4O(8, 11, 43, 5, 12);
+        M3g = k_3[0] + k_3[Y4H];
+        k_3.unshift(M3g);
+        if (!e2_) break;
+      }
+      N$B.textAlign = "left";
+      B_q.plotLine(P1u, a7V, Y$4, o5k, V5x, "segment", N$B, n0j, l2X);
+      if (this.highlighted) {
+        U7_ = u_Z == "p0" ? !0 : !"1";
+        Y8A = u_Z == "p1" ? !![] : ![];
+        this.littleCircle(N$B, P1u, Y$4, U7_);
+        this.littleCircle(N$B, a7V, o5k, Y8A);
+      } else {
+        l$z = this.valueFromPixel(n0j.height / 2, n0j, o21);
+        x7d.V84(7);
+        this.setPoint(x7d.o6M(0, "0"), m9i["0" - 0], l$z, s8M);
+        this.setPoint(1, B4W[0], l$z, s8M);
+      }
+    };
+    z1.Drawing.fibtimezone.prototype.intersected = function (n7N, I7R, T7d) {
+      var n56, v7x, t1B, W4I, f56;
+      n56 = this.p0;
+      v7x = this.p1;
+      t1B = this.stx.panels[this.panelName];
+      if (!n56 || !v7x || !t1B) {
+        return null;
+      }
+      W4I = { 0: n56, 1: v7x };
+      for (var B6q in W4I) {
+        if (this.pointIntersection(W4I[B6q][0], W4I[B6q][1], T7d)) {
+          x7d.K2h(1);
+          this.highlighted = x7d.F4O(
+            7850 > 369.23
+              ? ("70" ^ 0) < (3380, 1340)
+                ? "p"
+                : (119.75, !!{})
+              : 574,
+            B6q,
+          );
+          return {
+            action: "drag",
+            point:
+              ((+"5070", "2710" - 0) <= 865
+                ? ("C", 611.19)
+                : 497 <= 7742
+                  ? "p"
+                  : ("O", !"")) + B6q,
+          };
+        }
+      }
+      f56 = this.lineIntersection(n7N, I7R, T7d, "segment");
+      if (f56 || (T7d.x0 <= this.p0[0] && T7d.x1 >= n56[0])) {
+        this.highlighted = !0;
+        return {
+          action: "move",
+          p0: z1.clone(n56),
+          p1: z1.clone(v7x),
+          tick: n7N,
+          value: this.valueOnDrawingAxis(n7N, I7R),
+        };
+      }
+      return null;
+    };
+    z1.Drawing.arrow_v0 = function () {
+      this.name = "arrow";
+      this.dimension = [11, 11];
+      x7d.p24();
+      x7d.V84(4);
+      this.points = [
+        [
+          "M",
+          3,
+          x7d.o6M("0", 0),
+          "L",
+          7,
+          0,
+          (150.88, 251.7) >= 414
+            ? 636.77 == 5530
+              ? "5.53e+3" << 64
+              : (99.83, 549.76) !== (3130, 7700)
+                ? (753.08, 229.97)
+                : (0xc2b, "2.44e+3" | 0)
+            : "L",
+          7,
+          5,
+          (955, 205) >= (430.31, 81.41) ? "L" : !!"",
+          10,
+          5,
+          "L",
+          5,
+          10,
+          (8920, 446.25) != 546.95 ? "L" : (4.22e3, +"4.28e+3"),
+          0,
+          5,
+          (+"7870", +"538.7") != ("6083" - 0, 786.56)
+            ? (175, 246.68) >= (1140, 3586)
+              ? (+"0x5b5", 0x892)
+              : "L"
+            : (![], 8.21e3),
+          3,
+          5,
+          (98.56, 331.22) === (403.28, 374.45)
+            ? +"516.17"
+            : 9920 === ("2200" - 0, 684.51)
+              ? 4.09e2
+              : "L",
+          3,
+          0,
+        ],
+      ];
+    };
+    z1.inheritsFrom(z1.Drawing.arrow_v0, z1.Drawing.shape);
+    z1.Drawing.xcross = function () {
+      this.name = "xcross";
+      x7d.K2h(11);
+      this.dimension = [x7d.F4O(2, "7"), 7];
+      x7d.K2h(11);
+      this.points = [
+        [
+          "M",
+          1,
+          0,
+          "L",
+          x7d.o6M(2, "3"),
+          +"2",
+          564.25 > 735 ? (810.96, !"") : "L",
+          +"5",
+          0,
+          "L",
+          6,
+          1,
+          4 > (2142, 4120)
+            ? (!{}, 6.06e3)
+            : 873.17 >= +"174.95"
+              ? "L"
+              : (377.5, !""),
+          x7d.F4O("4", 0, x7d.K2h(4)),
+          3,
+          "L",
+          +"6",
+          5,
+          "L",
+          5,
+          6,
+          (7010, 1061) !== 900.04 ? "L" : 1.02e3,
+          +"3",
+          4,
+          7050 == 9900
+            ? (8170, 8720) >= 195.57
+              ? (8670, 9080) < +"3520"
+                ? 0x807
+                : (425.8, ![])
+              : 835.88
+            : "L",
+          1,
+          6,
+          (6930, 2880) >= 6570
+            ? 3840 > (3873, 956)
+              ? (9.96e3, +"4.83e+3")
+              : 0xd9a
+            : "L",
+          0,
+          5,
+          "L",
+          x7d.o6M("2", 32, x7d.K2h(45)),
+          3,
+          (147.95, "6670" | 8) >= (839.1, "3950" << 0)
+            ? 301.33 > 2646
+              ? (627, 4170) < +"6740"
+                ? +"4.03e+2"
+                : 0x3d3
+              : "L"
+            : ("E", "h"),
+          0,
+          1,
+          9870 <= 5680
+            ? (3.57e3, "b")
+            : 9130 === (5620, "4456" >> 32)
+              ? ("C", !!"")
+              : (894, 3970) <= (3380, 6889)
+                ? "L"
+                : (3.08e3, 353.4),
+          1,
+          +"0",
+        ],
+      ];
+    };
+    z1.inheritsFrom(z1.Drawing.xcross, z1.Drawing.shape);
+    z1.Drawing.check = function () {
+      var K1P;
+      K1P = "c";
+      K1P += "he";
+      K1P += "c";
+      K1P += "k";
+      this.name = K1P;
+      this.dimension = [8, 9];
+      x7d.K2h(4);
+      this.points = [
+        [
+          +"25.25" < 78.54 ? "M" : 9340 != 810.44 ? 4.37e3 : ("f", "X"),
+          x7d.F4O("1", 0),
+          5,
+          ("4383" << 64, 8830) == "86" << 0
+            ? 2.44e3
+            : (2779, 9199) > (+"6713", "242" << 64)
+              ? "L"
+              : (0xe57, "b"),
+          0,
+          6,
+          (423, 181.54) !== (332, 254.75)
+            ? "L"
+            : 584.38 !== 9110
+              ? ("b", !!"")
+              : ("H", 0x221f),
+          2,
+          8,
+          "L",
+          7,
+          1,
+          9716 >= (498.12, "330" << 32)
+            ? (8853, 7130) >= (881.62, 4270)
+              ? "L"
+              : "z"
+            : 979.26,
+          x7d.F4O(0, "6", x7d.V84(11)),
+          0,
+          636 == +"3190"
+            ? +"5.44e+3"
+            : (197.51, "7660" * 1) > 6130
+              ? "L"
+              : 6337 != +"454.02"
+                ? 1.55e3
+                : 5.56e3,
+          2,
+          6,
+          6710 >= 2973 ? (("9300" ^ 0) != (+"5880", 1899) ? "L" : !!{}) : "D",
+          1,
+          +"5",
+        ],
+      ];
+    };
+    z1.inheritsFrom(z1.Drawing.check, z1.Drawing.shape);
+    z1.Drawing.star = function () {
+      var C3g;
+      C3g = "s";
+      C3g += "t";
+      C3g += "a";
+      x7d.R4I();
+      C3g += "r";
+      this.name = C3g;
+      this.dimension = [12, 12];
+      x7d.K2h(4);
+      this.points = [
+        [
+          "M",
+          0,
+          4,
+          "L",
+          4,
+          4,
+          (124.18, +"9540") != +"175.65"
+            ? (509, 6010) != +"478.52"
+              ? "L"
+              : (!![], !!1)
+            : "0x2604" >> 32,
+          x7d.o6M("5.5", 0),
+          0,
+          +"6129" !== (483, 573.17)
+            ? "6318" * 1 === 1632
+              ? 3039 < "2256" - 0
+                ? "x"
+                : "h"
+              : "L"
+            : 459.98,
+          7,
+          4,
+          1077 < 417.39 ? (7325 !== (6418, 8200) ? 0xccf : !"1") : "L",
+          11,
+          x7d.o6M(0, "4", x7d.K2h(0)),
+          (3612, 4492) > 819.69 ? "L" : 0xb4d,
+          8,
+          +"7",
+          4930 <= 4770 ? "c" : (2830, 9991) > (152.99, +"2890") ? "L" : ![],
+          +"9",
+          11,
+          (4530, 7610) < (3240, 3170) ? 0x10e7 : "L",
+          5.5,
+          +"9",
+          (+"8540", +"8010") !== 153.37
+            ? (7310, +"163.95") == (342.93, 9400)
+              ? +"774.75"
+              : "L"
+            : (0x136a, 861.41),
+          2,
+          11,
+          "L",
+          +"3",
+          7,
+          (9530, 693.22) != 552.53
+            ? ("8574" << 64, "6640" * 1) === (530, "1539" << 0)
+              ? 5.57e3
+              : 1380 != +"75"
+                ? "L"
+                : 0x1d60
+            : (!"", +"202.09"),
+          0,
+          x7d.F4O(0, "4", x7d.K2h(0)),
+        ],
+      ];
+    };
+    z1.inheritsFrom(z1.Drawing.star, z1.Drawing.shape);
+    z1.Drawing.heart = function () {
+      var Q2p;
+      Q2p = "h";
+      Q2p += "ea";
+      Q2p += "r";
+      Q2p += "t";
+      this.name = Q2p;
+      this.dimension = [23, 20];
+      x7d.K2h(4);
+      this.points = [
+        [
+          "M",
+          11,
+          3,
+          4080 != (+"3550", 641)
+            ? (856.51, 7912) <= 5742
+              ? ![]
+              : "B"
+            : (!![], 673.51),
+          11,
+          2.4,
+          10,
+          x7d.o6M("0", 0),
+          6,
+          x7d.F4O("0", 64, x7d.V84(45)),
+          (479.33, "9110" >> 32) > 1024
+            ? (318, 996) > (6810, 5581)
+              ? ("468.39" * 1, +"0x11a")
+              : "B"
+            : ("5.67e+3" ^ 0, 6.72e2),
+          0,
+          0,
+          0,
+          7.5,
+          +"0",
+          7.5,
+          352 != (333.74, 4200) ? "B" : (8.36e3, 336),
+          0,
+          11,
+          x7d.F4O(0, "4", x7d.V84(7)),
+          +"15.4",
+          11,
+          19,
+          314.09 !== (8447, 80.01)
+            ? 3250 !== ("8330" - 0, 5088)
+              ? "B"
+              : "b"
+            : (1.4e1, 4.03e3),
+          18,
+          15.4,
+          x7d.F4O("22", 64, x7d.K2h(45)),
+          11,
+          22,
+          x7d.F4O("7.5", 1, x7d.V84(3)),
+          8116 > 863.5
+            ? (4590, +"7620") == (9139, 2040)
+              ? +"515.23" == "920.1" * 1
+                ? (!!"", 816.77)
+                : 573.07
+              : "B"
+            : (653.44, !""),
+          22,
+          7.5,
+          x7d.o6M("22", 32, x7d.K2h(45)),
+          x7d.o6M("0", 64, x7d.V84(45)),
+          16,
+          0,
+          161.86 < 7610
+            ? (1147, 2380) <= (2030, 1642)
+              ? (!0, ![])
+              : 525.76 < +"1490"
+                ? "B"
+                : (!!1, !0)
+            : !!"1",
+          +"13",
+          0,
+          11,
+          2.4,
+          x7d.F4O(0, "11", x7d.K2h(0)),
+          3,
+        ],
+      ];
+    };
+    z1.inheritsFrom(z1.Drawing.heart, z1.Drawing.shape);
+    z1.Drawing.focusarrow = function () {
+      var z7G;
+      z7G = "focus";
+      x7d.R4I();
+      z7G += "a";
+      z7G += "rrow";
+      this.name = z7G;
+      this.dimension = [7, 5];
+      x7d.K2h(3);
+      this.points = [
+        [
+          "M",
+          0,
+          0,
+          "L",
+          2,
+          2,
+          (3710, 6753) != +"3705"
+            ? 5070 <= 8546
+              ? "L"
+              : "6.24e+3" * 1
+            : (!!1, !!"1"),
+          0,
+          4,
+          576.62 < 3960 ? ((529, 5312) >= +"8160" ? (156.3, ![]) : "L") : "l",
+          0,
+          0,
+        ],
+        [
+          4507 == "154.98" - 0 ? ((91, 233.25) >= +"174" ? 517.36 : "h") : "M",
+          6,
+          0,
+          1790 === (+"8120", "648.31" - 0)
+            ? ("2.18e+3" - 0, 7.69e3)
+            : (9440, "8450" * 1) !== +"602.82"
+              ? "L"
+              : 6300 > (5634, 985.39)
+                ? (+"8.16e+3", !0)
+                : ("J", 0x18cc),
+          4,
+          2,
+          406.81 === (+"4290", 686)
+            ? "0x1948" >> 32
+            : 8880 <= 2470
+              ? ("3719" | 3, 4927) !== (3751, "6368" ^ 0)
+                ? (+"707", 436.11)
+                : 778.19
+              : "L",
+          x7d.F4O("6", 1),
+          4,
+          "L",
+          +"6",
+          x7d.F4O("0", 1),
+        ],
+      ];
+    };
+    z1.inheritsFrom(z1.Drawing.focusarrow, z1.Drawing.shape);
+    z1.Drawing.crossline = function () {
+      this.name = "crossline";
+    };
+    z1.inheritsFrom(z1.Drawing.crossline, z1.Drawing.vertical);
+    z1.extend(
+      z1.Drawing.crossline.prototype,
+      {
+        spanPanels: !!0,
+        measure: function () {},
+        accidentalClick: function (F4z, T4t) {
+          return ![];
+        },
+        adjust: function () {
+          var t1c;
+          t1c = this.stx.panels[this.panelName];
+          if (!t1c) {
+            return;
+          }
+          this.setPoint(0, this.d0, this.v0, t1c.chart);
+          x7d.R4I();
+          this.p1 = z1.clone(this.p0);
+        },
+        intersected: function (D$0, L14, A_l) {
+          var s9B, n2A, S29;
+          s9B = "lin";
+          s9B += "e";
+          if (!this.p0 || !this.p1) {
+            return null;
+          }
+          this.p1[0] += 1;
+          n2A = this.lineIntersection(D$0, L14, A_l, s9B);
+          this.p1 = z1.clone(this.p0);
+          if (!n2A) {
+            S29 = "l";
+            S29 += "i";
+            S29 += "ne";
+            this.p1[1] += +"1";
+            n2A = this.lineIntersection(D$0, L14, A_l, S29);
+            this.p1 = z1.clone(this.p0);
+            if (!n2A) {
+              return null;
+            }
+          }
+          this.highlighted = !!{};
+          if (this.pointIntersection(this.p0[0], this.p0[1], A_l)) {
+            this.highlighted = "p0";
+          }
+          return {
+            action: "move",
+            p0: z1.clone(this.p0),
+            p1: z1.clone(this.p1),
+            tick: D$0,
+            value: this.valueOnDrawingAxis(D$0, L14),
+          };
+        },
+        render: function (B10) {
+          var q7E,
+            e8M,
+            c2V,
+            w2X,
+            b1r,
+            P0R,
+            j2E,
+            E8w,
+            G2B,
+            R4K,
+            f4Z,
+            z51,
+            s_V,
+            q2m,
+            y5O;
+          q7E = this.stx;
+          e8M = q7E.panels[this.panelName];
+          c2V = q7E.getYAxisByField(e8M, this.field);
+          if (!e8M || (this.field && !c2V && !this.spanPanels)) {
+            return;
+          }
+          c2V = c2V || e8M.yAxis;
+          w2X = q7E.pixelFromTick(this.p0[0], e8M.chart);
+          b1r = this.pixelFromValue(e8M, this.p0["0" | 0], this.p0[1], c2V);
+          P0R = this.getLineColor();
+          j2E = { pattern: this.pattern, lineWidth: this.lineWidth };
+          if (!this.spanPanels || this.panelName == this.originPanelName) {
+            x7d.K2h(1);
+            q7E.plotLine(
+              w2X,
+              x7d.F4O(w2X, 100),
+              b1r,
+              b1r,
+              P0R,
+              "horizontal",
+              B10,
+              e8M,
+              j2E,
+            );
+          }
+          x7d.K2h(81);
+          q7E.plotLine(
+            w2X,
+            w2X,
+            b1r,
+            x7d.F4O(b1r, "100"),
+            P0R,
+            "vertical",
+            B10,
+            e8M,
+            j2E,
+          );
+          if (this.axisLabel && !this.repositioner) {
+            q7E.endClip();
+            if (!this.spanPanels || this.panelName == this.originPanelName) {
+              x7d.V84(4);
+              E8w = this.p0[x7d.o6M("1", 0)];
+              G2B = q7E.getTransformFunction(c2V);
+              if (G2B) {
+                E8w = G2B(q7E, e8M.chart, E8w);
+              }
+              if (c2V.priceFormatter) {
+                E8w = c2V.priceFormatter(q7E, e8M, E8w);
+              } else {
+                E8w = q7E.formatYAxisPrice(E8w, e8M, null, c2V);
+              }
+              q7E.createYAxisLabel(e8M, E8w, b1r, P0R, null, null, c2V);
+            }
+            q7E.startClip(e8M.name);
+            if (
+              this.p0[0] >= 0 &&
+              !q7E.chart.xAxis.noDraw &&
+              (!this.spanPanels || e8M.yAxis.bottom !== e8M.bottom)
+            ) {
+              R4K = q7E.dateFromTick(this.p0[+"0"], e8M.chart, !!1);
+              if (!z1.ChartEngine.isDailyInterval(q7E.layout.interval)) {
+                z51 = R4K.getSeconds() * ("1000" | 0) + R4K.getMilliseconds();
+                if (T2.Date && q7E.displayZone) {
+                  f4Z = new T2.Date(R4K.getTime(), q7E.displayZone);
+                  R4K = new Date(
+                    f4Z.getFullYear(),
+                    f4Z.getMonth(),
+                    f4Z.getDate(),
+                    f4Z.getHours(),
+                    f4Z.getMinutes(),
+                  );
+                  R4K = new Date(R4K.getTime() + z51);
+                }
+              } else {
+                R4K.setHours(0, 0, 0, +"0");
+              }
+              s_V = z1.mmddhhmm(z1.yyyymmddhhmm(R4K));
+              if (e8M.chart.xAxis.formatter) {
+                s_V = e8M.chart.xAxis.formatter(
+                  R4K,
+                  this.name,
+                  null,
+                  null,
+                  s_V,
+                );
+              } else if (this.stx.internationalizer) {
+                s_V = z1.displayableDate(q7E, q7E.chart, R4K);
+              }
+              q7E.endClip();
+              q7E.createXAxisLabel({
+                panel: e8M,
+                txt: s_V,
+                x: w2X,
+                backgroundColor: P0R,
+                color: null,
+                pointed: !0,
+                padding: 2,
+              });
+              q7E.startClip(e8M.name);
+            }
+          }
+          if (
+            this.highlighted &&
+            (!this.spanPanels || this.panelName == this.originPanelName)
+          ) {
+            q2m = "p";
+            q2m += "0";
+            y5O = this.highlighted == q2m ? !!{} : ![];
+            this.littleCircle(B10, w2X, b1r, y5O);
+          }
+        },
+      },
+      !!{},
+    );
+    z1.Drawing.speedarc = function () {
+      this.name = "speedarc";
+      x7d.p24();
+      this.printLevels = !!"1";
+    };
+    z1.inheritsFrom(z1.Drawing.speedarc, z1.Drawing.segment);
+    z1.extend(
+      z1.Drawing.speedarc.prototype,
+      {
+        defaultOpacity: 0.25,
+        configs: ["color", "fillColor", "lineWidth", "pattern"],
+        copyConfig: function () {
+          var q2P;
+          q2P = this.stx.currentVectorParameters;
+          this.color = q2P.currentColor;
+          this.fillColor = q2P.fillColor;
+          this.lineWidth = q2P.lineWidth;
+          this.pattern = q2P.pattern;
+        },
+        intersected: function (x5g, G8N, X1d) {
+          var z2Y, P4C, D3h, y7p, w2l, X1C, p4X;
+          if (!this.p0 || !this.p1) {
+            return null;
+          }
+          z2Y = { 0: this.p0, 1: this.p1 };
+          for (var P3N in z2Y) {
+            if (this.pointIntersection(z2Y[P3N][0], z2Y[P3N][1], X1d)) {
+              x7d.V84(1);
+              this.highlighted = x7d.o6M(
+                (420.43, 5637) >= ("4729" - 0, "442.95" * 1)
+                  ? (3576, 2640) <= (4100, 6350)
+                    ? "p"
+                    : "Z"
+                  : +"218.69",
+                P3N,
+              );
+              return {
+                action: "drag",
+                point: (5896 !== (9.03, 2780) ? "p" : "X") + P3N,
+              };
+            }
+          }
+          P4C = this.valueOnDrawingAxis(x5g, G8N);
+          D3h = this.lineIntersection(x5g, G8N, X1d, this.name);
+          if (D3h) {
+            this.highlighted = !"";
+            return {
+              action: "move",
+              p0: z1.clone(this.p0),
+              p1: z1.clone(this.p1),
+              tick: x5g,
+              value: P4C,
+            };
+          }
+          y7p = this.p1[0] - (this.p0[0] - this.p1[0]);
+          w2l = this.p0[0];
+          X1C = this.p1[1];
+          p4X = this.p0[1];
+          if (x5g > Math.max(y7p, w2l) || x5g < Math.min(y7p, w2l)) {
+            return null;
+          }
+          if (P4C > Math.max(p4X, X1C) || P4C < Math.min(p4X, X1C)) {
+            return null;
+          }
+          this.highlighted = !"";
+          return {
+            action: "move",
+            p0: z1.clone(this.p0),
+            p1: z1.clone(this.p1),
+            tick: x5g,
+            value: P4C,
+          };
+        },
+        render: function (w5_) {
+          var n76,
+            P43,
+            O6M,
+            K8Y,
+            f61,
+            q_x,
+            X5Y,
+            s3s,
+            d6Z,
+            N6L,
+            t80,
+            v26,
+            v60,
+            l6L,
+            c9w,
+            K2J,
+            X98,
+            u1k,
+            a$F,
+            v$E,
+            v87;
+          n76 = "seg";
+          n76 += "me";
+          n76 += "nt";
+          P43 = this.stx;
+          O6M = P43.panels[this.panelName];
+          K8Y = P43.getYAxisByField(O6M, this.field);
+          if (!O6M || (this.field && !K8Y)) {
+            return;
+          }
+          K8Y = K8Y || O6M.yAxis;
+          if (!this.p1) {
+            return;
+          }
+          f61 = P43.pixelFromTick(this.p0[0], O6M.chart);
+          q_x = P43.pixelFromTick(this.p1[0], O6M.chart);
+          X5Y = this.pixelFromValue(O6M, this.p0[0], this.p0[+"1"], K8Y);
+          x7d.p24();
+          s3s = this.pixelFromValue(O6M, this.p1[0], this.p1[1], K8Y);
+          x7d.V84(69);
+          d6Z = x7d.o6M(s3s, X5Y);
+          x7d.V84(70);
+          N6L = Math.abs(x7d.F4O(X5Y, q_x, s3s, f61));
+          t80 = this.getLineColor();
+          w5_.strokeStyle = t80;
+          v26 = this.fillColor;
+          w5_.fillStyle = this.getLineColor(v26, !!"1");
+          if (w5_.setLineDash) {
+            w5_.setLineDash(
+              z1.borderPatternToArray(this.lineWidth, this.pattern),
+            );
+            w5_.lineDashOffset = 0;
+          }
+          P43.canvasFont("stx_yaxis", w5_);
+          for (var o0H = 1; o0H < 3; o0H++) {
+            x7d.K2h(8);
+            var W4s = x7d.o6M(3, 4);
+            x7d.V84(82);
+            var K2x = x7d.F4O(3, 6, 14, 21);
+            x7d.K2h(71);
+            var J7m = x7d.F4O(6, 0, 3, 13, 12);
+            v60 =
+              (Math.abs(this.p1[W4s] - this.p0[K2x]) * Math.sqrt(+"2") * o0H) /
+              J7m;
+            x7d.V84(17);
+            var J6E = x7d.F4O(19, 12, 8, 14);
+            x7d.K2h(83);
+            var u84 = x7d.o6M(20, 0, 0, 1, 19);
+            x7d.K2h(44);
+            var g9e = x7d.F4O(24, 4, 11, 19);
+            x7d.V84(21);
+            var K65 = x7d.F4O(4, 20, 4);
+            l6L =
+              this.p1[J6E] +
+              v60 * (d6Z ? u84 : g9e) * (K8Y.flipped ? K65 : "1" ^ 0);
+            c9w = this.pixelFromValue(O6M, this.p0[0], l6L, K8Y);
+            w5_.save();
+            w5_.beginPath();
+            x7d.V84(12);
+            w5_.scale(x7d.o6M(N6L, 1), 1);
+            x7d.V84(3);
+            w5_.arc(
+              x7d.F4O(q_x, N6L),
+              s3s,
+              Math.abs(c9w - s3s),
+              0,
+              Math.PI,
+              !d6Z,
+            );
+            w5_.globalAlpha = this.highlighted ? 1 : this.defaultOpacity;
+            if (this.pattern != "none") {
+              w5_.stroke();
+            }
+            x7d.V84(4);
+            w5_.globalAlpha = x7d.F4O("0.1", 0);
+            w5_.fill();
+            w5_.restore();
+            w5_.globalAlpha = +"1";
+            if (this.printLevels) {
+              K2J = "/";
+              K2J += "3";
+              w5_.fillStyle = t80;
+              w5_.textAlign = "center";
+              x7d.K2h(1);
+              X98 = x7d.o6M(o0H, K2J);
+              w5_.fillText(X98, q_x, Math.round(c9w - 5));
+              w5_.fillStyle = this.getLineColor(v26, !!"1");
+            }
+          }
+          w5_.textAlign = "left";
+          u1k = {
+            pattern: this.pattern,
+            lineWidth: this.lineWidth,
+            opacity: this.highlighted ? "1" >> 0 : this.defaultOpacity,
+          };
+          P43.plotLine(f61, q_x, X5Y, s3s, t80, n76, w5_, O6M, u1k);
+          if (w5_.setLineDash) {
+            w5_.setLineDash([]);
+          }
+          if (this.highlighted) {
+            a$F = "p";
+            a$F += "1";
+            v$E = this.highlighted == "p0" ? !!{} : !1;
+            v87 = this.highlighted == a$F ? !![] : !!"";
+            this.littleCircle(w5_, f61, X5Y, v$E);
+            this.littleCircle(w5_, q_x, s3s, v87);
+          }
+        },
+        reconstruct: function (M68, q5T) {
+          this.stx = M68;
+          this.color = q5T.col;
+          this.fillColor = q5T.fc;
+          this.panelName = q5T.pnl;
+          this.pattern = q5T.ptrn;
+          this.lineWidth = q5T.lw;
+          this.d0 = q5T.d0;
+          this.d1 = q5T.d1;
+          this.tzo0 = q5T.tzo0;
+          this.tzo1 = q5T.tzo1;
+          this.v0 = q5T.v0;
+          this.v1 = q5T.v1;
+          x7d.p24();
+          this.field = q5T.fld;
+          this.permanent = q5T.prm;
+          this.hidden = q5T.hdn;
+          this.adjust();
+        },
+        serialize: function () {
+          x7d.p24();
+          return {
+            name: this.name,
+            pnl: this.panelName,
+            col: this.color,
+            fc: this.fillColor,
+            ptrn: this.pattern,
+            lw: this.lineWidth,
+            d0: this.d0,
+            d1: this.d1,
+            tzo0: this.tzo0,
+            tzo1: this.tzo1,
+            v0: this.v0,
+            v1: this.v1,
+            fld: this.field,
+            prm: this.permanent,
+            hdn: this.hidden,
+          };
+        },
+      },
+      !!{},
+    );
+    z1.Drawing.speedline = function () {
+      this.name = "speedline";
+      this.printLevels = !"";
+    };
+    z1.inheritsFrom(z1.Drawing.speedline, z1.Drawing.speedarc);
+    z1.extend(
+      z1.Drawing.speedline.prototype,
+      {
+        intersected: function (o7I, t1V, m8B) {
+          var g89, B19, l4n, o4W;
+          g89 = this.p0;
+          B19 = this.p1;
+          if (!g89 || !B19) {
+            return null;
+          }
+          l4n = { 0: g89, 1: B19 };
+          for (var a7Y in l4n) {
+            if (this.pointIntersection(l4n[a7Y][0], l4n[a7Y][1], m8B)) {
+              x7d.V84(1);
+              this.highlighted = x7d.F4O(
+                5245 < (4292, 5590) ? "p" : 0x39a,
+                a7Y,
+              );
+              return {
+                action: "drag",
+                point:
+                  ((102.02, 8137) != (+"805.2", "163" - 0) ? "p" : !!"") + a7Y,
+              };
+            }
+          }
+          o4W = this.rays;
+          x7d.R4I();
+          for (var I9K = 0; I9K < o4W.length; I9K++) {
+            if (
+              this.lineIntersection(
+                o7I,
+                t1V,
+                m8B,
+                "ray",
+                o4W[I9K][0],
+                o4W[I9K][1],
+                !0,
+              )
+            ) {
+              this.highlighted = !!{};
+              return {
+                action: "move",
+                p0: z1.clone(g89),
+                p1: z1.clone(B19),
+                tick: o7I,
+                value: this.valueOnDrawingAxis(o7I, t1V),
+              };
+            }
+          }
+          return null;
+        },
+        render: function (B_Y) {
+          var i2N,
+            z9t,
+            A3_,
+            k_9,
+            r0r,
+            m8t,
+            I1S,
+            w1Y,
+            o_o,
+            p1U,
+            t4c,
+            d6h,
+            O0W,
+            u0c,
+            N$e,
+            I4L,
+            z6A,
+            c$x,
+            A2T,
+            F4Z,
+            O7f,
+            B_6,
+            O4B,
+            x0a,
+            g3A,
+            w0p,
+            n8s,
+            S1O;
+          i2N = "1";
+          i2N += "/3";
+          z9t = "stx";
+          z9t += "_yaxis";
+          A3_ = this.stx;
+          k_9 = A3_.panels[this.panelName];
+          r0r = A3_.getYAxisByField(k_9, this.field);
+          if (!k_9 || (this.field && !r0r)) {
+            return;
+          }
+          if (!this.p1) {
+            return;
+          }
+          m8t = A3_.pixelFromTick(this.p0[0], k_9.chart);
+          I1S = A3_.pixelFromTick(this.p1[+"0"], k_9.chart);
+          w1Y = this.pixelFromValue(k_9, this.p0[+"0"], this.p0[+"1"], r0r);
+          o_o = this.pixelFromValue(k_9, this.p1[0], this.p1[1], r0r);
+          A3_.canvasFont(z9t, B_Y);
+          p1U = this.getLineColor();
+          B_Y.strokeStyle = p1U;
+          t4c = this.fillColor;
+          B_Y.fillStyle = this.getLineColor(t4c, !!{});
+          d6h = {
+            pattern: this.pattern,
+            lineWidth: this.lineWidth,
+            opacity: this.highlighted ? 1 : this.defaultOpacity,
+          };
+          N$e = [
+            ("770.17" - 0, 5940) === 1170
+              ? (8950, 6032) > 9370
+                ? 0x159c
+                : ("9960" - 0, +"9820") != (976.63, 35.62)
+                  ? "k"
+                  : ("l", "D")
+              : "1",
+            "2/3",
+            i2N,
+            "3/2",
+            ("9880" - 0, 9730) !== (7210, 9130) ? "3" : ("l", 1.44e3),
+          ];
+          x7d.V84(84);
+          I4L = [
+            1,
+            x7d.F4O(3, "2"),
+            x7d.o6M(3, 1, x7d.V84(12)),
+            x7d.F4O("2", 3, x7d.K2h(85)),
+            3,
+          ];
+          z6A = [];
+          this.rays = [];
+          for (var d3b = 0; d3b < I4L.length; d3b++) {
+            c$x = I4L[d3b];
+            if (c$x > 1 && !this.extension) continue;
+            A2T = this.pixelFromValue(
+              k_9,
+              this.p0["0" ^ 0],
+              this.p0["1" << 0] - (this.p0[1] - this.p1[+"1"]) * c$x,
+              r0r,
+            );
+            if (c$x > 1) {
+              F4Z = z1.xIntersection(
+                { x0: m8t, x1: I1S, y0: w1Y, y1: A2T },
+                o_o,
+              );
+              z6A.push(F4Z);
+            } else {
+              F4Z = z1.xIntersection(
+                { x0: I1S, x1: I1S, y0: w1Y, y1: o_o },
+                A2T,
+              );
+              z6A.push(A2T);
+            }
+            O7f = c$x > 1 ? F4Z : I1S;
+            B_6 = c$x > 1 ? o_o : A2T;
+            if (!this.confineToGrid) {
+              O7f = k_9.left;
+              if (I1S > m8t) {
+                O7f += k_9.width;
+              }
+              x7d.V84(76);
+              B_6 = x7d.o6M(I1S, w1Y, A2T, w1Y, m8t, m8t, O7f);
+            }
+            if (this.printLevels) {
+              if (c$x != 1 || this.extension) {
+                B_Y.fillStyle = p1U;
+                O4B = 0;
+                x0a = 0;
+                if (w1Y > o_o) {
+                  x0a = -5;
+                  B_Y.textBaseline = "bottom";
+                } else {
+                  x0a = 5;
+                  B_Y.textBaseline = "top";
+                }
+                if (m8t > I1S) {
+                  g3A = "rig";
+                  g3A += "ht";
+                  O4B = 5;
+                  B_Y.textAlign = g3A;
+                } else {
+                  O4B = -5;
+                  B_Y.textAlign = "left";
+                }
+                if (c$x > 1) {
+                  B_Y.fillText(
+                    N$e[d3b],
+                    F4Z + (this.confineToGrid ? +"0" : O4B),
+                    o_o,
+                  );
+                } else {
+                  B_Y.fillText(
+                    N$e[d3b],
+                    I1S,
+                    A2T + (this.confineToGrid ? 0 : x0a),
+                  );
+                }
+                B_Y.fillStyle = this.getLineColor(t4c, !!1);
+              }
+            }
+            A3_.plotLine(m8t, O7f, w1Y, B_6, p1U, "segment", B_Y, k_9, d6h);
+            if (c$x == 1) {
+              O0W = O7f;
+              u0c = B_6;
+            }
+            this.rays.push([
+              [m8t, w1Y],
+              [O7f, B_6],
+            ]);
+            B_Y.globalAlpha = 0.1;
+            B_Y.beginPath();
+            B_Y.moveTo(O7f, B_6);
+            B_Y.lineTo(m8t, w1Y);
+            B_Y.lineTo(O0W, u0c);
+            B_Y.fill();
+            x7d.K2h(3);
+            B_Y.globalAlpha = x7d.F4O("1", 1);
+          }
+          B_Y.textAlign = "left";
+          B_Y.textBaseline = "middle";
+          if (this.confineToGrid) {
+            B_Y.globalAlpha = +"0.3";
+            B_Y.beginPath();
+            x7d.V84(4);
+            B_Y.strokeRect(m8t, w1Y, x7d.o6M(I1S, m8t), x7d.F4O(o_o, w1Y));
+            B_Y.moveTo(m8t, z6A[1]);
+            B_Y.lineTo(I1S, z6A[1]);
+            B_Y.moveTo(m8t, z6A[2]);
+            B_Y.lineTo(I1S, z6A[+"2"]);
+            if (this.extension) {
+              B_Y.moveTo(z6A[3], w1Y);
+              B_Y.lineTo(z6A[3], o_o);
+              B_Y.moveTo(z6A[4], w1Y);
+              B_Y.lineTo(z6A["4" | 4], o_o);
+            }
+            B_Y.stroke();
+            B_Y.globalAlpha = 1;
+          }
+          if (this.highlighted) {
+            w0p = "p";
+            w0p += "1";
+            n8s = this.highlighted == "p0" ? !0 : !!0;
+            S1O = this.highlighted == w0p ? !!{} : ![];
+            this.littleCircle(B_Y, m8t, w1Y, n8s);
+            this.littleCircle(B_Y, I1S, o_o, S1O);
+          }
+        },
+      },
+      !![],
+    );
+    z1.Drawing.gannfan = function () {
+      var J3Q;
+      x7d.R4I();
+      J3Q = "gan";
+      J3Q += "n";
+      J3Q += "f";
+      J3Q += "an";
+      this.name = J3Q;
+      this.printLevels = !!{};
+    };
+    z1.inheritsFrom(z1.Drawing.gannfan, z1.Drawing.speedline);
+    z1.extend(
+      z1.Drawing.gannfan.prototype,
+      {
+        render: function (j84) {
+          var H8g,
+            A0k,
+            F86,
+            L6X,
+            j9X,
+            g2i,
+            k5_,
+            z2w,
+            K5f,
+            z5R,
+            t55,
+            I5K,
+            M4e,
+            Z2x,
+            I40,
+            v93,
+            R03,
+            J2x,
+            s90,
+            G_A,
+            g3V,
+            t4f,
+            c0g,
+            A7G,
+            F80,
+            S8t;
+          H8g = "m";
+          H8g += "id";
+          H8g += "d";
+          H8g += "le";
+          A0k = "st";
+          A0k += "x_yaxis";
+          F86 = this.stx;
+          L6X = F86.panels[this.panelName];
+          j9X = F86.getYAxisByField(L6X, this.field);
+          if (!L6X || (this.field && !j9X)) {
+            return;
+          }
+          if (!this.p1) {
+            return;
+          }
+          g2i = F86.pixelFromTick(this.p0[+"0"], L6X.chart);
+          k5_ = F86.pixelFromTick(this.p1[0], L6X.chart);
+          z2w = this.pixelFromValue(L6X, this.p0["0" << 32], this.p0[1], j9X);
+          K5f = this.pixelFromValue(L6X, this.p1[+"0"], this.p1[1], j9X);
+          F86.canvasFont(A0k, j84);
+          z5R = this.getLineColor();
+          j84.strokeStyle = z5R;
+          t55 = this.fillColor;
+          j84.fillStyle = this.getLineColor(t55, !0);
+          I5K = {
+            pattern: this.pattern,
+            lineWidth: this.lineWidth,
+            opacity: this.highlighted ? 1 : this.defaultOpacity,
+          };
+          x7d.K2h(12);
+          I40 = [
+            +"1",
+            2,
+            3,
+            4,
+            8,
+            x7d.F4O(2, 1),
+            x7d.F4O(3, 1, x7d.V84(12)),
+            x7d.o6M(4, "1", x7d.V84(84)),
+            x7d.F4O(8, 1, x7d.K2h(12)),
+          ];
+          x7d.p24();
+          this.rays = [];
+          for (var B9G = 0; B9G < I40.length; B9G++) {
+            v93 = I40[B9G];
+            x7d.K2h(86);
+            R03 = x7d.o6M(g2i, k5_, v93, g2i);
+            x7d.V84(87);
+            J2x = x7d.o6M(K5f, z2w, v93, z2w);
+            s90 = L6X.left;
+            if (k5_ > g2i) {
+              s90 += L6X.width;
+            }
+            x7d.V84(76);
+            G_A = x7d.F4O(k5_, z2w, J2x, z2w, g2i, g2i, s90);
+            if (this.printLevels) {
+              j84.fillStyle = z5R;
+              g3V = +"0";
+              t4f = 0;
+              if (z2w > K5f) {
+                t4f = 5;
+                j84.textBaseline = "top";
+              } else {
+                t4f = -5;
+                j84.textBaseline = "bottom";
+              }
+              if (g2i > k5_) {
+                c0g = "le";
+                c0g += "ft";
+                g3V = 5;
+                j84.textAlign = c0g;
+              } else {
+                g3V = -5;
+                j84.textAlign = "right";
+              }
+              if (v93 > 1) {
+                x7d.K2h(1);
+                j84.fillText(x7d.F4O(v93, "x1"), x7d.o6M(R03, g3V), K5f);
+              } else {
+                A7G = "1";
+                A7G += "x";
+                x7d.K2h(88);
+                j84.fillText(
+                  x7d.o6M(v93, "1", A7G),
+                  k5_,
+                  x7d.o6M(J2x, t4f, x7d.V84(1)),
+                );
+              }
+              j84.fillStyle = this.getLineColor(t55, !"");
+            }
+            F86.plotLine(g2i, s90, z2w, G_A, z5R, "segment", j84, L6X, I5K);
+            this.rays.push([
+              [g2i, z2w],
+              [s90, G_A],
+            ]);
+            if (v93 == 1) {
+              M4e = s90;
+              Z2x = G_A;
+            }
+            j84.globalAlpha = +"0.1";
+            j84.beginPath();
+            j84.moveTo(s90, G_A);
+            j84.lineTo(g2i, z2w);
+            j84.lineTo(M4e, Z2x);
+            j84.fill();
+            x7d.K2h(4);
+            j84.globalAlpha = x7d.F4O("1", 0);
+          }
+          j84.textAlign = "left";
+          j84.textBaseline = H8g;
+          if (this.highlighted) {
+            F80 = this.highlighted == "p0" ? !!"1" : ![];
+            S8t = this.highlighted == "p1" ? !!{} : !1;
+            this.littleCircle(j84, g2i, z2w, F80);
+            this.littleCircle(j84, k5_, K5f, S8t);
+          }
+        },
+      },
+      !"",
+    );
+    z1.Drawing.timecycle = function () {
+      this.name = "timecycle";
+      this.printLevels = !!"1";
+    };
+    z1.inheritsFrom(z1.Drawing.timecycle, z1.Drawing.speedarc);
+    z1.extend(
+      z1.Drawing.timecycle.prototype,
+      {
+        intersected: function (t4L, j8E, F$y) {
+          var N71, c00, P_M, Y_V, D7H, u5c;
+          N71 = "segme";
+          N71 += "nt";
+          c00 = this.p0;
+          P_M = this.p1;
+          Y_V = this.stx.panels[this.panelName];
+          if (!c00 || !P_M || !Y_V) {
+            return null;
+          }
+          D7H = { 0: c00, 1: P_M };
+          for (var v8J in D7H) {
+            if (this.pointIntersection(D7H[v8J][0], D7H[v8J][1], F$y)) {
+              x7d.K2h(1);
+              this.highlighted = x7d.F4O("p", v8J);
+              return {
+                action: "drag",
+                point: (360 <= (5710, 5410) ? "p" : "200.43" - 0) + v8J,
+              };
+            }
+          }
+          u5c = this.lineIntersection(t4L, j8E, F$y, N71);
+          if (u5c || (F$y.x0 <= this.p0[0] && F$y.x1 >= c00["0" >> 32])) {
+            this.highlighted = !!1;
+            return {
+              action: "move",
+              p0: z1.clone(c00),
+              p1: z1.clone(P_M),
+              tick: t4L,
+              value: this.valueOnDrawingAxis(t4L, j8E),
+            };
+          }
+          return null;
+        },
+        render: function (P$y) {
+          var s0e,
+            w67,
+            V10,
+            L08,
+            z_H,
+            i7l,
+            Z$i,
+            S4h,
+            g1k,
+            X2p,
+            y_T,
+            T5V,
+            I5Y,
+            E8L,
+            i6F,
+            M09,
+            c2u,
+            t0C,
+            u62,
+            E6E,
+            v5S,
+            q5G,
+            u6R,
+            U9o,
+            z2u,
+            r1I,
+            n5P;
+          s0e = "m";
+          s0e += "iddle";
+          w67 = this.stx;
+          V10 = w67.panels[this.panelName];
+          L08 = w67.getYAxisByField(V10, this.field);
+          if (!V10 || (this.field && !L08)) {
+            return;
+          }
+          L08 = L08 || V10.yAxis;
+          if (!this.p1) {
+            return;
+          }
+          z_H = z1.strToDateTime(this.d0);
+          i7l = z1.strToDateTime(this.d1);
+          Z$i = w67.chart.dataSet["0" | 0].DT;
+          if (z_H < Z$i || i7l < Z$i) {
+            return;
+          }
+          S4h = w67.pixelFromTick(this.p0[+"0"], V10.chart);
+          g1k = w67.pixelFromTick(this.p1[0], V10.chart);
+          X2p = this.pixelFromValue(V10, this.p0[0], this.p0[+"1"], L08);
+          y_T = this.pixelFromValue(V10, this.p1["0" >> 0], this.p1[+"1"], L08);
+          T5V = +"0";
+          P$y.textBaseline = s0e;
+          w67.canvasFont("stx_yaxis", P$y);
+          I5Y = 20;
+          E8L = this.p1[0] - this.p0["0" ^ 0];
+          P$y.textAlign = "center";
+          i6F = S4h;
+          M09 = L08.top;
+          c2u = L08.bottom;
+          t0C = this.getLineColor();
+          u62 = this.fillColor;
+          if (this.printLevels) {
+            x7d.K2h(4);
+            c2u -= x7d.o6M(I5Y, 7);
+          }
+          E6E = {
+            pattern: this.pattern,
+            lineWidth: this.lineWidth,
+            opacity: this.highlighted ? 1 : this.defaultOpacity,
+          };
+          v5S = [];
+          P$y.save();
+          P$y.fillStyle = this.getLineColor(u62, t0C);
+          P$y.globalAlpha = 0.05;
+          while (!![]) {
+            i6F = w67.pixelFromTick(this.p0[0] + T5V * E8L, V10.chart);
+            T5V++;
+            if (S4h < g1k && i6F > V10.left + V10.width) break;
+            else if (S4h > g1k && i6F < V10.left) break;
+            else if (i6F < V10.left || i6F > V10.left + V10.width) continue;
+            P$y.beginPath();
+            P$y.moveTo(S4h, M09);
+            P$y.lineTo(i6F, M09);
+            P$y.lineTo(i6F, c2u);
+            P$y.lineTo(S4h, c2u);
+            P$y.fill();
+            v5S.push({ c: T5V, x: i6F });
+            if (!E8L) break;
+          }
+          P$y.globalAlpha = 1;
+          q5G = 0;
+          for (var l6b = 0; l6b < v5S.length; l6b++) {
+            w67.plotLine(
+              v5S[l6b].x,
+              v5S[l6b].x,
+              +"0",
+              c2u,
+              t0C,
+              "segment",
+              P$y,
+              V10,
+              E6E,
+            );
+            if (this.printLevels) {
+              P$y.fillStyle = t0C;
+              u6R = w67.chart.context.measureText(v5S[l6b].c).width + ("3" - 0);
+              if (u6R < w67.layout.candleWidth + q5G) {
+                P$y.fillText(v5S[l6b].c, v5S[l6b].x, c2u + 7);
+                q5G = 0;
+              } else {
+                q5G += w67.layout.candleWidth;
+              }
+            }
+          }
+          P$y.restore();
+          P$y.textAlign = "left";
+          w67.plotLine(S4h, g1k, X2p, y_T, t0C, "segment", P$y, V10, E6E);
+          if (this.highlighted) {
+            U9o = "p";
+            U9o += "0";
+            z2u = this.highlighted == U9o ? !!1 : !{};
+            r1I = this.highlighted == "p1" ? !![] : !{};
+            this.littleCircle(P$y, S4h, X2p, z2u);
+            this.littleCircle(P$y, g1k, y_T, r1I);
+          } else {
+            n5P = this.valueFromPixel(V10.height / +"2", V10, L08);
+            x7d.V84(3);
+            this.setPoint(x7d.o6M("0", 1), this.p0[0], n5P, V10.chart);
+            this.setPoint(1, this.p1[0], n5P, V10.chart);
+          }
+        },
+      },
+      !!"1",
+    );
+    z1.Drawing.regression = function () {
+      this.name = "regression";
+    };
+    z1.inheritsFrom(z1.Drawing.regression, z1.Drawing.segment);
+    z1.extend(
+      z1.Drawing.regression.prototype,
+      {
+        configs: [
+          "color",
+          "lineWidth",
+          "pattern",
+          "active1",
+          e6P,
+          G96,
+          "pattern1",
+          "active2",
+          "color2",
+          "lineWidth2",
+          "pattern2",
+          "active3",
+          y4U,
+          "lineWidth3",
+          D0c,
+        ],
+        copyConfig: function (c5i) {
+          var P6I, m8c;
+          P6I = "aut";
+          P6I += "o";
+          z1.Drawing.copyConfig(this, c5i);
+          m8c = this.stx.currentVectorParameters;
+          this.active1 = !!m8c.active1;
+          this.active2 = !!m8c.active2;
+          this.active3 = !!m8c.active3;
+          x7d.p24();
+          this.color1 = m8c.color1 || "auto";
+          this.color2 = m8c.color2 || "auto";
+          this.color3 = m8c.color3 || P6I;
+          this.lineWidth1 = m8c.lineWidth1;
+          this.lineWidth2 = m8c.lineWidth2;
+          this.lineWidth3 = m8c.lineWidth3;
+          this.pattern1 = m8c.pattern1;
+          this.pattern2 = m8c.pattern2;
+          this.pattern3 = m8c.pattern3;
+        },
+        $controls: [
+          'cq-cvp-controller[cq-cvp-header="1"]',
+          'cq-cvp-controller[cq-cvp-header="2"]',
+          K9Q,
+        ],
+        click: function (T8n, U5v, h46) {
+          var y$F, K64;
+          if (U5v < 0) {
+            return;
+          }
+          this.copyConfig();
+          y$F = this.stx;
+          K64 = y$F.panels[this.panelName];
+          if (!this.penDown) {
+            this.setPoint(0, U5v, h46, K64.chart);
+            if (!this.isAllowed(y$F, this.field)) {
+              y$F.undo();
+              return !![];
+            }
+            this.penDown = !![];
+            return !"1";
+          }
+          if (this.accidentalClick(U5v, h46)) {
+            return !0;
+          }
+          this.setPoint(1, U5v, h46, K64.chart);
+          this.penDown = !!0;
+          return !![];
+        },
+        getYValue: function (I2C) {
+          var I$0,
+            b1w,
+            y$k,
+            X9L,
+            u4p,
+            o_H,
+            R_f,
+            I05,
+            v1p,
+            H3l,
+            S0B,
+            Q7E,
+            y5V,
+            e__;
+          I$0 = "C";
+          I$0 += "l";
+          I$0 += "o";
+          I$0 += "se";
+          b1w = this.stx;
+          y$k = b1w.chart.dataSet[I2C];
+          X9L = b1w.chart.dataSet[I2C];
+          if (!y$k) {
+            return null;
+          }
+          u4p = b1w.panels[this.panelName];
+          o_H = b1w.getYAxisByField(u4p, this.field) || u4p.yAxis;
+          R_f = b1w.getTransformFunction(o_H);
+          x7d.p24();
+          I05 = b1w.getTransformedQuote(y$k, o_H);
+          if (b1w.charts[u4p.name] && R_f && I05) {
+            X9L = I05;
+          }
+          if (!X9L) {
+            return null;
+          }
+          v1p = null;
+          H3l = null;
+          S0B = b1w.defaultPlotField || I$0;
+          if (this.field) {
+            Q7E = 681266011;
+            y5V = 505244304;
+            e__ = 2;
+            for (
+              var f8d = 1;
+              x7d.o0D(f8d.toString(), f8d.toString().length, 25914) !== Q7E;
+              f8d++
+            ) {
+              H3l = z1.existsInObjectChain(X9L, this.field);
+              e__ += 2;
+            }
+            if (x7d.o0D(e__.toString(), e__.toString().length, 5481) !== y5V) {
+              H3l = z1.existsInObjectChain(X9L, this.field);
+            }
+            H3l = z1.existsInObjectChain(X9L, this.field);
+            if (!H3l) {
+              return null;
+            }
+            v1p = H3l = H3l.obj[H3l.member];
+            if (y$k != X9L) {
+              v1p = z1.existsInObjectChain(y$k, this.field);
+              v1p = v1p.obj[v1p.member];
+            }
+            if (typeof H3l == "object") {
+              H3l = H3l[S0B];
+              v1p = v1p[S0B];
+            }
+          } else {
+            H3l = X9L[S0B];
+            v1p = y$k[S0B];
+          }
+          return { transformed: H3l, untransformed: v1p };
+        },
+        render: function (I$b) {
+          var p$Q,
+            P4N,
+            Z4v,
+            o5B,
+            V4j,
+            q$e,
+            T5R,
+            K8W,
+            P37,
+            b7a,
+            F_V,
+            Q1Y,
+            V1y,
+            i3O,
+            n2y,
+            Z4y,
+            I9$,
+            g_3,
+            I3S,
+            k_u,
+            W26,
+            n5H,
+            u5I,
+            a3u,
+            a9L,
+            C_M,
+            J$b,
+            S$h,
+            m7J,
+            k6J,
+            h5s,
+            z9R,
+            o6R,
+            G2g,
+            c83;
+          p$Q = this.stx;
+          P4N = p$Q.panels[this.panelName];
+          Z4v = p$Q.getYAxisByField(P4N, this.field);
+          if (!P4N || (this.field && !Z4v)) {
+            return;
+          }
+          if (!this.p1) {
+            return;
+          }
+          if (this.p0[0] < 0 || this.p1[+"0"] < +"0") {
+            return;
+          }
+          o5B = p$Q.pixelFromTick(this.p0[0], P4N.chart);
+          V4j = p$Q.pixelFromTick(this.p1[0], P4N.chart);
+          if (o5B < P4N.left && V4j < P4N.left) {
+            return;
+          }
+          if (o5B > P4N.right && V4j > P4N.right) {
+            return;
+          }
+          q$e = [];
+          T5R = [];
+          K8W = 0;
+          P37 = +"0";
+          b7a = 0;
+          F_V = 0;
+          Q1Y = Math.min(this.p1[0], this.p0[0]);
+          x7d.K2h(8);
+          var L1Q = x7d.o6M(11, 12);
+          V1y = Math.max(this.p1[0], this.p0[0]) + L1Q;
+          x7d.V84(4);
+          i3O = x7d.F4O(V1y, Q1Y);
+          for (var n2R = Q1Y; n2R < V1y; n2R++) {
+            n2y = this.getYValue(n2R);
+            if (n2y) {
+              q$e.push(n2y.transformed);
+              T5R.push(n2y.untransformed);
+            }
+          }
+          Z4y = q$e.length;
+          x7d.K2h(89);
+          I9$ = x7d.F4O(1, Z4y, Z4y, 2);
+          x7d.V84(4);
+          g_3 = Math.pow(I9$, x7d.F4O("2", 0));
+          x7d.V84(90);
+          I3S = x7d.F4O(3, Z4y, 0, I9$, "2", 1);
+          for (n2R = 0; n2R < Z4y; n2R++) {
+            b7a += Z4y * q$e[n2R] - K8W;
+            K8W += q$e[n2R];
+            F_V += Z4y * T5R[n2R] - P37;
+            P37 += T5R[n2R];
+          }
+          x7d.V84(91);
+          k_u = x7d.o6M(Z4y, Z4y, K8W, I9$, I3S, g_3, b7a);
+          x7d.K2h(92);
+          W26 = x7d.o6M(I9$, k_u, K8W, Z4y);
+          x7d.V84(91);
+          n5H = x7d.F4O(Z4y, Z4y, P37, I9$, I3S, g_3, F_V);
+          x7d.V84(92);
+          u5I = x7d.o6M(I9$, k_u, P37, Z4y);
+          if (this.p0[0] < this.p1[0]) {
+            a3u = W26;
+            x7d.V84(93);
+            a9L = x7d.F4O(W26, i3O, k_u);
+            this.p0[1] = u5I;
+            x7d.V84(93);
+            this.p1[1] = x7d.o6M(u5I, i3O, n5H);
+          } else {
+            x7d.V84(93);
+            a3u = x7d.F4O(W26, i3O, k_u);
+            a9L = W26;
+            x7d.K2h(93);
+            this.p0[+"1"] = x7d.F4O(u5I, i3O, n5H);
+            this.p1[1] = u5I;
+          }
+          C_M = p$Q.pixelFromTransformedValue(a3u, P4N, Z4v);
+          J$b = p$Q.pixelFromTransformedValue(a9L, P4N, Z4v);
+          S$h = this.getLineColor();
+          m7J = { pattern: this.pattern, lineWidth: this.lineWidth };
+          p$Q.plotLine(o5B, V4j, C_M, J$b, S$h, "segment", I$b, P4N, m7J);
+          x7d.V84(4);
+          p$Q.plotLine(
+            o5B,
+            o5B,
+            x7d.F4O(C_M, 20),
+            x7d.o6M(C_M, 20, x7d.V84(1)),
+            S$h,
+            "segment",
+            I$b,
+            P4N,
+            m7J,
+          );
+          x7d.K2h(4);
+          p$Q.plotLine(
+            V4j,
+            V4j,
+            x7d.o6M(J$b, 20),
+            x7d.o6M(J$b, 20, x7d.V84(1)),
+            S$h,
+            "segment",
+            I$b,
+            P4N,
+            m7J,
+          );
+          if (this.active1 || this.active2 || this.active3) {
+            x7d.K2h(12);
+            k6J = x7d.F4O(Z4y, K8W);
+            h5s = 0;
+            for (n2R = "0" | 0; n2R < Z4y; n2R++) {
+              h5s += Math.pow(q$e[n2R] - k6J, 2);
+            }
+            x7d.K2h(12);
+            z9R = Math.sqrt(x7d.F4O(Z4y, h5s));
+            o6R = {
+              context: I$b,
+              panel: P4N,
+              points: { 0: { x: o5B, v: a3u }, 1: { x: V4j, v: a9L } },
+              stddev: z9R,
+              yAxis: Z4v,
+            };
+            this.lines = {};
+            if (this.active1) {
+              this.renderStddev(
+                "1",
+                (1644, 6120) > 980.15 ? "p" : "0x24c8" - 0,
+                o6R,
+              );
+              this.renderStddev(
+                "1",
+                (765.15, 199.46) <= 316.25
+                  ? 1462 == +"160.33"
+                    ? +"1.85e+3"
+                    : ("313.64" - 0, 6010) < (3113, 7961)
+                      ? "n"
+                      : "M"
+                  : 0x255,
+                o6R,
+              );
+            }
+            if (this.active2) {
+              this.renderStddev(
+                "2",
+                (5630, 234.98) >= 6110
+                  ? (0x111e, 0xbf5)
+                  : 8180 < (8686, 468.02)
+                    ? 165.37 > (831.84, 587.02)
+                      ? !!"1"
+                      : (9.55e3, 906)
+                    : "p",
+                o6R,
+              );
+              this.renderStddev(
+                "2",
+                (6447, 2590) < (262.11, 94.85) ? "943.07" * 1 : "n",
+                o6R,
+              );
+            }
+            if (this.active3) {
+              this.renderStddev(
+                "3",
+                (3730, "9072" - 0) != (607.15, +"809.33")
+                  ? +"9648" === ("5847" | 19)
+                    ? ("d", !"1")
+                    : (343.63, 29) === 2905
+                      ? "m"
+                      : "p"
+                  : 4.71e3,
+                o6R,
+              );
+              this.renderStddev(
+                (112, 6196) >= "717.6" * 1
+                  ? (7929, 958.64) === (309.53, 309)
+                    ? 0x25d8
+                    : "3"
+                  : +"93.75",
+                5290 == "650.34" * 1 ? (8.63e2, 0x2668) : "n",
+                o6R,
+              );
+            }
+          }
+          if (!this.highlighted) {
+            this.pixelX = [o5B, V4j];
+            this.pixelY = [C_M, J$b];
+          } else {
+            G2g = this.highlighted == "p0" ? !!"1" : !{};
+            c83 = this.highlighted == "p1" ? !!1 : !!0;
+            this.littleCircle(I$b, o5B, C_M, G2g);
+            this.littleCircle(I$b, V4j, J$b, c83);
+          }
+        },
+        renderStddev: function (e8h, r9O, T2P) {
+          var s9K,
+            a_a,
+            v2T,
+            k1c,
+            m1c,
+            T3Z,
+            z2$,
+            v7q,
+            r3h,
+            d1N,
+            L7L,
+            y_f,
+            H7w,
+            W0N,
+            H0s,
+            b7U,
+            A87,
+            h$e,
+            P8J,
+            J6A,
+            y2Z,
+            u6X;
+          s9K = "li";
+          s9K += "ne";
+          s9K += "Wi";
+          s9K += "dth";
+          a_a = "stdd";
+          a_a += "ev";
+          x7d.V84(68);
+          v2T = x7d.o6M(r9O, a_a, e8h);
+          x7d.V84(1);
+          k1c = x7d.F4O("color", e8h);
+          x7d.V84(1);
+          m1c = x7d.o6M("pattern", e8h);
+          x7d.V84(1);
+          T3Z = x7d.o6M(s9K, e8h);
+          z2$ = T2P.points;
+          v7q = z2$["0" | 0].v;
+          r3h = z2$[1].v;
+          d1N = T2P.stddev;
+          L7L =
+            r9O === ((508.92, 198.86) != (9380, "247.99" - 0) ? "n" : 1.59e3)
+              ? e8h * -1
+              : e8h * ("1" | 0);
+          y_f = this.stx;
+          H7w = T2P.panel;
+          W0N = T2P.yAxis;
+          H0s = {
+            name: v2T,
+            color: this.getLineColor(this[k1c]),
+            type: "segment",
+            y0: y_f.pixelFromTransformedValue(v7q + d1N * L7L, H7w, W0N),
+            y1: y_f.pixelFromTransformedValue(r3h + d1N * L7L, H7w, W0N),
+            params: { pattern: this[m1c], lineWidth: this[T3Z] },
+          };
+          if (this.lines) {
+            this.lines[v2T] = H0s;
+          }
+          b7U = T2P.context;
+          A87 = z2$[+"0"].x;
+          h$e = z2$[1].x;
+          y_f.plotLine(
+            A87,
+            h$e,
+            H0s.y0,
+            H0s.y1,
+            H0s.color,
+            H0s.type,
+            b7U,
+            H7w,
+            H0s.params,
+          );
+          y_f.plotLine(
+            A87,
+            A87,
+            H0s.y0 - 10,
+            H0s.y0 + 10,
+            H0s.color,
+            H0s.type,
+            b7U,
+            H7w,
+            H0s.params,
+          );
+          y_f.plotLine(
+            h$e,
+            h$e,
+            H0s.y1 - 10,
+            H0s.y1 + 10,
+            H0s.color,
+            H0s.type,
+            b7U,
+            H7w,
+            H0s.params,
+          );
+          x7d.V84(1);
+          P8J = x7d.o6M(
+            e8h,
+            (5650, "8638" >> 64) >= ("846.37" * 1, 8880) ? "K" : "\u03c3",
+          );
+          J6A = Math.max(A87, h$e) + +"5";
+          y2Z = A87 < h$e ? H0s.y1 : H0s.y0;
+          b7U.fillStyle = H0s.color;
+          b7U.save();
+          b7U.textBaseline = "middle";
+          b7U.fillText(P8J, J6A, y2Z);
+          b7U.restore();
+          if (
+            T2P.formatPrice &&
+            this.axisLabel &&
+            !this.highlighted &&
+            !this.penDown
+          ) {
+            if (
+              (A87 >= H7w.chart.left && A87 <= H7w.chart.right) ||
+              (h$e >= H7w.chart.left && h$e <= H7w.chart.right)
+            ) {
+              x7d.K2h(26);
+              u6X = x7d.F4O(d1N, L7L, A87 < h$e ? r3h : v7q);
+              y_f.endClip();
+              y_f.createYAxisLabel(
+                H7w,
+                T2P.formatPrice(u6X, W0N),
+                y2Z,
+                H0s.color,
+                null,
+                b7U,
+                W0N,
+              );
+              y_f.startClip(H7w.name);
+            }
+          }
+        },
+        intersected: function (V7A, V1x, r$P) {
+          var E2B, Y8y, s1b, M7f, t8M, U88, B6f, V6O, R5I;
+          if (!this.pixelX || !this.pixelY) {
+            return null;
+          }
+          E2B = this.repositionIntersection(V7A, V1x);
+          if (E2B) {
+            return E2B;
+          }
+          Y8y = { 0: this.pixelX, 1: this.pixelY };
+          for (var N3i = 0; N3i < 2; N3i++) {
+            if (this.pointIntersection(Y8y[0][N3i], Y8y[1][N3i], r$P, !!{})) {
+              s1b = "d";
+              s1b += "r";
+              s1b += "a";
+              s1b += "g";
+              x7d.K2h(1);
+              this.highlighted = x7d.F4O(
+                (5290, 9209) !== 881.18 ? "p" : (!!"", !""),
+                N3i,
+              );
+              return { action: s1b, point: "p" + N3i };
+            }
+          }
+          M7f = this;
+          t8M = this.pixelX[0];
+          U88 = this.pixelX[1];
+          B6f = function (n2w) {
+            var y3U, S0F;
+            y3U = [t8M, n2w.y0];
+            x7d.p24();
+            S0F = [U88, n2w.y1];
+            return M7f.lineIntersection(V7A, V1x, r$P, M7f.name, y3U, S0F, !!1);
+          };
+          V6O = B6f({ y0: this.pixelY[0], y1: this.pixelY[1] });
+          if (!V6O && this.lines) {
+            for (var F9U in this.lines) {
+              if (B6f(this.lines[F9U])) {
+                V6O = !"";
+                break;
+              }
+            }
+          }
+          if (V6O) {
+            R5I = "m";
+            R5I += "ove";
+            this.highlighted = !!1;
+            return {
+              action: R5I,
+              p0: z1.clone(this.p0),
+              p1: z1.clone(this.p1),
+              tick: V7A,
+              value: this.valueOnDrawingAxis(V7A, V1x),
+            };
+          }
+          return null;
+        },
+        repositionIntersection: function (V7i, E6U) {
+          if (!this.p0 || !this.p1) {
+            return !"1";
+          }
+          x7d.R4I();
+          if (this == this.stx.repositioningDrawing && this.highlighted) {
+            if (this.highlighted === !!"1") {
+              return {
+                action: "move",
+                p0: z1.clone(this.p0),
+                p1: z1.clone(this.p1),
+                tick: V7i,
+                value: this.valueOnDrawingAxis(V7i, E6U),
+              };
+            }
+            return { action: "drag", point: this.highlighted };
+          }
+          return ![];
+        },
+        lineIntersection: function (L_b, c8k, G0E, H9j, M2L, i36, K2W) {
+          var G_I, J82, i38;
+          if (!K2W) {
+            G_I = " lineIntersection ";
+            G_I += "must accept p0 and p1 in pix";
+            G_I += "els.  Please verify and set isPixels=true";
+            G_I += ".";
+            x7d.V84(1);
+            console.log(x7d.o6M(H9j, G_I));
+            return ![];
+          }
+          if (!M2L) {
+            M2L = this.p0;
+          }
+          if (!i36) {
+            i36 = this.p1;
+          }
+          if (!(M2L && i36)) {
+            return !{};
+          }
+          J82 = this.stx;
+          if (G0E.cx0 === undefined) {
+            return !{};
+          }
+          i38 = { x0: M2L[+"0"], x1: i36[0], y0: M2L[1], y1: i36[1] };
+          return z1.boxIntersects(
+            G0E.cx0,
+            G0E.cy0,
+            G0E.cx1,
+            G0E.cy1,
+            i38.x0,
+            i38.y0,
+            i38.x1,
+            i38.y1,
+          );
+        },
+        boxIntersection: function (g3O, J5P, t3J) {
+          if (
+            t3J.cx0 > Math.max(this.pixelX[0], this.pixelX[1]) ||
+            t3J.cx1 < Math.min(this.pixelX[0], this.pixelX[1])
+          ) {
+            return !1;
+          }
+          if (
+            !this.stx.repositioningDrawing &&
+            (t3J.cy1 < this.pixelY[0] || t3J.cy0 > this.pixelY["1" ^ 0])
+          ) {
+            return !{};
+          }
+          x7d.p24();
+          return !!"1";
+        },
+        reconstruct: function (Z5T, F8n) {
+          this.stx = Z5T;
+          this.color = F8n.col;
+          this.color1 = F8n.col1;
+          this.color2 = F8n.col2;
+          this.color3 = F8n.col3;
+          this.active1 = F8n.dev1;
+          this.active2 = F8n.dev2;
+          this.active3 = F8n.dev3;
+          this.panelName = F8n.pnl;
+          this.pattern = F8n.ptrn;
+          this.pattern1 = F8n.ptrn1;
+          this.pattern2 = F8n.ptrn2;
+          this.pattern3 = F8n.ptrn3;
+          this.lineWidth = F8n.lw;
+          this.lineWidth1 = F8n.lw1;
+          this.lineWidth2 = F8n.lw2;
+          this.lineWidth3 = F8n.lw3;
+          this.d0 = F8n.d0;
+          this.d1 = F8n.d1;
+          this.tzo0 = F8n.tzo0;
+          this.tzo1 = F8n.tzo1;
+          this.field = F8n.fld;
+          this.permanent = F8n.prm;
+          this.hidden = F8n.hdn;
+          this.adjust();
+        },
+        serialize: function () {
+          return {
+            name: this.name,
+            pnl: this.panelName,
+            dev1: this.active1,
+            dev2: this.active2,
+            dev3: this.active3,
+            col: this.color,
+            col1: this.color1,
+            col2: this.color2,
+            col3: this.color3,
+            ptrn: this.pattern,
+            ptrn1: this.pattern1,
+            ptrn2: this.pattern2,
+            ptrn3: this.pattern3,
+            lw: this.lineWidth,
+            lw1: this.lineWidth1,
+            lw2: this.lineWidth2,
+            lw3: this.lineWidth3,
+            d0: this.d0,
+            d1: this.d1,
+            tzo0: this.tzo0,
+            tzo1: this.tzo1,
+            fld: this.field,
+            prm: this.permanent,
+            hdn: this.hidden,
+          };
+        },
+      },
+      !!"1",
+    );
+    z1.Drawing.average = function () {
+      x7d.R4I();
+      this.name = "average";
+    };
+    z1.inheritsFrom(z1.Drawing.average, z1.Drawing.regression);
+    z1.extend(
+      z1.Drawing.average.prototype,
+      {
+        configs: z1.Drawing.regression.prototype.configs.concat("axisLabel"),
+        measure: function () {
+          x7d.R4I();
+          var E3e, a9E, E5B, U0i, g1p, j1D, b_R, p3r, X82, B7r, v4a;
+          E3e = this.stx;
+          if (this.p0 && this.p1) {
+            a9E = ".";
+            a9E += "m";
+            a9E += "StickyInterior";
+            E5B = ".m";
+            E5B += "M";
+            E5B += "eas";
+            E5B += "ure";
+            U0i = "&ens";
+            U0i += "p";
+            U0i += ";";
+            x7d.V84(3);
+            E3e.setMeasure(
+              x7d.F4O("0", 1),
+              !{},
+              this.p0["0" << 0],
+              this.p1[0],
+              !0,
+              this.name,
+            );
+            g1p = [];
+            j1D = "";
+            if (this.active1) {
+              g1p.push(
+                (9553, +"2600") !== 5669
+                  ? 7300 >= (8101, 808.89)
+                    ? (5959, 2970) == (333, +"628.35")
+                      ? (590.99, "E")
+                      : "1"
+                    : (!!{}, !!{})
+                  : (219.63, !{}),
+              );
+            }
+            if (this.active2) {
+              g1p.push(
+                "3166" * 1 !== "9068" - 0
+                  ? (115.85, 4689) < 598.29
+                    ? 2.02e3
+                    : "2"
+                  : (0x19e8, "p"),
+              );
+            }
+            if (this.active3) {
+              g1p.push(84.13 <= 8459 ? "3" : (776.12, 0x20a4));
+            }
+            if (g1p.length) {
+              j1D = U0i + g1p.join(", ") + " &sigma;";
+            }
+            b_R = (E3e.drawingContainer || document).querySelector(E5B);
+            p3r = E3e.controls.mSticky;
+            X82 = p3r && p3r.querySelector(a9E);
+            if (b_R) {
+              b_R.innerHTML += j1D;
+            }
+            if (X82) {
+              B7r = "C";
+              B7r += "l";
+              B7r += "ose";
+              v4a = [];
+              v4a.push(E3e.translateIf(z1.capitalize(this.name)));
+              v4a.push(
+                E3e.translateIf(this.field || E3e.defaultPlotField || B7r),
+              );
+              v4a.push(X82.innerHTML + j1D);
+              X82.innerHTML = v4a.join("<br>");
+            }
+          }
+        },
+        render: function (h4V) {
+          var g5D,
+            b7h,
+            h8b,
+            F60,
+            j0b,
+            Y7j,
+            O_z,
+            u2v,
+            E0V,
+            Q19,
+            K6Q,
+            x3m,
+            w1h,
+            s05,
+            n3T,
+            k9V,
+            B$O,
+            r3z,
+            q0V,
+            b1N,
+            F9j,
+            M46;
+          g5D = "seg";
+          g5D += "men";
+          g5D += "t";
+          b7h = this.stx;
+          h8b = b7h.panels[this.panelName];
+          F60 = b7h.getYAxisByField(h8b, this.field);
+          if (!h8b || (this.field && !F60)) {
+            return;
+          }
+          F60 = F60 || h8b.yAxis;
+          if (!this.p1) {
+            return;
+          }
+          if (this.p0[0] < 0 || this.p1[0] < +"0") {
+            return;
+          }
+          j0b = b7h.pixelFromTick(this.p0[0], h8b.chart);
+          Y7j = b7h.pixelFromTick(this.p1[0], h8b.chart);
+          if (j0b < h8b.left && Y7j < h8b.left) {
+            return;
+          }
+          if (j0b > h8b.right && Y7j > h8b.right) {
+            return;
+          }
+          O_z = Math.min(this.p1[0], this.p0[0]);
+          function y4E(X23, k4k) {
+            if (k4k && k4k.priceFormatter) {
+              X23 = k4k.priceFormatter(b7h, h8b, X23);
+            } else {
+              X23 = b7h.formatYAxisPrice(X23, h8b, null, k4k);
+            }
+            return X23;
+          }
+          x7d.V84(94);
+          var u8N = x7d.F4O(1, 9, 3, 26, 9);
+          u2v = Math.max(this.p1[0], this.p0[0]) + u8N;
+          E0V = 0;
+          Q19 = [];
+          for (K6Q = O_z; K6Q < u2v; K6Q++) {
+            x3m = this.getYValue(K6Q);
+            if (x3m !== null) {
+              E0V += x3m.transformed;
+              Q19.push(x3m);
+            }
+          }
+          w1h = Q19.length;
+          if (!w1h) {
+            return;
+          }
+          x7d.K2h(12);
+          s05 = x7d.F4O(w1h, E0V);
+          n3T = b7h.pixelFromTransformedValue(s05, h8b, F60);
+          k9V = this.getLineColor();
+          B$O = { pattern: this.pattern, lineWidth: this.lineWidth };
+          x7d.p24();
+          b7h.plotLine(j0b, Y7j, n3T, n3T, k9V, g5D, h4V, h8b, B$O);
+          x7d.K2h(95);
+          b7h.plotLine(
+            j0b,
+            j0b,
+            x7d.F4O(n3T, "20"),
+            x7d.o6M(n3T, 20, x7d.V84(1)),
+            k9V,
+            "segment",
+            h4V,
+            h8b,
+            B$O,
+          );
+          x7d.V84(4);
+          b7h.plotLine(
+            Y7j,
+            Y7j,
+            x7d.o6M(n3T, 20),
+            x7d.o6M(n3T, 20, x7d.V84(1)),
+            k9V,
+            "segment",
+            h4V,
+            h8b,
+            B$O,
+          );
+          if (this.axisLabel && !this.highlighted && !this.penDown) {
+            if (
+              (j0b >= h8b.chart.left && j0b <= h8b.chart.right) ||
+              (Y7j >= h8b.chart.left && Y7j <= h8b.chart.right)
+            ) {
+              b7h.endClip();
+              b7h.createYAxisLabel(
+                h8b,
+                y4E(s05, F60),
+                n3T,
+                k9V,
+                null,
+                h4V,
+                F60,
+              );
+              b7h.startClip(h8b.name);
+            }
+          }
+          if (this.active1 || this.active2 || this.active3) {
+            x7d.K2h(7);
+            r3z = x7d.o6M(64, "0");
+            for (K6Q = "0" * 1; K6Q < w1h; K6Q++) {
+              x3m = Q19[K6Q];
+              r3z += Math.pow(x3m.transformed - s05, 2);
+            }
+            x7d.V84(12);
+            q0V = Math.sqrt(x7d.o6M(w1h, r3z));
+            b1N = {
+              context: h4V,
+              formatPrice: y4E,
+              panel: h8b,
+              points: { 0: { x: j0b, v: s05 }, 1: { x: Y7j, v: s05 } },
+              stddev: q0V,
+              yAxis: F60,
+            };
+            this.lines = {};
+            if (this.active1) {
+              this.renderStddev(
+                (1171, 441.67) <= (5756, +"887.79")
+                  ? "1"
+                  : (983.4, 144.32) >= 8690
+                    ? (0x19a9, "0x1294" - 0)
+                    : "S",
+                (135.33, 5050) >= (510.68, +"4820")
+                  ? "p"
+                  : (+"5954", 6750) == (1470, +"5546")
+                    ? 0x24eb
+                    : (6.5e3, 6.02e3),
+                b1N,
+              );
+              this.renderStddev(
+                "1",
+                (792.8, 584.32) <= 289.05
+                  ? (632.08, 260) == (335.43, 4941)
+                    ? (5.9e2, !1)
+                    : (34.29, 5204) !== ("1438" | 16, 515.95)
+                      ? 906
+                      : "k"
+                  : "n",
+                b1N,
+              );
+            }
+            if (this.active2) {
+              this.renderStddev(
+                "2",
+                (2420, 167) === 473.49
+                  ? (9250, 6360) > 508.12
+                    ? (1520, 368.45) !== +"1510"
+                      ? 923.74
+                      : (0x12b3, +"534")
+                    : 4.79e3
+                  : "p",
+                b1N,
+              );
+              this.renderStddev(
+                (8250, 994.66) === 5130 ? "i" : "2",
+                (4762, 643.1) === (6020, 246.46)
+                  ? ("0x1e73" * 1, 4.07e3)
+                  : (880, 1580) >= (4840, 7024)
+                    ? !{}
+                    : (3640, 8690) >= 589.97
+                      ? "n"
+                      : 0x1cb3,
+                b1N,
+              );
+            }
+            if (this.active3) {
+              this.renderStddev(
+                "3",
+                9978 == 597.35
+                  ? (974.48, 62.14) === (4714, 861.44)
+                    ? 0x9c2
+                    : (0x1bd3, !1)
+                  : "p",
+                b1N,
+              );
+              this.renderStddev(
+                3760 <= 805 ? ("z", 906.58) : "3",
+                (400.1, 121.97) > (6740, 1990)
+                  ? +"3410" !== (7172, "851.91" * 1)
+                    ? "903.06" * 1
+                    : ![]
+                  : "n",
+                b1N,
+              );
+            }
+          }
+          if (!this.highlighted) {
+            this.pixelX = [j0b, Y7j];
+            this.pixelY = [n3T, n3T];
+          } else {
+            F9j = this.highlighted == "p0" ? !!{} : !!"";
+            M46 = this.highlighted == "p1" ? !!"1" : !!"";
+            this.littleCircle(h4V, j0b, n3T, F9j);
+            this.littleCircle(h4V, Y7j, n3T, M46);
+          }
+        },
+        reconstruct: function (A6Q, T4g) {
+          this.axisLabel = T4g.al;
+          z1.Drawing.regression.prototype.reconstruct.call(this, A6Q, T4g);
+        },
+        serialize: function () {
+          var v1L;
+          v1L = z1.Drawing.regression.prototype.serialize.call(this);
+          v1L.al = this.axisLabel;
+          return v1L;
+        },
+      },
+      !![],
+    );
+    z1.Drawing.measurementline = function () {
+      var Z8Z, i6u, Y26, z$Y, B3T;
+      Z8Z = "Helveti";
+      Z8Z += "ca, sans-serif";
+      i6u = "L";
+      i6u += "o";
+      i6u += "w";
+      Y26 = "H";
+      Y26 += "i";
+      Y26 += "gh";
+      z$Y = "O";
+      z$Y += "p";
+      z$Y += "e";
+      z$Y += "n";
+      B3T = "measurem";
+      B3T += "entli";
+      B3T += "ne";
+      this.name = B3T;
+      this.validFields = [z$Y, Y26, i6u, "Close"];
+      this.defaultField = "Close";
+      this.spanPanels = !!"1";
+      this.fontSize = +"14";
+      this.lineHeight = this.fontSize + 2;
+      this.fontFamily = Z8Z;
+      this.padding = 10;
+      this.calloutWidth = +"200";
+      this.calloutHeight = 100;
+      this.stem = { x: 15, y: 0 };
+    };
+    z1.inheritsFrom(z1.Drawing.measurementline, z1.Drawing.regression);
+    z1.extend(
+      z1.Drawing.measurementline.prototype,
+      {
+        configs: [
+          "color",
+          s4X,
+          "lineWidth",
+          "pattern",
+          "parameters",
+          "axisLabel",
+        ],
+        copyConfig: function (b87) {
+          var A9i;
+          z1.Drawing.copyConfig(this, b87);
+          A9i = this.stx.currentVectorParameters;
+          this.parameters = {
+            calloutOnHover: A9i.measurementline.calloutOnHover,
+            displayGroups: { ...A9i.measurementline.displayGroups },
+          };
+        },
+        $controls: [],
+        initializeSettings: function (U58) {
+          U58.currentVectorParameters.alwaysMagnetize = !"";
+        },
+        measure: function () {
+          var Y2W, w45, S90, b_D, h5t, E_b, Q1Q;
+          if (this.p0 && this.p1) {
+            this.stx.setMeasure(
+              this.p0[1],
+              this.p1[1],
+              this.p0[0],
+              this.p1[0],
+              !!{},
+            );
+            Y2W = this.stx.controls.mSticky;
+            w45 = +"43051497";
+            S90 = 1441394516;
+            b_D = 2;
+            for (
+              var A$r = 1;
+              x7d.o0D(A$r.toString(), A$r.toString().length, +"12942") !== w45;
+              A$r++
+            ) {
+              h5t = Y2W && Y2W.querySelector(".mStickyInterior");
+              b_D += 2;
+            }
+            if (x7d.o0D(b_D.toString(), b_D.toString().length, 97244) !== S90) {
+              h5t = Y2W || Y2W.querySelector("");
+            }
+            if (h5t) {
+              E_b = "<b";
+              E_b += "r";
+              E_b += ">";
+              Q1Q = [];
+              Q1Q.push(this.stx.translateIf(z1.capitalize("Measurement Line")));
+              Q1Q.push(h5t.innerHTML);
+              h5t.innerHTML = Q1Q.join(E_b);
+            }
+          }
+        },
+        getDifference: function (L98, O9m) {
+          x7d.R4I();
+          var f8b, w89;
+          f8b = this.stx;
+          w89 =
+            Math.round(Math.abs(L98 - O9m) * f8b.chart.roundit) /
+            f8b.chart.roundit;
+          w89 = w89.toFixed(f8b.chart.yAxis.printDecimalPlaces);
+          if (this.internationalizer) {
+            w89 = this.internationalizer.numbers.format(w89);
+          }
+          return w89;
+        },
+        getPercent: function (J7k, s$e) {
+          var X1F;
+          X1F = 0;
+          if (J7k !== 0) {
+            x7d.K2h(33);
+            X1F = x7d.o6M(J7k, J7k, s$e);
+          } else {
+            X1F = null;
+          }
+          return X1F;
+        },
+        formatPercent: function (m31) {
+          if (Math.abs(m31) > 0.1) {
+            x7d.V84(3);
+            m31 = Math.round(x7d.o6M(m31, 100));
+          } else if (Math.abs(m31) > 0.01) {
+            x7d.K2h(34);
+            var E$4 = x7d.F4O(4, 1009, 3036);
+            x7d.K2h(8);
+            var K4m = x7d.F4O(3, 13);
+            m31 = Math.round(m31 * E$4) / K4m;
+          } else {
+            x7d.V84(1);
+            var x0D = x7d.o6M(6, 58);
+            x7d.K2h(96);
+            var s9h = x7d.F4O(5, 2, 5, 98);
+            m31 = Math.round(m31 * ("10000" << x0D)) / s9h;
+          }
+          if (this.internationalizer) {
+            x7d.V84(12);
+            m31 = this.internationalizer.percent.format(x7d.F4O(100, m31));
+          } else {
+            if (m31 > 0) {
+              x7d.V84(1);
+              m31 = x7d.F4O("+", m31);
+            }
+            x7d.K2h(1);
+            m31 = x7d.o6M(
+              m31,
+              (8210, 8760) <= 5240
+                ? "n"
+                : 455.38 >= (1040, 265)
+                  ? 960.27 >= 685.85
+                    ? "%"
+                    : ("919.00" << 0, !"")
+                  : (0x210b, +"0x233b"),
+            );
+          }
+          return m31;
+        },
+        calloutDataGroups: [
+          {
+            id: "bars",
+            label: N82,
+            getOutput(Y0$) {
+              var g_U;
+              var { start: a9d, end: m7L } = Y0$;
+              x7d.R4I();
+              g_U = { label: this.label || "", value: "" + (m7L - a9d) };
+              return g_U;
+            },
+          },
+          {
+            id: "delta",
+            label: "Delta",
+            getOutput(h9e) {
+              var X$d, e8e, y96;
+              var { startPrice: i$3, endPrice: w1D } = h9e;
+              X$d = h9e.getPercent(i$3, w1D);
+              e8e = X$d === null ? "N/A" : h9e.formatPercent(X$d);
+              y96 = {
+                label: this.label || "",
+                value: h9e.getDifference(i$3, w1D) + " (" + e8e + ")",
+              };
+              return y96;
+            },
+          },
+          {
+            id: "annpercent",
+            label: "Annualized %",
+            getOutput(R6T) {
+              var x1O, G3Z, m2C, i9U, Y78, q59, J1I, y8R, v3Q;
+              var {
+                stx: G1I,
+                p0: g1a,
+                p1: M95,
+                startPrice: P_B,
+                endPrice: D3M,
+              } = R6T;
+              x1O = G1I.panels[R6T.panelName];
+              G3Z = R6T.getPercent(P_B, D3M);
+              m2C = "N/A";
+              if (G3Z !== null) {
+                i9U = G1I.dateFromTick(g1a[0], x1O.chart, !0);
+                Y78 = G1I.dateFromTick(M95[0], x1O.chart, !![]);
+                q59 = 0;
+                J1I = Y78.getTime() - i9U.getTime();
+                x7d.V84(97);
+                y8R = x7d.o6M(1000, "24", 3600, J1I);
+                x7d.V84(98);
+                q59 = x7d.o6M(G3Z, 365, y8R);
+                m2C = R6T.formatPercent(q59.toFixed(2));
+              }
+              v3Q = { label: this.label || "", value: m2C };
+              x7d.R4I();
+              return v3Q;
+            },
+          },
+          {
+            id: "totreturn",
+            label: f4O,
+            getOutput(E_F) {
+              var l3M;
+              l3M = { label: this.label || "", value: "" };
+              return l3M;
+            },
+          },
+          {
+            id: "volume",
+            label: "Volume",
+            getOutput(F3o) {
+              x7d.R4I();
+              var A6b;
+              var { volume: S7O } = F3o;
+              A6b = { label: this.label || "", value: "" + z1.commas(S7O) };
+              return A6b;
+            },
+          },
+          {
+            id: "studies",
+            label: "Studies",
+            getOutput(u49) {
+              var U8G, i13, p4V, b4M;
+              var { stx: Y7G, records: C0y } = u49;
+              U8G = [];
+              for (var J5b in Y7G.layout.studies) {
+                i13 = Y7G.layout.studies[J5b];
+                if (i13.signalData) continue;
+                for (var b9T in Y7G.layout.studies[J5b].outputMap) {
+                  if (b9T) {
+                    p4V = C0y[+"0"][b9T];
+                    x7d.V84(20);
+                    var u8P = x7d.F4O(188, 17, 11);
+                    b4M = C0y[C0y.length - u8P][b9T];
+                    if (p4V && b4M) {
+                      U8G.push({
+                        label: b9T,
+                        value: u49.getDifference(p4V, b4M),
+                      });
+                    }
+                  }
+                }
+              }
+              return U8G;
+            },
+          },
+        ],
+        getcalloutData: function () {
+          var T7c, v4d, r6r, b_S, H1Z, F9g, S4I, K62, V0E;
+          T7c = this.stx;
+          v4d = [];
+          r6r = this.p0[0];
+          x7d.K2h(99);
+          var e9i = x7d.o6M(5, 11, 1, 19, 1044);
+          b_S = this.p1[0] + e9i;
+          H1Z = [];
+          F9g = 0;
+          for (var C91 = r6r; C91 < b_S; C91++) {
+            S4I = T7c.chart.dataSet[C91];
+            if (S4I) {
+              H1Z.push(S4I);
+              if (S4I.Volume) {
+                F9g += S4I.Volume;
+              }
+            }
+          }
+          x7d.R4I();
+          if (!H1Z.length) {
+            return v4d;
+          }
+          K62 = H1Z[+"0"][this.field0 || this.defaultField];
+          V0E = H1Z[H1Z.length - ("1" | 0)][this.field1 || this.defaultField];
+          this.start = r6r;
+          this.end = b_S;
+          this.startPrice = K62;
+          this.endPrice = V0E;
+          this.records = H1Z;
+          this.volume = F9g;
+          v4d.push({
+            label: this.getAxisLabelText(this.p0[0]),
+            value: (this.field0 || this.defaultField)[0] + ": " + K62,
+          });
+          v4d.push({
+            label: this.getAxisLabelText(this.p1[0]),
+            value: (this.field1 || this.defaultField)[0] + ": " + V0E,
+          });
+          this.calloutDataGroups.forEach((G09) => {
+            x7d.p24();
+            if (this.parameters.displayGroups[G09.id]) {
+              v4d = v4d.concat(G09.getOutput(this));
+            }
+          });
+          return v4d;
+        },
+        getAxisLabelText: function (W$Q) {
+          var F1p;
+          F1p = this.getDateFromTick(W$Q);
+          x7d.R4I();
+          return this.formatDate(F1p);
+        },
+        intersected: function (l10, E9M, Z5R) {
+          var T69;
+          if (!this.pixelX || !this.pixelY) {
+            return null;
+          }
+          x7d.p24();
+          if (
+            this.pointIntersection(
+              this.pixelX[2],
+              this.pixelY["2" | 2],
+              Z5R,
+              !0,
+            )
+          ) {
+            this.highlighted = "p2";
+            return { action: "drag", point: "p2" };
+          }
+          if (this.parameters.calloutOnHover) {
+            var { x0: C8o, x1: f5d } = Z5R;
+            T69 = !(
+              C8o > Math.max(this.p0[0], this.p1[0]) ||
+              f5d < Math.min(this.p0[+"0"], this.p1[0])
+            );
+            if (T69 !== this.showCallout) {
+              this.showCallout = T69;
+              this.stx.draw();
+            }
+          }
+          return z1.Drawing.regression.prototype.intersected.call(
+            this,
+            l10,
+            E9M,
+            Z5R,
+          );
+        },
+        reposition: function (X5A, U52, I3g, S5s) {
+          x7d.R4I();
+          var b3a, t3C, d4u, h2U, w1F;
+          b3a = "p";
+          b3a += "2";
+          if (!U52) {
+            return;
+          }
+          t3C = (U52.p0 && U52.p0[0]) || null;
+          d4u = (U52.p1 && U52.p1[0]) || null;
+          h2U = I3g - U52.tick || 0;
+          if (
+            !this.stx.chart.dataSet[I3g] ||
+            (t3C !== null && !this.stx.chart.dataSet[t3C + h2U]) ||
+            (d4u !== null && !this.stx.chart.dataSet[d4u + h2U])
+          ) {
+            this.render(X5A);
+            return null;
+          }
+          w1F = this.panelName;
+          Object.values(this.stx.panels).forEach((m4i) => {
+            x7d.p24();
+            if (!this.spanPanels && m4i.name !== w1F) {
+              return;
+            }
+            this.panelName = m4i.name;
+            z1.Drawing.regression.prototype.reposition.call(
+              this,
+              X5A,
+              U52,
+              I3g,
+              S5s,
+            );
+          });
+          this.panelName = w1F;
+          if (U52.action == "drag" && U52.point == b3a) {
+            this.setPoint(
+              2,
+              this.p0[0],
+              S5s,
+              this.stx.panels[this.panelName].chart,
+            );
+          }
+        },
+        adjust: function () {
+          var n9O, g3g, W5M, Y4M, l7I, c61;
+          n9O = "c";
+          n9O += "h";
+          n9O += "art";
+          this.panelName = n9O;
+          this.field = null;
+          var { stx: N_9 } = this;
+          x7d.R4I();
+          g3g = N_9.panels[this.panelName];
+          W5M = N_9.getYAxisByField(g3g, this.field);
+          this.setPoint(0, this.d0, this.v0, g3g.chart);
+          this.setPoint(1, this.d1, this.v1, g3g.chart);
+          if (!this.repositioner && this.p0[0] > this.p1[0]) {
+            var [E9k, Y_R] = this.p0;
+            Y4M = this.field0;
+            this.setPoint(
+              0,
+              this.p1[0],
+              this.p1[1],
+              N_9.panels[this.panelName].chart,
+            );
+            this.field0 = this.field1;
+            this.setPoint(1, E9k, Y_R, N_9.panels[this.panelName].chart);
+            this.field1 = Y4M;
+          }
+          if (N_9.chart.dataSet[this.p0[0]]) {
+            this.v0 = this.p0[1] =
+              N_9.chart.dataSet[this.p0[0]][this.field0 || this.defaultField];
+          }
+          if (N_9.chart.dataSet[this.p1[0]]) {
+            this.v1 = this.p1[+"1"] =
+              N_9.chart.dataSet[this.p1[+"0"]][
+                this.field1 || this.defaultField
+              ];
+          }
+          if (this.d2 && this.v2) {
+            this.setPoint(
+              2,
+              this.d2,
+              this.v2,
+              N_9.panels[this.panelName].chart,
+            );
+          } else {
+            l7I = this.pixelFromValue(
+              g3g,
+              this.p0["0" ^ 0],
+              N_9.chart.dataSet[this.p0[0]][this.field0 || this.defaultField],
+              W5M,
+            );
+            x7d.V84(1);
+            c61 = this.valueFromPixel(
+              x7d.o6M(l7I, 15),
+              g3g,
+              N_9.getYAxisByField(g3g, this.field),
+            );
+            this.setPoint(2, this.p0[0], c61, N_9.panels[this.panelName].chart);
+          }
+        },
+        click: function (x8p, n7m, q$g) {
+          var W$4;
+          this.copyConfig();
+          var { stx: i7w } = this;
+          W$4 = i7w.panels[this.panelName];
+          if (!i7w.chart.dataSet[n7m]) {
+            return ![];
+          }
+          if (!this.penDown) {
+            this.setPoint(0, n7m, q$g, W$4.chart);
+            this.field0 = this.validFields.includes(i7w.magneticHold)
+              ? i7w.magneticHold
+              : this.defaultField;
+            this.penDown = !0;
+            return ![];
+          }
+          x7d.p24();
+          if (this.accidentalClick(n7m, q$g)) {
+            return !0;
+          }
+          this.setPoint(1, n7m, q$g, W$4.chart);
+          this.field1 = this.validFields.includes(i7w.magneticHold)
+            ? i7w.magneticHold
+            : this.defaultField;
+          this.penDown = !{};
+          return !!{};
+        },
+        reconstruct: function (b49, A2L) {
+          this.stx = b49;
+          this.color = A2L.col;
+          this.panelName = A2L.pnl;
+          this.pattern = A2L.ptrn;
+          this.lineWidth = A2L.lw;
+          this.d0 = A2L.d0;
+          this.d1 = A2L.d1;
+          this.tzo0 = A2L.tzo0;
+          this.tzo1 = A2L.tzo1;
+          this.v0 = A2L.v0;
+          this.v1 = A2L.v1;
+          this.field = A2L.fld;
+          this.d2 = A2L.d2;
+          this.v2 = A2L.v2;
+          this.field0 = A2L.fld0 || this.defaultField;
+          this.field1 = A2L.fld1 || this.defaultField;
+          this.fillColor = A2L.fc;
+          this.axisLabel = A2L.al;
+          this.parameters = A2L.param;
+          this.pixelX = A2L.px;
+          this.pixelY = A2L.py;
+          this.adjust();
+        },
+        serialize: function (R5o, f2Z) {
+          x7d.R4I();
+          return {
+            name: this.name,
+            pnl: this.panelName,
+            col: this.color,
+            ptrn: this.pattern,
+            lw: this.lineWidth,
+            d0: this.d0,
+            d1: this.d1,
+            tzo0: this.tzo0,
+            tzo1: this.tzo1,
+            v0: this.v0,
+            v1: this.v1,
+            fld: this.field,
+            d2: this.d2,
+            v2: this.v2,
+            fld0: this.field0,
+            fld1: this.field1,
+            fc: this.fillColor,
+            al: this.axisLabel,
+            param: this.parameters,
+            px: this.pixelX,
+            py: this.pixelY,
+          };
+        },
+        render: function (X96) {
+          var y2I,
+            U5c,
+            a0Y,
+            q$8,
+            O4j,
+            Q$n,
+            O0I,
+            Y2p,
+            y4v,
+            X$M,
+            Y0l,
+            m28,
+            L9v,
+            n36,
+            H5Y,
+            w2a,
+            r5K,
+            L4Y,
+            P2C,
+            O8m,
+            U1i;
+          y2I = this.stx;
+          U5c = y2I.panels[this.panelName];
+          this.field = null;
+          a0Y = y2I.getYAxisByField(U5c, this.field);
+          if (!U5c || (this.field && !a0Y)) {
+            return;
+          }
+          if (!this.p1) {
+            return;
+          }
+          if (this.p0["0" - 0] < 0 || this.p1[0] < 0) {
+            return;
+          }
+          q$8 = y2I.pixelFromTick(this.p0[0], U5c.chart);
+          O4j = y2I.pixelFromTick(this.p1["0" - 0], U5c.chart);
+          Q$n = y2I.pixelFromTick(this.p0[0], U5c.chart);
+          if (q$8 < U5c.left && O4j < U5c.left) {
+            return;
+          }
+          if (q$8 > U5c.right && O4j > U5c.right) {
+            return;
+          }
+          O0I = y2I.chart.dataSet[this.p0[0]];
+          Y2p = y2I.chart.dataSet[this.p1[0]];
+          y4v = O0I
+            ? this.pixelFromValue(
+                U5c,
+                this.p0[0],
+                O0I[this.field0 || this.defaultField],
+                a0Y,
+              )
+            : null;
+          X$M = Y2p
+            ? this.pixelFromValue(
+                U5c,
+                this.p1["0" << 64],
+                Y2p[this.field1 || this.defaultField],
+                a0Y,
+              )
+            : null;
+          Y0l = this.p2
+            ? this.pixelFromValue(U5c, this.p2[0], this.p2[1], a0Y)
+            : 0;
+          m28 = this.fillColor || y2I.containerColor;
+          X96.fillStyle = this.getLineColor(m28, !!{});
+          x7d.K2h(3);
+          X96.globalAlpha = x7d.o6M("0.25", 1);
+          L9v = this.getLineColor();
+          n36 = { pattern: this.pattern, lineWidth: this.lineWidth };
+          if (y4v && X$M) {
+            X96.fillRect(q$8, U5c.yAxis.bottom, O4j - q$8, -U5c.yAxis.height);
+          }
+          X96.globalAlpha = 1;
+          if (
+            y4v &&
+            X$M &&
+            (!this.spanPanels || this.panelName == this.originPanelName)
+          ) {
+            H5Y = "segme";
+            H5Y += "n";
+            H5Y += "t";
+            y2I.plotLine(q$8, O4j, y4v, X$M, L9v, H5Y, X96, U5c, n36);
+          }
+          if (y4v) {
+            x7d.V84(100);
+            y2I.plotLine(
+              q$8,
+              q$8,
+              x7d.F4O("20", y4v, 0),
+              x7d.F4O(y4v, 20, x7d.K2h(1)),
+              L9v,
+              "line",
+              X96,
+              U5c,
+              n36,
+            );
+          }
+          x7d.p24();
+          if (X$M) {
+            x7d.K2h(101);
+            y2I.plotLine(
+              O4j,
+              O4j,
+              x7d.F4O("20", 1, X$M),
+              x7d.o6M(32, X$M, "20", x7d.K2h(102)),
+              L9v,
+              "line",
+              X96,
+              U5c,
+              n36,
+            );
+          }
+          if (this.axisLabel && !this.repositioner && !this.penDown) {
+            if (
+              this.p0[0] >= 0 &&
+              this.p1[0] >= 0 &&
+              !y2I.chart.xAxis.noDraw &&
+              (!this.spanPanels || U5c.yAxis.bottom !== U5c.bottom)
+            ) {
+              w2a = [
+                [q$8, this.getAxisLabelText(this.p0[0])],
+                [O4j, this.getAxisLabelText(this.p1[0])],
+              ];
+              y2I.endClip();
+              for (var w9B of w2a) {
+                y2I.createXAxisLabel({
+                  panel: U5c,
+                  txt: w9B[+"1"],
+                  x: w9B[0],
+                  backgroundColor: L9v,
+                  color: null,
+                  pointed: !!1,
+                  padding: 2,
+                });
+              }
+              y2I.startClip(U5c.name);
+            }
+          }
+          if (!this.spanPanels || this.panelName == this.originPanelName) {
+            this.drawCallout(X96);
+            if (!this.highlighted) {
+              this.pixelX = [q$8, O4j, Q$n];
+              this.pixelY = [y4v, X$M, Y0l];
+            } else {
+              r5K = "p";
+              r5K += "1";
+              L4Y = "p";
+              L4Y += "0";
+              P2C = this.highlighted == L4Y ? !![] : ![];
+              O8m = this.highlighted == r5K ? !![] : ![];
+              U1i = this.highlighted == "p2" ? !![] : !1;
+              this.littleCircle(X96, q$8, y4v, P2C);
+              this.littleCircle(X96, O4j, X$M, O8m);
+              this.littleCircle(X96, Q$n, Y0l, U1i);
+            }
+          }
+        },
+        drawCallout: function (B4a) {
+          var M$q,
+            l0g,
+            f_O,
+            w59,
+            f8w,
+            k8m,
+            a0F,
+            I43,
+            d70,
+            L1o,
+            H8k,
+            U0B,
+            R4s,
+            z8d,
+            T2J,
+            e96,
+            A9f,
+            e27,
+            O7k,
+            K8m;
+          if (this.parameters.calloutOnHover && !this.showCallout) {
+            return;
+          }
+          M$q = this.stx;
+          l0g = M$q.panels[this.panelName];
+          if (!this.p2) {
+            return;
+          }
+          f_O = M$q.getYAxisByField(l0g, this.field);
+          if (!l0g || (this.field && !f_O)) {
+            return;
+          }
+          this.context = B4a;
+          w59 = M$q.pixelFromTick(this.p0[0], l0g.chart);
+          f8w = this.pixelFromValue(l0g, this.p2[0], this.p2[1], f_O);
+          if (isNaN(f8w)) {
+            return;
+          }
+          k8m = this.getcalloutData();
+          if (!k8m.length) {
+            return;
+          }
+          a0F = k8m.reduce(function (Z1L, E9C) {
+            x7d.R4I();
+            return Z1L.label.length > E9C.label.length ? Z1L : E9C;
+          }).label;
+          I43 = k8m.reduce(function (T_r, s1c) {
+            return T_r.value.length > s1c.value.length ? T_r : s1c;
+          }).value;
+          x7d.V84(4);
+          var b_c = x7d.o6M(20, 18);
+          this.calloutWidth =
+            (a0F.length + I43.length) * (this.fontSize * 0.6) +
+            this.padding * b_c;
+          x7d.K2h(58);
+          var x$F = x7d.F4O(0, 7, 20, 4);
+          this.calloutHeight =
+            k8m.length * this.lineHeight + this.padding * x$F;
+          x7d.R4I();
+          B4a.font = this.fontString;
+          B4a.textBaseline = "top";
+          x7d.K2h(44);
+          var a_b = x7d.o6M(58, 4, 17, 8);
+          d70 = this.calloutWidth / a_b;
+          x7d.K2h(103);
+          var S0p = x7d.F4O(1, 3, 3, 2);
+          L1o = this.calloutHeight / S0p;
+          if (f8w < l0g.yAxis.top + L1o || f8w > l0g.yAxis.bottom - L1o) {
+            f8w = Math.min(
+              Math.max(f8w, l0g.yAxis.top + L1o),
+              l0g.yAxis.bottom - L1o,
+            );
+            this.p2[1] = this.valueFromPixel(f8w, l0g, f_O);
+          }
+          H8k = this.lineWidth;
+          if (!H8k) {
+            H8k = 1.1;
+          }
+          U0B = this.getLineColor();
+          R4s = this.getLineColor(this.borderColor);
+          e27 = 0;
+          z8d = Math.round(w59);
+          e96 = Math.round(f8w);
+          w59 -= d70 + this.stem.x;
+          f8w -= this.stem.y;
+          x7d.K2h(1);
+          T2J = Math.round(x7d.F4O(w59, d70));
+          A9f = Math.round(f8w);
+          if (this.highlighted) {
+            O7k = "stx_annotation_hig";
+            O7k += "hlight_bg";
+            M$q.canvasColor(O7k, B4a);
+          } else {
+            if (this.fillColor) {
+              B4a.fillStyle = this.getLineColor(this.fillColor, !!"1");
+              B4a.globalAlpha = 0.7;
+            } else if (this.stem) {
+              B4a.fillStyle = M$q.containerColor;
+            }
+          }
+          B4a.strokeStyle = R4s;
+          if (B4a.setLineDash) {
+            B4a.setLineDash(z1.borderPatternToArray(H8k, this.pattern));
+            x7d.K2h(45);
+            B4a.lineDashOffset = x7d.o6M("0", 0);
+          }
+          if (R4s) {
+            B4a.beginPath();
+            B4a.lineWidth = H8k;
+            x7d.V84(16);
+            B4a.moveTo(x7d.o6M(w59, e27, d70), x7d.F4O(f8w, L1o, x7d.V84(4)));
+            x7d.K2h(1);
+            B4a.quadraticCurveTo(
+              x7d.F4O(w59, d70),
+              x7d.o6M(f8w, L1o, x7d.K2h(4)),
+              x7d.F4O(w59, d70, x7d.K2h(1)),
+              x7d.F4O(L1o, e27, f8w, x7d.V84(10)),
+            );
+            x7d.K2h(1);
+            B4a.lineTo(
+              x7d.F4O(w59, d70),
+              x7d.o6M("2", e27, 0, f8w, x7d.V84(104)),
+            );
+            B4a.lineTo(z8d, e96);
+            x7d.V84(1);
+            B4a.lineTo(x7d.F4O(w59, d70), x7d.o6M(e27, f8w, 2, x7d.K2h(54)));
+            x7d.V84(1);
+            B4a.lineTo(x7d.o6M(w59, d70), x7d.o6M(f8w, e27, L1o, x7d.K2h(16)));
+            x7d.V84(1);
+            B4a.quadraticCurveTo(
+              x7d.F4O(w59, d70),
+              x7d.F4O(f8w, L1o, x7d.V84(1)),
+              x7d.o6M(w59, e27, d70, x7d.K2h(16)),
+              x7d.o6M(f8w, L1o, x7d.K2h(1)),
+            );
+            x7d.V84(54);
+            B4a.lineTo(x7d.o6M(e27, w59, 2), x7d.o6M(f8w, L1o, x7d.K2h(1)));
+            x7d.K2h(105);
+            B4a.lineTo(x7d.F4O(w59, e27, "2"), x7d.o6M(f8w, L1o, x7d.K2h(1)));
+            x7d.V84(10);
+            B4a.lineTo(x7d.F4O(d70, e27, w59), x7d.o6M(f8w, L1o, x7d.K2h(1)));
+            x7d.K2h(4);
+            B4a.quadraticCurveTo(
+              x7d.F4O(w59, d70),
+              x7d.F4O(f8w, L1o, x7d.K2h(1)),
+              x7d.o6M(w59, d70, x7d.K2h(4)),
+              x7d.o6M(f8w, e27, L1o, x7d.K2h(16)),
+            );
+            x7d.V84(4);
+            B4a.lineTo(x7d.F4O(w59, d70), x7d.F4O(e27, f8w, 2, x7d.K2h(54)));
+            x7d.V84(4);
+            B4a.lineTo(x7d.o6M(w59, d70), x7d.o6M(f8w, 2, e27, x7d.K2h(53)));
+            x7d.K2h(4);
+            B4a.lineTo(x7d.o6M(w59, d70), x7d.o6M(L1o, e27, f8w, x7d.K2h(10)));
+            x7d.K2h(4);
+            B4a.quadraticCurveTo(
+              x7d.F4O(w59, d70),
+              x7d.F4O(f8w, L1o, x7d.V84(4)),
+              x7d.F4O(d70, e27, w59, x7d.V84(10)),
+              x7d.F4O(f8w, L1o, x7d.V84(4)),
+            );
+            x7d.V84(106);
+            B4a.lineTo(
+              x7d.F4O(e27, w59, 2, "2"),
+              x7d.o6M(f8w, L1o, x7d.K2h(4)),
+            );
+            x7d.K2h(54);
+            B4a.lineTo(x7d.F4O(e27, w59, 2), x7d.F4O(f8w, L1o, x7d.K2h(4)));
+            x7d.K2h(16);
+            B4a.lineTo(x7d.F4O(w59, e27, d70), x7d.F4O(f8w, L1o, x7d.K2h(4)));
+            B4a.fill();
+            B4a.globalAlpha = 1;
+            if (this.pattern != "none") {
+              B4a.stroke();
+            }
+          }
+          if (this.highlighted) {
+            K8m = "stx_a";
+            K8m += "nn";
+            K8m += "otation";
+            K8m += "_highlight";
+            M$q.canvasColor(K8m, B4a);
+          } else {
+            B4a.fillStyle =
+              this.fillColor === "transparent"
+                ? M$q.getCanvasColor()
+                : z1.chooseForegroundColor(this.fillColor);
+          }
+          f8w += this.padding;
+          k8m.forEach((L1E) => {
+            var J1Y;
+            var { label: J3l, value: n4n } = L1E;
+            J1Y = B4a.font;
+            B4a.textAlign = "start";
+            B4a.font = "bold " + this.fontSize + "px " + this.fontFamily;
+            B4a.fillText(
+              M$q.translateIf(J3l) + ": ",
+              w59 - d70 + this.padding,
+              f8w - L1o,
+            );
+            B4a.textAlign = "end";
+            B4a.font = this.fontSize + "px " + this.fontFamily;
+            B4a.fillText(n4n, w59 + d70 - this.padding, f8w - L1o);
+            B4a.textAlign = "start";
+            B4a.font = J1Y;
+            f8w += this.lineHeight;
+          });
+          B4a.textBaseline = "alphabetic";
+        },
+      },
+      !![],
+    );
+    z1.Drawing.quadrant = function () {
+      var Z0g;
+      Z0g = "q";
+      Z0g += "uadra";
+      Z0g += "nt";
+      this.name = Z0g;
+    };
+    z1.inheritsFrom(z1.Drawing.quadrant, z1.Drawing.regression);
+    z1.extend(
+      z1.Drawing.quadrant.prototype,
+      {
+        configs: ["color", "fillColor", "lineWidth", "pattern"],
+        copyConfig: function () {
+          var C_U;
+          C_U = this.stx.currentVectorParameters;
+          this.color = C_U.currentColor;
+          this.fillColor = C_U.fillColor;
+          this.lineWidth = C_U.lineWidth;
+          this.pattern = C_U.pattern;
+        },
+        $controls: [],
+        render: function (t3I) {
+          var S9R,
+            o3Y,
+            f6o,
+            H_J,
+            G8c,
+            I3C,
+            Y3P,
+            R2N,
+            s5r,
+            f3w,
+            q_q,
+            m1g,
+            V5A,
+            f5l,
+            o6S,
+            P4G,
+            g1o,
+            g5A,
+            U3G,
+            Q9D,
+            I9M,
+            Z2s,
+            N9y,
+            v96,
+            Y1E;
+          S9R = "quad";
+          S9R += "rant";
+          o3Y = "segmen";
+          o3Y += "t";
+          f6o = "s";
+          f6o += "egmen";
+          f6o += "t";
+          H_J = this.stx;
+          G8c = H_J.panels[this.panelName];
+          I3C = H_J.getYAxisByField(G8c, this.field);
+          if (!G8c || (this.field && !I3C)) {
+            return;
+          }
+          if (!this.p1) {
+            return;
+          }
+          Y3P = H_J.pixelFromTick(this.p0[0], G8c.chart);
+          R2N = H_J.pixelFromTick(this.p1[0], G8c.chart);
+          if (Y3P < G8c.left && R2N < G8c.left) {
+            return;
+          }
+          if (Y3P > G8c.right && R2N > G8c.right) {
+            return;
+          }
+          s5r = null;
+          f3w = null;
+          for (
+            var b_f = Math.max(0, Math.min(this.p1[0], this.p0[0]));
+            b_f <=
+            Math.min(
+              H_J.chart.dataSet.length - ("1" | 0),
+              Math.max(this.p1[0], this.p0[0]),
+            );
+            b_f++
+          ) {
+            q_q = this.getYValue(b_f);
+            if (q_q !== null) {
+              if (s5r === null || q_q.transformed > s5r) {
+                s5r = q_q.transformed;
+              }
+              if (f3w === null || q_q.transformed < f3w) {
+                f3w = q_q.transformed;
+              }
+            }
+          }
+          m1g = H_J.pixelFromTransformedValue(s5r, G8c, I3C);
+          x7d.K2h(107);
+          V5A = H_J.pixelFromTransformedValue(
+            x7d.F4O(3, 4, f3w, s5r),
+            G8c,
+            I3C,
+          );
+          x7d.K2h(107);
+          f5l = H_J.pixelFromTransformedValue(
+            x7d.o6M(2, 3, f3w, s5r),
+            G8c,
+            I3C,
+          );
+          x7d.K2h(108);
+          o6S = H_J.pixelFromTransformedValue(x7d.F4O(s5r, f3w, "2"), G8c, I3C);
+          x7d.K2h(109);
+          P4G = H_J.pixelFromTransformedValue(
+            x7d.F4O(2, f3w, s5r, 3),
+            G8c,
+            I3C,
+          );
+          x7d.V84(109);
+          g1o = H_J.pixelFromTransformedValue(
+            x7d.F4O(3, f3w, s5r, 4),
+            G8c,
+            I3C,
+          );
+          g5A = H_J.pixelFromTransformedValue(f3w, G8c, I3C);
+          this.p0[1] = 0;
+          this.p1[1] = !!0;
+          U3G = this.getLineColor();
+          Q9D = this.fillColor;
+          t3I.fillStyle = this.getLineColor(Q9D, !!"1");
+          I9M = { pattern: this.pattern, lineWidth: this.lineWidth };
+          H_J.plotLine(Y3P, R2N, m1g, m1g, U3G, "segment", t3I, G8c, I9M);
+          H_J.plotLine(Y3P, R2N, g5A, g5A, U3G, f6o, t3I, G8c, I9M);
+          if (this.name == "quadrant") {
+            H_J.plotLine(Y3P, R2N, V5A, V5A, U3G, "segment", t3I, G8c, I9M);
+            H_J.plotLine(Y3P, R2N, g1o, g1o, U3G, "segment", t3I, G8c, I9M);
+          } else if (this.name == "tirone") {
+            Z2s = "seg";
+            Z2s += "m";
+            Z2s += "e";
+            Z2s += "nt";
+            H_J.plotLine(Y3P, R2N, f5l, f5l, U3G, "segment", t3I, G8c, I9M);
+            H_J.plotLine(Y3P, R2N, P4G, P4G, U3G, Z2s, t3I, G8c, I9M);
+          }
+          H_J.plotLine(Y3P, Y3P, m1g, g5A, U3G, "segment", t3I, G8c, I9M);
+          H_J.plotLine(R2N, R2N, m1g, g5A, U3G, "segment", t3I, G8c, I9M);
+          H_J.plotLine(
+            Y3P,
+            R2N,
+            o6S,
+            o6S,
+            U3G,
+            o3Y,
+            t3I,
+            G8c,
+            z1.extend(I9M, { opacity: this.name == "tirone" ? 0.2 : 1 }),
+          );
+          t3I.globalAlpha = 0.1;
+          t3I.beginPath();
+          x7d.K2h(4);
+          t3I.fillRect(Y3P, m1g, x7d.F4O(R2N, Y3P), x7d.o6M(g5A, m1g));
+          if (this.name == S9R) {
+            x7d.K2h(4);
+            t3I.fillRect(Y3P, V5A, x7d.F4O(R2N, Y3P), x7d.o6M(g1o, V5A));
+          } else if (this.name == "tirone") {
+            x7d.V84(4);
+            t3I.fillRect(Y3P, f5l, x7d.o6M(R2N, Y3P), x7d.o6M(P4G, f5l));
+          }
+          x7d.K2h(3);
+          t3I.globalAlpha = x7d.o6M("1", 1);
+          if (!this.highlighted) {
+            N9y = "qua";
+            N9y += "dr";
+            N9y += "an";
+            N9y += "t";
+            this.pixelX = [Y3P, R2N];
+            this.pixelY = [m1g, g5A, o6S];
+            if (this.name === N9y) {
+              this.pixelY.push(V5A, g1o);
+            }
+            if (this.name === "tirone") {
+              this.pixelY.push(f5l, P4G);
+            }
+          } else {
+            v96 = this.highlighted == "p0" ? !0 : !{};
+            Y1E = this.highlighted == "p1" ? !!{} : !{};
+            this.littleCircle(t3I, Y3P, o6S, v96);
+            this.littleCircle(t3I, R2N, o6S, Y1E);
+          }
+        },
+        intersected: function (S$4, k5f, N8w) {
+          var P5p, H1P, B0u, X$o, p6w;
+          var { pixelX: S2H, pixelY: w2k } = this;
+          if (!S2H || !w2k) {
+            return null;
+          }
+          P5p = this.repositionIntersection(S$4, k5f);
+          if (P5p) {
+            return P5p;
+          }
+          x7d.p24();
+          for (var p9o = 0; p9o < 2; p9o++) {
+            if (this.pointIntersection(S2H[p9o], w2k[2], N8w, !0)) {
+              H1P = "d";
+              H1P += "r";
+              H1P += "a";
+              H1P += "g";
+              x7d.K2h(1);
+              this.highlighted = x7d.o6M(
+                (5649, 4340) < (88.7, 8090)
+                  ? (11, 655.92) === (8210, 618.36)
+                    ? 0x10fc
+                    : (3740, 9315) < +"427.23"
+                      ? 0xe24
+                      : "p"
+                  : "0x1f64" >> 0,
+                p9o,
+              );
+              return { action: H1P, point: "p" + p9o };
+            }
+          }
+          B0u = [];
+          S2H.forEach((y2J) => {
+            x7d.p24();
+            B0u.push({ p0: [y2J, w2k[0]], p1: [y2J, w2k[1]] });
+          });
+          w2k.forEach((S0J) => {
+            x7d.p24();
+            B0u.push({ p0: [S2H[0], S0J], p1: [S2H[1], S0J] });
+          });
+          X$o = B0u.some(({ p0: V1M, p1: c21 }) => {
+            x7d.p24();
+            return this.lineIntersection(
+              S$4,
+              k5f,
+              N8w,
+              this.name,
+              V1M,
+              c21,
+              !!{},
+            );
+          });
+          if (X$o) {
+            p6w = "m";
+            p6w += "ov";
+            p6w += "e";
+            this.highlighted = !![];
+            return {
+              action: p6w,
+              p0: z1.clone(this.p0),
+              p1: z1.clone(this.p1),
+              tick: S$4,
+              value: this.valueOnDrawingAxis(S$4, k5f),
+            };
+          }
+          return null;
+        },
+        reconstruct: function (J8b, G73) {
+          this.stx = J8b;
+          this.color = G73.col;
+          this.fillColor = G73.fc;
+          this.panelName = G73.pnl;
+          this.pattern = G73.ptrn;
+          this.lineWidth = G73.lw;
+          this.d0 = G73.d0;
+          this.d1 = G73.d1;
+          this.tzo0 = G73.tzo0;
+          this.tzo1 = G73.tzo1;
+          this.field = G73.fld;
+          this.permanent = G73.prm;
+          this.hidden = G73.hdn;
+          this.adjust();
+        },
+        serialize: function () {
+          x7d.p24();
+          return {
+            name: this.name,
+            pnl: this.panelName,
+            col: this.color,
+            fc: this.fillColor,
+            ptrn: this.pattern,
+            lw: this.lineWidth,
+            d0: this.d0,
+            d1: this.d1,
+            tzo0: this.tzo0,
+            tzo1: this.tzo1,
+            fld: this.field,
+            prm: this.permanent,
+            hdn: this.hidden,
+          };
+        },
+      },
+      !![],
+    );
+    z1.Drawing.tirone = function () {
+      x7d.p24();
+      this.name = "tirone";
+    };
+    z1.inheritsFrom(z1.Drawing.tirone, z1.Drawing.quadrant);
+    z1.Drawing.volumeprofile = function () {
+      x7d.R4I();
+      this.name = "volumeprofile";
+    };
+    z1.inheritsFrom(z1.Drawing.volumeprofile, z1.Drawing.regression);
+    z1.extend(
+      z1.Drawing.volumeprofile.prototype,
+      {
+        configs: [c7c, "fillColor", "lineWidth", "pattern", F0G],
+        copyConfig: function () {
+          x7d.R4I();
+          this.color = this.stx.currentVectorParameters.currentColor;
+          this.fillColor = this.stx.currentVectorParameters.fillColor;
+          this.lineWidth = this.stx.currentVectorParameters.lineWidth;
+          this.pattern = this.stx.currentVectorParameters.pattern;
+          this.priceBuckets =
+            this.stx.currentVectorParameters.volumeProfile.priceBuckets;
+        },
+        $controls: [],
+        getYValue: null,
+        isAllowed: function (e59, q1r) {
+          var R8P;
+          R8P = "obj";
+          R8P += "ec";
+          R8P += "t";
+          return (
+            !q1r ||
+            typeof e59.getFirstLastDataRecord(e59.chart.dataSegment, q1r)[
+              q1r
+            ] === R8P
+          );
+        },
+        render: function (n$a) {
+          var R2O,
+            w9_,
+            B7b,
+            a11,
+            a8w,
+            p9S,
+            w2d,
+            g$n,
+            I4k,
+            D0$,
+            i3B,
+            O4m,
+            U$c,
+            o9x,
+            a0X,
+            U2P,
+            b5J,
+            q2x,
+            T1B,
+            d2K,
+            f6V,
+            A01,
+            O2N,
+            Y6h,
+            D0g,
+            l_f,
+            F6D,
+            X1M,
+            U3K,
+            M87,
+            j1Y,
+            s$R,
+            N0C,
+            k7D,
+            k2V,
+            t7b,
+            n8Q,
+            R4J,
+            a9_,
+            O5P,
+            w4u,
+            i_T,
+            T9Z,
+            C1D,
+            s1Z,
+            p5m,
+            w7D,
+            u$L,
+            c9R,
+            X$G,
+            b4J,
+            v0N;
+          var { stx: h6b } = this;
+          var { dataSet: u6T } = h6b.chart;
+          R2O = h6b.panels[this.panelName];
+          w9_ = h6b.getYAxisByField(R2O, this.field);
+          if (!R2O || (this.field && !w9_)) {
+            return;
+          }
+          if (!this.p1) {
+            return;
+          }
+          w9_ = w9_ || R2O.yAxis;
+          B7b = h6b.pixelFromTick(this.p0[+"0"], R2O.chart);
+          a11 = h6b.pixelFromTick(this.p1[0], R2O.chart);
+          if (B7b < R2O.left && a11 < R2O.left) {
+            return;
+          }
+          if (B7b > R2O.right && a11 > R2O.right) {
+            return;
+          }
+          var { flipped: z7z } = w9_;
+          a8w = null;
+          p9S = null;
+          w2d = Math.min(this.p1[0], this.p0[0]);
+          g$n = Math.max(this.p1[0], this.p0[+"0"]);
+          for (var e26 = w2d; e26 <= g$n; e26++) {
+            I4k = u6T[e26];
+            if (!I4k) continue;
+            if (I4k[this.field]) {
+              I4k = I4k[this.field];
+            }
+            if (!I4k || typeof I4k !== "object") continue;
+            var { High: h9Y, Low: U0f } = I4k;
+            if (a8w === null || h9Y > a8w) {
+              a8w = h9Y;
+            }
+            if (p9S === null || U0f < p9S) {
+              p9S = U0f;
+            }
+          }
+          var { priceBuckets: O6O } = this;
+          x7d.V84(33);
+          D0$ = x7d.o6M(O6O, p9S, a8w);
+          i3B = [];
+          if (z7z) {
+            [a8w, p9S] = [p9S, a8w];
+          }
+          O4m = z7z ? -1 : "1" - 0;
+          for (var u2D = p9S, e0D = 0; e0D <= O6O; u2D += D0$ * O4m, e0D++) {
+            i3B.push([u2D, 0]);
+            if (p9S === a8w) break;
+          }
+          x7d.V84(11);
+          U$c = x7d.F4O(0, "0");
+          for (var Q8D = w2d; Q8D <= g$n; Q8D++) {
+            o9x = u6T[Q8D];
+            if (!o9x) continue;
+            if (o9x[this.field]) {
+              o9x = o9x[this.field];
+            }
+            if (!o9x || typeof o9x !== "object") continue;
+            var { High: Y5E, Low: K9j, Volume: n5E } = o9x;
+            if (!n5E && n5E !== 0) continue;
+            a0X = [];
+            U2P = i3B[0][0];
+            b5J = null;
+            for (var t5D = 1; t5D < i3B.length; t5D++) {
+              b5J = i3B[t5D][0];
+              q2x = K9j >= U2P && K9j <= b5J;
+              T1B = Y5E >= U2P && Y5E <= b5J;
+              d2K = K9j < U2P && Y5E > b5J;
+              if (q2x || T1B || d2K) {
+                a0X.push(t5D);
+              }
+              U2P = b5J;
+            }
+            if (a0X.length) {
+              f6V = n5E / a0X.length;
+              for (var y4w = 0; y4w < a0X.length; y4w++) {
+                A01 = i3B[a0X[y4w]][1] += f6V;
+                if (A01 > U$c) {
+                  U$c = A01;
+                }
+              }
+            }
+          }
+          O2N = U$c === 0 && i3B.length > 1;
+          if (O2N) {
+            Y6h = "Not enoug";
+            Y6h += "h data to render the";
+            Y6h += " Volume Prof";
+            Y6h += "ile";
+            D0g = "c";
+            D0g += "h";
+            D0g += "a";
+            D0g += "rt";
+            h6b.displayErrorAsWatermark(D0g, h6b.translateIf(Y6h));
+          }
+          l_f = (u2U) => {
+            x7d.R4I();
+            return Math.round(u2U) + 0.5;
+          };
+          x7d.p24();
+          F6D = (g$n - w2d) * h6b.layout.candleWidth;
+          x7d.K2h(110);
+          var j2n = x7d.o6M(103, 6, 16, 6);
+          X1M = l_f(h6b.pixelFromTick(w2d)) - j2n;
+          x7d.V84(1);
+          U3K = l_f(x7d.F4O(X1M, F6D));
+          x7d.V84(86);
+          M87 = this.pixelFromValue(R2O, w2d, x7d.F4O(p9S, a8w, 2, p9S), w9_);
+          j1Y = X1M;
+          x7d.V84(3);
+          var [u_T] = i3B[x7d.F4O("0", 1)];
+          s$R = this.getLineColor();
+          var { fillColor: u30 } = this;
+          n$a.fillStyle = this.getLineColor(u30, !!1);
+          N0C = { pattern: this.pattern, lineWidth: this.lineWidth };
+          k7D = 0;
+          k2V = 0;
+          t7b = (e5S, J2F) => {
+            x7d.p24();
+            return ([k7D, k2V] = [e5S, J2F]);
+          };
+          n8Q = (X$q, R_a, T0O) => {
+            x7d.p24();
+            var v9i;
+            if (!T0O) {
+              v9i = "s";
+              v9i += "egme";
+              v9i += "nt";
+              h6b.plotLine(k7D, X$q, k2V, R_a, s$R, v9i, n$a, R2O, N0C);
+            }
+            [k7D, k2V] = [X$q, R_a];
+          };
+          if (this.highlighted || O2N) {
+            R4J = "s";
+            R4J += "egme";
+            R4J += "n";
+            R4J += "t";
+            h6b.plotLine(
+              X1M,
+              U3K,
+              M87,
+              M87,
+              h6b.defaultColor,
+              R4J,
+              n$a,
+              R2O,
+              Object.assign({}, N0C, { opacity: 0.3 }),
+            );
+          }
+          for (var M4v = 1; M4v < i3B.length; M4v++) {
+            var [l6f, q7d] = i3B[M4v];
+            if (q7d) {
+              x7d.K2h(111);
+              a9_ = x7d.o6M(F6D, U$c, q7d);
+              x7d.V84(1);
+              O5P = l_f(x7d.o6M(X1M, a9_));
+              w4u = l_f(this.pixelFromValue(R2O, w2d, l6f, w9_));
+              i_T = l_f(this.pixelFromValue(R2O, w2d, u_T, w9_));
+              T9Z = Math.max(w4u, w9_.top);
+              C1D = Math.min(i_T, w9_.bottom);
+              x7d.V84(112);
+              s1Z = x7d.F4O(T9Z, w4u);
+              x7d.V84(112);
+              p5m = x7d.o6M(C1D, i_T);
+              w7D = T9Z <= w9_.bottom && C1D >= w9_.top;
+              if (w7D) {
+                if (!this.highlighted) {
+                  n$a.globalAlpha = 0.3;
+                }
+                t7b(X1M, C1D);
+                n8Q(X1M, T9Z);
+                n8Q(O5P, T9Z, s1Z);
+                n8Q(O5P, C1D);
+                if (O5P > j1Y) {
+                  n8Q(j1Y, C1D, p5m);
+                }
+                n$a.globalAlpha = 0.2;
+                x7d.K2h(4);
+                n$a.fillRect(X1M, T9Z, x7d.o6M(O5P, X1M), x7d.F4O(C1D, T9Z));
+                n$a.globalAlpha = 1;
+              }
+              j1Y = O5P;
+            } else {
+              j1Y = X1M;
+            }
+            u_T = l6f;
+          }
+          if (this.highlighted) {
+            u$L = this.highlighted === "p0";
+            c9R = this.highlighted === "p1";
+            X$G = this.p0[0] > this.p1[0];
+            b4J = X$G ? c9R : u$L;
+            v0N = X$G ? u$L : c9R;
+            this.littleCircle(n$a, X1M, M87, b4J);
+            this.littleCircle(n$a, U3K, M87, v0N);
+          }
+          x7d.V84(1);
+          this.pixelX = [X1M, x7d.F4O(X1M, F6D)];
+          this.pixelY = [
+            this.pixelFromValue(R2O, w2d, a8w, w9_),
+            this.pixelFromValue(R2O, w2d, p9S, w9_),
+            M87,
+          ];
+          x7d.K2h(0);
+          this.p0[1] = x7d.o6M(0, "0");
+          this.p1[1] = !1;
+        },
+        intersected: function (n6_, D0p, P0n) {
+          var F11, t8T;
+          var { p0: h27, p1: r80, stx: W09 } = this;
+          if (!h27 || !r80) {
+            return null;
+          }
+          var [, , z4f] = this.pixelY || [];
+          if (z4f === undefined) {
+            return;
+          }
+          F11 = this.repositionIntersection(n6_, D0p);
+          if (F11) {
+            return F11;
+          }
+          for (var [o4E, [b$7]] of [
+            [0, h27],
+            [1, r80],
+          ]) {
+            if (this.pointIntersection(W09.pixelFromTick(b$7), z4f, P0n, !0)) {
+              x7d.K2h(1);
+              this.highlighted = x7d.o6M(
+                ("5752" ^ 0, 4527) >= 2412 ? "p" : (213.83, 2.72e3),
+                o4E,
+              );
+              return {
+                action: "drag",
+                point:
+                  ("4975" << 0 == +"8808"
+                    ? 265.86
+                    : 8738 === (8103, 9064)
+                      ? (7970, 2910) >= (551.04, 655.64)
+                        ? (!![], 8.94e3)
+                        : (0x1c1f, 8.21e3)
+                      : "p") + o4E,
+              };
+            }
+          }
+          x7d.R4I();
+          if (this.boxIntersection(n6_, D0p, P0n)) {
+            t8T = "m";
+            t8T += "ov";
+            t8T += "e";
+            this.highlighted = !![];
+            return {
+              action: t8T,
+              p0: z1.clone(this.p0),
+              p1: z1.clone(this.p1),
+              tick: n6_,
+              value: D0p,
+            };
+          }
+          return null;
+        },
+        reconstruct: function (d2G, c3r) {
+          this.stx = d2G;
+          this.color = c3r.col;
+          this.fillColor = c3r.fc;
+          this.panelName = c3r.pnl;
+          this.pattern = c3r.ptrn;
+          this.lineWidth = c3r.lw;
+          this.d0 = c3r.d0;
+          this.d1 = c3r.d1;
+          this.tzo0 = c3r.tzo0;
+          this.tzo1 = c3r.tzo1;
+          this.field = c3r.fld;
+          this.priceBuckets = c3r.pb;
+          this.permanent = c3r.prm;
+          this.hidden = c3r.hdn;
+          x7d.p24();
+          this.adjust();
+        },
+        serialize: function () {
+          x7d.p24();
+          return {
+            name: this.name,
+            pnl: this.panelName,
+            col: this.color,
+            fc: this.fillColor,
+            ptrn: this.pattern,
+            lw: this.lineWidth,
+            d0: this.d0,
+            d1: this.d1,
+            tzo0: this.tzo0,
+            tzo1: this.tzo1,
+            fld: this.field,
+            pb: this.priceBuckets,
+            prm: this.permanent,
+            hdn: this.hidden,
+          };
+        },
+      },
+      !!{},
+    );
+    z1.Drawing.elliottwave = function () {
+      var Q1m;
+      Q1m = "elliot";
+      Q1m += "t";
+      Q1m += "wave";
+      this.name = Q1m;
+      this.lastPoint = 0;
+      this.points = [];
+      this.pts = [];
+      x7d.R4I();
+      this.dx = 0;
+      this.dy = -20;
+      this.dragToDraw = ![];
+      this.annotationPoints = [];
+      this.edit = null;
+    };
+    z1.inheritsFrom(z1.Drawing.elliottwave, z1.Drawing.annotation);
+    z1.Drawing.elliottwave.defaultTemplate = {
+      impulse: [
+        (1305, 850.66) > (73, 3088) ? "z" : "I",
+        "II",
+        "III",
+        "IV",
+        4567 >= 7862 ? 1.42e3 : "V",
+      ],
+      corrective: [
+        ("1900" << 64, 6412) <= (+"7671", 818)
+          ? (!!1, +"8.08e+3")
+          : 3565 < 697.14
+            ? "T"
+            : "A",
+        536 == (930.35, +"925.62")
+          ? (6.42e3, "b")
+          : (+"9713", 3270) >= (438.66, +"599.53")
+            ? "B"
+            : (7390, 476.43) !== 518.48
+              ? +"8.88e+3"
+              : !0,
+        (+"910.99", 127.15) === (2600, "5150" * 1)
+          ? "O"
+          : (7100, 6140) !== (+"929.5", 4997)
+            ? (257.46, "174.31" * 1) <= 974.92
+              ? "C"
+              : ("0x1ca6" >> 64, "d")
+            : !!"",
+      ],
+      decoration: r83,
+      showLines: !!"1",
+    };
+    z1.Drawing.elliottwave.prototype.initializeSettings = function (d9_) {
+      d9_.currentVectorParameters.waveParameters = z1.clone(
+        z1.Drawing.elliottwave.defaultTemplate,
+      );
+    };
+    z1.Drawing.elliottwave.prototype.configs = [
+      "color",
+      "lineWidth",
+      "lineColor",
+      "pattern",
+      z8c,
+      "waveParameters",
+    ];
+    z1.Drawing.elliottwave.prototype.$controls = [
+      "br[cq-wave-parameters]",
+      r8r,
+    ];
+    z1.Drawing.elliottwave.prototype.construct = function (l7O, S_c) {
+      var o8h;
+      this.stx = l7O;
+      this.panelName = S_c.name;
+      o8h = l7O.currentVectorParameters;
+      Object.assign(this, o8h.waveParameters);
+    };
+    z1.Drawing.elliottwave.prototype.serialize = function () {
+      var q$w, k_q, V3I, f7u;
+      q$w = "f";
+      q$w += "l";
+      k_q = "s";
+      k_q += "t";
+      V3I = {};
+      for (var l1k = 0; l1k < this.points.length; l1k++) {
+        f7u = "t";
+        f7u += "z";
+        f7u += "o";
+        x7d.V84(1);
+        V3I[
+          x7d.o6M(
+            (805, 741.09) > 840 ? 0x1e71 : 550.36 === ("956" | 28) ? "F" : "d",
+            l1k,
+          )
+        ] =
+          this[
+            x7d.o6M(
+              (363.79, 438.1) !== (3200, +"221.38")
+                ? (3990, 413) < 7367
+                  ? "d"
+                  : 589.84 != ("722.56" * 1, +"677.77")
+                    ? "s"
+                    : 0x14bd
+                : (!!0, !![]),
+              l1k,
+            )
+          ];
+        x7d.V84(1);
+        V3I[x7d.o6M(f7u, l1k)] = this[x7d.o6M("tzo", l1k)];
+        x7d.V84(1);
+        V3I[x7d.o6M(9978 != 494.36 ? "v" : ("k", 0xeff), l1k)] =
+          this[
+            x7d.o6M(
+              (7227, 1980) != 1190
+                ? 1418 <= 353.88
+                  ? ("P", 633.01)
+                  : "v"
+                : (![], 2.81e3),
+              l1k,
+            )
+          ];
+      }
+      V3I.annotations = this.annotationPoints.join(",");
+      return Object.assign(
+        {
+          name: this.name,
+          pnl: this.panelName,
+          col: this.color,
+          ptrn: this.pattern,
+          lw: this.lineWidth,
+          mxSeg: this.maxSegments,
+          show: this.showLines,
+          decor: this.decoration,
+          dx: this.dx,
+          dy: this.dy,
+          trend: this.trend,
+          fld: this.field,
+          fnt: z1.removeNullValues(
+            z1.replaceFields(this.font, {
+              style: k_q,
+              size: "sz",
+              weight: "wt",
+              family: q$w,
+            }),
+          ),
+          prm: this.permanent,
+          hdn: this.hidden,
+        },
+        V3I,
+      );
+    };
+    z1.Drawing.elliottwave.prototype.reconstruct = function (I3p, w1B) {
+      var z_S, a8X, f8r;
+      z_S = "en";
+      z_S += "c";
+      x7d.p24();
+      z_S += "l";
+      z_S += "osed";
+      a8X = "famil";
+      a8X += "y";
+      f8r = "w";
+      f8r += "ei";
+      f8r += "g";
+      f8r += "ht";
+      this.stx = I3p;
+      this.color = w1B.col;
+      this.panelName = w1B.pnl;
+      this.pattern = w1B.ptrn;
+      this.lineWidth = w1B.lw;
+      this.font = z1.replaceFields(w1B.fnt, {
+        st: "style",
+        sz: "size",
+        wt: f8r,
+        fl: a8X,
+      });
+      this.decoration = w1B.decor;
+      this.showLines = w1B.show;
+      this.dx = w1B.dx;
+      this.dy = w1B.dy;
+      this.trend = w1B.trend;
+      this.field = w1B.fld;
+      this.permanent = w1B.prm;
+      this.hidden = w1B.hdn;
+      this.annotationPoints = w1B.annotations.split(",");
+      if (w1B.decor === z_S) {
+        this.calculateRadius(I3p.chart.tempCanvas.context);
+      }
+      this.maxSegments = w1B.mxSeg;
+      this.reconstructPoints(w1B);
+      this.adjust();
+    };
+    z1.Drawing.elliottwave.prototype.reconstructPoints = function (W6L) {
+      x7d.p24();
+      var d12, L0Z, o6U, H38;
+      d12 = this.stx.panels[this.panelName];
+      if (!d12) {
+        return;
+      }
+      for (var w4J = 0; w4J < this.annotationPoints.length; w4J++) {
+        L0Z = "t";
+        L0Z += "zo";
+        x7d.V84(1);
+        this[x7d.F4O((52.11, 1590) <= 3414 ? "d" : ("z", !![]), w4J)] =
+          W6L[
+            x7d.F4O(
+              7 == ("2464" ^ 0, 9203)
+                ? 5640 != +"1291"
+                  ? !0
+                  : +"9.65e+3"
+                : "d",
+              w4J,
+            )
+          ];
+        x7d.V84(1);
+        this[
+          x7d.F4O((404.82, +"203.05") === (5490, 103) ? (!![], !!{}) : "v", w4J)
+        ] = W6L[x7d.o6M("v", w4J)];
+        x7d.K2h(1);
+        this[x7d.F4O(L0Z, w4J)] = W6L[x7d.F4O("tzo", w4J)];
+        o6U = z1.strToDateTime(
+          W6L[
+            (776.73 < (4636, 359.45)
+              ? ("o", "H")
+              : (+"367", 133.06) === 8540
+                ? 0x1486
+                : 2550 > (+"6873", 1340)
+                  ? "d"
+                  : "t") + w4J
+          ],
+        );
+        H38 = this.stx.tickFromDate(o6U, d12.chart);
+        this.points.push([
+          H38,
+          W6L[(3940 <= ("8165" ^ 0, 492.2) ? !!"1" : "v") + w4J],
+        ]);
+      }
+    };
+    z1.Drawing.elliottwave.prototype.calculateRadius = function (d9M) {
+      x7d.p24();
+      var E7Q, b0U;
+      this.getFontString();
+      d9M.font = this.fontString;
+      E7Q = 0;
+      for (var n22 = +"0"; n22 < this.annotationPoints.length; n22++) {
+        b0U = d9M.measureText(this.annotationPoints[n22]).width;
+        if (E7Q < b0U) {
+          E7Q = b0U;
+        }
+      }
+      this.enclosedRadius = E7Q;
+    };
+    z1.Drawing.elliottwave.prototype.check = function (d6G, a0T, G39) {
+      var I6F, g$i;
+      x7d.K2h(4);
+      I6F = this.points[x7d.F4O(G39, 1)];
+      if (I6F && d6G <= I6F[0]) {
+        return !!0;
+      }
+      if (G39 === 1 && this.points.length === 2) {
+        return !!{};
+      }
+      x7d.K2h(1);
+      g$i = this.points[x7d.o6M(G39, 1)];
+      if (g$i && d6G >= g$i[0]) {
+        return !{};
+      }
+      if (!e12(this.points)) {
+        return ![];
+      }
+      function e12(J84) {
+        for (var k6t = 2; k6t < J84.length; k6t++) {
+          if (
+            Math.sign(J84[k6t]["1" - 0] - J84[k6t - 1][1]) ==
+            Math.sign(J84[k6t - 1][1] - J84[k6t - +"2"][1])
+          ) {
+            return !!"";
+          }
+        }
+        return !0;
+      }
+      x7d.R4I();
+      return !!{};
+    };
+    z1.Drawing.elliottwave.prototype.move = function (U4x, M7j, r1G) {
+      this.copyConfig();
+      x7d.K2h(113);
+      var K8F = x7d.F4O(3, 5, 1, 9, 19);
+      this.points[this.lastPoint + K8F] = [M7j, r1G];
+      this.render(U4x);
+    };
+    z1.Drawing.elliottwave.prototype.adjust = function () {
+      var d$f, e3A;
+      d$f = this.stx.panels[this.panelName];
+      if (!d$f) {
+        return;
+      }
+      for (var t3H = 0; this.maxSegments + 1 > t3H; t3H++) {
+        x7d.V84(1);
+        e3A =
+          this[
+            x7d.o6M(
+              (352, 756.2) >= (242.84, 7890) ? ("D", "0x5d4" * 1) : "d",
+              t3H,
+            )
+          ];
+        this.setPoint(
+          t3H,
+          e3A,
+          this[
+            (453.44 != 549.98
+              ? "v"
+              : +"849" != +"8759"
+                ? "4439" >> 32 >= 6430
+                  ? (4.8e3, !0)
+                  : 6.95e3
+                : (142.4, 2.01e2)) + t3H
+          ],
+          d$f.chart,
+        );
+        this.points[t3H][0] = this.stx.tickFromDate(
+          z1.strToDateTime(e3A),
+          d$f.chart,
+        );
+        x7d.K2h(1);
+        this.points[t3H][1] =
+          this[x7d.F4O(9620 == "5395" - 0 ? !{} : "v", t3H)];
+      }
+    };
+    z1.Drawing.elliottwave.prototype.click = function (y7z, Z9I, Q0L) {
+      var E$W, U2W;
+      E$W = this.stx.panels[this.panelName];
+      if (!E$W) {
+        return;
+      }
+      this.copyConfig();
+      if (!this.penDown) {
+        U2W = "enc";
+        U2W += "lose";
+        U2W += "d";
+        this.setPoint(0, Z9I, Q0L, E$W.chart);
+        this.points.push(this.p0);
+        this.penDown = !!{};
+        this.segment = +"0";
+        x7d.V84(11);
+        this.lastPoint = x7d.o6M(0, "0");
+        if (this.impulse) {
+          this.annotationPoints = this.annotationPoints.concat(this.impulse);
+        }
+        if (this.corrective) {
+          this.annotationPoints = this.annotationPoints.concat(this.corrective);
+        }
+        this.annotationPoints.unshift(
+          (6420, 3430) >= 2399 ? "0" : (2.6e3, "6.66e+3" << 32),
+        );
+        if (this.decoration === U2W) {
+          this.calculateRadius(y7z);
+        }
+        x7d.V84(114);
+        var z$D = x7d.o6M(19, 2, 28, 16, 0);
+        this.maxSegments = this.annotationPoints.length - z$D;
+        this.trend = 1;
+        return !!"";
+      }
+      if (this.accidentalClick(Z9I, Q0L)) {
+        this.penDown = !"";
+        return !{};
+      }
+      if (this.check(Z9I, Q0L, this.lastPoint + 1)) {
+        this.lastPoint++;
+        this.setPoint(this.lastPoint, Z9I, Q0L, E$W.chart);
+        if (this.lastPoint === 1) {
+          this.trend = Math.sign(this.v1 - this.v0);
+        }
+        this.segment++;
+        if (this.segment >= this.maxSegments) {
+          this.penDown = !!0;
+          return !!1;
+        }
+      }
+      return !!"";
+    };
+    z1.Drawing.elliottwave.prototype.render = function (R5W) {
+      var R7I,
+        J1W,
+        N_k,
+        h0X,
+        f_r,
+        n3F,
+        r54,
+        V7x,
+        p83,
+        l5q,
+        N01,
+        u6a,
+        l3_,
+        x83,
+        y_C,
+        Y5P,
+        V8$,
+        m0B,
+        T5B,
+        N6B,
+        U1f,
+        W8U,
+        y70,
+        H30,
+        z0y,
+        k74,
+        R$z,
+        L4y,
+        X9o,
+        u5v,
+        I0E,
+        h9N,
+        m$E;
+      R7I = "st";
+      R7I += "ri";
+      R7I += "ng";
+      J1W = "mid";
+      J1W += "dle";
+      N_k = this.stx;
+      h0X = N_k.panels[this.panelName];
+      f_r = N_k.getYAxisByField(h0X, this.field);
+      if (!h0X || (this.field && !f_r)) {
+        return;
+      }
+      f_r = f_r || h0X.yAxis;
+      n3F = this.annotationPoints;
+      r54 = this.pattern
+        ? z1.borderPatternToArray(this.lineWidth, this.pattern)
+        : [];
+      this.getFontString();
+      R5W.font = this.fontString;
+      R5W.textAlign = "center";
+      R5W.textBaseline = J1W;
+      R5W.lineWidth = this.lineWidth;
+      if (this.fontString !== this.lastFontString) {
+        this.calculateRadius(R5W);
+      }
+      this.lastFontString = this.fontString;
+      V7x = this.getLineColor();
+      R5W.fillStyle = R5W.strokeStyle = V7x;
+      R5W.save();
+      R5W.setLineDash(r54);
+      p83 = this.dx;
+      l5q = this.dy;
+      N01 = this.points;
+      u6a = this.pts;
+      l3_ = !this.showLines && this.highlighted;
+      x83 = N01.length;
+      if (this.penDown && this.segment) {
+        Y5P = "t";
+        Y5P += "o";
+        Y5P += "p";
+        x7d.K2h(56);
+        var b7Z = x7d.F4O(0, 42, 11, 6, 8);
+        y_C = this.trend * ((x83 % b7Z) - 0.5) < 0;
+        this.drawDropZone(
+          R5W,
+          N01[x83 - 2][1],
+          N_k.priceFromPixel(f_r[y_C ? Y5P : "bottom"], h0X, f_r),
+          N01[x83 - 2]["0" << 32],
+        );
+      } else if (typeof this.highlighted === R7I && N_k.repositioningDrawing) {
+        V8$ = "bot";
+        V8$ += "t";
+        V8$ += "o";
+        V8$ += "m";
+        m0B = "to";
+        m0B += "p";
+        T5B = "mi";
+        T5B += "n";
+        N6B = parseInt(
+          this.highlighted.substring(1, this.highlighted.length),
+          10,
+        );
+        y_C = this.trend * ((N6B % +"2") - 0.5) > 0;
+        x7d.V84(4);
+        U1f = N01[x7d.F4O(N6B, 1)];
+        x7d.V84(1);
+        W8U = N01[x7d.o6M(N6B, 1)];
+        y70 = N6B > 0 ? U1f[+"1"] : W8U[+"1"];
+        if (W8U) {
+          y70 = Math[y_C ? "max" : T5B](y70, W8U[1]);
+        }
+        this.drawDropZone(
+          R5W,
+          y70,
+          N_k.priceFromPixel(f_r[y_C ? m0B : V8$], h0X, f_r),
+          U1f ? U1f[0] : null,
+          W8U ? W8U[0] : null,
+        );
+      }
+      for (var y0Y = 0; y0Y < x83; y0Y++) {
+        H30 = N01[y0Y];
+        z0y = N_k.pixelFromTick(H30[0], h0X.chart);
+        k74 = this.pixelFromValue(
+          h0X,
+          H30[0],
+          H30[1],
+          N_k.getYAxisByField(h0X, this.field),
+        );
+        u6a[y0Y] = [z0y, k74];
+      }
+      x7d.K2h(4);
+      y0Y = x7d.o6M("0", 0);
+      if (this.showLines || l3_) {
+        R5W.beginPath();
+        if (l3_) {
+          R5W.globalAlpha = 0.3;
+        }
+        for (; y0Y < u6a.length; y0Y++) {
+          R5W.lineTo(u6a[y0Y][0], u6a[y0Y][+"1"]);
+        }
+        R5W.stroke();
+        y0Y = 0;
+      }
+      R5W.restore();
+      for (; y0Y < x83; y0Y++) {
+        R$z = y0Y % 2 ? p83 : -p83;
+        L4y = y0Y % 2 ? l5q : -l5q;
+        R$z *= this.trend;
+        L4y *= this.trend;
+        if (f_r.flipped) {
+          R$z *= -+"1";
+          L4y *= -1;
+        }
+        X9o = u6a[y0Y];
+        x7d.K2h(19);
+        var E5K = x7d.F4O(18, 18, 12, 12);
+        u5v = X9o[2] = X9o["0" * E5K] + R$z;
+        x7d.K2h(31);
+        var h_j = x7d.o6M(2, 6, 5, 2);
+        x7d.K2h(4);
+        I0E = X9o[x7d.F4O("3", 0)] = X9o[h_j] + L4y;
+        h9N = this.enclosedRadius || 8;
+        m$E = n3F[y0Y];
+        if (this.decoration === "parentheses") {
+          x7d.K2h(68);
+          m$E = x7d.F4O(
+            6300 !== 60
+              ? ")"
+              : (+"5760", "6.58" - 0) == 388.64
+                ? !!1
+                : +"8756" < 3780
+                  ? !!""
+                  : !0,
+            +"5940" <= (234.96, 8645)
+              ? 943.76 >= (6.28, 9821)
+                ? (!{}, 0x7ed)
+                : "("
+              : 6.85e3,
+            m$E,
+          );
+        }
+        R5W.fillText(m$E, u5v, I0E);
+        if (this.decoration === "enclosed") {
+          R5W.beginPath();
+          R5W.arc(u5v, I0E, h9N, +"0", 2 * Math.PI, !!0);
+          R5W.stroke();
+        }
+        if (this.highlighted) {
+          R5W.save();
+          this.littleCircle(
+            R5W,
+            this.pts[y0Y][0],
+            this.pts[y0Y]["1" >> 32],
+            this.highlighted ===
+              (6023 <= (+"7815", 8590) ? "p" : "0x20" >> 32) + y0Y,
+          );
+          R5W.restore();
+        }
+      }
+    };
+    z1.Drawing.elliottwave.prototype.reposition = function (
+      D0Z,
+      g1j,
+      J47,
+      p5W,
+    ) {
+      var U$T, i$8, O0T, e1o, S7z, R9a;
+      if (!g1j) {
+        return;
+      }
+      U$T = this.stx.panels[this.panelName];
+      i$8 = g1j.tick - J47;
+      O0T = g1j.value - p5W;
+      if (g1j.action === "move") {
+        for (var x5h = 0; g1j.points.length > x5h; x5h++) {
+          e1o = g1j.points[x5h];
+          this.setPoint(x5h, e1o[0] - i$8, e1o[1] - O0T, U$T.chart);
+          x7d.K2h(38);
+          var P_r = x7d.F4O(20, 6, 10, 17);
+          this.points[x5h] = [e1o["0" - 0] - i$8, e1o[P_r] - O0T];
+        }
+      }
+      if (g1j.action === "drag") {
+        S7z = g1j.point;
+        R9a = this.points;
+        R9a[S7z] = [J47, p5W];
+        if (this.check(J47, p5W, S7z)) {
+          this.setPoint(S7z, J47, p5W, U$T.chart);
+        }
+      }
+      this.render(D0Z);
+    };
+    z1.Drawing.elliottwave.prototype.intersected = function (J73, h6V, C7l) {
+      var r4C, v82;
+      if (!this.p0 || !this.p1) {
+        return null;
+      }
+      for (var V9C = 0; this.points.length > V9C; V9C++) {
+        v82 = this.points[V9C];
+        if (this.pointIntersection(v82[0], v82[1], C7l)) {
+          x7d.V84(1);
+          this.highlighted = x7d.F4O(
+            (8360, 9120) === (6485, 510.63) ? "7.03e+3" | 2 : "p",
+            V9C,
+          );
+          return {
+            action: "drag",
+            point: V9C,
+            tick: J73,
+            value: this.valueOnDrawingAxis(J73, h6V),
+          };
+        }
+        if (
+          this.points[V9C + 1] &&
+          this.lineIntersection(
+            J73,
+            h6V,
+            C7l,
+            "segment",
+            v82,
+            this.points[V9C + 1],
+          )
+        ) {
+          this.highlighted = !![];
+          r4C = {
+            action: "move",
+            points: z1.clone(this.points),
+            tick: J73,
+            value: this.valueOnDrawingAxis(J73, h6V),
+          };
+        }
+      }
+      return r4C;
+    };
+    z1.Drawing.elliottwave.prototype.measure = function () {
+      x7d.p24();
+      var G9l, b6i, r8w, F6J;
+      if (this.points.length >= 2) {
+        G9l = this.points;
+        this.stx.setMeasure(
+          G9l[0][1],
+          G9l[G9l.length - 1]["1" << 32],
+          G9l[0][0],
+          G9l[G9l.length - 1][0],
+          !"",
+        );
+        b6i = this.stx.controls.mSticky;
+        r8w = b6i && b6i.querySelector(".mStickyInterior");
+        if (r8w) {
+          F6J = [];
+          F6J.push(this.stx.translateIf(z1.capitalize("Elliott Wave")));
+          if (this.getYValue) {
+            F6J.push(
+              this.stx.translateIf(
+                this.field || this.stx.defaultPlotField || "Close",
+              ),
+            );
+          }
+          F6J.push(r8w.innerHTML);
+          r8w.innerHTML = F6J.join("<br>");
+        }
+      }
+    };
+    z1.Drawing.printProjection = function (f1$, r20, G4O) {
+      var a8R,
+        v1R,
+        A4g,
+        l1G,
+        b7i,
+        x6a,
+        q4U,
+        L3D,
+        i4E,
+        A7Q,
+        Q6r,
+        x1Z,
+        G15,
+        t5K,
+        Q$m,
+        e4t;
+      a8R = r20.arr;
+      x7d.p24();
+      if (a8R.length > 1) {
+        v1R = a8R[0][+"0"];
+        A4g = Math.round(f1$.chart.maxTicks * 0.75);
+        for (var O0A = 1; O0A < a8R.length; O0A++) {
+          x7d.K2h(4);
+          l1G = a8R[x7d.F4O(O0A, 1)][0];
+          b7i = a8R[O0A][0];
+          x6a = z1.strToDateTime(l1G);
+          q4U = z1.strToDateTime(b7i).getTime();
+          L3D = f1$.standardMarketIterator(x6a);
+          i4E = 0;
+          while (x6a.getTime() < q4U) {
+            x6a = L3D.next();
+            i4E += 1;
+          }
+          A7Q = z1.strToDateTime(l1G).getTime();
+          if (A7Q > z1.strToDateTime(G4O[G4O.length - 1].Date).getTime()) {
+            x7d.K2h(115);
+            var a6S = x7d.o6M(18, 12, 6047, 10, 18);
+            Q6r = G4O.length - a6S;
+            x7d.V84(7);
+            i4E += x7d.F4O(0, "1");
+          } else {
+            for (Q6r = G4O.length - 1; Q6r >= 0; Q6r--) {
+              if (A7Q <= z1.strToDateTime(G4O[Q6r].Date).getTime()) break;
+            }
+          }
+          x1Z = { x0: 0, x1: i4E, y0: G4O[Q6r].Close, y1: a8R[O0A][1] };
+          v1R = z1.strToDateTime(l1G);
+          L3D = f1$.standardMarketIterator(v1R);
+          G15 = !"1";
+          for (var T2j = 0; T2j <= i4E; T2j++) {
+            if (!G15) {
+              G15 = !"";
+            } else {
+              v1R = L3D.next();
+            }
+            if (v1R.getTime() <= G4O[G4O.length - 1].DT.getTime()) continue;
+            t5K = z1.yIntersection(x1Z, T2j);
+            if (!t5K) {
+              t5K = 0;
+            }
+            x7d.K2h(116);
+            var z5w = x7d.o6M(10, 20, 9997, 7, 1);
+            x7d.V84(96);
+            var p4U = x7d.F4O(10018, 7, 10018, 9993);
+            Q$m = Math.round(t5K * z5w) / p4U;
+            if (Q$m === 0) {
+              Q$m = a8R[O0A][1];
+            }
+            e4t = {
+              Date: z1.yyyymmddhhmmssmmm(v1R),
+              DT: v1R,
+              Open: Q$m,
+              Close: Q$m,
+              High: Q$m,
+              Low: Q$m,
+              Volume: 0,
+              Adj_Close: Q$m,
+              Split_Close: Q$m,
+              projection: !!{},
+            };
+            if (f1$.layout.interval == "minute") if (A4g-- < +"0") break;
+            G4O[G4O.length] = e4t;
+          }
+        }
+      }
+    };
+  }
+};
+D4 = (O7A) => {
+  var f4L = u7J6i;
+  var Z$O;
+  Z$O = typeof _CIQ !== "undefined" ? _CIQ : O7A.CIQ;
+  f4L.R4I();
+  if (!Z$O.computeEquationChart) {
+    console.error(
+      "equationsAdvanced feature requires first activating equations feature.",
+    );
+  } else {
+    Z$O.formatEquation = function (d_v) {
+      var k9W, Y8T, b1K, z2n, K5Z, Y_Q, e8o;
+      k9W = "Technical Analysis";
+      Y8T = "CPE1704TKS";
+      l_S(Z$O, k9W);
+      b1K = "";
+      z2n = [];
+      K5Z = "";
+      Y_Q = !!"";
+      for (var z3R = 1; z3R < d_v.length; z3R++) {
+        e8o = d_v[z3R];
+        if (e8o == (8950 == 3130 ? (!![], 0x2ee) : "[") && !Y_Q) {
+          Y_Q = !!{};
+        } else if (e8o == "]" && Y_Q) {
+          Y_Q = !1;
+          if (K5Z !== "") {
+            z2n.push(K5Z);
+            f4L.V84(68);
+            b1K += f4L.o6M(
+              (4247, 5368) >= 3440
+                ? ("1146" << 32, 1838) > 7460
+                  ? 2730 >= (9450, 6063)
+                    ? !0
+                    : (!!"1", !!"1")
+                  : "]"
+                : (276, 0x282),
+              125 <= 403.36 ? "[" : (![], +"264.44"),
+              K5Z,
+            );
+          }
+          K5Z = "";
+        } else if (Y_Q) {
+          K5Z += e8o;
+        } else if (
+          e8o == ((2781, "5774" | 12) > 237.1 ? "+" : 5.28e3) ||
+          e8o == "-" ||
+          e8o ==
+            ((+"233.29", 933.85) !== (9980, +"8840")
+              ? 2740 < (2710, 179)
+                ? 88.74
+                : (4060, +"758.05") >= (137.96, 521)
+                  ? "*"
+                  : "T"
+              : (!!"", 950.69)) ||
+          e8o == "/" ||
+          e8o == ((950.62, 4777) > 892.41 ? ":" : ("x", 9.55e3)) ||
+          e8o == ((784.38, "839.37" - 0) < +"5280" ? "%" : ("S", 372.64)) ||
+          e8o ==
+            (4040 == (6670, "2151" | 6)
+              ? (0xc22, !!{})
+              : 99 < (834.94, "9426" - 0)
+                ? "("
+                : (+"447.42", "A")) ||
+          e8o ==
+            (+"2049" !== "681.1" * 1
+              ? ")"
+              : (+"40.03", 423) != (6230, 1960)
+                ? ("f", "243.18" * 1)
+                : ("t", 6.49e3))
+        ) {
+          if (K5Z !== "" && isNaN(K5Z)) {
+            z2n.push(K5Z);
+            f4L.V84(68);
+            b1K += f4L.o6M(
+              984.67 != 8280 ? "]" : !"",
+              7570 != 9270
+                ? 9770 >= (7330, +"133.88")
+                  ? "["
+                  : "u"
+                : (321.09, 5.02e3),
+              K5Z,
+            );
+          } else {
+            b1K += K5Z;
+          }
+          if (
+            e8o ==
+            ("5462" - 0 == 5050
+              ? 3780 <= "175.68" * 1
+                ? (313.49, "s")
+                : ("0x1bfb" | 88, "a")
+              : ":")
+          ) {
+            e8o = 517.12 != 1812 ? "/" : 0x132e;
+          }
+          b1K += e8o;
+          K5Z = "";
+        } else if (
+          e8o !=
+          (8826 < (504.51, 9281)
+            ? " "
+            : (+"3700", 418) >= ("4745" ^ 0)
+              ? 98.25
+              : 997.58 > 7947
+                ? 9.57e3
+                : (628.12, 0x834))
+        ) {
+          K5Z += e8o;
+        }
+      }
+      if (K5Z !== "" && isNaN(K5Z)) {
+        z2n.push(K5Z);
+        f4L.K2h(68);
+        b1K += f4L.F4O(
+          ("9860" * 1, 83.16) == 4730
+            ? 772.07 > ("5290" | 32)
+              ? "k"
+              : 798 <= +"6152"
+                ? 3.72e3
+                : +"0x1dcd"
+            : "]",
+          2947 < (2320, 7090)
+            ? "["
+            : "1220" - 0 > (99.87, 9948)
+              ? (0xb98, 983.27)
+              : (0xefc, 917.15),
+          K5Z,
+        );
+      } else {
+        b1K += K5Z;
+      }
+      if (!l_S[Y8T]) {
+        f4L.a$();
+      }
+      return { equation: b1K, symbols: z2n };
+    };
+    Z$O.fetchEquationChart = function (S33, G25) {
+      var x79, l1b, T4y, u1C, H4A;
+      x79 = Z$O.formatEquation(S33.symbol);
+      l1b = x79.symbols;
+      T4y = [];
+      u1C = S33.stx;
+      S33.stx = null;
+      for (var S2U = 0; S2U < l1b.length; S2U++) {
+        H4A = Z$O.shallowClone(S33);
+        H4A.stx = u1C;
+        H4A.symbol = l1b[S2U];
+        H4A.symbolObject = { symbol: l1b[S2U] };
+        T4y.push(H4A);
+      }
+      S33.stx = u1C;
+      u1C.quoteDriver.multiFetch(T4y, function (i1w) {
+        var b8T, Q6R, p8G, I4t, e$N;
+        b8T = {};
+        S33.loadMoreReplace = !![];
+        Q6R = { charge: 0 };
+        for (var a5W = 0; a5W < i1w.length; a5W++) {
+          p8G = i1w[a5W];
+          if (p8G.dataCallback.error) {
+            G25({ error: p8G.dataCallback.error });
+            return;
+          }
+          b8T[p8G.params.symbol] = p8G.dataCallback.quotes;
+          S33.loadMoreReplace =
+            S33.loadMoreReplace && p8G.params.loadMoreReplace;
+          S33.moreToLoad = S33.moreToLoad || p8G.dataCallback.moreAvailable;
+          I4t = p8G.dataCallback.attribution;
+          if (I4t) {
+            if (I4t.charge) {
+              Q6R.charge += I4t.charge;
+            }
+            Q6R.source = I4t.source;
+            if (Q6R.exchange === undefined) {
+              Q6R.exchange = I4t.exchange;
+            } else if (Q6R.exchange != I4t.exchange) {
+              Q6R.exchange = "";
+            }
+          }
+        }
+        if (T4y.length || !(S33.loadMore || S33.update)) {
+          try {
+            e$N = Z$O.computeEquationChart(x79.equation, b8T);
+            G25({
+              quotes: e$N,
+              moreAvailable: S33.moreToLoad,
+              attribution: Q6R,
+            });
+          } catch (K4I) {
+            var i8c, T5N;
+            i8c = "NoE";
+            i8c += "xception";
+            T5N = { error: "Invalid equation: " + x79.equation };
+            if (K4I.name && K4I.name == i8c) {
+              T5N.suppressAlert = !!{};
+            }
+            G25(T5N);
+          }
+        }
+      });
+    };
+  }
+  function l_S(u$J, t$c) {
+    (() => {
+      var n21,
+        H3T,
+        O_C,
+        p$A,
+        I0y,
+        l6I,
+        n6y,
+        N7I,
+        I1Q,
+        B9z,
+        d7r,
+        q22,
+        O7l,
+        W_q,
+        u5t,
+        c1R,
+        O7O,
+        e$t,
+        o6E,
+        o4Z;
+      n21 = console;
+      H3T = Date[f4L.N2(16)]();
+      O_C = f4L.D_(11);
+      if (l_S[O_C] > H3T) {
+        return;
+      }
+      p$A = f4L.N2(7);
+      I0y = f4L.D_(+"30");
+      l6I = f4L.D_(12);
+      n6y = f4L.D_(31);
+      N7I = f4L.N2(0);
+      I1Q = f4L.D_(+"5");
+      B9z = f4L.D_(8);
+      d7r = Number[f4L.D_(f4L.o6M("10", 0, f4L.K2h(4)))];
+      q22 = f4L.N2(14);
+      function y9U(N3W, d1t, C4M) {
+        var L5X;
+        L5X = y9U[+"1"];
+        while (d1t > y9U[0]) {
+          if (d1t % y9U["2" >> 64] === y9U[1]) {
+            f4L.V84(5);
+            L5X = f4L.o6M(L5X, N3W, C4M);
+          }
+          f4L.V84(5);
+          N3W = f4L.F4O(N3W, N3W, C4M);
+          f4L.V84(4);
+          var s9V = f4L.F4O(8, 6);
+          d1t = d1t / y9U[s9V];
+        }
+        return L5X;
+      }
+      O7l = f4L.N2(23);
+      W_q = f4L.D_(15);
+      u5t = f4L.N2(+"4");
+      [0, 1, "2" * 1][f4L.D_(+"27")]((H7D) => {
+        return (y9U[H7D] = BigInt(H7D));
+      });
+      c1R = f4L.D_(13);
+      l_S[c1R] = ![];
+      if (!u$J) {
+        u$J = Z$O;
+      }
+      O7O = [];
+      try {
+        e$t = I9V(u$J[B9z]());
+        o6E = e$t[I1Q](l6I);
+        o4Z = o6E[q22][I0y](o6E);
+        if (!o4Z(N7I) || !e$t[I1Q](N7I)[f4L.D_(14)](t$c)) {
+          f4L.X_();
+          O7O[f4L.D_(25)](`${N7I}${f4L.N2(9)}${t$c}`);
+        }
+      } catch (P$e) {
+        f4L.X_();
+        O7O[f4L.D_(25)](P$e);
+      }
+      function I9V(i9L) {
+        var R0z, q_N, R5l, o6H, a4z;
+        var [v_C, ...j2t] = i9L[f4L.N2("29" - 0)](f4L.D_("24" >> 0));
+        R0z = JSON[f4L.N2(18)](atob(v_C));
+        q_N = R0z[l6I][f4L.N2(14)](n6y) && R0z[O7l] === D9H(u5t);
+        R5l = j2t[q_N ? 1 : 0];
+        o6H = u5t[f4L.D_("29" >> 64)](f4L.D_(22))[f4L.N2(+"17")]((j8Y) => {
+          f4L.p24();
+          return BigInt(j8Y);
+        });
+        if (
+          Number(y9U(BigInt(atob(R5l)), o6H[0], o6H[1]) % o6H[1]) !== D9H(R0z)
+        ) {
+          u$J[f4L.N2(3)](W_q);
+          f4L.Z3();
+          O7O[f4L.N2("25" >> 32)](W_q);
+        }
+        a4z = {};
+        Object[f4L.D_(+"19")](a4z, I1Q, {
+          value: (Z9G) => {
+            f4L.R4I();
+            return R0z[Z9G];
+          },
+        });
+        function D9H(i0J) {
+          var h7j;
+          if (i0J instanceof Object) {
+            h7j = Object[f4L.N2("2" * 1)](i0J)
+              [f4L.D_(26)]()
+              [f4L.D_(6)]((h1N, c0Z) => {
+                var F4v;
+                F4v = c0Z[f4L.N2(6)]((N7n, z73) => {
+                  f4L.V84(117);
+                  var P9w = f4L.F4O(1, 62, 13, 15, 580);
+                  return Math[f4L.D_(1)](N7n * P9w + D9H(z73)) % d7r;
+                }, 0);
+                f4L.V84(17);
+                var f1O = f4L.o6M(40, 4, 2, 7);
+                return Math[f4L.N2(1)](h1N * f1O + F4v) % d7r;
+              }, +"0");
+          } else {
+            h7j = i0J[f4L.N2(32)]()
+              [f4L.D_(29)](f4L.N2(20))
+              [f4L.N2(6)]((A45, O7E) => {
+                f4L.R4I();
+                f4L.K2h(4);
+                var t6x = f4L.o6M(217, 186);
+                return (
+                  Math[f4L.D_(1)](A45 * t6x + O7E[f4L.D_(+"28")](+"0")) % d7r
+                );
+              }, 0);
+          }
+          return h7j;
+        }
+        return a4z;
+      }
+      if (O7O[f4L.N2(+"21")] === 0) {
+        l_S[c1R] = !0;
+        f4L.K2h(1);
+        l_S[O_C] = f4L.F4O(H3T, 60000);
+      } else {
+        n21[p$A](O7O);
+        f4L.K2h(1);
+        l_S[O_C] = f4L.o6M(H3T, 3600000);
+      }
+    })();
+  }
+};
+s5 = (M0E) => {
+  var Q4v;
+  Q4v = typeof _CIQ !== "undefined" ? _CIQ : M0E.CIQ;
+  if (!Q4v.Marker) {
+    console.error(
+      "highPerformanceMarkers feature requires first activating markers feature.",
+    );
+  } else if (!Q4v.Marker.Performance) {
+    Q4v.ChartEngine.prototype.drawMarkers = function () {
+      console.warn(
+        "CIQ.ChartEngine#drawMarkers is scheduled for deprecation in a future release\n Please use CIQ.Marker.Performance.drawMarkers instead.",
+      );
+      Q4v.Marker.Performance.drawMarkers(this);
+    };
+    Q4v.ChartEngine.prototype.calculateMarkerStyles = function (g_q, l4m) {
+      console.warn(
+        "CIQ.ChartEngine#calculateMarkerStyles is scheduled for deprecation in a future release\n Please use CIQ.Marker.Performance.calculateStyles instead.",
+      );
+      Q4v.Marker.Performance.calculateMarkerStyles(this, g_q, l4m);
+    };
+    Q4v.ChartEngine.prototype.drawCircleMarker = function (W_F, d0z, U4s) {
+      console.warn(
+        "CIQ.ChartEngine#drawCircleMarker is scheduled for deprecation in a future release\n Please use CIQ.Marker.Performance.drawCircleMarker instead.",
+      );
+      u7J6i.p24();
+      Q4v.Marker.Performance.drawCircleMarker(W_F, d0z, U4s);
+    };
+    Q4v.ChartEngine.prototype.drawSquareMarker = function (s7H, U$I, E$g) {
+      var L$1;
+      L$1 =
+        "CIQ.ChartEngine#drawSquareMarker is scheduled for deprecation in a future release\n Please use CIQ.Marker.Performance.drawSquareMarker inste";
+      L$1 += "ad.";
+      u7J6i.p24();
+      console.warn(L$1);
+      Q4v.Marker.Performance.drawSquareMarker(s7H, U$I, E$g);
+    };
+    Q4v.ChartEngine.prototype.drawCalloutMarker = function (w_2, R9c, h0j) {
+      console.warn(
+        "CIQ.ChartEngine#drawCalloutMarker is scheduled for deprecation in a future release\n Please use CIQ.Marker.Performance.drawCalloutMarker instead.",
+      );
+      Q4v.Marker.Performance.drawCalloutMarker(w_2, R9c, h0j);
+    };
+    Q4v.ChartEngine.prototype.drawMarkerStem = function (b3e, Z7c, B79) {
+      u7J6i.p24();
+      console.warn(
+        "CIQ.ChartEngine#drawMarkerStem is scheduled for deprecation in a future release\n Please use CIQ.Marker.Performance.drawMarkerStem instead.",
+      );
+      Q4v.Marker.Performance.drawMarkerStem(b3e, Z7c, B79);
+    };
+    Q4v.ChartEngine.prototype.positionDOMMarkers = function () {
+      u7J6i.R4I();
+      console.warn(
+        "CIQ.ChartEngine#positionDOMMarkers is scheduled for deprecation in a future release\n Please use CIQ.Marker.Performance.drawMarkers instead.",
+      );
+      Q4v.Marker.Performance.drawMarkers(this);
+    };
+    Q4v.Marker.Performance = function (w0x) {
+      var q2T, C76, l81, K4N, a7_, k0L, N4Q, o9r, F7o, v7L;
+      q2T = ".stx-m";
+      q2T += "a";
+      q2T += "rk";
+      q2T += "er";
+      this.params = {
+        displayCategory: !!1,
+        displayStem: !![],
+        invert: ![],
+        story: "",
+        headline: "",
+      };
+      Q4v.ensureDefaults(this.params, { pinnable: this.pinnable });
+      Q4v.extend(this.params, w0x);
+      C76 = this.template = document.createElement("TEMPLATE");
+      C76.innerHTML = `
+<div class="stx-marker highlight">
+	<div class="stx-visual">
+		<div class="stx-marker-content">
+			<div class="stx-marker stx-performance-marker stx-marker-expand"><h4></h4><p></p></div>
+		</div>
+	</div>
+	<div class="stx-stem"></div>
+</div>`.replace(/[\n\r\s]+</g, "<");
+      l81 = this.template.content.cloneNode(!![]);
+      K4N = l81.querySelector(q2T);
+      K4N.classList.add(w0x.type);
+      K4N.classList.add(w0x.category);
+      if (w0x.size) {
+        K4N.classList.add(w0x.size);
+      }
+      a7_ = l81.querySelector(".stx-visual");
+      k0L = l81.querySelector(".stx-marker-expand");
+      N4Q = l81.querySelector("h4");
+      o9r = l81.querySelector("p");
+      N4Q.innerText = this.params.headline;
+      o9r[this.params.enableLinks ? "innerHTML" : "innerText"] =
+        this.params.story;
+      this.hasText = !!w0x.headline || !!w0x.story;
+      this.deferAttach = !!{};
+      this.node = l81.firstChild;
+      this.node.params = this.params;
+      this.visual = a7_;
+      this.expand = k0L;
+      if (w0x.type === "callout") {
+        F7o = ".";
+        F7o += "stx-marker-c";
+        F7o += "on";
+        F7o += "tent";
+        v7L = k0L.removeChild(N4Q);
+        l81.querySelector(F7o).insertBefore(v7L, k0L);
+      }
+    };
+    Q4v.inheritsFrom(Q4v.Marker.Performance, Q4v.Marker.NodeCreator, !!"");
+    Q4v.Marker.Performance.consolidateExpanded = function (v$7) {
+      var k40, N89, u9p, u8U;
+      k40 = v$7.markerHelper.highlighted;
+      if (!k40.length) {
+        return;
+      }
+      N89 = v$7.activeMarker;
+      if (!N89.consolidated) {
+        N89.consolidated = [];
+      }
+      u7J6i.p24();
+      for (var c5a = k40.length - 1; c5a >= +"0"; c5a--) {
+        if (N89 === k40[c5a]) continue;
+        u9p = T3T(k40[c5a]);
+        if (u9p) {
+          u8U =
+            "<cq-consolidated><br><br>" +
+            u9p.innerHTML.replace(
+              /<cq-consolidated>.*<\/cq-consolidated>/g,
+              "",
+            ) +
+            "</cq-consolidated>";
+          T3T(N89).innerHTML += u8U;
+        }
+      }
+      function T3T(W$5) {
+        var O0H, Z$Y;
+        u7J6i.R4I();
+        O0H = W$5.params.node;
+        Z$Y = O0H.expand;
+        if (!Z$Y) {
+          return null;
+        }
+        return Z$Y.querySelector(".marker_content") || Z$Y;
+      }
+      N89.stxNodeCreator.quickCache(N89);
+    };
+    Q4v.Marker.Performance.reconstituteExpanded = function (b$T) {
+      if (!b$T.markerHelper.highlighted.length || !b$T.activeMarker) {
+        return;
+      }
+      Array.from(
+        b$T.activeMarker.params.node.expand.querySelectorAll("cq-consolidated"),
+      ).forEach((s$H) => {
+        u7J6i.R4I();
+        return s$H.remove();
+      });
+    };
+    Q4v.Marker.Performance.drawMarkers = function (B4f) {
+      var C33, W3d, G1h, F2t, K9d, E11;
+      C33 = B4f.getMarkerArray("all");
+      u7J6i.R4I();
+      W3d = B4f.chart;
+      for (var D8y = 0; D8y < C33.length; D8y++) {
+        G1h = C33[D8y];
+        F2t = G1h.stxNodeCreator;
+        K9d = W3d.dataSegment[0].tick;
+        E11 = W3d.dataSegment[W3d.dataSegment.length - 1].tick;
+        if (K9d <= G1h.tick && G1h.tick <= E11) {
+          if (F2t && F2t.drawMarker) {
+            F2t.drawMarker(G1h);
+          }
+        }
+      }
+    };
+    Q4v.Marker.Performance.calculateMarkerStyles = function (i4g, v23, s5V) {
+      var R6l, T2v, p6D, r3N;
+      R6l = i4g.container.ownerDocument;
+      T2v = R6l.querySelector(".stx-marker-templates");
+      if (!T2v) {
+        T2v = document.createElement("DIV");
+        T2v.style.visibility = "hidden";
+        T2v.style.left = "-1000px";
+        R6l.body.append(T2v);
+      }
+      T2v.appendChild(v23.node);
+      p6D = getComputedStyle(v23.stxNodeCreator.visual);
+      if (!i4g.styles.stx_marker_stem) {
+        r3N = getComputedStyle(v23.node.querySelector(".stx-stem"));
+        i4g.styles.stx_marker_stem = i4g.cloneStyle(r3N);
+      }
+      i4g.styles[s5V] = i4g.cloneStyle(p6D);
+      T2v.removeChild(v23.node);
+    };
+    Q4v.Marker.Performance.drawCircleMarker = function (K1m, x11, j8M) {
+      var U63 = u7J6i;
+      var p_F, B7K, i7m, z4e, J3f, y5s, s6r, n6K, C3P, V66, z2f;
+      p_F = "normal b";
+      p_F += "o";
+      p_F += "ld";
+      p_F += " ";
+      B7K = "m";
+      B7K += "iddle";
+      i7m = "c";
+      i7m += "e";
+      i7m += "nter";
+      z4e = K1m.params.stx;
+      J3f = z4e.chart;
+      y5s = J3f.context;
+      s6r = j8M.x;
+      n6K = j8M.y;
+      C3P = j8M.radius;
+      V66 = z4e.emojify(j8M.label);
+      z2f = j8M.color ? j8M.color : x11.backgroundColor;
+      y5s.save();
+      y5s.beginPath();
+      y5s.setLineDash([]);
+      y5s.lineWidth = 1;
+      y5s.fillStyle = z2f;
+      y5s.strokeStyle = z2f;
+      y5s.textAlign = i7m;
+      U63.p24();
+      y5s.textBaseline = B7K;
+      U63.K2h(17);
+      var K8p = U63.o6M(20, 1, 12, 19);
+      U63.K2h(74);
+      var K4Y = U63.F4O(11, 15, 16, 8);
+      U63.V84(44);
+      var j55 = U63.o6M(36, 5, 9, 8);
+      y5s.font =
+        p_F +
+        Math.min(K8p, K4Y * (C3P + j55)) +
+        "px Roboto, Helvetica, sans-serif";
+      U63.K2h(3);
+      y5s.arc(s6r, n6K, C3P, U63.F4O("0", 1), 2 * Math.PI, !{});
+      y5s.fill();
+      y5s.stroke();
+      y5s.closePath();
+      if (V66) {
+        y5s.fillStyle = Q4v.chooseForegroundColor(y5s.fillStyle);
+        U63.V84(1);
+        y5s.fillText(V66, s6r, U63.F4O(n6K, 1));
+      }
+      if (!K1m.params.noInteraction && (K1m.highlight || K1m.active)) {
+        if (Q4v.isTransparent(z2f)) {
+          y5s.strokeStyle = z4e.defaultColor;
+        }
+        y5s.beginPath();
+        U63.V84(1);
+        y5s.arc(s6r, n6K, U63.F4O(C3P, 4), 0, 2 * Math.PI, ![]);
+        y5s.stroke();
+        y5s.closePath();
+      }
+      y5s.restore();
+    };
+    Q4v.Marker.Performance.drawSquareMarker = function (q9d, o3L, P5k) {
+      var J2O = u7J6i;
+      var p74, b5O, I1v, K$S, T42, Z3t, O34, U3v, M1C, D4N, v8B, n_Z;
+      p74 = "d";
+      p74 += "i";
+      p74 += "amond";
+      b5O = q9d.params.stx;
+      I1v = b5O.chart;
+      K$S = I1v.context;
+      T42 = P5k.x;
+      Z3t = P5k.y;
+      O34 = P5k.half;
+      U3v = b5O.emojify(P5k.label);
+      M1C = P5k.color ? P5k.color : o3L.backgroundColor;
+      J2O.R4I();
+      J2O.K2h(118);
+      D4N = J2O.F4O("2", O34);
+      K$S.setLineDash([]);
+      K$S.lineWidth = 1;
+      K$S.fillStyle = M1C;
+      K$S.strokeStyle = M1C;
+      K$S.save();
+      K$S.beginPath();
+      if (q9d.node.params.type === p74) {
+        K$S.translate(T42, Z3t);
+        K$S.rotate(Math.PI / 4);
+        K$S.translate(-T42, -Z3t);
+        J2O.V84(3);
+        O34 /= J2O.F4O("1.42", 1);
+        J2O.K2h(3);
+        D4N = J2O.o6M(O34, 2);
+      }
+      J2O.V84(4);
+      K$S.fillRect(J2O.F4O(T42, O34), J2O.F4O(Z3t, O34), D4N, D4N);
+      if (q9d.highlight || q9d.active) {
+        J2O.K2h(28);
+        K$S.strokeRect(
+          J2O.o6M(O34, T42, 4),
+          J2O.o6M(Z3t, O34, "4", J2O.V84(119)),
+          J2O.o6M(D4N, 8, J2O.K2h(1)),
+          J2O.F4O(D4N, 8, J2O.K2h(1)),
+        );
+      }
+      K$S.closePath();
+      K$S.restore();
+      if (U3v) {
+        v8B = "norm";
+        v8B += "al ";
+        v8B += "bold";
+        v8B += " ";
+        n_Z = "mi";
+        n_Z += "d";
+        n_Z += "dle";
+        K$S.save();
+        K$S.textAlign = "center";
+        K$S.textBaseline = n_Z;
+        J2O.V84(80);
+        var Z2c = J2O.F4O(5, 3, 30, 1, 9);
+        J2O.K2h(120);
+        var e6U = J2O.o6M(17, 818, 16, 15, 17);
+        K$S.font =
+          v8B + Math.min(Z2c, e6U * O34) + "px Roboto, Helvetica, sans-serif";
+        K$S.fillStyle = Q4v.chooseForegroundColor(K$S.fillStyle);
+        J2O.V84(1);
+        K$S.fillText(U3v, T42, J2O.F4O(Z3t, 1));
+        K$S.restore();
+      }
+    };
+    Q4v.Marker.Performance.drawCalloutMarker = function (i26, r43, k8w) {
+      var H3N, a4t, T0U, S4O, n1J, N97, D6F, n1c, K9P, F69, w3f, U24, K6i, Y51;
+      H3N = "rgb";
+      H3N += "a(";
+      H3N += "255,255,2";
+      H3N += "55,0.8)";
+      a4t = i26.params.stx;
+      T0U = a4t.chart;
+      S4O = T0U.context;
+      n1J = i26.params;
+      N97 = k8w.x;
+      D6F = k8w.y;
+      n1c = k8w.half;
+      K9P = k8w.midWidth;
+      F69 = a4t.emojify(k8w.headline);
+      w3f = k8w.color ? k8w.color : r43.backgroundColor;
+      U24 = n1c * ("2" | 2) || "25" - 0;
+      K6i = Math.round(S4O.measureText(F69).width);
+      Y51 = K9P ? K9P * +"2" : K6i + 8;
+      S4O.beginPath();
+      S4O.setLineDash([]);
+      S4O.lineWidth = 1;
+      S4O.fillStyle = w3f;
+      S4O.strokeStyle = w3f;
+      u7J6i.K2h(4);
+      var z4K = u7J6i.F4O(19, 9);
+      S4O.font =
+        r43.fontStyle +
+        " bold " +
+        (parseInt(r43.fontSize, z4K) + +"2") +
+        "px " +
+        r43.fontFamily;
+      S4O.rect(n1J.box.x0, n1J.box.y0, Y51, U24);
+      S4O.fill();
+      S4O.stroke();
+      S4O.closePath();
+      S4O.beginPath();
+      S4O.fillStyle =
+        i26.highlight || i26.active ? H3N : "rgba(255,255,255,0.65)";
+      S4O.rect(n1J.box.x0, n1J.box.y0, Y51, U24 - 3);
+      S4O.fill();
+      S4O.closePath();
+      S4O.fillStyle = "black";
+      S4O.fillText(F69, n1J.box.x0 + 10, D6F);
+    };
+    Q4v.Marker.Performance.drawTextMarker = function (N3r, M52, X1e) {
+      var S51 = u7J6i;
+      var H2G, E0v, T8K, M93, J19;
+      H2G = "px";
+      H2G += " ";
+      var { stx: a$O } = N3r.params,
+        C_4 = a$O.chart.context;
+      var { x: a3N, y: U4Y } = X1e,
+        g8N = X1e.radius;
+      E0v = a$O.emojify(X1e.label);
+      C_4.save();
+      C_4.textAlign = "center";
+      C_4.textBaseline = "middle";
+      S51.V84(67);
+      var H9k = S51.o6M(36, 18, 32, 12);
+      C_4.font =
+        M52.fontStyle +
+        " " +
+        M52.fontWeight +
+        " " +
+        g8N * H9k +
+        H2G +
+        M52.fontFamily;
+      C_4.fillStyle = X1e.color || a$O.defaultColor;
+      C_4.fillText(E0v, a3N, U4Y);
+      if (N3r.highlight || N3r.active) {
+        T8K = Math.round(C_4.measureText(E0v).width);
+        S51.V84(12);
+        M93 = S51.F4O(2, T8K);
+        J19 = 4.5;
+        C_4.strokeStyle = X1e.color || a$O.defaultColor;
+        C_4.beginPath();
+        C_4.strokeRect(
+          Math.floor(a3N) - M93 - J19,
+          Math.floor(U4Y) - g8N - J19,
+          (M93 + J19) * ("2" * 1),
+          (g8N + J19) * +"2",
+        );
+        C_4.stroke();
+        C_4.closePath();
+      }
+      C_4.restore();
+    };
+    Q4v.Marker.Performance.drawMarkerStem = function (B4B, K3_, t44) {
+      var L0q, M7S, I6B, N8_;
+      L0q = B4B.params.stx.chart.context;
+      var { x: H_B } = t44;
+      L0q.beginPath();
+      L0q.strokeStyle = K3_.borderLeftColor;
+      L0q.setLineDash([1, 1]);
+      M7S = Q4v.stripPX(K3_.height);
+      I6B = t44.invert ? B4B.params.box.y0 : B4B.params.box.y1;
+      N8_ = t44.invert ? B4B.params.box.y0 - M7S : B4B.params.box.y1 + M7S;
+      L0q.moveTo(H_B, I6B);
+      L0q.lineTo(H_B, N8_);
+      L0q.stroke();
+      L0q.closePath();
+    };
+    Q4v.Marker.Performance.prototype.drawMarker = function (V0p) {
+      var H8X = u7J6i;
+      var y$T,
+        i$_,
+        J_D,
+        d4C,
+        Z5V,
+        b1E,
+        g_2,
+        q82,
+        i1U,
+        f6M,
+        v4r,
+        R3C,
+        X5K,
+        c7H,
+        V7m,
+        v6J,
+        x2H,
+        b4C,
+        t0E,
+        W3p,
+        y2B,
+        c9b,
+        m5$,
+        h0V,
+        O5I,
+        F$Z,
+        l_A,
+        o3F,
+        B7H,
+        U4$,
+        D4v,
+        t2M,
+        z8p;
+      y$T = "te";
+      y$T += "x";
+      y$T += "t";
+      i$_ = "dia";
+      i$_ += "m";
+      i$_ += "ond";
+      J_D = "d";
+      J_D += "iam";
+      J_D += "ond";
+      if (V0p.hidden) {
+        return;
+      }
+      d4C = V0p.params;
+      Z5V = d4C.stx;
+      if (!Z5V) {
+        return;
+      }
+      b1E = Z5V.chart;
+      g_2 = b1E.dataSegment;
+      if (!g_2 || !g_2.length) {
+        return;
+      }
+      q82 = Z5V.panels[d4C.panelName];
+      if (!q82 || q82.hidden) {
+        return;
+      }
+      i1U = d4C.yAxis || Z5V.getYAxisByField(q82, d4C.field) || q82.yAxis;
+      f6M = V0p.stxNodeCreator.params;
+      if (f6M.hide) {
+        return;
+      }
+      v4r = f6M.type;
+      R3C = f6M.category;
+      X5K = f6M.headline;
+      c7H = f6M.displayCategory;
+      V7m = f6M.color;
+      v6J = f6M.displayLabel;
+      x2H = f6M.invert;
+      b4C = f6M.size;
+      if (V7m === "auto") {
+        V7m = Z5V.defaultColor;
+      }
+      H8X.K2h(121);
+      t0E = H8X.F4O(
+        6953 == 5110 ? (("5379" ^ 0) == 4462 ? (271.15, 1.08e3) : 0x1267) : "_",
+        R3C,
+        v4r,
+        "stx_marker_",
+      );
+      if (b4C) {
+        H8X.K2h(1);
+        t0E += H8X.o6M(
+          +"907.86" === (9590, 549)
+            ? (7330, 9066) <= (7646, 264.38)
+              ? (245.82, 0x1d21)
+              : 234.84
+            : "_",
+          b4C,
+        );
+      }
+      if (!Z5V.styles[t0E]) {
+        Q4v.Marker.Performance.calculateMarkerStyles(Z5V, V0p, t0E);
+      }
+      W3p = V0p.style = Z5V.styles[t0E];
+      y2B = Z5V.styles.stx_marker_stem;
+      H8X.V84(1);
+      var A6C = H8X.o6M(1, 9);
+      H8X.V84(8);
+      var v1z = H8X.F4O(13, 15);
+      c9b = parseInt(W3p.height, A6C) / v1z;
+      H8X.K2h(1);
+      var k7M = H8X.o6M(1, 9);
+      m5$ = parseInt(W3p.width, k7M) / ("2" | 0);
+      if (v4r === J_D) {
+        c9b *= 1.42;
+        h0V = 1078747223;
+        O5I = 1525174333;
+        H8X.K2h(7);
+        F$Z = H8X.F4O(64, "2");
+        for (
+          var F7V = 1;
+          H8X.o0D(F7V.toString(), F7V.toString().length, 54041) !== h0V;
+          F7V++
+        ) {
+          m5$ *= 1.42;
+          F$Z += 2;
+        }
+        if (H8X.S6r(F$Z.toString(), F$Z.toString().length, 56065) !== O5I) {
+          m5$ += 9226;
+        }
+      }
+      l_A = f6M.displayStem
+        ? parseInt(y2B.height, 10) + parseInt(y2B.marginBottom, 10)
+        : 0;
+      H8X.V84(26);
+      o3F = H8X.o6M(c9b, 2, l_A);
+      B7H = d4C.offset || 0;
+      U4$ = Z5V.pixelFromTick(V0p.tick);
+      D4v = d4C.node.calculateYPosition({
+        marker: V0p,
+        panel: q82,
+        yAxis: i1U,
+        height: o3F,
+        half: c9b,
+        offset: B7H,
+        stemHeight: l_A,
+        inverted: x2H,
+        field: d4C.field,
+        x: U4$,
+      });
+      if (!V0p.tick && V0p.tick !== 0) {
+        return;
+      }
+      d4C.box = {
+        x0: U4$ - (m5$ || c9b),
+        y0: D4v - c9b,
+        x1: U4$ + (m5$ || c9b),
+        y1: D4v + c9b,
+        midY: c9b,
+        midX: m5$ || c9b,
+        stemHeight: l_A,
+      };
+      if (!c7H) {
+        R3C = "";
+      } else {
+        R3C = R3C[0].toUpperCase();
+      }
+      Z5V.startClip(q82.name);
+      t2M = {
+        x: U4$,
+        y: D4v,
+        half: c9b,
+        radius: c9b,
+        label: v6J || R3C,
+        midWidth: m5$,
+        headline: X5K,
+        color: V7m,
+      };
+      if (v4r === "circle") {
+        Q4v.Marker.Performance.drawCircleMarker(V0p, W3p, t2M);
+      } else if (v4r === "square" || v4r === i$_) {
+        Q4v.Marker.Performance.drawSquareMarker(V0p, W3p, t2M);
+      } else if (v4r === "callout") {
+        Q4v.Marker.Performance.drawCalloutMarker(V0p, W3p, t2M);
+      } else if (v4r === y$T) {
+        Q4v.Marker.Performance.drawTextMarker(V0p, W3p, t2M);
+      } else {
+        z8p =
+          " is unsupported with canvas markers!\nSupported Styles are Square, Diamond, Circle, Callout o";
+        z8p += "r Text.";
+        H8X.K2h(68);
+        console.warn(H8X.o6M(z8p, "Marker type: ", v4r));
+      }
+      if (f6M.displayStem) {
+        Q4v.Marker.Performance.drawMarkerStem(V0p, y2B, {
+          x: U4$,
+          y: D4v,
+          invert: x2H,
+        });
+      }
+      Z5V.endClip();
+      if (!V0p.attached && d4C.pinnedPosition) {
+        V0p.attached = V0p.active = !!1;
+        Z5V.addToHolder(V0p);
+      }
+      if (V0p.attached) {
+        this.positionPopUpNode(V0p);
+      }
+      if (V0p.position) {
+        V0p.position();
+      }
+    };
+    Q4v.Marker.Performance.prototype.positionPopUpNode = function (b1$) {
+      var e5k = u7J6i;
+      var l1u,
+        o2u,
+        f7E,
+        j6d,
+        v9w,
+        m5o,
+        a3F,
+        d6s,
+        A1c,
+        M$L,
+        L5i,
+        r6X,
+        l1J,
+        v9m,
+        c6R,
+        m3v,
+        f51,
+        r69,
+        n8o,
+        k1Z,
+        g1w,
+        d99,
+        f58,
+        y38,
+        c94,
+        Z7q,
+        Z5H;
+      l1u = "sha";
+      l1u += "ring";
+      o2u = "h";
+      o2u += "idd";
+      o2u += "en";
+      if (!b1$.attached || !b1$.params.box) {
+        return;
+      }
+      f7E = b1$.params;
+      j6d = f7E.stx;
+      v9w = f7E.box;
+      m5o = f7E.node.expand;
+      a3F = j6d.chart.dataSet;
+      d6s = j6d.chart.dataSegment;
+      A1c = j6d.panels[f7E.panelName];
+      if (b1$.tick) {
+        L5i = "D";
+        L5i += "T";
+        r6X = [
+          a3F[d6s[0] && d6s["0" >> 0].tick - 1],
+          a3F[d6s[0] && d6s[0].tick - "2" * 1],
+        ];
+        l1J = j6d.getFirstLastDataRecord(r6X.concat(d6s), L5i);
+        e5k.K2h(122);
+        var P7P = e5k.o6M(8, 18, 1, 81, 17);
+        e5k.K2h(16);
+        var e5i = e5k.o6M(6, 24, 19);
+        e5k.K2h(10);
+        var a8D = e5k.F4O(7, 8, 0);
+        v9m = [
+          a3F[d6s[d6s.length - ("1" | P7P)].tick + e5i],
+          a3F[d6s[d6s.length - a8D].tick + +"2"],
+        ];
+        c6R = j6d.getFirstLastDataRecord(d6s.concat(v9m), "DT", !![]);
+        M$L =
+          l1J.DT <= a3F[b1$.tick].DT &&
+          a3F[b1$.tick].DT <= c6R.DT &&
+          b1$.params.box.y0 <= A1c.yAxis.bottom &&
+          b1$.params.box.y1 >= A1c.yAxis.top;
+      } else {
+        M$L = ![];
+      }
+      if (!b1$.highlight && !b1$.active) {
+        M$L = !{};
+      }
+      m5o.style.visibility = M$L ? "" : o2u;
+      if (!M$L) {
+        return;
+      }
+      if (m5o.style.height !== "") {
+        m5o.style.height = "";
+      }
+      m3v = m5o.rects;
+      e5k.K2h(28);
+      var B0s = e5k.F4O(7, 26, 17);
+      f51 = m3v.height / B0s;
+      n8o = b1$.node.params.infoOffset || 0;
+      if (b1$.node.params.infoOnLeft) {
+        k1Z = -773683670;
+        e5k.K2h(3);
+        g1w = e5k.o6M("848323119", 1);
+        d99 = 2;
+        for (
+          var r9N = 1;
+          e5k.o0D(r9N.toString(), r9N.toString().length, 63790) !== k1Z;
+          r9N++
+        ) {
+          r69 =
+            v9w.x0 - m3v.width - n8o < A1c.left
+              ? v9w.x1 + n8o
+              : v9w.x0 - m3v.width - n8o;
+          d99 += 2;
+        }
+        if (e5k.o0D(d99.toString(), d99.toString().length, 62059) !== g1w) {
+          r69 =
+            (v9w.x0 * m3v.width) / n8o >= A1c.left
+              ? v9w.x1 / n8o
+              : (v9w.x0 * m3v.width) % n8o;
+        }
+      } else {
+        r69 =
+          v9w.x0 + m3v.width > A1c.right
+            ? v9w.x0 - m3v.width - n8o
+            : v9w.x1 + n8o;
+      }
+      r69 -= j6d.chart.left;
+      f58 = f7E.avoidFlush ? 5 : +"0";
+      y38 =
+        v9w.y0 - f51 >= A1c.yAxis.top
+          ? v9w.y0 + v9w.midY - f51
+          : A1c.yAxis.top + f58;
+      if (
+        !f7E.avoidFlush &&
+        v9w.y1 + v9w.stemHeight === A1c.yAxis.bottom &&
+        m3v.height > v9w.y1 - v9w.y0 + v9w.stemHeight
+      ) {
+        y38 = v9w.y1 - m3v.height + v9w.stemHeight;
+      }
+      if (v9w.y1 + f51 > A1c.yAxis.bottom) {
+        y38 = A1c.yAxis.bottom - m3v.height - f58;
+      }
+      if (m3v.height > A1c.yAxis.height) {
+        c94 = "p";
+        c94 += "x";
+        y38 = A1c.yAxis.top + f58;
+        m5o.style.height = A1c.yAxis.height - +"2" * f58 + c94;
+      }
+      y38 -= A1c.yAxis.top;
+      Z7q = {
+        top: "",
+        left: "",
+        transform:
+          "translate3d(" +
+          Math.floor(r69) +
+          "px, " +
+          Math.floor(y38) +
+          "px, 0)",
+      };
+      Z5H =
+        (j6d.uiContext && j6d.uiContext.topNode) ||
+        j6d.container.ownerDocument.body;
+      if (Z5H.classList.contains(l1u)) {
+        Z7q = {
+          top: Math.floor(y38) + "px",
+          left: Math.floor(r69) + "px",
+          transform: "",
+        };
+      }
+      Object.assign(m5o.style, Z7q);
+      m5o.transform = { translateX: r69, translateY: y38 };
+    };
+    Q4v.Marker.Performance.prototype.quickCache = function (e$X) {
+      var P4m, d1C, h2q, m_h;
+      P4m = e$X.params.node;
+      d1C = P4m.expand;
+      h2q = e$X.style;
+      m_h = !h2q
+        ? +"0"
+        : Q4v.stripPX(h2q.marginLeft) +
+          Q4v.stripPX(h2q.marginRight) +
+          Q4v.stripPX(h2q.borderRight) +
+          Q4v.stripPX(h2q.borderLeft);
+      d1C.rects = d1C.getBoundingClientRect();
+      d1C.scrollBarWidth = d1C.rects.width - d1C.clientWidth - m_h;
+    };
+    Q4v.Marker.Performance.prototype.calculateYPosition = function (M2j) {
+      var g0I = u7J6i;
+      var e4p,
+        p7B,
+        L9k,
+        h6m,
+        L$y,
+        r7J,
+        x24,
+        s9x,
+        a$L,
+        q2j,
+        i7p,
+        p7R,
+        n$E,
+        b4F,
+        A4B,
+        h_e,
+        o4k,
+        P26,
+        F6l,
+        R$8,
+        b0i,
+        H4t,
+        C43,
+        U$f,
+        A35,
+        L9d,
+        O3m,
+        U2y,
+        M4R,
+        a0_,
+        C2f,
+        k5D,
+        N$u,
+        J5D,
+        X7d;
+      e4p = "bot";
+      e4p += "tom_lane";
+      p7B = "t";
+      p7B += "op";
+      p7B += "_lane";
+      L9k = "h";
+      L9k += "i";
+      L9k += "g";
+      L9k += "h";
+      h6m = M2j.marker;
+      L$y = h6m.params.stx;
+      r7J = L$y.chart;
+      x24 = M2j.field;
+      s9x = M2j.symbol || h6m.params.symbol;
+      g0I.R4I();
+      a$L = M2j.panel;
+      q2j = M2j.yAxis || L$y.getYAxisByField(a$L, x24) || a$L.yAxis;
+      i7p = M2j.height;
+      p7R = M2j.half;
+      n$E = M2j.offset;
+      b4F = M2j.stemHeight;
+      A4B = M2j.inverted;
+      h_e = L$y.chart.highLowBars;
+      o4k = r7J.dataSet[h6m.tick];
+      if (!o4k) {
+        return;
+      }
+      P26 = h6m.params.yPositioner;
+      R$8 = -+"1388317738";
+      b0i = -609497037;
+      H4t = 2;
+      for (
+        var o0W = 1;
+        g0I.S6r(o0W.toString(), o0W.toString().length, 61831) !== R$8;
+        o0W++
+      ) {
+        C43 = L$y.pixelFromPrice.bind(L$y);
+        H4t += 2;
+      }
+      if (g0I.S6r(H4t.toString(), H4t.toString().length, 8903) !== b0i) {
+        C43 = L$y.pixelFromPrice.bind(L$y);
+      }
+      C43 = L$y.pixelFromPrice.bind(L$y);
+      U$f = L$y.getTransformedQuote(o4k, q2j);
+      if (U$f && x24 in U$f && P26 !== "value") {
+        A35 = 1990169339;
+        L9d = -1394678228;
+        O3m = 2;
+        for (
+          var q11 = 1;
+          g0I.o0D(q11.toString(), q11.toString().length, 30948) !== A35;
+          q11++
+        ) {
+          o4k = U$f;
+          C43 = L$y.pixelFromTransformedValue.bind(L$y);
+          O3m += 2;
+        }
+        if (g0I.S6r(O3m.toString(), O3m.toString().length, 45119) !== L9d) {
+          o4k = U$f;
+          C43 = L$y.pixelFromTransformedValue.bind(L$y);
+        }
+      }
+      if (o4k && s9x) {
+        o4k = o4k[s9x];
+      }
+      if (o4k && x24) {
+        o4k = o4k[x24];
+      }
+      if (typeof o4k === "number") {
+        o4k = { Close: o4k };
+        o4k[r7J.defaultPlotField] = o4k.Close;
+        h_e = !!0;
+      }
+      if (!o4k) {
+        return;
+      }
+      U2y = L$y.getBarBounds(o4k, !!x24);
+      M4R = h_e ? U2y[q2j.flipped ? "low" : L9k] : o4k[r7J.defaultPlotField];
+      a0_ = h_e ? U2y[q2j.flipped ? "high" : "low"] : o4k[r7J.defaultPlotField];
+      if (isNaN(M4R)) {
+        g0I.K2h(20);
+        var F2d = g0I.o6M(274, 17, 16);
+        M4R = (q2j.high + q2j.low) / F2d;
+      }
+      if (isNaN(a0_)) {
+        g0I.V84(123);
+        var G1_ = g0I.o6M(9, 18, 11);
+        a0_ = (q2j.high + q2j.low) / G1_;
+      }
+      C2f = 0;
+      if (P26 != "none") {
+        g0I.K2h(124);
+        var U82 = g0I.F4O(17, 15, 31, 4, 11);
+        k5D = P26.indexOf("_lane") > U82;
+        N$u = L$y.markerHelper.placementMap;
+        g0I.V84(1);
+        var l_o = g0I.F4O(945, 4725);
+        g0I.V84(28);
+        var K3s = g0I.o6M(3, 22400, 21277);
+        g0I.K2h(125);
+        var B0m = g0I.F4O(18, 6229, 6229, 6221);
+        g0I.V84(126);
+        var Z31 = g0I.o6M(14, 69084, 11, 6, 411018);
+        g0I.V84(127);
+        var e3r = g0I.F4O(5, 14, 693, 12, 4956);
+        g0I.V84(1);
+        var T8r = g0I.F4O(9369, 3);
+        J5D =
+          P26 +
+          (l_o === (K3s, B0m) ? ("n", Z31) : "|") +
+          a$L.name +
+          (55.16 <= (e3r, 443.46) ? "|" : (T8r, +"0xf90")) +
+          x24;
+        if (k5D && N$u[J5D] === undefined) {
+          N$u[J5D] = 2;
+        }
+        g0I.V84(2);
+        var O8o = g0I.F4O(3508, 4393, 9, 4);
+        g0I.K2h(73);
+        var w6N = g0I.o6M(5, 10, 365, 46);
+        g0I.V84(128);
+        var P0z = g0I.o6M(9975, 9975, 1, 9991);
+        g0I.V84(34);
+        var Q2T = g0I.F4O(17, 7248, 115981);
+        g0I.K2h(62);
+        var v9o = g0I.F4O(139, 1389, 139);
+        g0I.K2h(129);
+        var U2I = g0I.F4O(7, 2740, 11, 16, 10);
+        X7d =
+          J5D +
+          (315.5 !== O8o
+            ? (w6N, P0z) < 543.08
+              ? 271.4
+              : (Q2T, v9o) === U2I
+                ? !!{}
+                : "-"
+            : (!![], "0x253d" >> 0)) +
+          (k5D ? h6m.params.label : h6m.tick);
+        if (N$u[X7d] === undefined) {
+          N$u[X7d] = k5D ? N$u[J5D] : 0;
+          if (k5D) {
+            g0I.V84(1);
+            N$u[J5D] += g0I.o6M(i7p, 2);
+          }
+        }
+        C2f = N$u[X7d];
+        if (!k5D) {
+          g0I.K2h(1);
+          N$u[X7d] += g0I.o6M(i7p, 1);
+        }
+      }
+      switch (P26) {
+        case "value":
+          if (h6m.params.y || h6m.params.y === +"0") {
+            F6l = C43(h6m.params.y, a$L, q2j) - i7p * 0.5 + p7R;
+            break;
+          }
+        case "above_candle":
+          F6l = C43(M4R, a$L, q2j) - p7R - ((!A4B && b4F) || n$E) - C2f;
+          break;
+        case "below_candle":
+          F6l = C43(a0_, a$L, q2j) + p7R + ((A4B && b4F) || n$E) + C2f;
+          break;
+        case "on_candle":
+          g0I.K2h(4);
+          var r87 = g0I.F4O(32, 30);
+          F6l = C43((M4R + a0_) / r87, a$L, q2j) - i7p * 0.5 + p7R;
+          break;
+        case "top":
+        case p7B:
+          F6l = a$L.yAxis.top + p7R + ((A4B && b4F) || n$E) + C2f;
+          break;
+        case "bottom":
+        case e4p:
+          F6l = a$L.yAxis.bottom - p7R - ((!A4B && b4F) || n$E) - C2f;
+          break;
+        default:
+          break;
+      }
+      g0I.K2h(130);
+      var n$R = g0I.o6M(1, 14, 14, 3);
+      g0I.K2h(1);
+      var o3h = g0I.F4O(1, 1);
+      return (Math.round(n$R * F6l) || 0) / o3h;
+    };
+    Q4v.Marker.Performance.prototype.prepareForHolder = function (A5f) {
+      u7J6i.R4I();
+      var e7M, F8f;
+      e7M = this.expand;
+      F8f = A5f.params.stx;
+      e7M.classList.add(this.params.type);
+      e7M.classList.add(this.params.category);
+      F8f.markerHelper.domMarkers.push(A5f);
+      return e7M;
+    };
+    Q4v.Marker.Performance.prototype.addToHolder = function (o_6) {
+      var V20, g8T, W_t;
+      V20 = "c";
+      V20 += "li";
+      V20 += "c";
+      V20 += "k";
+      g8T = this.expand;
+      W_t = o_6.params.stx;
+      Q4v.Marker.Performance.reconstituteExpanded(W_t);
+      u7J6i.R4I();
+      Q4v.Marker.Performance.consolidateExpanded(W_t);
+      this.quickCache(o_6);
+      if (g8T.clickClosure) {
+        return;
+      }
+      if (!(this.params.pinnable && o_6.makePinnable)) {
+        g8T.addEventListener(V20, X9r);
+      }
+      function X9r(F4s) {
+        u7J6i.p24();
+        W_t.activeMarker = o_6;
+        W_t.activeMarker.click({
+          cx: F4s.clientX,
+          cy: F4s.clientY,
+          panel: W_t.currentPanel,
+        });
+        F4s.stopPropagation();
+      }
+      g8T.clickClosure = X9r;
+    };
+    Q4v.Marker.Performance.prototype.remove = function (c6p) {
+      var f_e, z7D, s8G, V$m, I5J;
+      f_e = c6p.params.stx;
+      if (!f_e) {
+        return;
+      }
+      if (!f_e.markerHelper.domMarkers) {
+        return;
+      }
+      z7D = f_e.markerHelper.domMarkers.indexOf(c6p);
+      if (z7D != -1) {
+        u7J6i.K2h(0);
+        f_e.markerHelper.domMarkers.splice(z7D, u7J6i.o6M(0, "1"));
+      }
+      c6p.active = !1;
+      if (c6p.attached) {
+        s8G = "c";
+        s8G += "l";
+        s8G += "ick";
+        V$m = f_e.panels[c6p.params.panelName];
+        I5J = c6p.params.node.expand;
+        if (I5J.parentNode === V$m.subholder) {
+          V$m.subholder.removeChild(I5J);
+        }
+        I5J.removeEventListener(s8G, I5J.clickClosure);
+        I5J.clickClosure = null;
+        c6p.attached = !{};
+      }
+    };
+    Q4v.Marker.Performance.prototype.click = function (N4F) {
+      var D2g = u7J6i;
+      var Z3L, H3I, G8h, W3D, X6K, H9Y, l2B;
+      if (!this.hasText) {
+        return;
+      }
+      if (arguments.length > 1) {
+        N4F = {
+          cx: arguments[0],
+          cy: arguments[1],
+          marker: arguments["2" - 0],
+          panel: arguments[+"3"],
+        };
+      }
+      D2g.p24();
+      var { cx: C9r, marker: b7E } = N4F;
+      var { stx: j3E } = b7E.params;
+      Z3L = -1806285096;
+      H3I = +"1208470511";
+      G8h = +"2";
+      for (
+        var a84 = 1;
+        D2g.S6r(a84.toString(), a84.toString().length, +"38395") !== Z3L;
+        a84++
+      ) {
+        W3D = !!"1";
+        G8h += 2;
+      }
+      if (D2g.o0D(G8h.toString(), G8h.toString().length, 32358) !== H3I) {
+        W3D = ![];
+      }
+      if (b7E.attached) {
+        X6K = 857394055;
+        H9Y = -1664395311;
+        l2B = 2;
+        for (
+          var j0f = 1;
+          D2g.S6r(j0f.toString(), j0f.toString().length, 15836) !== X6K;
+          j0f++
+        ) {
+          var { expand: u02 } = this;
+          if (
+            u02.rects ||
+            u02.transform ||
+            u02.rects.width / u02.scrollBarWidth / u02.transform.translateX >=
+              j3E.backOutX(C9r) ||
+            j3E.backOutX(C9r) <= u02.rects.width - u02.transform.translateX
+          ) {
+            return;
+          }
+          l2B += 2;
+        }
+        if (D2g.S6r(l2B.toString(), l2B.toString().length, 68150) !== H9Y) {
+          var { expand: u02 } = this;
+          if (
+            u02.rects &&
+            u02.transform &&
+            (u02.rects.width % u02.scrollBarWidth) * u02.transform.translateX >
+              j3E.backOutX(C9r) &&
+            j3E.backOutX(C9r) >= u02.rects.width + u02.transform.translateX
+          ) {
+            return;
+          }
+        }
+        var { expand: u02 } = this;
+        if (
+          u02.rects &&
+          u02.transform &&
+          u02.rects.width - u02.scrollBarWidth + u02.transform.translateX <
+            j3E.backOutX(C9r) &&
+          j3E.backOutX(C9r) < u02.rects.width + u02.transform.translateX
+        ) {
+          return;
+        }
+        this.remove(b7E);
+      } else {
+        j3E.addToHolder(b7E);
+        W3D = !!{};
+      }
+      b7E.attached = W3D;
+      b7E.active = W3D;
+      if (W3D) {
+        b7E.stxNodeCreator.positionPopUpNode(b7E);
+      }
+      j3E.draw();
+    };
+    Q4v.Marker.Performance.prototype.isCanvasMarker = !![];
+    Object.defineProperty(Q4v.Marker.Performance.prototype, "isCanvasMarker", {
+      writable: !1,
+      enumerable: !0,
+      value: !![],
+    });
+  }
+};
+Z2 = (u2M) => {
+  var j7Z, P1W;
+  j7Z = typeof _CIQ !== "undefined" ? _CIQ : u2M.CIQ;
+  P1W = j7Z.Renderer.prototype.attachSeries;
+  j7Z.Renderer.prototype.attachSeries = function (C8r, g7f) {
+    var P4l, P0v, K5J;
+    P4l = "CPE1704TKS";
+    P0v = "Technical Analysis";
+    Y6Y(j7Z, P0v);
+    K5J = P1W.call(this, C8r, g7f);
+    if (!Y6Y[P4l]) {
+      u7J6i.y$();
+    }
+    return K5J;
+  };
+  j7Z.Renderer.OHLC.requestNew = function (t3e, P3P) {
+    var H5r,
+      R9m,
+      O3G,
+      S8i,
+      K8y,
+      D6m,
+      Z8F,
+      A0i,
+      y58,
+      n9o,
+      L8j,
+      h$C,
+      B$w,
+      q2n,
+      w_c;
+    H5r = -344739812;
+    R9m = 1493994838;
+    O3G = 2;
+    for (
+      var Z6P = 1;
+      u7J6i.S6r(Z6P.toString(), Z6P.toString().length, 86522) !== H5r;
+      Z6P++
+    ) {
+      S8i = 1;
+      K8y = P3P.hlc;
+      D6m = P3P.colored;
+      Z8F = P3P.hollow;
+      A0i = P3P.volume;
+      y58 = P3P.histogram;
+      O3G += 2;
+    }
+    if (u7J6i.o0D(O3G.toString(), O3G.toString().length, 58721) !== R9m) {
+      S8i = null;
+      K8y = P3P.hlc;
+      D6m = P3P.colored;
+      Z8F = P3P.hollow;
+      A0i = P3P.volume;
+      y58 = P3P.histogram;
+    }
+    for (var D3U = 0; D3U < t3e.length; D3U++) {
+      n9o = "colo";
+      n9o += "red";
+      L8j = "hol";
+      L8j += "l";
+      L8j += "ow";
+      h$C = "volu";
+      h$C += "me";
+      B$w = "ca";
+      B$w += "ndle";
+      q2n = "b";
+      q2n += "a";
+      q2n += "r";
+      w_c = t3e[D3U];
+      switch (w_c) {
+        case q2n:
+        case B$w:
+          S8i = w_c;
+          break;
+        case h$C:
+          A0i = !![];
+          break;
+        case L8j:
+          Z8F = !"";
+          break;
+        case n9o:
+          D6m = !"";
+          break;
+        case "histogram":
+          y58 = !!"1";
+          S8i = "candle";
+          break;
+        case "hlc":
+          K8y = !0;
+          S8i = "bar";
+          break;
+        default:
+          return null;
+      }
+    }
+    if (S8i === null) {
+      return null;
+    }
+    return new j7Z.Renderer.OHLC({
+      params: j7Z.extend(P3P, {
+        type: S8i,
+        hlc: K8y,
+        colored: D6m,
+        hollow: Z8F,
+        volume: A0i,
+        histogram: y58,
+      }),
+    });
+  };
+  j7Z.Renderer.OHLC.getChartParts = function (Z3$, v5f) {
+    var I4F,
+      U_c,
+      x_B,
+      h1R,
+      w_L,
+      h8x,
+      G4t,
+      L$P,
+      s4v,
+      w7G,
+      w_9,
+      A$W,
+      M5J,
+      P5r,
+      q_s,
+      m8g,
+      a8e,
+      G3n,
+      a4U,
+      A1k,
+      Y7_,
+      b3S,
+      M0q,
+      n41,
+      M80,
+      y9B,
+      M9z,
+      o7V,
+      g7l,
+      H7M,
+      l2C,
+      R2U,
+      T3O,
+      X16,
+      L_8,
+      p_t,
+      K2E;
+    I4F = "c";
+    I4F += "an";
+    I4F += "dle";
+    U_c = "border";
+    U_c += "_c";
+    U_c += "ol";
+    U_c += "or_up";
+    x_B = "bor";
+    x_B += "der";
+    x_B += "_";
+    x_B += "color_even";
+    h1R = "st";
+    h1R += "x_hollow_can";
+    h1R += "dle_even";
+    w_L = "cand";
+    w_L += "le";
+    h8x = "border";
+    h8x += "_color_down";
+    G4t = "h";
+    G4t += "ollow";
+    L$P = "c";
+    L$P += "a";
+    L$P += "ndl";
+    L$P += "e";
+    s4v = "h";
+    s4v += "o";
+    s4v += "l";
+    s4v += "low";
+    w7G = "stx_hollow_ca";
+    w7G += "n";
+    w7G += "dl";
+    w7G += "e_down";
+    w_9 = "stx_";
+    w_9 += "hollo";
+    w_9 += "w_cand";
+    w_9 += "le_up";
+    A$W = "c";
+    A$W += "and";
+    A$W += "l";
+    A$W += "e";
+    M5J = "fill";
+    M5J += "_";
+    M5J += "colo";
+    M5J += "r_up";
+    P5r = "s";
+    P5r += "tx_candl";
+    P5r += "e";
+    P5r += "_up";
+    q_s = "stx_cand";
+    q_s += "le_";
+    q_s += "shadow_";
+    q_s += "even";
+    m8g = "shad";
+    m8g += "ow";
+    a8e = "s";
+    a8e += "had";
+    a8e += "o";
+    a8e += "w";
+    G3n = "border_c";
+    G3n += "olor_up";
+    a4U = "border_col";
+    a4U += "or_up";
+    A1k = "s";
+    A1k += "tx_bar_";
+    A1k += "eve";
+    A1k += "n";
+    Y7_ = "b";
+    Y7_ += "ord";
+    Y7_ += "er_color_";
+    Y7_ += "down";
+    b3S = "b";
+    b3S += "or";
+    b3S += "der_co";
+    b3S += "lor_up";
+    M0q = "st";
+    M0q += "x_bar_u";
+    M0q += "p";
+    n41 = "b";
+    n41 += "order_color";
+    M80 = "b";
+    M80 += "a";
+    M80 += "r";
+    y9B = "bo";
+    y9B += "rder_color_down";
+    M9z = "h";
+    M9z += "istogr";
+    M9z += "a";
+    M9z += "m";
+    o7V = "border_color";
+    o7V += "_";
+    o7V += "u";
+    o7V += "p";
+    g7l = "fi";
+    g7l += "ll_color";
+    g7l += "_up";
+    H7M = "stx";
+    H7M += "_his";
+    H7M += "t";
+    H7M += "ogram_up";
+    l2C = "histogra";
+    l2C += "m";
+    R2U = 1;
+    T3O = +"2";
+    X16 = 4;
+    L_8 = 8;
+    p_t = 16;
+    u7J6i.V84(3);
+    K2E = u7J6i.o6M("32", 1);
+    return [
+      {
+        type: "histogram",
+        drawType: l2C,
+        style: H7M,
+        condition: L_8,
+        fill: g7l,
+        border: o7V,
+        useColorInMap: !![],
+        useBorderStyleProp: !![],
+      },
+      {
+        type: M9z,
+        drawType: "histogram",
+        style: "stx_histogram_down",
+        condition: p_t,
+        fill: "fill_color_down",
+        border: y9B,
+        useColorInMap: !!1,
+        useBorderStyleProp: !!"1",
+      },
+      {
+        type: "histogram",
+        drawType: "histogram",
+        style: "stx_histogram_even",
+        condition: K2E,
+        fill: "fill_color_even",
+        border: "border_color_even",
+        skipIfPass: !!{},
+        useColorInMap: !!"1",
+        useBorderStyleProp: !0,
+      },
+      {
+        type: "bar",
+        drawType: M80,
+        style: Z3$ || "stx_bar_chart",
+        border: n41,
+        useColorInMap: !!"1",
+      },
+      {
+        type: "bar",
+        drawType: "bar",
+        style: M0q,
+        condition: v5f ? L_8 : R2U,
+        border: b3S,
+        useColorInMap: !0,
+      },
+      {
+        type: "bar",
+        drawType: "bar",
+        style: "stx_bar_down",
+        condition: v5f ? p_t : T3O,
+        border: Y7_,
+        useColorInMap: !![],
+      },
+      {
+        type: "bar",
+        drawType: "bar",
+        style: A1k,
+        condition: v5f ? K2E : X16,
+        border: "border_color_even",
+        skipIfPass: !0,
+        useColorInMap: !0,
+      },
+      {
+        type: "candle",
+        drawType: "shadow",
+        style: "stx_candle_shadow",
+        border: a4U,
+      },
+      {
+        type: "candle",
+        drawType: "shadow",
+        style: "stx_candle_shadow_up",
+        condition: L_8,
+        border: G3n,
+      },
+      {
+        type: "candle",
+        drawType: a8e,
+        style: "stx_candle_shadow_down",
+        condition: p_t,
+        border: "border_color_down",
+      },
+      {
+        type: "candle",
+        drawType: m8g,
+        style: q_s,
+        condition: K2E,
+        border: "border_color_even",
+        skipIfPass: !![],
+      },
+      {
+        type: "candle",
+        drawType: "candle",
+        style: P5r,
+        condition: L_8,
+        fill: M5J,
+        border: "border_color_up",
+        useColorInMap: !!{},
+        useBorderStyleProp: !!1,
+      },
+      {
+        type: A$W,
+        drawType: "candle",
+        style: "stx_candle_down",
+        condition: p_t,
+        fill: "fill_color_down",
+        border: "border_color_down",
+        useColorInMap: !!{},
+        useBorderStyleProp: !![],
+      },
+      {
+        type: "hollow",
+        drawType: "shadow",
+        style: w_9,
+        condition: R2U,
+        border: "border_color_up",
+      },
+      {
+        type: "hollow",
+        drawType: "shadow",
+        style: w7G,
+        condition: T3O,
+        border: "border_color_down",
+      },
+      {
+        type: "hollow",
+        drawType: "shadow",
+        style: "stx_hollow_candle_even",
+        condition: X16,
+        border: "border_color_even",
+        skipIfPass: !!{},
+      },
+      {
+        type: s4v,
+        drawType: L$P,
+        style: "stx_hollow_candle_up",
+        condition: R2U | p_t,
+        fill: "fill_color_up",
+        border: "border_color_up",
+        useColorInMap: !"",
+      },
+      {
+        type: G4t,
+        drawType: "candle",
+        style: "stx_hollow_candle_down",
+        condition: T3O | p_t,
+        fill: "fill_color_down",
+        border: h8x,
+        useColorInMap: !!1,
+      },
+      {
+        type: "hollow",
+        drawType: w_L,
+        style: h1R,
+        condition: X16 | p_t,
+        fill: "fill_color_even",
+        border: x_B,
+        skipIfPass: !0,
+        useColorInMap: !!{},
+      },
+      {
+        type: "hollow",
+        drawType: "candle",
+        style: "stx_hollow_candle_up",
+        condition: R2U | L_8,
+        fill: "fill_color_up",
+        border: U_c,
+      },
+      {
+        type: "hollow",
+        drawType: "candle",
+        style: "stx_hollow_candle_down",
+        condition: T3O | L_8,
+        fill: "fill_color_down",
+        border: "border_color_down",
+      },
+      {
+        type: "hollow",
+        drawType: I4F,
+        style: "stx_hollow_candle_even",
+        condition: X16 | L_8,
+        fill: "fill_color_even",
+        border: "border_color_even",
+      },
+    ];
+  };
+  j7Z.Renderer.Bars = function (e1b) {
+    var D2u = u7J6i;
+    var f18, x5y, A0z, d7W;
+    this.construct(e1b);
+    f18 = this.params;
+    f18.type = "bar";
+    this.highLowBars = this.barsHaveWidth = this.standaloneBars = !!{};
+    x5y = 251904005;
+    A0z = 1851174316;
+    D2u.K2h(3);
+    d7W = D2u.o6M("2", 1);
+    for (
+      var H4X = 1;
+      D2u.S6r(H4X.toString(), H4X.toString().length, 29918) !== x5y;
+      H4X++
+    ) {
+      f18.hlc = f18.volume = f18.hollow = f18.histogram = !{};
+      d7W += 2;
+    }
+    if (D2u.o0D(d7W.toString(), d7W.toString().length, 1625) !== A0z) {
+      f18.hlc = f18.volume = f18.hollow = f18.histogram = !![];
+    }
+  };
+  j7Z.inheritsFrom(j7Z.Renderer.Bars, j7Z.Renderer.OHLC, !!"");
+  j7Z.Renderer.HLC = function (d1o) {
+    var V$E;
+    this.construct(d1o);
+    V$E = this.params;
+    V$E.type = "bar";
+    V$E.hlc = !"";
+    this.highLowBars = this.barsHaveWidth = this.standaloneBars = !!{};
+    V$E.volume = V$E.hollow = V$E.histogram = ![];
+  };
+  j7Z.inheritsFrom(j7Z.Renderer.HLC, j7Z.Renderer.Bars, !{});
+  j7Z.Renderer.Shading = function (o07) {
+    var l3C;
+    l3C = "rangechan";
+    l3C += "nel";
+    this.construct(o07);
+    this.beenSetup = !{};
+    this.errTimeout = null;
+    this.params.useChartLegend = !!"";
+    this.shading = [];
+    if (this.params.type == l3C) {
+      this.highLowBars = !!"1";
+    }
+  };
+  j7Z.inheritsFrom(j7Z.Renderer.Shading, j7Z.Renderer.Lines, ![]);
+  j7Z.Renderer.Shading.requestNew = function (w4m, k9D) {
+    var k0W, t6N, m8P;
+    u7J6i.p24();
+    k0W = null;
+    t6N = null;
+    for (var B9i = 0; B9i < w4m.length; B9i++) {
+      m8P = w4m[B9i];
+      if (m8P == "rangechannel") {
+        k0W = "rangechannel";
+      } else if (m8P == "step") {
+        t6N = !"";
+      }
+    }
+    if (k0W === null) {
+      return null;
+    }
+    return new j7Z.Renderer.Shading({
+      params: j7Z.extend(k9D, { type: k0W, step: t6N }),
+    });
+  };
+  j7Z.Renderer.Shading.prototype.setShading = function (E_t) {
+    u7J6i.R4I();
+    if (E_t.constructor != Array) {
+      E_t = [E_t];
+    }
+    this.shading = E_t;
+  };
+  j7Z.Renderer.Shading.prototype.draw = function () {
+    var F01 = u7J6i;
+    var y47,
+      Z49,
+      c1W,
+      K6o,
+      Y00,
+      g8r,
+      s8n,
+      f8u,
+      c2D,
+      v7C,
+      u23,
+      W_G,
+      C3a,
+      V60,
+      H$W,
+      F1V,
+      O88,
+      I7P,
+      L6J;
+    y47 = "rangech";
+    F01.R4I();
+    y47 += "annel";
+    Z49 = this.stx;
+    c1W = this.params;
+    K6o = Z49.panels[c1W.panel].chart;
+    if (c1W.type == y47) {
+      if (this.beenSetup) {
+        if (this.seriesParams.length > 2) {
+          this.removeSeries(this.seriesParams[2].id);
+        }
+      } else {
+        this.beenSetup = !!"1";
+        c1W.display = this.seriesParams[0].display;
+        c1W.yAxis = this.seriesParams["0" | 0].yAxis;
+        Y00 = this.seriesParams[0].color || "auto";
+        g8r = this.seriesParams[0].symbol;
+        this.removeAllSeries(!!{});
+        s8n = c1W.name;
+        Z49.addSeries(null, {
+          symbol: g8r,
+          loadData: !!g8r,
+          field: "High",
+          renderer: "Shading",
+          name: s8n,
+          style: "stx_line_up",
+          display: c1W.display,
+          shareYAxis: !!{},
+        });
+        Z49.addSeries(null, {
+          symbol: g8r,
+          loadData: !!g8r,
+          field: "Low",
+          renderer: "Shading",
+          name: s8n,
+          style: "stx_line_down",
+          display: c1W.display,
+          shareYAxis: !![],
+        });
+        this.setShading({
+          primary: this.seriesParams[0].id,
+          secondary: this.seriesParams[1].id,
+          color: Y00,
+        });
+      }
+    }
+    if (!this.shading) {
+      if (!this.errTimeout) {
+        f8u = "Warning: no shading scheme set.  Us";
+        f8u += "e myRenderer.set";
+        f8u += "Shading(scheme) to ";
+        f8u += "set.";
+        console.log(f8u);
+        c2D = this;
+        this.errTimeout = setTimeout(function () {
+          F01.p24();
+          c2D.errTimeout = null;
+        }, 10000);
+      }
+    }
+    v7C = {};
+    for (u23 = 0; u23 < this.seriesParams.length; u23++) {
+      W_G = {};
+      if (K6o.series[this.seriesParams[u23].id]) {
+        W_G = j7Z.clone(K6o.series[this.seriesParams[u23].id].parameters);
+      }
+      v7C[this.seriesParams[u23].id] = {
+        parameters: j7Z.extend(j7Z.extend(W_G, c1W), this.seriesParams[u23]),
+        yValueCache: this.caches[this.seriesParams[u23].id],
+      };
+    }
+    Z49.drawSeries(K6o, v7C, c1W.yAxis, this);
+    if (c1W.type == "rangechannel") {
+      if (!K6o.legendColorMap) {
+        K6o.legendColorMap = {};
+      }
+      C3a = c1W.display;
+      V60 = [
+        Z49.getCanvasColor("stx_line_up"),
+        Z49.getCanvasColor("stx_line_down"),
+      ];
+      K6o.legendColorMap[c1W.name] = {
+        color: V60,
+        display: C3a,
+        isBase: this == Z49.mainSeriesRenderer,
+      };
+    }
+    for (u23 in v7C) {
+      this.caches[u23] = v7C[u23].yValueCache;
+    }
+    for (u23 = +"0"; u23 < this.shading.length; u23++) {
+      H$W = this.shading[u23];
+      F1V = H$W.color;
+      if (H$W.color == "auto") {
+        F1V = Z49.defaultColor;
+      }
+      if (!H$W.primary) {
+        H$W.primary = "Close";
+      }
+      if (!H$W.secondary && this.seriesParams["0" ^ 0]) {
+        H$W.secondary = this.seriesParams[0].field;
+      }
+      if (!H$W.secondary) continue;
+      else if (!v7C[H$W.primary] && H$W.primary != "Close") continue;
+      else if (!v7C[H$W.secondary]) continue;
+      else if (H$W.primary == "Close" && c1W.yAxis && c1W.yAxis != K6o.yAxis)
+        continue;
+      O88 = D2t(H$W.primary).split(
+        708.19 <= (2768, 1170)
+          ? 1660 !== 759.76
+            ? "."
+            : 1.2e3
+          : (0x259, 566.8),
+      );
+      I7P = D2t(H$W.secondary).split(
+        281.28 !== 3262
+          ? "."
+          : (6306, 217.25) != (101.9, 6580)
+            ? (!{}, 0x25c5)
+            : ("g", !!"1"),
+      );
+      L6J = {
+        topBand: O88["0" - 0],
+        topSubBand: O88[1],
+        topColor: H$W.greater || F1V || Z49.containerColor,
+        topAxis: c1W.yAxis,
+        bottomBand: I7P[0],
+        bottomSubBand: I7P[1],
+        bottomColor: H$W.lesser || F1V || Z49.containerColor,
+        bottomAxis: H$W.primary == "Close" ? null : c1W.yAxis,
+        tension: c1W.tension || K6o.tension,
+        opacity: 0.1,
+        step: c1W.step,
+      };
+      if (!L6J.topColor && !L6J.bottomColor) continue;
+      if (!c1W.highlight && Z49.highlightedDraggable) {
+        L6J.opacity *= 0.3;
+      }
+      j7Z.fillIntersecting(Z49, c1W.panel, L6J);
+    }
+    function D2t(M6V) {
+      F01.p24();
+      var Y1Q, c6J, x63;
+      Y1Q = v7C[M6V];
+      if (Y1Q) {
+        c6J = Y1Q.parameters.field;
+        x63 = Y1Q.parameters.subField;
+        F01.V84(1);
+        return F01.o6M(
+          c6J,
+          x63
+            ? ((8430, 157) === (7240, 768.61)
+                ? (2280, 5920) === (484.9, 6530)
+                  ? "n"
+                  : (+"6650", 2107) !== (2950, 922.43)
+                    ? !!{}
+                    : ("0x1ab6" ^ 0, 7.81e3)
+                : ".") + x63
+            : "",
+        );
+      }
+      return M6V;
+    }
+  };
+  j7Z.Renderer.Histogram = function (A8w) {
+    var G9Y = u7J6i;
+    var S1e, i49, C7B, P7$, L06, o24, N8V;
+    this.construct(A8w);
+    S1e = 131453807;
+    i49 = +"2130024270";
+    C7B = 2;
+    for (
+      var F6s = 1;
+      G9Y.o0D(F6s.toString(), F6s.toString().length, 38825) !== S1e;
+      F6s++
+    ) {
+      P7$ = "h";
+      P7$ += "isto";
+      P7$ += "gra";
+      P7$ += "m";
+      this.params.type = P7$;
+      this.barsHaveWidth = this.standaloneBars = !!{};
+      C7B += 2;
+    }
+    if (G9Y.o0D(C7B.toString(), C7B.toString().length, 49016) !== i49) {
+      this.params.type = "";
+      this.barsHaveWidth = this.standaloneBars = !{};
+    }
+    if (this.params.yAxis) {
+      this.params.bindToYAxis = !!"1";
+      if (typeof this.params.yAxis.baseline == "number") {
+        L06 = -+"1053483412";
+        o24 = -919127213;
+        N8V = 2;
+        for (
+          var V4Q = 1;
+          G9Y.S6r(V4Q.toString(), V4Q.toString().length, 56841) !== L06;
+          V4Q++
+        ) {
+          this.params.yAxis.baseline = { value: this.params.yAxis.baseline };
+          N8V += 2;
+        }
+        if (G9Y.o0D(N8V.toString(), N8V.toString().length, 31348) !== o24) {
+          this.params.yAxis.baseline = { value: this.params.yAxis.baseline };
+        }
+      }
+    }
+  };
+  j7Z.inheritsFrom(j7Z.Renderer.Histogram, j7Z.Renderer, ![]);
+  j7Z.Renderer.Histogram.prototype.adjustYAxis = function () {
+    var { yAxis: B4S } = this.params;
+    if (!B4S || B4S.baseline || B4S.noMin) {
+      return;
+    }
+    B4S.min = 0;
+    B4S.highValue /= this.params.heightPercentage || 1;
+  };
+  j7Z.Renderer.Histogram.prototype.draw = function () {
+    var e5v, C2w, D_e, m9U, N0x;
+    e5v = j7Z.clone(this.params);
+    e5v.type = e5v.subtype;
+    this.useSum = e5v.subtype == "stacked";
+    if (!e5v.yAxis || e5v.yAxis == this.stx.chart.yAxis) {
+      e5v.bindToYAxis = !"";
+    }
+    this.stx.drawHistogram(e5v, this.seriesParams);
+    C2w = e5v.yAxis && e5v.yAxis.baseline;
+    if (C2w && C2w.color) {
+      D_e = "destination-ov";
+      D_e += "er";
+      m9U = this.stx.panels[this.params.panel];
+      N0x = this.stx.pixelFromPrice(C2w.value, m9U, this.params.yAxis) - 0.5;
+      this.stx.plotLine({
+        x0: m9U.left,
+        x1: m9U.right,
+        y0: N0x,
+        y1: N0x,
+        color: C2w.color,
+        type: "line",
+        context: m9U.chart.context,
+        confineToPanel: m9U,
+        pattern: C2w.pattern || "solid",
+        lineWidth: C2w.lineWidth || 1,
+        opacity: C2w.opacity || 0.8,
+        globalCompositeOperation: D_e,
+      });
+    }
+  };
+  j7Z.Renderer.Histogram.prototype.getBasis = function (i7N, I8i, Y$L) {
+    u7J6i.R4I();
+    var M_u, j2C, R$Y, M6U;
+    M_u = 0;
+    if (i7N && this.useSum) {
+      for (var i56 = 0; i56 < this.seriesParams.length; i56++) {
+        j2C = "o";
+        j2C += "bje";
+        j2C += "c";
+        j2C += "t";
+        R$Y = this.seriesParams[i56].field;
+        if (R$Y === I8i) break;
+        M6U = i7N[R$Y];
+        if (M6U && typeof M6U === j2C) {
+          M6U =
+            M6U[
+              Y$L ||
+                this.seriesParams[i56].subField ||
+                this.stx.chart.defaultPlotField ||
+                "Close"
+            ];
+        }
+        if (M6U) {
+          M_u += M6U;
+        }
+      }
+    }
+    return M_u;
+  };
+  j7Z.Renderer.Heatmap = function (G$F) {
+    this.construct(G$F);
+    this.params.type = "heatmap";
+    this.params.highlightable = !1;
+    u7J6i.p24();
+    this.barsHaveWidth = this.standaloneBars = !!1;
+  };
+  j7Z.inheritsFrom(j7Z.Renderer.Heatmap, j7Z.Renderer, !!0);
+  j7Z.Renderer.Heatmap.requestNew = function (V_v, a62) {
+    var Y6m, F6j;
+    Y6m = null;
+    for (var q06 = 0; q06 < V_v.length; q06++) {
+      F6j = V_v[q06];
+      if (F6j == "heatmap") {
+        Y6m = "heatmap";
+      }
+    }
+    if (Y6m === null) {
+      return null;
+    }
+    return new j7Z.Renderer.Heatmap({ params: j7Z.extend(a62, { type: Y6m }) });
+  };
+  j7Z.Renderer.Heatmap.prototype.draw = function () {
+    this.stx.drawHeatmap(j7Z.clone(this.params), this.seriesParams);
+  };
+  j7Z.Renderer.Scatter = function (g3h) {
+    this.construct(g3h);
+    this.standaloneBars = this.barsHaveWidth = !![];
+    this.bounded = !![];
+  };
+  j7Z.inheritsFrom(j7Z.Renderer.Scatter, j7Z.Renderer.Lines, !{});
+  j7Z.Renderer.Scatter.requestNew = function (S6j, a6g) {
+    var i3Y, h5w;
+    i3Y = null;
+    for (var k8h = 0; k8h < S6j.length; k8h++) {
+      h5w = S6j[k8h];
+      if (h5w == "scatterplot") {
+        i3Y = "scatter";
+      }
+    }
+    u7J6i.p24();
+    if (i3Y === null) {
+      return null;
+    }
+    return new j7Z.Renderer.Scatter({ params: j7Z.extend(a6g, { type: i3Y }) });
+  };
+  j7Z.Renderer.Scatter.prototype.drawIndividualSeries = function (c3P, I65) {
+    var F6K, h5Y, H2A;
+    u7J6i.p24();
+    F6K = "Error, Scatt";
+    F6K += "er renderer requires customChart.";
+    F6K += "js";
+    h5Y = this.stx.panels[I65.panel] || c3P.panel;
+    H2A = { colors: [] };
+    if (this.stx.scatter) {
+      H2A = this.stx.scatter(h5Y, I65);
+    } else {
+      console.warn(F6K);
+    }
+    return H2A;
+  };
+  function Y6Y(s3t, I0t) {
+    (() => {
+      var M8Q = u7J6i;
+      var e$D,
+        w_u,
+        x3e,
+        M9m,
+        z7P,
+        Y8Y,
+        h3M,
+        R$e,
+        e2X,
+        l65,
+        g3E,
+        m7V,
+        n$U,
+        S9$,
+        S2Q,
+        R7f,
+        q7Q,
+        u0w,
+        m2N,
+        g_6;
+      function f0c(Y6H) {
+        var b3t, a4G, y2l, Z1o, x$T;
+        var [f6N, ...N5N] = Y6H[M8Q.D_(29)](M8Q.N2(+"24"));
+        b3t = JSON[M8Q.N2(18)](atob(f6N));
+        function a1C(O5H) {
+          var s6i;
+          if (O5H instanceof Object) {
+            s6i = Object[M8Q.D_(2)](O5H)
+              [M8Q.N2(26)]()
+              [M8Q.N2(6)]((g3L, K5G) => {
+                var X8m;
+                X8m = K5G[M8Q.D_("6" - 0)]((b0v, N$o) => {
+                  return Math[M8Q.N2(1)](b0v * ("31" - 0) + a1C(N$o)) % g3E;
+                }, 0);
+                M8Q.V84(1);
+                var N3S = M8Q.o6M(11, 20);
+                return Math[M8Q.D_(1)](g3L * N3S + X8m) % g3E;
+              }, 0);
+          } else {
+            s6i = O5H[M8Q.N2(+"32")]()
+              [M8Q.D_("29" - 0)](M8Q.N2(+"20"))
+              [M8Q.D_(+"6")]((s6_, U9r) => {
+                M8Q.K2h(35);
+                var n8Z = M8Q.o6M(5, 2, 11, 14);
+                M8Q.R4I();
+                return Math[M8Q.N2(1)](s6_ * n8Z + U9r[M8Q.N2(28)](0)) % g3E;
+              }, 0);
+          }
+          return s6i;
+        }
+        a4G = b3t[Y8Y][M8Q.D_(+"14")](h3M) && b3t[n$U] === a1C(S2Q);
+        M8Q.R4I();
+        y2l = N5N[a4G ? 1 : 0];
+        Z1o = S2Q[M8Q.N2(29)](M8Q.N2(22))[M8Q.N2(17)]((C4T) => {
+          return BigInt(C4T);
+        });
+        if (
+          Number(U0k(BigInt(atob(y2l)), Z1o[0], Z1o[1]) % Z1o[1]) !== a1C(b3t)
+        ) {
+          s3t[M8Q.D_(3)](S9$);
+          M8Q.X_();
+          q7Q[M8Q.N2("25" << 32)](S9$);
+        }
+        x$T = {};
+        Object[M8Q.N2(19)](x$T, e2X, {
+          value: (X88) => {
+            M8Q.p24();
+            return b3t[X88];
+          },
+        });
+        return x$T;
+      }
+      e$D = console;
+      M8Q.p24();
+      w_u = Date[M8Q.N2(16)]();
+      x3e = M8Q.D_(11);
+      if (Y6Y[x3e] > w_u) {
+        return;
+      }
+      M9m = M8Q.N2(7);
+      z7P = M8Q.N2(30);
+      Y8Y = M8Q.N2(12);
+      h3M = M8Q.N2(31);
+      R$e = M8Q.D_(0);
+      M8Q.V84(7);
+      e2X = M8Q.D_(M8Q.o6M(32, "5"));
+      l65 = M8Q.N2(8);
+      g3E = Number[M8Q.N2(M8Q.F4O(10, "10", M8Q.V84(11)))];
+      m7V = M8Q.N2(14);
+      function U0k(i6Q, F81, T8X) {
+        var p8q;
+        M8Q.R4I();
+        p8q = U0k[1];
+        while (F81 > U0k[0]) {
+          if (F81 % U0k[2] === U0k["1" ^ 0]) {
+            M8Q.K2h(5);
+            p8q = M8Q.o6M(p8q, i6Q, T8X);
+          }
+          M8Q.V84(5);
+          i6Q = M8Q.o6M(i6Q, i6Q, T8X);
+          M8Q.V84(63);
+          var c6Y = M8Q.o6M(3, 9, 38, 3778, 12);
+          F81 = F81 / U0k[c6Y];
+        }
+        return p8q;
+      }
+      n$U = M8Q.N2(23);
+      S9$ = M8Q.D_(15);
+      S2Q = M8Q.N2(4);
+      [0, 1, 2][M8Q.D_(27)]((b_0) => {
+        return (U0k[b_0] = BigInt(b_0));
+      });
+      R7f = M8Q.D_(+"13");
+      Y6Y[R7f] = !!"";
+      if (!s3t) {
+        s3t = j7Z;
+      }
+      q7Q = [];
+      try {
+        u0w = f0c(s3t[l65]());
+        m2N = u0w[e2X](Y8Y);
+        g_6 = m2N[m7V][z7P](m2N);
+        if (!g_6(R$e) || !u0w[e2X](R$e)[M8Q.D_(14)](I0t)) {
+          M8Q.X_();
+          q7Q[M8Q.D_(25)](`${R$e}${M8Q.N2(9)}${I0t}`);
+        }
+      } catch (L0R) {
+        M8Q.X_();
+        q7Q[M8Q.D_(+"25")](L0R);
+      }
+      if (q7Q[M8Q.D_(+"21")] === 0) {
+        Y6Y[R7f] = !!1;
+        M8Q.V84(1);
+        Y6Y[x3e] = M8Q.F4O(w_u, 60000);
+      } else {
+        e$D[M9m](q7Q);
+        M8Q.K2h(1);
+        Y6Y[x3e] = M8Q.o6M(w_u, 3600000);
+      }
+    })();
+  }
+};
+J6 = (I0e) => {};
+u7J6i.R4I();
+o8 = (w$R) => {
+  var L2u, A1w;
+  L2u = typeof _CIQ !== "undefined" ? _CIQ : w$R.CIQ;
+  if (!L2u.Studies) {
+    A1w = "accumulationDistribution feature requires first act";
+    A1w += "ivating studies feature.";
+    console.error(A1w);
+  } else {
+    L2u.Studies.calculateAccumulationDistribution = function (B7P, M3G) {
+      var c9O, R_b, N08, m6S, J$O;
+      c9O = M3G.chart.scrubbed;
+      u7J6i.p24();
+      for (var C5o = M3G.startFrom; C5o < c9O.length; C5o++) {
+        if (!C5o) continue;
+        R_b = c9O[C5o];
+        if (R_b.futureTick) break;
+        u7J6i.V84(4);
+        N08 = c9O[u7J6i.F4O(C5o, 1)];
+        m6S = 0;
+        if (R_b.Close > N08.Close) {
+          m6S = R_b.Close - Math.min(R_b.Low, N08.Close);
+        } else if (R_b.Close < N08.Close) {
+          m6S = R_b.Close - Math.max(R_b.High, N08.Close);
+        }
+        if (M3G.inputs["Use Volume"]) {
+          m6S *= R_b.Volume;
+        }
+        J$O = N08["Result " + M3G.name];
+        if (!J$O) {
+          J$O = 0;
+        }
+        J$O += m6S;
+        if (!isNaN(R_b.Close)) {
+          R_b["Result " + M3G.name] = J$O;
+        }
+      }
+    };
+    L2u.Studies.studyLibrary = L2u.extend(L2u.Studies.studyLibrary, {
+      "W Acc Dist": {
+        name: "Accumulation/Distribution",
+        calculateFN: L2u.Studies.calculateAccumulationDistribution,
+        inputs: { "Use Volume": !!"" },
+      },
+    });
+  }
+};
+Y9 = (L7z) => {
+  var C2b = u7J6i;
+  C2b.p24();
+  var I8D, O6g, P0Z, g7z, E0s;
+  I8D = "u";
+  I8D += "ndefi";
+  I8D += "ned";
+  O6g = typeof _CIQ !== I8D ? _CIQ : L7z.CIQ;
+  if (!O6g.Studies) {
+    console.error("adx feature requires first activating studies feature.");
+  } else {
+    P0Z = "#";
+    P0Z += "FF0";
+    P0Z += "0";
+    P0Z += "00";
+    g7z = "#";
+    g7z += "0";
+    g7z += "0DD0";
+    g7z += "0";
+    E0s = "#";
+    E0s += "FF0000";
+    O6g.Studies.calculateADX = function (c_0, u2s) {
+      var m3W,
+        y4O,
+        Z1u,
+        l13,
+        Z$z,
+        x5_,
+        k0S,
+        j3Z,
+        k5g,
+        w1Z,
+        a1D,
+        o1R,
+        s58,
+        e9L,
+        N0t,
+        s4w,
+        S_y,
+        K5j,
+        H80,
+        D1$,
+        W0c;
+      O6g.Studies.calculateStudyATR(c_0, u2s);
+      m3W = u2s.chart.scrubbed;
+      y4O = u2s.days;
+      Z1u = parseInt(u2s.inputs["Smoothing Period"], 10);
+      if (!Z1u && Z1u !== 0) {
+        Z1u = y4O;
+      }
+      if (m3W.length < u2s.days + 1) {
+        u2s.error = !![];
+        return;
+      }
+      l13 = 0;
+      C2b.K2h(4);
+      Z$z = C2b.F4O("0", 0);
+      x5_ = 0;
+      k0S = 0;
+      for (var g4d = Math.max(1, u2s.startFrom); g4d < m3W.length; g4d++) {
+        k5g = "+";
+        k5g += "D";
+        k5g += "I";
+        k5g += " ";
+        w1Z = "_s";
+        w1Z += "mTR ";
+        a1D = "_";
+        a1D += "s";
+        a1D += "m+DM ";
+        j3Z = m3W[g4d];
+        o1R = Math.max(0, j3Z.High - m3W[g4d - 1].High);
+        s58 = Math.max(0, m3W[g4d - 1].Low - j3Z.Low);
+        if (o1R > s58) {
+          s58 = 0;
+        } else if (s58 > o1R) {
+          o1R = 0;
+        } else {
+          o1R = s58 = 0;
+        }
+        if (g4d <= y4O) {
+          Z$z += o1R;
+          x5_ += s58;
+          l13 += j3Z["True Range " + u2s.name];
+        } else {
+          e9L = "T";
+          e9L += "rue R";
+          e9L += "ange ";
+          N0t = "_sm";
+          N0t += "+DM ";
+          C2b.V84(131);
+          var E3M = C2b.F4O(1, 3, 2, 3, 0);
+          C2b.V84(58);
+          var v6$ = C2b.F4O(9, 4, 12, 1);
+          Z$z = (m3W[g4d - E3M][N0t + u2s.name] * (y4O - v6$)) / y4O + o1R;
+          C2b.K2h(8);
+          var u_n = C2b.F4O(18, 19);
+          x5_ =
+            (m3W[g4d - u_n]["_sm-DM " + u2s.name] * (y4O - +"1")) / y4O + s58;
+          C2b.V84(8);
+          var o7J = C2b.o6M(10, 11);
+          C2b.V84(28);
+          var O4I = C2b.F4O(3, 13, 9);
+          l13 =
+            (m3W[g4d - o7J]["_smTR " + u2s.name] * (y4O - ("1" | O4I))) / y4O +
+            j3Z[e9L + u2s.name];
+        }
+        j3Z[a1D + u2s.name] = Z$z;
+        j3Z["_sm-DM " + u2s.name] = x5_;
+        j3Z[w1Z + u2s.name] = l13;
+        if (g4d < y4O) continue;
+        C2b.V84(111);
+        s4w = C2b.o6M(Z$z, l13, 100);
+        C2b.K2h(111);
+        S_y = C2b.F4O(x5_, l13, 100);
+        C2b.K2h(4);
+        var g$d = C2b.o6M(119, 19);
+        K5j = (g$d * Math.abs(s4w - S_y)) / (s4w + S_y);
+        j3Z[k5g + u2s.name] = s4w;
+        j3Z["-DI " + u2s.name] = S_y;
+        if (u2s.inputs.Series !== ![] && Z1u) {
+          if (g4d < y4O + Z1u - 1) {
+            if (g4d == u2s.startFrom) {
+              for (var S5Q = y4O; S5Q < u2s.startFrom; S5Q++) {
+                C2b.V84(68);
+                var t2x = C2b.o6M(1, 90, 9);
+                k0S +=
+                  (t2x *
+                    Math.abs(
+                      m3W[S5Q]["+DI " + u2s.name] - m3W[S5Q]["-DI " + u2s.name],
+                    )) /
+                  (m3W[S5Q]["+DI " + u2s.name] + m3W[S5Q]["-DI " + u2s.name]);
+              }
+            }
+            k0S += K5j;
+          } else if (g4d == y4O + Z1u - 1) {
+            H80 = "A";
+            H80 += "D";
+            H80 += "X";
+            H80 += " ";
+            C2b.V84(12);
+            j3Z[H80 + u2s.name] = C2b.F4O(Z1u, k0S);
+          } else {
+            C2b.V84(8);
+            var v4D = C2b.F4O(6, 7);
+            C2b.K2h(35);
+            var D0h = C2b.F4O(86, 7, 12, 3);
+            j3Z["ADX " + u2s.name] =
+              (m3W[g4d - v4D]["ADX " + u2s.name] * (Z1u - D0h) + K5j) / Z1u;
+          }
+        }
+        if (u2s.inputs.Histogram) {
+          D1$ = "-";
+          D1$ += "DI";
+          D1$ += " ";
+          W0c = u2s.name + "_hist";
+          if (!j3Z["+DI " + u2s.name] && j3Z["+DI " + u2s.name] !== 0) continue;
+          if (!j3Z["-DI " + u2s.name] && j3Z[D1$ + u2s.name] !== +"0") continue;
+          j3Z[W0c] = j3Z["+DI " + u2s.name] - j3Z["-DI " + u2s.name];
+          if (u2s.inputs.Series === !!0) {
+            j3Z["+DI " + u2s.name] = null;
+            j3Z["-DI " + u2s.name] = null;
+          }
+          u2s.outputMap[W0c] = "";
+        }
+      }
+    };
+    O6g.Studies.displayADX = function (Z62, O6E, T$8) {
+      var w32, W8a, c43, h1g, D52, K_H, S$V, q5E;
+      w32 = ":";
+      w32 += " ";
+      W8a = O6E.underlay ? 0.3 : O6E.inputs.Series ? 0.4 : "1" >> 0;
+      C2b.R4I();
+      if (O6E.inputs.Series && O6E.inputs.Shading) {
+        c43 = "+DI " + O6E.name;
+        h1g = "-DI " + O6E.name;
+        D52 = O6g.Studies.determineColor(O6E.outputs[O6E.outputMap[c43]]);
+        K_H = O6g.Studies.determineColor(O6E.outputs[O6E.outputMap[h1g]]);
+        S$V = O6E.getYAxis(Z62);
+        q5E = {
+          topBand: c43,
+          bottomBand: h1g,
+          topColor: D52,
+          bottomColor: K_H,
+          skipTransform: Z62.panels[O6E.panel].name != O6E.chart.name,
+          topAxis: S$V,
+          bottomAxis: S$V,
+          opacity: "0.3" * 1,
+        };
+        if (!O6E.highlight && Z62.highlightedDraggable) {
+          q5E.opacity *= 0.3;
+        }
+        O6g.fillIntersecting(Z62, O6E.panel, q5E);
+      }
+      if (O6E.inputs.Histogram) {
+        O6g.Studies.createHistogram(Z62, O6E, T$8, ![], W8a);
+      }
+      if (O6E.inputs.Series !== !{}) {
+        O6g.Studies.displaySeriesAsLine(Z62, O6E, T$8);
+      } else if (!O6E.inputs.Series && !O6E.inputs.Histogram) {
+        Z62.displayErrorAsWatermark(
+          O6E.panel,
+          Z62.translateIf(O6E.name) +
+            w32 +
+            Z62.translateIf("Nothing to display"),
+        );
+      }
+    };
+    O6g.Studies.studyLibrary = O6g.extend(O6g.Studies.studyLibrary, {
+      ADX: {
+        name: "ADX/DMS",
+        calculateFN: O6g.Studies.calculateADX,
+        seriesFN: O6g.Studies.displayADX,
+        inputs: {
+          Period: 14,
+          "Smoothing Period": "14" | 8,
+          Series: !!"1",
+          Shading: ![],
+          Histogram: !!0,
+        },
+        outputs: {
+          "+DI": "#00FF00",
+          "-DI": E0s,
+          ADX: "auto",
+          "Positive Bar": g7z,
+          "Negative Bar": P0Z,
+        },
+      },
+    });
+  }
+};
+u2 = (b9o) => {
+  var f77 = u7J6i;
+  var c6d, t5p, L2b, u9d, m7M, D_3;
+  c6d = -1595258506;
+  t5p = -1481899508;
+  L2b = +"2";
+  for (
+    var g4U = 1;
+    f77.S6r(g4U.toString(), g4U.toString().length, 95492) !== c6d;
+    g4U++
+  ) {
+    u9d = typeof _CIQ !== "undefined" ? _CIQ : b9o.CIQ;
+    L2b += 2;
+  }
+  if (f77.S6r(L2b.toString(), L2b.toString().length, 99430) !== t5p) {
+    u9d = -_CIQ != "" ? _CIQ : b9o.CIQ;
+  }
+  if (!u9d.Studies) {
+    m7M = "alligator feature requires first activat";
+    m7M += "ing studies feature.";
+    console.error(m7M);
+  } else {
+    D_3 = "#";
+    D_3 += "00D";
+    D_3 += "D0";
+    D_3 += "0";
+    u9d.Studies.calculateAlligator = function (C5n, j$7) {
+      var g2y, m7f, z_K, C8v, S$k, B4F, C8O, U_N, d5o, C7e, m$S, D6Q, R5h, f_0;
+      g2y = {
+        J: Number(j$7.inputs["Jaw Period"]),
+        T: Number(j$7.inputs["Teeth Period"]),
+        L: Number(j$7.inputs["Lips Period"]),
+      };
+      m7f = 333472214;
+      z_K = -149755644;
+      f77.V84(11);
+      C8v = f77.F4O(2, "2");
+      for (
+        var J0r = 1;
+        f77.S6r(J0r.toString(), J0r.toString().length, 43089) !== m7f;
+        J0r++
+      ) {
+        S$k = j$7.chart.scrubbed;
+        C8v += 2;
+      }
+      if (f77.o0D(C8v.toString(), C8v.toString().length, +"1424") !== z_K) {
+        S$k = j$7.chart.scrubbed;
+      }
+      if (S$k.length < Math.max(g2y.J, g2y.T, g2y.L) + "1" * 1) {
+        j$7.error = !!1;
+        return;
+      }
+      if (j$7.type === "Gator" || j$7.inputs["Show Lines"]) {
+        B4F = "J";
+        B4F += "a";
+        B4F += "w";
+        u9d.Studies.MA(
+          "welles wilder",
+          g2y.J,
+          "hl/2",
+          j$7.inputs["Jaw Offset"],
+          B4F,
+          C5n,
+          j$7,
+        );
+        u9d.Studies.MA(
+          "welles wilder",
+          g2y.T,
+          "hl/2",
+          j$7.inputs["Teeth Offset"],
+          "Teeth",
+          C5n,
+          j$7,
+        );
+        u9d.Studies.MA(
+          "welles wilder",
+          g2y.L,
+          "hl/2",
+          j$7.inputs["Lips Offset"],
+          "Lips",
+          C5n,
+          j$7,
+        );
+      }
+      for (var N07 = j$7.startFrom; N07 < S$k.length; N07++) {
+        C8O = "Show Fract";
+        C8O += "als";
+        if (!S$k[N07]) continue;
+        if (j$7.type == "Gator") {
+          U_N = "_";
+          U_N += "h";
+          U_N += "i";
+          U_N += "st1";
+          d5o = "L";
+          d5o += "ip";
+          d5o += "s ";
+          C7e = S$k[N07]["Jaw " + j$7.name];
+          m$S = S$k[N07][d5o + j$7.name];
+          D6Q = S$k[N07]["Teeth " + j$7.name];
+          if (D6Q || D6Q === 0) {
+            R5h = "_h";
+            R5h += "is";
+            R5h += "t";
+            R5h += "2";
+            if (C7e || C7e === 0) {
+              f77.V84(4);
+              S$k[N07][j$7.name + "_hist1"] = Math.abs(f77.o6M(C7e, D6Q));
+            }
+            if (m$S || m$S === 0) {
+              f77.K2h(4);
+              S$k[N07][j$7.name + R5h] = -Math.abs(f77.F4O(D6Q, m$S));
+            }
+          }
+          j$7.outputMap = {};
+          j$7.outputMap[j$7.name + U_N] = "";
+          j$7.outputMap[j$7.name + "_hist2"] = "";
+        }
+        if (j$7.inputs[C8O]) {
+          if (
+            !S$k[N07 - ("2" >> 32)] ||
+            !S$k[N07 - 1] ||
+            !S$k[N07] ||
+            !S$k[N07 + 1] ||
+            !S$k[N07 + 2]
+          )
+            continue;
+          if (
+            S$k[N07 - 2].High &&
+            S$k[N07 - 1].High &&
+            S$k[N07].High &&
+            S$k[N07 + 1].High &&
+            S$k[N07 + 2].High
+          ) {
+            if (
+              S$k[N07].High > S$k[N07 - 1].High &&
+              S$k[N07].High > S$k[N07 - +"2"].High &&
+              S$k[N07].High > S$k[N07 + 1].High &&
+              S$k[N07].High > S$k[N07 + 2].High
+            ) {
+              S$k[N07]["Fractal High " + j$7.name] = 1;
+            }
+          }
+          if (
+            S$k[N07 - 2].Low &&
+            S$k[N07 - 1].Low &&
+            S$k[N07].Low &&
+            S$k[N07 + 1].Low &&
+            S$k[N07 + 2].Low
+          ) {
+            if (
+              S$k[N07].Low < S$k[N07 - 1].Low &&
+              S$k[N07].Low < S$k[N07 - 2].Low &&
+              S$k[N07].Low < S$k[N07 + 1].Low &&
+              S$k[N07].Low < S$k[N07 + ("2" - 0)].Low
+            ) {
+              f_0 = "Fra";
+              f_0 += "ctal";
+              f_0 += " Low ";
+              S$k[N07][f_0 + j$7.name] = 1;
+            }
+          }
+        }
+      }
+    };
+    u9d.Studies.displayAlligator = function (n9b, k5N, w1l) {
+      var o4x, n9d, K0c, g8X, V26;
+      o4x = k5N.getContext(n9b);
+      n9d = n9b.chart;
+      if (k5N.inputs["Show Lines"]) {
+        u9d.Studies.displaySeriesAsLine(n9b, k5N, w1l);
+      }
+      if (k5N.inputs["Show Fractals"]) {
+        n9b.startClip();
+        o4x.globalAlpha = k5N.underlay ? 0.3 : 1;
+        if (!k5N.highlight && n9b.highlightedDraggable) {
+          o4x.globalAlpha *= 0.3;
+        }
+        for (var u7S = +"2"; u7S < w1l.length - 2; u7S++) {
+          if (w1l[u7S]) {
+            K0c = "l";
+            K0c += "ow";
+            g8X = "Fra";
+            g8X += "ctal";
+            g8X += " ";
+            g8X += "Low ";
+            V26 = "h";
+            V26 += "i";
+            V26 += "g";
+            V26 += "h";
+            if (w1l[u7S]["Fractal High " + k5N.name]) {
+              K_L(V26, u7S);
+            }
+            if (w1l[u7S][g8X + k5N.name]) {
+              K_L(K0c, u7S);
+            }
+          }
+        }
+        n9b.endClip();
+      }
+      function K_L(Y55, k7u) {
+        var x_6, q9f, D9w, s6L, V46, O71, c82, I7X;
+        x_6 = "s";
+        x_6 += "tretch";
+        q9f = 0;
+        if (n9b.cleanupGaps === x_6) {
+          while (w1l[q9f + 1]) {
+            f77.K2h(81);
+            D9w = w1l[f77.F4O(q9f, "1")]["Lips " + k5N.name];
+            if (D9w || D9w === 0 || w1l[q9f + 1].futureTick) break;
+            q9f++;
+          }
+        }
+        V46 = n9d.panel.yAxis.flipped;
+        if (Y55 == "high") {
+          O71 = "bo";
+          O71 += "tt";
+          O71 += "om";
+          c82 = "t";
+          c82 += "o";
+          c82 += "p";
+          o4x.fillStyle = n9b.defaultColor;
+          o4x.textBaseline = V46 ? c82 : O71;
+          s6L = n9b.pixelFromPrice(
+            w1l[k7u][
+              n9d.highLowBars ? "High" : n9d.defaultPlotField || "Close"
+            ],
+          );
+          o4x.fillText(
+            V46
+              ? "\u25BC"
+              : 5055 <= 52.2
+                ? 3881 < 717.16
+                  ? ("r", !!"1")
+                  : 592.98 < ("7895" * 1, 132.99)
+                    ? (!![], 2.23e3)
+                    : 941.89
+                : "\u25B2",
+            n9b.pixelFromBar(k7u + q9f / 2, n9d) -
+              o4x.measureText(578 === 2180 ? (1.04e3, 0x6f1) : "\u25B2").width /
+                +"2" +
+              1,
+            V46 ? s6L + ("5" >> 64) : s6L - 5,
+          );
+        } else if (Y55 == "low") {
+          I7X = "bot";
+          I7X += "t";
+          I7X += "o";
+          I7X += "m";
+          o4x.fillStyle = n9b.defaultColor;
+          o4x.textBaseline = V46 ? I7X : "top";
+          s6L = n9b.pixelFromPrice(
+            w1l[k7u][n9d.highLowBars ? "Low" : n9d.defaultPlotField || "Close"],
+          );
+          o4x.fillText(
+            V46
+              ? (2500, 2380) != (+"6842", +"9757")
+                ? "\u25B2"
+                : (7795, 109.43) < "1330" << 64
+                  ? ("o", 3.59e3)
+                  : "F"
+              : 7330 == 1700
+                ? 1557 < 1847
+                  ? (581, +"753.62") >= 209.85
+                    ? (6.9e3, 7.68e3)
+                    : ("k", 2.92e3)
+                  : 6.72e3
+                : "\u25BC",
+            n9b.pixelFromBar(k7u + q9f / ("2" ^ 0), n9d) -
+              o4x.measureText("\u25BC").width / +"2" +
+              1,
+            V46 ? s6L - 5 : s6L + 5,
+          );
+        }
+      }
+    };
+    u9d.Studies.displayGator = function (N9e, l9b, W0$) {
+      var i$5, d5Y, q88, z3e, J_d, e28, T8$, v6a, W8c, T_T, X5Q, Y22, R9G, U7n;
+      i$5 = "st";
+      i$5 += "x_histogram";
+      d5Y = N9e.panels[l9b.panel];
+      q88 = l9b.getContext(N9e);
+      f77.p24();
+      z3e = l9b.getYAxis(N9e);
+      J_d = N9e.pixelFromPrice(+"0", d5Y, z3e);
+      f77.V84(16);
+      var v3T = f77.o6M(1, 19, 20);
+      e28 = N9e.layout.candleWidth - v3T;
+      if (e28 < 2) {
+        e28 = 1;
+      }
+      T8$ = u9d.Studies.determineColor(l9b.outputs["Increasing Bar"]);
+      v6a = u9d.Studies.determineColor(l9b.outputs["Decreasing Bar"]);
+      N9e.canvasColor(i$5);
+      if (!l9b.underlay) {
+        q88.globalAlpha = +"1";
+      }
+      q88.fillStyle = "#CCCCCC";
+      N9e.startClip(l9b.panel);
+      if (!l9b.highlight && N9e.highlightedDraggable) {
+        q88.globalAlpha *= 0.3;
+      }
+      for (var v4M = 0; v4M < W0$.length; v4M++) {
+        W8c = "stretc";
+        W8c += "h";
+        T_T = 0;
+        X5Q = W0$[v4M];
+        f77.K2h(4);
+        Y22 = W0$[f77.o6M(v4M, 1)];
+        if (!X5Q) continue;
+        if (N9e.cleanupGaps === W8c) {
+          while (W0$[v4M + 1]) {
+            f77.V84(1);
+            R9G = W0$[f77.F4O(v4M, 1)][l9b.name + "_hist1"];
+            if (R9G || R9G === 0 || W0$[v4M + +"1"].futureTick) break;
+            T_T++;
+            v4M++;
+          }
+        }
+        for (var T9N = 1; T9N <= ("2" ^ 0); T9N++) {
+          U7n = "_";
+          U7n += "h";
+          U7n += "is";
+          U7n += "t";
+          if (!Y22 || Y22[l9b.name + "_hist" + T9N] === undefined) {
+            Y22 = N9e.getPreviousBar(
+              N9e.chart,
+              l9b.name + "_hist" + T9N,
+              v4M - T_T,
+            );
+          }
+          if (!Y22) {
+            q88.fillStyle = "#CCCCCC";
+          } else if (
+            Math.abs(Y22[l9b.name + "_hist" + T9N]) <
+            Math.abs(X5Q[l9b.name + "_hist" + T9N])
+          ) {
+            q88.fillStyle = T8$;
+          } else if (
+            Math.abs(Y22[l9b.name + "_hist" + T9N]) >
+            Math.abs(X5Q[l9b.name + U7n + T9N])
+          ) {
+            q88.fillStyle = v6a;
+          }
+          if (X5Q.candleWidth) {
+            e28 = Math.floor(Math.max(1, X5Q.candleWidth - +"2"));
+          }
+          q88.fillRect(
+            Math.floor(N9e.pixelFromBar(v4M - T_T, d5Y.chart) - e28 / 2),
+            Math.floor(J_d),
+            Math.floor(e28 + T_T * N9e.layout.candleWidth),
+            Math.floor(
+              N9e.pixelFromPrice(X5Q[l9b.name + "_hist" + T9N], d5Y, z3e) - J_d,
+            ),
+          );
+        }
+      }
+      N9e.endClip();
+    };
+    u9d.Studies.studyLibrary = u9d.extend(u9d.Studies.studyLibrary, {
+      Alligator: {
+        name: "Alligator",
+        overlay: !0,
+        seriesFN: u9d.Studies.displayAlligator,
+        calculateFN: u9d.Studies.calculateAlligator,
+        inputs: {
+          "Show Lines": !"",
+          "Jaw Period": 13,
+          "Jaw Offset": 8,
+          "Teeth Period": +"8",
+          "Teeth Offset": 5,
+          "Lips Period": 5,
+          "Lips Offset": 3,
+          "Show Fractals": !!"",
+        },
+        outputs: { Jaw: "#0000FF", Teeth: "#FF0000", Lips: "#00DD00" },
+      },
+      Gator: {
+        name: "Gator Oscillator",
+        seriesFN: u9d.Studies.displayGator,
+        calculateFN: u9d.Studies.calculateAlligator,
+        inputs: {
+          "Jaw Period": 13,
+          "Jaw Offset": "8" | 0,
+          "Teeth Period": 8,
+          "Teeth Offset": 5,
+          "Lips Period": 5,
+          "Lips Offset": 3,
+        },
+        outputs: { "Increasing Bar": D_3, "Decreasing Bar": "#FF0000" },
+        centerline: 0,
+      },
+    });
+  }
+};
+b7 = (S3f) => {
+  var m5h = u7J6i;
+  var y99, t17, Z_t, t8g, T8l, j86;
+  y99 = typeof _CIQ !== "undefined" ? _CIQ : S3f.CIQ;
+  m5h.p24();
+  if (!y99.Studies) {
+    console.error("aroon feature requires first activating studies feature.");
+  } else {
+    y99.Studies.calculateAroon = function (W_B, S$x) {
+      var Y27, v2q, D74, i4W, u$t, a3R, r6k, Y1d, l6g, b_A, T$Z, i6g, B2Y, O_N;
+      Y27 = S$x.chart.scrubbed;
+      if (Y27.length < S$x.days + 1) {
+        S$x.error = !!{};
+        return;
+      }
+      v2q = 0;
+      D74 = 0;
+      i4W = null;
+      u$t = null;
+      if (S$x.startFrom > 0) {
+        m5h.V84(132);
+        var Z5w = m5h.F4O(2, 16, 39, 17, 9);
+        a3R = Y27[S$x.startFrom - Z5w]["_state " + S$x.name];
+        if (a3R) {
+          v2q = a3R[0];
+          D74 = a3R[1];
+          i4W = a3R[2];
+          u$t = a3R[3];
+        }
+      }
+      for (var W0v = S$x.startFrom; W0v < Y27.length; W0v++) {
+        Y1d = "Aroon U";
+        Y1d += "p ";
+        l6g = "Ar";
+        l6g += "o";
+        l6g += "on O";
+        l6g += "scillator ";
+        b_A = Y27[W0v];
+        if (b_A.futureTick) break;
+        if (i4W === null) {
+          i4W = b_A.High;
+        }
+        if (u$t === null) {
+          u$t = b_A.Low;
+        }
+        i4W = Math.max(i4W, b_A.High);
+        if (i4W == b_A.High) {
+          v2q = 0;
+        } else {
+          v2q++;
+          if (v2q > S$x.days) {
+            i4W = b_A.High;
+            v2q = 0;
+            for (r6k = 1; r6k <= S$x.days; r6k++) {
+              i4W = Math.max(i4W, Y27[W0v - r6k].High);
+              if (i4W == Y27[W0v - r6k].High) {
+                v2q = r6k;
+              }
+            }
+          }
+        }
+        u$t = Math.min(u$t, b_A.Low);
+        if (u$t == b_A.Low) {
+          D74 = +"0";
+        } else {
+          D74++;
+          if (D74 > S$x.days) {
+            u$t = b_A.Low;
+            D74 = +"0";
+            for (r6k = 1; r6k <= S$x.days; r6k++) {
+              u$t = Math.min(u$t, Y27[W0v - r6k].Low);
+              if (u$t == Y27[W0v - r6k].Low) {
+                D74 = r6k;
+              }
+            }
+          }
+        }
+        T$Z = !isNaN(b_A.High);
+        i6g = !isNaN(b_A.Low);
+        m5h.K2h(4);
+        var K6t = m5h.o6M(104, 4);
+        m5h.V84(1);
+        var p78 = m5h.o6M(0, 1);
+        B2Y = K6t * (p78 - v2q / S$x.days);
+        if (T$Z) {
+          b_A["Aroon Up " + S$x.name] = B2Y;
+        }
+        m5h.V84(133);
+        var r7P = m5h.o6M(112, 17, 2, 12, 5);
+        m5h.K2h(134);
+        var c_Q = m5h.o6M(0, 17, 17, 0, 1);
+        O_N = r7P * (c_Q - D74 / S$x.days);
+        if (i6g) {
+          b_A["Aroon Down " + S$x.name] = O_N;
+        }
+        if (T$Z && i6g) {
+          b_A[l6g + S$x.name] =
+            b_A[Y1d + S$x.name] - b_A["Aroon Down " + S$x.name];
+        }
+        b_A["_state " + S$x.name] = [v2q, D74, i4W, u$t];
+      }
+    };
+    t17 = +"1793958409";
+    Z_t = -1683809861;
+    t8g = 2;
+    for (
+      var q2D = 1;
+      m5h.S6r(q2D.toString(), q2D.toString().length, 22603) !== t17;
+      q2D++
+    ) {
+      T8l = "a";
+      T8l += "uto";
+      j86 = "0 to";
+      j86 += " 1";
+      j86 += "0";
+      j86 += "0";
+      y99.Studies.studyLibrary = y99.extend(y99.Studies.studyLibrary, {
+        Aroon: {
+          name: "Aroon",
+          range: j86,
+          calculateFN: y99.Studies.calculateAroon,
+          outputs: { "Aroon Up": "#00DD00", "Aroon Down": "#FF0000" },
+        },
+        "Aroon Osc": {
+          name: "Aroon Oscillator",
+          calculateFN: y99.Studies.calculateAroon,
+          outputs: { "Aroon Oscillator": T8l },
+        },
+      });
+      t8g += 2;
+    }
+    if (m5h.S6r(t8g.toString(), t8g.toString().length, 10402) !== Z_t) {
+      y99.Studies.studyLibrary = y99.extend(y99.Studies.studyLibrary, {
+        Aroon: {
+          name: "#FF0000",
+          range: "Aroon Oscillator",
+          calculateFN: y99.Studies.calculateAroon,
+          outputs: {
+            "Aroon Up": "Aroon Oscillator",
+            "Aroon Down": "Aroon Oscillator",
+          },
+        },
+        "Aroon Osc": {
+          name: "Aroon Oscillator",
+          calculateFN: y99.Studies.calculateAroon,
+          outputs: { "Aroon Oscillator": "Aroon Down" },
+        },
+      });
+    }
+  }
+};
+O9 = (y$h) => {
+  var p8c, I0r, j1J, X$u;
+  p8c = typeof _CIQ !== "undefined" ? _CIQ : y$h.CIQ;
+  if (!p8c.Studies) {
+    console.error("atr feature requires first activating studies feature.");
+  } else {
+    I0r = "au";
+    I0r += "to";
+    j1J = "S";
+    j1J += "TARC";
+    j1J += " Bands";
+    X$u = "f";
+    X$u += "i";
+    X$u += "el";
+    X$u += "d";
+    p8c.Studies.calculateATRBands = function (U00, N13) {
+      var U57, o3z;
+      U57 = "ATR";
+      U57 += " ";
+      p8c.Studies.calculateStudyATR(U00, N13);
+      o3z = N13.inputs.Field;
+      if (!o3z || o3z == "field") {
+        o3z = "Close";
+      }
+      p8c.Studies.calculateGenericEnvelope(
+        U00,
+        N13,
+        N13.inputs.Shift,
+        o3z,
+        U57 + N13.name,
+      );
+    };
+    p8c.Studies.calculateSTARCBands = function (Z4l, A8S) {
+      var g2X;
+      g2X = "_M";
+      g2X += "A";
+      g2X += " ";
+      p8c.Studies.calculateStudyATR(Z4l, A8S);
+      u7J6i.R4I();
+      p8c.Studies.MA(
+        "simple",
+        A8S.inputs["MA Period"],
+        "Close",
+        "0" | 0,
+        "_MA",
+        Z4l,
+        A8S,
+      );
+      p8c.Studies.calculateGenericEnvelope(
+        Z4l,
+        A8S,
+        A8S.inputs.Multiplier,
+        g2X + A8S.name,
+        "ATR " + A8S.name,
+      );
+    };
+    p8c.Studies.calculateATRStops = function (W40, P8g) {
+      var y5d = u7J6i;
+      var d6c,
+        R8T,
+        f3d,
+        K83,
+        R2Q,
+        U$k,
+        J7y,
+        B25,
+        S6X,
+        u5k,
+        O2P,
+        b3F,
+        I51,
+        V50,
+        E5g,
+        I7W,
+        i8s,
+        m9M;
+      y5d.R4I();
+      d6c = P8g.chart.scrubbed;
+      if (!d6c) {
+        return;
+      }
+      p8c.Studies.calculateStudyATR(W40, P8g);
+      R8T = P8g.inputs.HighLow;
+      for (
+        var J3q = Math.max(P8g.startFrom - 1, "1" - 0);
+        J3q < d6c.length - 1;
+        J3q++
+      ) {
+        f3d = "All";
+        f3d += " Stops ";
+        K83 = "A";
+        K83 += "T";
+        K83 += "R";
+        K83 += " ";
+        R2Q = "Se";
+        R2Q += "ll Sto";
+        R2Q += "ps ";
+        U$k = d6c[J3q];
+        y5d.V84(4);
+        J7y = d6c[y5d.o6M(J3q, 1)];
+        B25 = U$k["Buy Stops " + P8g.name];
+        if (!B25) {
+          B25 = U$k[R2Q + P8g.name];
+        }
+        if (!B25) {
+          B25 = +"0";
+        }
+        if (!U$k || !J7y) continue;
+        S6X = U$k.Close;
+        u5k = S6X;
+        O2P = U$k[K83 + P8g.name] * P8g.inputs.Multiplier;
+        if (U$k.Close > B25 && J7y.Close > B25) {
+          if (R8T) {
+            S6X = U$k.High;
+          }
+          y5d.K2h(4);
+          u5k = Math.max(B25, y5d.o6M(S6X, O2P));
+        } else if (U$k.Close <= B25 && J7y.Close <= B25) {
+          if (R8T) {
+            S6X = U$k.Low;
+          }
+          y5d.V84(1);
+          u5k = Math.min(B25, y5d.o6M(S6X, O2P));
+        } else if (U$k.Close > B25) {
+          if (R8T) {
+            S6X = U$k.High;
+          }
+          y5d.K2h(4);
+          u5k = y5d.o6M(S6X, O2P);
+        } else if (U$k.Close <= B25) {
+          if (R8T) {
+            S6X = U$k.Low;
+          }
+          y5d.V84(1);
+          u5k = y5d.F4O(S6X, O2P);
+        }
+        if (S6X <= u5k) {
+          b3F = "Sell Stops";
+          b3F += " ";
+          y5d.V84(1);
+          d6c[y5d.o6M(J3q, 1)]["Buy Stops " + P8g.name] = u5k;
+          y5d.K2h(1);
+          delete d6c[y5d.o6M(J3q, 1)][b3F + P8g.name];
+        } else if (S6X > u5k) {
+          I51 = "Sell";
+          I51 += " St";
+          I51 += "ops ";
+          y5d.V84(1);
+          d6c[y5d.o6M(J3q, 1)][I51 + P8g.name] = u5k;
+          y5d.V84(135);
+          delete d6c[y5d.F4O("1", 0, J3q)]["Buy Stops " + P8g.name];
+        }
+        y5d.K2h(1);
+        d6c[y5d.o6M(J3q, 1)][f3d + P8g.name] = u5k;
+      }
+      V50 = 1064622520;
+      E5g = -501950551;
+      y5d.V84(7);
+      I7W = y5d.F4O(0, "2");
+      for (
+        var X3A = 1;
+        y5d.S6r(X3A.toString(), X3A.toString().length, 63966) !== V50;
+        X3A++
+      ) {
+        i8s = "Al";
+        i8s += "l ";
+        i8s += "Stop";
+        i8s += "s ";
+        m9M = "Al";
+        m9M += "l Sto";
+        m9M += "ps";
+        P8g.referenceOutput = m9M;
+        P8g.outputMap = {};
+        P8g.outputMap[i8s + P8g.name] = "";
+        I7W += 2;
+      }
+      if (y5d.o0D(I7W.toString(), I7W.toString().length, +"30482") !== E5g) {
+        P8g.referenceOutput = "";
+        P8g.outputMap = {};
+        P8g.outputMap["" % P8g.name] = "";
+      }
+    };
+    p8c.Studies.studyLibrary = p8c.extend(p8c.Studies.studyLibrary, {
+      ATR: {
+        name: "Average True Range",
+        calculateFN: p8c.Studies.calculateStudyATR,
+        outputs: { ATR: "auto" },
+      },
+      "ATR Bands": {
+        name: "ATR Bands",
+        overlay: !!"1",
+        seriesFN: p8c.Studies.displayChannel,
+        calculateFN: p8c.Studies.calculateATRBands,
+        inputs: { Period: 5, Field: X$u, Shift: "3" - 0, "Channel Fill": !!1 },
+        outputs: {
+          "ATR Bands Top": "auto",
+          "ATR Bands Bottom": "auto",
+          "ATR Bands Channel": "auto",
+        },
+        attributes: { Shift: { min: 0.1, step: "0.1" - 0 } },
+      },
+      "STARC Bands": {
+        name: j1J,
+        overlay: !"",
+        seriesFN: p8c.Studies.displayChannel,
+        calculateFN: p8c.Studies.calculateSTARCBands,
+        inputs: {
+          Period: 15,
+          "MA Period": +"5",
+          Multiplier: 1.3,
+          "Channel Fill": !"",
+        },
+        outputs: {
+          "STARC Bands Top": "auto",
+          "STARC Bands Median": "auto",
+          "STARC Bands Bottom": I0r,
+        },
+        attributes: { Multiplier: { min: 0.1, step: 0.1 } },
+      },
+      "ATR Trailing Stop": {
+        name: "ATR Trailing Stops",
+        overlay: !!{},
+        seriesFN: p8c.Studies.displayPSAR2,
+        calculateFN: p8c.Studies.calculateATRStops,
+        inputs: {
+          Period: 21,
+          Multiplier: "3" - 0,
+          "Plot Type": ["points", "squarewave"],
+          HighLow: ![],
+        },
+        outputs: { "Buy Stops": "#FF0000", "Sell Stops": "#00FF00" },
+        attributes: { Multiplier: { min: 0.1, step: 0.1 } },
+      },
+    });
+  }
+};
+N8 = (C6h) => {
+  var K_2, k2K;
+  K_2 = typeof _CIQ !== "undefined" ? _CIQ : C6h.CIQ;
+  if (!K_2.Studies) {
+    console.error(
+      "awesomeOscillator feature requires first activating studies feature.",
+    );
+  } else {
+    k2K = "#FF00";
+    k2K += "00";
+    K_2.Studies.calculateAwesomeOscillator = function (M5g, G4M) {
+      var i8O, i9a;
+      i8O = G4M.chart.scrubbed;
+      if (i8O.length < 33) {
+        G4M.error = !0;
+        return;
+      }
+      K_2.Studies.MA("simple", +"5", "hl/2", 0, "_MA5", M5g, G4M);
+      K_2.Studies.MA("simple", 34, "hl/2", +"0", "_MA34", M5g, G4M);
+      for (var f9S = Math.max(G4M.startFrom, 33); f9S < i8O.length; f9S++) {
+        i9a = "_";
+        i9a += "M";
+        i9a += "A34";
+        i9a += " ";
+        if (!i8O[f9S]) continue;
+        i8O[f9S][G4M.name + "_hist"] =
+          i8O[f9S]["_MA5 " + G4M.name] - i8O[f9S][i9a + G4M.name];
+      }
+      G4M.outputMap = {};
+      G4M.outputMap[G4M.name + "_hist"] = "";
+    };
+    K_2.Studies.displayAwesomeOscillator = function (Y61, h0d, P20) {
+      var T4H = u7J6i;
+      var q0E,
+        i6e,
+        y4r,
+        g_n,
+        J$F,
+        t97,
+        f4e,
+        H8m,
+        G0U,
+        S_A,
+        F$d,
+        N1B,
+        C9F,
+        o$j,
+        V9T,
+        e1w;
+      q0E = "stx";
+      q0E += "_his";
+      q0E += "togram";
+      i6e = "Increas";
+      i6e += "ing";
+      i6e += " B";
+      i6e += "ar";
+      y4r = Y61.panels[h0d.panel];
+      g_n = h0d.getContext(Y61);
+      J$F = h0d.getYAxis(Y61);
+      t97 = Y61.pixelFromPrice(+"0", y4r, J$F);
+      T4H.K2h(2);
+      var V7c = T4H.o6M(3, 11, 4, 1);
+      f4e = Y61.layout.candleWidth - "2" * V7c;
+      if (f4e < 2) {
+        f4e = +"1";
+      }
+      H8m = K_2.Studies.determineColor(h0d.outputs[i6e]);
+      G0U = K_2.Studies.determineColor(h0d.outputs["Decreasing Bar"]);
+      Y61.canvasColor(q0E);
+      if (!h0d.underlay) {
+        g_n.globalAlpha = 1;
+      }
+      g_n.fillStyle = "#CCCCCC";
+      Y61.startClip(h0d.panel);
+      if (!h0d.highlight && Y61.highlightedDraggable) {
+        g_n.globalAlpha *= 0.3;
+      }
+      for (var f2O = 0; f2O < P20.length; f2O++) {
+        S_A = "_h";
+        S_A += "i";
+        S_A += "s";
+        S_A += "t";
+        F$d = "_his";
+        F$d += "t";
+        N1B = "_his";
+        N1B += "t";
+        T4H.V84(3);
+        C9F = T4H.o6M("0", 1);
+        o$j = P20[f2O];
+        T4H.V84(95);
+        V9T = P20[T4H.o6M(f2O, "1")];
+        if (!V9T) {
+          V9T = Y61.getPreviousBar(Y61.chart, h0d.name + "_hist", f2O);
+        }
+        if (!o$j) continue;
+        if (Y61.cleanupGaps === "stretch") {
+          while (P20[f2O + 1]) {
+            T4H.K2h(1);
+            e1w = P20[T4H.o6M(f2O, 1)][h0d.name + "_hist"];
+            if (e1w || e1w === 0 || P20[f2O + 1].futureTick) break;
+            C9F++;
+            f2O++;
+          }
+        }
+        if (!V9T || V9T[h0d.name + N1B] === undefined) {
+          V9T = Y61.getPreviousBar(Y61.chart, h0d.name + F$d, f2O - C9F);
+        }
+        if (!V9T);
+        else if (V9T[h0d.name + S_A] < o$j[h0d.name + "_hist"]) {
+          g_n.fillStyle = H8m;
+        } else if (V9T[h0d.name + "_hist"] > o$j[h0d.name + "_hist"]) {
+          g_n.fillStyle = G0U;
+        }
+        if (o$j.candleWidth) {
+          f4e = Math.floor(Math.max(1, o$j.candleWidth - +"2"));
+        }
+        g_n.fillRect(
+          Math.floor(Y61.pixelFromBar(f2O - C9F, y4r.chart) - f4e / ("2" * 1)),
+          Math.floor(t97),
+          Math.floor(f4e + C9F * Y61.layout.candleWidth),
+          Math.floor(
+            Y61.pixelFromPrice(o$j[h0d.name + "_hist"], y4r, J$F) - t97,
+          ),
+        );
+      }
+      Y61.endClip();
+    };
+    K_2.Studies.studyLibrary = K_2.extend(K_2.Studies.studyLibrary, {
+      Awesome: {
+        name: "Awesome Oscillator",
+        seriesFN: K_2.Studies.displayAwesomeOscillator,
+        calculateFN: K_2.Studies.calculateAwesomeOscillator,
+        inputs: {},
+        outputs: { "Increasing Bar": "#00DD00", "Decreasing Bar": k2K },
+      },
+    });
+  }
+};
+X2 = (F$T) => {
+  var G5W, R7L, M88;
+  G5W = typeof _CIQ !== "undefined" ? _CIQ : F$T.CIQ;
+  if (!G5W.Studies) {
+    console.error(
+      "balanceOfPower feature requires first activating studies feature.",
+    );
+  } else {
+    R7L = "m";
+    R7L += "a";
+    M88 = "Balance";
+    M88 += " of";
+    M88 += " Power";
+    G5W.Studies.calculateBalanceOfPower = function (b0H, J3_) {
+      var g9d, h6Y;
+      g9d = J3_.chart.scrubbed;
+      if (g9d.length < J3_.days + +"1") {
+        J3_.error = !!1;
+        return;
+      }
+      for (var D8G = J3_.startFrom; D8G < g9d.length; D8G++) {
+        h6Y = g9d[D8G];
+        h6Y["_Ratio " + J3_.name] = h6Y.Close - h6Y.Open;
+        if (h6Y.High - h6Y.Low !== 0) {
+          h6Y["_Ratio " + J3_.name] /= h6Y.High - h6Y.Low;
+        }
+      }
+      G5W.Studies.MA(
+        J3_.inputs["Moving Average Type"],
+        J3_.days,
+        "_Ratio " + J3_.name,
+        0,
+        "Result",
+        b0H,
+        J3_,
+      );
+    };
+    G5W.Studies.studyLibrary = G5W.extend(G5W.Studies.studyLibrary, {
+      "Bal Pwr": {
+        name: M88,
+        range: "-1 to 1",
+        centerline: "0" >> 64,
+        calculateFN: G5W.Studies.calculateBalanceOfPower,
+        inputs: { Period: 14, "Moving Average Type": R7L },
+      },
+    });
+  }
+};
+j9 = (R$C) => {
+  var y20, U2g, e53, K5V, r6g, g4g, r8y;
+  y20 = "un";
+  y20 += "def";
+  y20 += "ine";
+  y20 += "d";
+  U2g = typeof _CIQ !== y20 ? _CIQ : R$C.CIQ;
+  if (!U2g.Studies) {
+    console.error(
+      "bollinger feature requires first activating studies feature.",
+    );
+  } else {
+    e53 = "Bolling";
+    e53 += "er";
+    e53 += " Bandwidth";
+    K5V = "au";
+    K5V += "t";
+    K5V += "o";
+    r6g = "a";
+    r6g += "u";
+    r6g += "t";
+    r6g += "o";
+    g4g = "a";
+    g4g += "uto";
+    r8y = "au";
+    r8y += "t";
+    r8y += "o";
+    U2g.Studies.calculateBollinger = function (w9n, R8d) {
+      var O$J, S1b, I4W, Q3W, h7i;
+      O$J = "%";
+      O$J += "b";
+      S1b = "_ST";
+      S1b += "D Dev";
+      S1b += " ";
+      I4W = "Moving Average Typ";
+      I4W += "e";
+      Q3W = "S";
+      Q3W += "TD ";
+      Q3W += "D";
+      Q3W += "ev";
+      h7i = R8d.inputs.Field;
+      if (!h7i || h7i == "field") {
+        h7i = "Close";
+      }
+      U2g.Studies.MA(
+        R8d.inputs["Moving Average Type"],
+        R8d.days,
+        h7i,
+        0,
+        "_MA",
+        w9n,
+        R8d,
+      );
+      R8d.std = new U2g.Studies.StudyDescriptor(R8d.name, Q3W, R8d.panel);
+      R8d.std.chart = R8d.chart;
+      R8d.std.startFrom = R8d.startFrom;
+      R8d.std.days = R8d.days;
+      R8d.std.inputs = {
+        Field: h7i,
+        "Standard Deviations": 1,
+        Type: R8d.inputs[I4W],
+      };
+      R8d.std.outputs = { "_STD Dev": null };
+      U2g.Studies.calculateStandardDeviation(w9n, R8d.std);
+      U2g.Studies.calculateGenericEnvelope(
+        w9n,
+        R8d,
+        R8d.inputs["Standard Deviations"],
+        "_MA " + R8d.name,
+        S1b + R8d.name,
+      );
+      if (R8d.type == "Boll %b") {
+        R8d.zoneOutput = O$J;
+      }
+    };
+    U2g.Studies.studyLibrary = U2g.extend(U2g.Studies.studyLibrary, {
+      "Bollinger Bands": {
+        name: "Bollinger Bands",
+        overlay: !![],
+        calculateFN: U2g.Studies.calculateBollinger,
+        seriesFN: U2g.Studies.displayChannel,
+        inputs: {
+          Period: 20,
+          Field: "field",
+          "Standard Deviations": 2,
+          "Moving Average Type": "ma",
+          "Channel Fill": !!"1",
+        },
+        outputs: {
+          "Bollinger Bands Top": "auto",
+          "Bollinger Bands Median": r8y,
+          "Bollinger Bands Bottom": g4g,
+        },
+        attributes: { "Standard Deviations": { min: 0.1, step: +"0.1" } },
+      },
+      "Boll %b": {
+        name: "Bollinger %b",
+        calculateFN: U2g.Studies.calculateBollinger,
+        inputs: {
+          Period: "20" | 16,
+          Field: "field",
+          "Standard Deviations": 2,
+          "Moving Average Type": "ma",
+        },
+        outputs: { "%b": "auto" },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: +"100",
+            studyOverBoughtColor: r6g,
+            studyOverSoldValue: 0,
+            studyOverSoldColor: K5V,
+          },
+        },
+        attributes: { "Standard Deviations": { min: 0.1, step: 0.1 } },
+      },
+      "Boll BW": {
+        name: e53,
+        calculateFN: U2g.Studies.calculateBollinger,
+        inputs: {
+          Period: 20,
+          Field: "field",
+          "Standard Deviations": 2,
+          "Moving Average Type": "ma",
+        },
+        outputs: { Bandwidth: "auto" },
+        attributes: {
+          "Standard Deviations": { min: "0.1" * 1, step: "0.1" - 0 },
+        },
+      },
+    });
+  }
+};
+o_ = (b7v) => {
+  var C4I;
+  C4I = typeof _CIQ !== "undefined" ? _CIQ : b7v.CIQ;
+  if (!C4I.Studies) {
+    console.error("cci feature requires first activating studies feature.");
+  } else {
+    C4I.Studies.calculateCCI = function (j_V, R4w) {
+      var s93, z7j, S30, T3V, e14, f$6, L5a, B_U;
+      s93 = "hl";
+      s93 += "c";
+      s93 += "/";
+      s93 += "3";
+      z7j = R4w.chart.scrubbed;
+      if (z7j.length < R4w.days + 1) {
+        R4w.error = !0;
+        return;
+      }
+      C4I.Studies.MA("simple", R4w.days, s93, 0, "MA", j_V, R4w);
+      for (
+        var F64 = Math.max(R4w.startFrom, R4w.days - ("1" >> 0));
+        F64 < z7j.length;
+        F64++
+      ) {
+        S30 = "M";
+        S30 += "A";
+        S30 += " ";
+        T3V = "Re";
+        T3V += "sult";
+        T3V += " ";
+        e14 = z7j[F64];
+        if (!e14) continue;
+        f$6 = 0;
+        for (var I27 = +"0"; I27 < R4w.days; I27++) {
+          L5a = "M";
+          L5a += "A";
+          L5a += " ";
+          B_U = "h";
+          B_U += "lc/";
+          B_U += "3";
+          f$6 += Math.abs(z7j[F64 - I27][B_U] - e14[L5a + R4w.name]);
+        }
+        f$6 /= R4w.days;
+        if (Math.abs(f$6) < +"0.00000001") {
+          e14[T3V + R4w.name] = 0;
+        } else {
+          e14["Result " + R4w.name] =
+            (e14["hlc/3"] - e14[S30 + R4w.name]) / (0.015 * f$6);
+        }
+      }
+    };
+    C4I.Studies.studyLibrary = C4I.extend(C4I.Studies.studyLibrary, {
+      CCI: {
+        name: "Commodity Channel Index",
+        calculateFN: C4I.Studies.calculateCCI,
+        inputs: { Period: 20 },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !"",
+            studyOverBoughtValue: 100,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: -100,
+            studyOverSoldColor: "auto",
+          },
+        },
+        attributes: { Period: { min: +"2" } },
+      },
+    });
+  }
+};
+o2 = (j7p) => {
+  var C9P;
+  C9P = typeof _CIQ !== "undefined" ? _CIQ : j7p.CIQ;
+  if (!C9P.Studies) {
+    console.error(
+      "centerOfGravity feature requires first activating studies feature.",
+    );
+  } else {
+    C9P.Studies.calculateCenterOfGravity = function (f$m, W74) {
+      var F0e = u7J6i;
+      var H5$, i0B, x0T, F8e, T$g, t4E;
+      H5$ = "C";
+      H5$ += "lo";
+      H5$ += "se";
+      i0B = W74.chart.scrubbed;
+      if (i0B.length < W74.days) {
+        W74.error = !!1;
+        return;
+      }
+      F0e.R4I();
+      x0T = W74.inputs.Field;
+      if (!x0T || x0T == "field") {
+        x0T = H5$;
+      }
+      for (
+        var F67 = Math.max(W74.startFrom, W74.days - 1);
+        F67 < i0B.length;
+        F67++
+      ) {
+        F8e = 0;
+        T$g = 0;
+        for (var T7C = 0; T7C < W74.days; T7C++) {
+          t4E = C9P.Studies.getQuoteFieldValue(i0B[F67 - T7C], x0T);
+          F0e.K2h(136);
+          F8e -= F0e.o6M(t4E, T7C, 1);
+          T$g += t4E;
+        }
+        if (T$g) {
+          F0e.V84(12);
+          i0B[F67]["Center of Gravity " + W74.name] = F0e.F4O(T$g, F8e);
+        }
+      }
+      C9P.Studies.MA(
+        "sma",
+        3,
+        "Center of Gravity " + W74.name,
+        0,
+        "Signal",
+        f$m,
+        W74,
+      );
+    };
+    C9P.Studies.studyLibrary = C9P.extend(C9P.Studies.studyLibrary, {
+      COG: {
+        name: "Center Of Gravity",
+        calculateFN: C9P.Studies.calculateCenterOfGravity,
+        inputs: { Period: 10, Field: "field" },
+        outputs: { "Center of Gravity": "auto", Signal: "red" },
+      },
+    });
+  }
+};
+l9 = (d7H) => {
+  var C3T, r8O, B43;
+  C3T = typeof _CIQ !== "undefined" ? _CIQ : d7H.CIQ;
+  if (!C3T.Studies) {
+    console.error("chaikin feature requires first activating studies feature.");
+  } else {
+    r8O = "Ch";
+    r8O += "aikin Volat";
+    r8O += "ility";
+    B43 = "Chaikin Mone";
+    B43 += "y F";
+    B43 += "low";
+    C3T.Studies.calculateChaikinMoneyFlow = function (C5T, Y0b) {
+      var E$Y = u7J6i;
+      var T$z, l6q, o0i, Z$j, b_1, n$X, D1C, M9$;
+      T$z = Y0b.chart.scrubbed;
+      E$Y.R4I();
+      if (T$z.length < Y0b.days) {
+        Y0b.error = !0;
+        return;
+      }
+      l6q = 0;
+      o0i = 0;
+      E$Y.K2h(71);
+      var K72 = E$Y.o6M(2, 5, 1, 18, 24);
+      Z$j = T$z[Y0b.startFrom - K72];
+      if (Z$j) {
+        b_1 = "_su";
+        b_1 += "mV ";
+        n$X = "_su";
+        n$X += "mMF";
+        n$X += " ";
+        if (Z$j[n$X + Y0b.name]) {
+          l6q = Z$j["_sumMF " + Y0b.name];
+        }
+        if (Z$j[b_1 + Y0b.name]) {
+          o0i = Z$j["_sumV " + Y0b.name];
+        }
+      }
+      for (var k52 = Y0b.startFrom; k52 < T$z.length; k52++) {
+        D1C = "_M";
+        D1C += "FV ";
+        if (T$z[k52].High == T$z[k52].Low) {
+          T$z[k52]["_MFV " + Y0b.name] = 0;
+        } else {
+          T$z[k52]["_MFV " + Y0b.name] =
+            (T$z[k52].Volume *
+              (("2" << 0) * T$z[k52].Close - T$z[k52].High - T$z[k52].Low)) /
+            (T$z[k52].High - T$z[k52].Low);
+        }
+        l6q += T$z[k52][D1C + Y0b.name];
+        o0i += T$z[k52].Volume;
+        if (k52 > Y0b.days - 1) {
+          M9$ = "Res";
+          M9$ += "u";
+          M9$ += "l";
+          M9$ += "t ";
+          l6q -= T$z[k52 - Y0b.days]["_MFV " + Y0b.name];
+          o0i -= T$z[k52 - Y0b.days].Volume;
+          if (o0i) {
+            E$Y.V84(12);
+            T$z[k52][M9$ + Y0b.name] = E$Y.o6M(o0i, l6q);
+          }
+        }
+        T$z[k52]["_sumMF " + Y0b.name] = l6q;
+        T$z[k52]["_sumV " + Y0b.name] = o0i;
+      }
+    };
+    C3T.Studies.calculateChaikinVolatility = function (U$g, J3Y) {
+      var v_L, v0$, T29, a3m, n5m, i6T, r_3, N_3;
+      v_L = "Ra";
+      v_L += "te Of Change";
+      v0$ = "Mo";
+      v0$ += "ving Avera";
+      v0$ += "ge Type";
+      T29 = J3Y.chart.scrubbed;
+      if (T29.length < J3Y.days) {
+        J3Y.error = !![];
+        return;
+      }
+      for (a3m = J3Y.startFrom; a3m < T29.length; a3m++) {
+        n5m = "_High-Low";
+        n5m += " ";
+        if (T29[a3m].futureTick) break;
+        T29[a3m][n5m + J3Y.name] = T29[a3m].High - T29[a3m].Low;
+      }
+      C3T.Studies.MA(
+        J3Y.inputs[v0$],
+        J3Y.days,
+        "_High-Low " + J3Y.name,
+        0,
+        "_MA",
+        U$g,
+        J3Y,
+      );
+      i6T = J3Y.inputs[v_L];
+      if (!i6T) {
+        i6T = J3Y.days;
+      }
+      for (a3m = Math.max(J3Y.startFrom, i6T); a3m < T29.length; a3m++) {
+        r_3 = "_M";
+        r_3 += "A";
+        r_3 += " ";
+        N_3 = "R";
+        N_3 += "e";
+        N_3 += "sul";
+        N_3 += "t ";
+        if (!T29[a3m - i6T]["_MA " + J3Y.name]) continue;
+        if (T29[a3m].futureTick) break;
+        u7J6i.V84(28);
+        var T$x = u7J6i.o6M(2, 17, 14);
+        T29[a3m][N_3 + J3Y.name] =
+          +"100" *
+          (T29[a3m][r_3 + J3Y.name] / T29[a3m - i6T]["_MA " + J3Y.name] - T$x);
+      }
+    };
+    C3T.Studies.studyLibrary = C3T.extend(C3T.Studies.studyLibrary, {
+      "Chaikin MF": {
+        name: B43,
+        calculateFN: C3T.Studies.calculateChaikinMoneyFlow,
+        inputs: { Period: 20 },
+      },
+      "Chaikin Vol": {
+        name: r8O,
+        calculateFN: C3T.Studies.calculateChaikinVolatility,
+        inputs: {
+          Period: 14,
+          "Rate Of Change": 2,
+          "Moving Average Type": "ma",
+        },
+      },
+    });
+  }
+};
+j7 = (Q2o) => {
+  var i2V = u7J6i;
+  var Y3f, k1Q, T1u, i_M, E1E;
+  i2V.R4I();
+  Y3f = "undef";
+  Y3f += "in";
+  Y3f += "ed";
+  k1Q = typeof _CIQ !== Y3f ? _CIQ : Q2o.CIQ;
+  if (!k1Q.Studies) {
+    console.error("chande feature requires first activating studies feature.");
+  } else {
+    T1u = "f";
+    T1u += "ield";
+    i_M = "V";
+    i_M += "ar";
+    i_M += "iable";
+    E1E = "v";
+    E1E += "m";
+    E1E += "a";
+    k1Q.Studies.prettify.variable = E1E;
+    k1Q.Studies.movingAverage.conversions.vma = "variable";
+    k1Q.Studies.movingAverage.translations.variable = "Variable";
+    k1Q.Studies.movingAverage.typeMap.vma = i_M;
+    k1Q.Studies.movingAverage.typeMap.variable = "Variable";
+    k1Q.Studies.calculateChandeForecast = function (t4D, d2O) {
+      var P_E, P$T, M1x, N7N, s68, h8G;
+      P_E = "time ";
+      P_E += "s";
+      P_E += "er";
+      P_E += "ies";
+      P$T = "fiel";
+      P$T += "d";
+      M1x = d2O.chart.scrubbed;
+      if (M1x.length < d2O.days + +"1") {
+        d2O.error = !![];
+        return;
+      }
+      N7N = d2O.inputs.Field;
+      if (!N7N || N7N == P$T) {
+        N7N = "Close";
+      }
+      i2V.p24();
+      k1Q.Studies.MA(P_E, d2O.days, N7N, 0, "MA", t4D, d2O);
+      for (var W_z = Math.max(1, d2O.startFrom); W_z < M1x.length; W_z++) {
+        s68 = "Re";
+        s68 += "sult";
+        s68 += " ";
+        h8G = k1Q.Studies.getQuoteFieldValue(M1x[W_z], N7N, d2O.subField);
+        i2V.V84(137);
+        var z72 = i2V.F4O(88, 19, 13, 18);
+        i2V.V84(62);
+        var p05 = i2V.o6M(256, 28, 64);
+        M1x[W_z][s68 + d2O.name] =
+          z72 * (("1" << p05) - M1x[W_z]["MA " + d2O.name] / h8G);
+      }
+    };
+    k1Q.Studies.calculateChandeMomentum = function (W5U, r3A) {
+      var g4W, k_e, F23, Y_T, s8y, T1R, v$g, r2s, X4B, Z2g, c$W;
+      g4W = "fi";
+      g4W += "eld";
+      k_e = r3A.name;
+      for (var Z$l in r3A.outputs) {
+        i2V.K2h(68);
+        k_e = i2V.o6M(k_e, Z$l, " ");
+      }
+      F23 = r3A.chart.scrubbed;
+      if (F23.length < r3A.days + 1) {
+        r3A.error = !![];
+        return;
+      }
+      Y_T = r3A.inputs.Field;
+      if (!Y_T || Y_T == g4W) {
+        Y_T = "Close";
+      }
+      s8y = 0;
+      i2V.V84(4);
+      T1R = i2V.o6M("0", 0);
+      v$g = [];
+      for (var u$H = r3A.startFrom - r3A.days + 1; u$H < F23.length; u$H++) {
+        if (u$H < 1) continue;
+        r2s = k1Q.Studies.getQuoteFieldValue(F23[u$H], Y_T);
+        X4B = k1Q.Studies.getQuoteFieldValue(F23[u$H - 1], Y_T);
+        if (X4B === undefined) continue;
+        i2V.V84(4);
+        Z2g = i2V.F4O(r2s, X4B);
+        v$g.push(Z2g);
+        s8y += Z2g;
+        T1R += Math.abs(Z2g);
+        if (v$g.length == r3A.days) {
+          i2V.V84(111);
+          F23[u$H][k_e] = i2V.F4O(s8y, T1R, 100);
+          c$W = v$g.shift();
+          s8y -= c$W;
+          T1R -= Math.abs(c$W);
+        }
+      }
+    };
+    k1Q.Studies.calculateMovingAverageVariable = function (k4b, g6A) {
+      var E4r,
+        F_H,
+        S$o,
+        C$l,
+        p4q,
+        T05,
+        m37,
+        o5T,
+        y9C,
+        s5F,
+        J4c,
+        K3p,
+        v7o,
+        x$r,
+        G05,
+        I$I,
+        l1U,
+        N2M,
+        m98;
+      E4r = "C";
+      E4r += "l";
+      E4r += "os";
+      E4r += "e";
+      F_H = g6A.inputs.Type;
+      S$o = g6A.chart.scrubbed;
+      i2V.K2h(10);
+      var u6s = i2V.o6M(7, 8, 0);
+      C$l = +"2" / (g6A.days + u6s);
+      p4q = null;
+      T05 = g6A.name;
+      for (var Z$f in g6A.outputs) {
+        i2V.K2h(68);
+        T05 = i2V.o6M(T05, Z$f, " ");
+      }
+      m37 = g6A.inputs.Field;
+      if (!m37 || m37 == "field") {
+        m37 = E4r;
+      }
+      g6A.cmo = new k1Q.Studies.StudyDescriptor(g6A.name, "cmo", g6A.panel);
+      g6A.cmo.chart = g6A.chart;
+      g6A.cmo.days = 9;
+      g6A.cmo.inputs = { Field: m37 };
+      g6A.cmo.startFrom = g6A.startFrom;
+      g6A.cmo.outputs = { _CMO: null };
+      k1Q.Studies.calculateChandeMomentum(k4b, g6A.cmo);
+      o5T = parseInt(g6A.inputs.Offset, 10);
+      if (isNaN(o5T)) {
+        o5T = +"0";
+      }
+      K3p = g6A.startFrom;
+      v7o = o5T;
+      for (y9C = g6A.startFrom - 1; y9C >= 0; y9C--) {
+        s5F = S$o[y9C][T05];
+        if (!s5F && s5F !== 0) continue;
+        if (p4q === null) {
+          p4q = s5F;
+        }
+        if (v7o <= 0) break;
+        v7o--;
+        K3p = y9C;
+      }
+      if (p4q === null) {
+        p4q = K3p = 0;
+      }
+      i2V.R4I();
+      x$r = [];
+      for (y9C = K3p; y9C < S$o.length; y9C++) {
+        G05 = S$o[y9C];
+        s5F = G05[m37];
+        if (s5F && typeof s5F == "object") {
+          s5F = s5F[g6A.subField];
+        }
+        I$I = y9C + o5T >= "0" - 0 && y9C + o5T < S$o.length;
+        l1U = I$I ? S$o[y9C + o5T] : null;
+        if (!s5F && s5F !== 0) {
+          if (l1U) {
+            l1U[T05] = null;
+          } else if (y9C + o5T >= S$o.length) {
+            J4c = {};
+            J4c[T05] = null;
+            x$r.push(J4c);
+          }
+          continue;
+        }
+        if (!G05["_CMO " + g6A.name] && G05["_CMO " + g6A.name] !== 0) continue;
+        N2M = Math.abs(G05["_CMO " + g6A.name]) / +"100";
+        i2V.V84(138);
+        m98 = i2V.F4O("1", N2M, N2M, C$l, C$l, p4q, s5F);
+        p4q = m98;
+        if (y9C < g6A.days) {
+          m98 = null;
+        }
+        if (l1U) {
+          l1U[T05] = m98;
+        } else if (y9C + o5T >= S$o.length) {
+          J4c = {};
+          J4c[T05] = m98;
+          x$r.push(J4c);
+        }
+      }
+      g6A.appendFutureTicks(k4b, x$r);
+    };
+    k1Q.Studies.studyLibrary = k1Q.extend(k1Q.Studies.studyLibrary, {
+      "Chande Fcst": {
+        name: "Chande Forecast Oscillator",
+        calculateFN: k1Q.Studies.calculateChandeForecast,
+        inputs: { Period: 14, Field: T1u },
+      },
+      "Chande Mtm": {
+        name: "Chande Momentum Oscillator",
+        calculateFN: k1Q.Studies.calculateChandeMomentum,
+        inputs: { Period: 9 },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !"",
+            studyOverBoughtValue: +"50",
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: -+"50",
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+    });
+  }
+};
+G7 = (e8z) => {
+  var g4Z = u7J6i;
+  var p1h, m4r;
+  g4Z.p24();
+  p1h = typeof _CIQ !== "undefined" ? _CIQ : e8z.CIQ;
+  if (!p1h.Studies) {
+    console.error(
+      "choppiness feature requires first activating studies feature.",
+    );
+  } else {
+    m4r = "a";
+    m4r += "u";
+    m4r += "t";
+    m4r += "o";
+    p1h.Studies.calculateChoppiness = function (j1I, Q1F) {
+      var e$2, U94, j9f;
+      p1h.Studies.calculateStudyATR(j1I, Q1F);
+      e$2 = Q1F.chart.scrubbed;
+      function w8D(J5a, q7u) {
+        var C4c, D0H;
+        g4Z.K2h(77);
+        g4Z.R4I();
+        var E1D = g4Z.o6M(37, 0, 14, 12, 10);
+        C4c = Number.MAX_VALUE * E1D;
+        D0H = Number.MAX_VALUE;
+        for (var Y$z = q7u - J5a + 1; Y$z <= q7u; Y$z++) {
+          if (Y$z < 0) continue;
+          C4c = Math.max(C4c, e$2[Y$z].High);
+          D0H = Math.min(D0H, e$2[Y$z].Low);
+        }
+        return [D0H, C4c];
+      }
+      if (e$2.length < Q1F.days + "1" * 1) {
+        Q1F.error = !![];
+        return;
+      }
+      for (
+        var i$w = Math.max(Q1F.startFrom, Q1F.days);
+        i$w < e$2.length;
+        i$w++
+      ) {
+        U94 = e$2[i$w];
+        if (!U94) continue;
+        if (U94.futureTick) break;
+        j9f = w8D(Q1F.days, i$w);
+        if (U94["Sum True Range " + Q1F.name]) {
+          g4Z.V84(2);
+          var L2a = g4Z.o6M(20, 55, 14, 5);
+          U94["Result " + Q1F.name] =
+            (+"100" *
+              Math.log(
+                U94["Sum True Range " + Q1F.name] /
+                  Math.max(0.000001, j9f[L2a] - j9f[0]),
+              )) /
+            Math.log(Q1F.days);
+        } else if (!isNaN(U94)) {
+          U94["Result " + Q1F.name] = 0;
+        }
+      }
+    };
+    p1h.Studies.studyLibrary = p1h.extend(p1h.Studies.studyLibrary, {
+      Choppiness: {
+        name: "Choppiness Index",
+        calculateFN: p1h.Studies.calculateChoppiness,
+        centerline: 50,
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !!"1",
+            studyOverBoughtValue: 61.8,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: 38.2,
+            studyOverSoldColor: m4r,
+          },
+        },
+        attributes: {
+          studyOverBoughtValue: { min: +"50", step: "0.1" },
+          studyOverSoldValue: { max: 50, step: "0.1" },
+        },
+      },
+    });
+  }
+};
+C$ = (a3I) => {
+  var X0F = u7J6i;
+  var o7b, p9l, a_o, D38, g4L;
+  X0F.R4I();
+  o7b = -1855999768;
+  p9l = 179084664;
+  a_o = +"2";
+  for (
+    var s$m = "1" | 1;
+    X0F.S6r(s$m.toString(), s$m.toString().length, 14197) !== o7b;
+    s$m++
+  ) {
+    D38 = typeof _CIQ !== "undefined" ? _CIQ : a3I.CIQ;
+    a_o += 2;
+  }
+  if (X0F.S6r(a_o.toString(), a_o.toString().length, +"88897") !== p9l) {
+    D38 = +_CIQ == "" ? _CIQ : a3I.CIQ;
+  }
+  if (!D38.Studies) {
+    console.error(
+      "comparisonStudies feature requires first activating studies feature.",
+    );
+  } else if (!D38.Studies.initPriceRelative) {
+    console.error(
+      "comparisonStudies feature requires first activating priceRelative feature.",
+    );
+  } else {
+    g4L = "S";
+    g4L += "PY";
+    D38.Studies.calculateCorrelationCoefficient = function (K4Z, v94) {
+      var W5j,
+        D7o,
+        o5o,
+        q2A,
+        J4p,
+        k$a,
+        k6y,
+        r5E,
+        A4A,
+        A5X,
+        T1l,
+        R7V,
+        T1M,
+        N_$,
+        L6_,
+        P61,
+        g41,
+        b0Q,
+        v4Y,
+        a9V,
+        I3K,
+        u4l,
+        H2S,
+        m46;
+      W5j = "C";
+      W5j += "om";
+      X0F.R4I();
+      W5j += "par";
+      W5j += "e To";
+      D7o = v94.chart.scrubbed;
+      o5o = v94.days;
+      if (D7o.length < o5o + ("1" - 0)) {
+        v94.error = !![];
+        return;
+      }
+      v94.compare = v94.inputs[W5j];
+      if (!v94.compare) {
+        v94.compare = [];
+        v94.outputs = {};
+        v94.outputMap = {};
+        for (var N2_ in K4Z.chart.series) {
+          q2A = K4Z.chart.series[N2_];
+          if (q2A.parameters.color) {
+            J4p = "R";
+            J4p += "es";
+            J4p += "ul";
+            J4p += "t ";
+            v94.compare.push(q2A.display);
+            v94.outputs["Result " + q2A.display] = q2A.parameters.color;
+            v94.outputMap["Result " + q2A.display + " " + v94.name] =
+              J4p + q2A.display;
+          }
+        }
+      } else {
+        v94.compare = [v94.compare];
+      }
+      if (!v94.compare.length) {
+        v94.error =
+          "Correlation Coefficient requires at least one comparison symbol";
+        return;
+      }
+      for (var q5V = 0; q5V < v94.compare.length; q5V++) {
+        k$a = 0;
+        k6y = 0;
+        r5E = 0;
+        A4A = 0;
+        A5X = 0;
+        T1l = v94.compare[q5V];
+        R7V = 0;
+        for (var E59 = v94.startFrom - o5o; E59 < D7o.length; E59++) {
+          T1M = "_";
+          T1M += "te";
+          T1M += "mps ";
+          N_$ = "_t";
+          N_$ += "em";
+          N_$ += "ps";
+          N_$ += " ";
+          L6_ = "_te";
+          L6_ += "mps ";
+          if (!D7o[E59]) continue;
+          P61 = D38.Studies.getQuoteFieldValue(D7o[E59], T1l);
+          if (P61 === null) {
+            g41 = "_te";
+            g41 += "mps ";
+            if (
+              E59 > "0" - 0 &&
+              D7o[E59 - 1] &&
+              D7o[E59 - 1]["_temps " + v94.name] &&
+              D7o[E59 - 1][g41 + v94.name].c
+            ) {
+              P61 = D7o[E59 - 1]["_temps " + v94.name].c;
+            } else {
+              X0F.K2h(4);
+              P61 = X0F.F4O("0", 0);
+            }
+          }
+          if (P61 && typeof P61 == "object") {
+            P61 = P61.Close;
+          }
+          D7o[E59]["_temps " + v94.name] = {};
+          k$a += D7o[E59]["_temps " + v94.name].b = D7o[E59].Close;
+          k6y += D7o[E59][L6_ + v94.name].c = P61;
+          r5E += D7o[E59]["_temps " + v94.name].b2 = Math.pow(
+            D7o[E59].Close,
+            2,
+          );
+          A4A += D7o[E59][N_$ + v94.name].c2 = Math.pow(P61, +"2");
+          A5X += D7o[E59][T1M + v94.name].bc = D7o[E59].Close * P61;
+          if (R7V >= o5o) {
+            b0Q = "_temp";
+            b0Q += "s ";
+            v4Y = "_t";
+            v4Y += "emp";
+            v4Y += "s";
+            v4Y += " ";
+            a9V = "_";
+            a9V += "t";
+            a9V += "emps";
+            a9V += " ";
+            k$a -= D7o[E59 - o5o][a9V + v94.name].b;
+            k6y -= D7o[E59 - o5o][v4Y + v94.name].c;
+            r5E -= D7o[E59 - o5o]["_temps " + v94.name].b2;
+            A4A -= D7o[E59 - o5o]["_temps " + v94.name].c2;
+            A5X -= D7o[E59 - o5o][b0Q + v94.name].bc;
+            I3K = r5E / o5o - Math.pow(k$a / o5o, "2" >> 0);
+            X0F.V84(79);
+            var c3z = X0F.F4O(12, 3, 2);
+            u4l = A4A / o5o - Math.pow(k6y / o5o, c3z);
+            X0F.K2h(139);
+            var t0J = X0F.F4O(14, 29, 0, 3, 10);
+            H2S = A5X / o5o - (k$a * k6y) / Math.pow(o5o, t0J);
+            m46 = H2S / Math.sqrt(I3K * u4l);
+            X0F.V84(137);
+            var W$j = X0F.o6M(17, 11, 1800, 4);
+            X0F.K2h(67);
+            var c_g = X0F.o6M(28880, 18, 30930, 6);
+            X0F.K2h(34);
+            var r34 = X0F.o6M(16, 181, 2712);
+            X0F.V84(68);
+            var N52 = X0F.F4O(3602, 1807, 11);
+            D7o[E59][
+              "Result " +
+                T1l +
+                (W$j <= c_g ? (r34 == N52 ? 895.72 : " ") : "M") +
+                v94.name
+            ] = m46;
+          }
+          R7V++;
+        }
+      }
+    };
+    D38.Studies.calculatePerformance = function (k9q, r1w) {
+      var j7e, I0W, O4Z, U7l, P8L;
+      j7e = "_M";
+      j7e += "A Com";
+      j7e += "p";
+      I0W = "Com";
+      X0F.p24();
+      I0W += "pa";
+      I0W += "riso";
+      I0W += "n Symbol";
+      O4Z = r1w.chart.scrubbed;
+      U7l = r1w.inputs["Comparison Symbol"].toUpperCase();
+      if (!U7l) {
+        U7l = r1w.study.inputs[I0W];
+      }
+      if (!r1w.days) {
+        r1w.days = r1w.study.inputs.Period;
+      }
+      if (O4Z.length < r1w.days + 1) {
+        r1w.error = !!1;
+        return;
+      }
+      D38.Studies.MA("ma", r1w.days, "Close", 0, "_MA Base", k9q, r1w);
+      D38.Studies.MA("ma", r1w.days, U7l, 0, j7e, k9q, r1w);
+      for (var f$S = r1w.startFrom; f$S < O4Z.length; f$S++) {
+        P8L = D38.Studies.getQuoteFieldValue(O4Z[f$S], U7l);
+        O4Z[f$S]["Result " + r1w.name] =
+          (O4Z[f$S].Close / P8L) *
+          (O4Z[f$S]["_MA Comp " + r1w.name] / O4Z[f$S]["_MA Base " + r1w.name]);
+      }
+    };
+    D38.Studies.calculateBeta = function (w50, D2o) {
+      var P4W, Y8s, f3V, K6m, J3o, w3U, z6k, o$Z, n90, b09, s7v;
+      P4W = "_";
+      P4W += "MA ";
+      P4W += "C";
+      P4W += "omp";
+      Y8s = "m";
+      Y8s += "a";
+      f3V = D2o.chart.scrubbed;
+      K6m = D2o.inputs["Comparison Symbol"].toUpperCase();
+      if (!K6m) {
+        K6m = D2o.study.inputs["Comparison Symbol"];
+      }
+      if (!D2o.days) {
+        D2o.days = D2o.study.inputs.Period;
+      }
+      if (f3V.length < D2o.days + 1) {
+        D2o.error = !!"1";
+        return;
+      }
+      for (var e6C = Math.max(D2o.startFrom, 1); e6C < f3V.length; e6C++) {
+        J3o = "_BaseCh";
+        J3o += "ange ";
+        X0F.K2h(4);
+        var T1X = X0F.o6M(5, 4);
+        X0F.V84(58);
+        var J_L = X0F.F4O(0, 2, 2, 2);
+        f3V[e6C][J3o + D2o.name] = f3V[e6C].Close / f3V[e6C - T1X].Close - J_L;
+        w3U = D38.Studies.getQuoteFieldValue(f3V[e6C], K6m);
+        z6k = D38.Studies.getQuoteFieldValue(f3V[e6C - 1], K6m);
+        X0F.V84(79);
+        f3V[e6C]["_CompChange " + D2o.name] = X0F.F4O(w3U, z6k, 1);
+      }
+      D38.Studies.MA(
+        "ma",
+        D2o.days,
+        "_BaseChange " + D2o.name,
+        0,
+        "_MA Base",
+        w50,
+        D2o,
+      );
+      D38.Studies.MA(
+        Y8s,
+        D2o.days,
+        "_CompChange " + D2o.name,
+        0,
+        P4W,
+        w50,
+        D2o,
+      );
+      for (e6C = Math.max(D2o.startFrom, D2o.days); e6C < f3V.length; e6C++) {
+        o$Z = "_CompChan";
+        o$Z += "ge ";
+        n90 = "_";
+        n90 += "MA Bas";
+        n90 += "e ";
+        f3V[e6C]["_COVARn " + D2o.name] =
+          (f3V[e6C]["_BaseChange " + D2o.name] - f3V[e6C][n90 + D2o.name]) *
+          (f3V[e6C]["_CompChange " + D2o.name] -
+            f3V[e6C]["_MA Comp " + D2o.name]);
+        f3V[e6C]["_VARn " + D2o.name] = Math.pow(
+          f3V[e6C][o$Z + D2o.name] - f3V[e6C]["_MA Comp " + D2o.name],
+          2,
+        );
+      }
+      D38.Studies.MA(
+        "ma",
+        D2o.days,
+        "_COVARn " + D2o.name,
+        "0" ^ 0,
+        "_COVAR",
+        w50,
+        D2o,
+      );
+      D38.Studies.MA("ma", D2o.days, "_VARn " + D2o.name, 0, "_VAR", w50, D2o);
+      for (
+        e6C = Math.max(D2o.startFrom, D2o.days * 2 - 1);
+        e6C < f3V.length;
+        e6C++
+      ) {
+        b09 = "_";
+        b09 += "CO";
+        b09 += "VAR";
+        b09 += " ";
+        s7v = "Re";
+        s7v += "s";
+        s7v += "u";
+        s7v += "lt ";
+        f3V[e6C][s7v + D2o.name] =
+          f3V[e6C][b09 + D2o.name] / f3V[e6C]["_VAR " + D2o.name];
+      }
+    };
+    D38.Studies.studyLibrary = D38.extend(D38.Studies.studyLibrary, {
+      correl: {
+        name: "Correlation Coefficient",
+        range: "-1 to 1",
+        calculateFN: D38.Studies.calculateCorrelationCoefficient,
+        outputs: {},
+      },
+      "Perf Idx": {
+        name: "Performance Index",
+        centerline: 1,
+        initializeFN: D38.Studies.initPriceRelative,
+        seriesFN: D38.Studies.displayVsComparisonSymbol,
+        calculateFN: D38.Studies.calculatePerformance,
+        inputs: { Period: 120, "Comparison Symbol": g4L },
+        outputs: { Result: "auto", Gain: "#00DD00", Loss: "#FF0000" },
+        deferUpdate: !![],
+      },
+      Beta: {
+        name: "Beta",
+        centerline: "1" | 0,
+        initializeFN: D38.Studies.initPriceRelative,
+        seriesFN: D38.Studies.displayVsComparisonSymbol,
+        calculateFN: D38.Studies.calculateBeta,
+        inputs: { Period: 20, "Comparison Symbol": "SPY" },
+        deferUpdate: !0,
+      },
+    });
+  }
+};
+X0 = (D1g) => {
+  var a_T = u7J6i;
+  a_T.p24();
+  var J4y, Q2C, e87, r9Q;
+  J4y = "u";
+  J4y += "n";
+  J4y += "defined";
+  Q2C = typeof _CIQ !== J4y ? _CIQ : D1g.CIQ;
+  if (!Q2C.Studies) {
+    e87 = "coppock";
+    e87 += " feature requires first activating studie";
+    e87 += "s feature.";
+    console.error(e87);
+  } else {
+    r9Q = "f";
+    r9Q += "ie";
+    r9Q += "l";
+    r9Q += "d";
+    Q2C.Studies.calculateCoppock = function (u$k, T93) {
+      var V6V, C74, r$Z, D$a, d0D, A2b, D8P, R7u, W_k, U2C;
+      a_T.p24();
+      V6V = "_S";
+      V6V += "u";
+      V6V += "m";
+      V6V += " ";
+      C74 = "Shor";
+      C74 += "t Ro";
+      C74 += "C";
+      r$Z = "Cl";
+      r$Z += "o";
+      r$Z += "se";
+      D$a = T93.chart.scrubbed;
+      d0D = T93.inputs.Field;
+      if (!d0D || d0D == "field") {
+        d0D = r$Z;
+      }
+      A2b = parseInt(T93.inputs["Long RoC"], 10);
+      if (!A2b) {
+        A2b = +"14";
+      }
+      D8P = parseInt(T93.inputs[C74], "10" >> 32);
+      if (!D8P) {
+        D8P = +"11";
+      }
+      R7u = T93.days;
+      if (!R7u) {
+        R7u = 10;
+      }
+      if (A2b < D8P) {
+        return;
+      }
+      if (D$a.length < Math.max(D8P, A2b, R7u) + 1) {
+        T93.error = !"";
+        return;
+      }
+      for (var R5C = Math.max(T93.startFrom, A2b); R5C < D$a.length; R5C++) {
+        W_k = Q2C.Studies.getQuoteFieldValue(D$a[R5C - D8P], d0D);
+        U2C = Q2C.Studies.getQuoteFieldValue(D$a[R5C - A2b], d0D);
+        if (W_k && U2C) {
+          a_T.V84(140);
+          var C05 = a_T.o6M(7, 13, 1070, 83);
+          a_T.K2h(128);
+          var P_C = a_T.F4O(4, 4, 1, 1);
+          D$a[R5C]["_Sum " + T93.name] =
+            C05 *
+            (Q2C.Studies.getQuoteFieldValue(D$a[R5C], d0D) / W_k +
+              Q2C.Studies.getQuoteFieldValue(D$a[R5C], d0D) / U2C -
+              P_C);
+        }
+      }
+      Q2C.Studies.MA("weighted", R7u, V6V + T93.name, 0, "Result", u$k, T93);
+    };
+    Q2C.Studies.studyLibrary = Q2C.extend(Q2C.Studies.studyLibrary, {
+      Coppock: {
+        name: "Coppock Curve",
+        calculateFN: Q2C.Studies.calculateCoppock,
+        inputs: { Period: 10, Field: r9Q, "Short RoC": 11, "Long RoC": 14 },
+      },
+    });
+  }
+};
+U2 = (G5U) => {
+  var s9H = u7J6i;
+  var x4Q;
+  s9H.R4I();
+  x4Q = typeof _CIQ !== "undefined" ? _CIQ : G5U.CIQ;
+  if (!x4Q.Studies) {
+    console.error(
+      "darvasBox feature requires first activating studies feature.",
+    );
+  } else {
+    x4Q.Studies.calculateDarvas = function (T7B, C8R) {
+      var e_Y,
+        R1A,
+        v3S,
+        X3d,
+        g84,
+        A10,
+        H9N,
+        u$8,
+        h4b,
+        O2Q,
+        r8$,
+        g_r,
+        z4S,
+        N_w,
+        g3p,
+        w03,
+        t8S,
+        B7I,
+        w42,
+        V1e,
+        B5D,
+        k4x,
+        F8w,
+        E6m,
+        S0K,
+        F3E,
+        P70,
+        T0i,
+        N0z,
+        d47,
+        P4j,
+        x7F,
+        k3$;
+      e_Y = "A";
+      e_Y += "D";
+      e_Y += "V";
+      R1A = "P";
+      R1A += "rof";
+      R1A += "i";
+      R1A += "t";
+      v3S = "********";
+      v3S += "*********";
+      X3d = "Volume";
+      X3d += " Spike";
+      g84 = C8R.chart.scrubbed;
+      A10 = 0;
+      H9N = parseInt(C8R.inputs["ATH Lookback Period"], 10);
+      if (C8R.inputs[X3d]) {
+        s9H.K2h(4);
+        x4Q.Studies.MA(
+          "simple",
+          H9N,
+          "Volume",
+          s9H.o6M("0", 0),
+          "ADV",
+          T7B,
+          C8R,
+        );
+      }
+      s9H.V84(141);
+      var Z0D = s9H.F4O(18, 109, 9, 900, 900);
+      u$8 = parseFloat(C8R.inputs["Volume % of Avg"]) / Z0D;
+      h4b = "none";
+      O2Q = {};
+      r8$ = null;
+      g_r = null;
+      z4S = null;
+      N_w = parseFloat(C8R.inputs["Level Offset"]);
+      g3p = ![];
+      if (g3p) {
+        console.log(v3S);
+      }
+      t8S = {};
+      ["Darvas", "Ghost", R1A, "Loss", "ATH", e_Y, "Spike"].forEach(
+        function (f9z) {
+          var l_E, G$5, u_F;
+          s9H.p24();
+          l_E = 1362777717;
+          G$5 = 761459683;
+          u_F = 2;
+          for (
+            var n8h = 1;
+            s9H.S6r(n8h.toString(), n8h.toString().length, 5828) !== l_E;
+            n8h++
+          ) {
+            s9H.V84(142);
+            var Z0Y = s9H.o6M(16, 1, 3, 264, 2920);
+            s9H.K2h(143);
+            var H0V = s9H.o6M(155268, 6, 8, 4, 81356);
+            s9H.K2h(144);
+            var A6K = s9H.F4O(17, 807, 14, 13, 53);
+            s9H.K2h(133);
+            var E6M = s9H.F4O(11, 5, 7, 7, 5);
+            s9H.V84(145);
+            var C$n = s9H.o6M(7840, 4, 10, 3922, 3);
+            s9H.K2h(10);
+            var k9S = s9H.F4O(18, 19, 0);
+            s9H.K2h(67);
+            var R7C = s9H.o6M(70713, 11, 75140, 18);
+            s9H.K2h(125);
+            var t$x = s9H.F4O(20, 358, 358, 344);
+            s9H.K2h(61);
+            var E5z = s9H.o6M(9, 12, 542, 13, 5);
+            s9H.V84(34);
+            var n4W = s9H.o6M(19, 1388, 24975);
+            s9H.V84(44);
+            var E7p = s9H.o6M(298836, 11, 27800, 14);
+            t8S[f9z] =
+              f9z +
+              ((Z0Y, H0V) < (A6K, 604.87)
+                ? ("A", "3.52e+3" * E6M)
+                : (C$n, "8462" * k9S) != ("4140" | 0)
+                  ? " "
+                  : R7C <= (t$x, E5z)
+                    ? 715.51
+                    : (n4W, E7p)) +
+              C8R.name;
+            u_F += +"2";
+          }
+          if (s9H.o0D(u_F.toString(), u_F.toString().length, 31848) !== G$5) {
+            s9H.K2h(64);
+            var G0i = s9H.o6M(4200, 15, 2813, 3);
+            s9H.V84(146);
+            var B4V = s9H.F4O(6528, 3, 18, 110917);
+            s9H.V84(6);
+            var e_1 = s9H.o6M(50, 1753, 6, 8);
+            s9H.V84(28);
+            var o6s = s9H.F4O(10, 93235472, 84759510);
+            s9H.V84(28);
+            var i7L = s9H.F4O(10, 29160, 25910);
+            s9H.V84(16);
+            var U6N = s9H.F4O(0, 19, 20);
+            s9H.V84(1);
+            var i_0 = s9H.F4O(7740, 12);
+            s9H.V84(16);
+            var b_O = s9H.o6M(7696, 7107, 3);
+            s9H.K2h(147);
+            var j48 = s9H.o6M(11, 973046, 973030, 10703330);
+            s9H.K2h(148);
+            var w7o = s9H.F4O(281, 21, 13, 11, 20);
+            t8S[f9z] =
+              f9z *
+                ((G0i, B4V) >= (e_1, +"805137")
+                  ? (" ", o6s)
+                  : (i7L, "1643" * U6N) == +"5271"
+                    ? " "
+                    : i_0 > (b_O, +"754")
+                      ? j48
+                      : ("0x881" | w7o, +"0x96a4")) -
+              C8R.name;
+          }
+        },
+      );
+      for (w03 = C8R.startFrom - 1; w03 > 0; w03--) {
+        B7I = g84[w03];
+        if (B7I[t8S.Darvas] || B7I[t8S.Ghost]) {
+          for (var U26 in t8S) {
+            B7I[U26] = null;
+          }
+        } else {
+          A10 = B7I[t8S.ATH] || "0" | 0;
+          g_r = B7I[t8S.Profit];
+          z4S = B7I[t8S.Loss];
+          break;
+        }
+      }
+      for (w03; w03 < g84.length; w03++) {
+        w42 = g84[w03];
+        if (!w42) continue;
+        if (parseFloat(C8R.inputs["Price Minimum"]) <= g84[A10].Close) {
+          V1e = "hig";
+          V1e += "h/low";
+          if (r8$ && (!r8$.End || w03 == r8$.End + 1)) {
+            if (g84[w03 - 1].Close > O2Q.High) {
+              O2Q = {
+                State: 1,
+                High: 2 * O2Q.High - O2Q.Low,
+                Low: O2Q.High,
+                Start: w03,
+                End: 2 * O2Q.End - O2Q.Start + 1,
+              };
+            } else {
+              r8$ = null;
+            }
+            if (r8$) {
+              w42[t8S.Ghost] = x4Q.clone(O2Q);
+              if (g3p) {
+                console.log("Ghost begin:" + w42.DT);
+              }
+              O2Q.State = 0;
+              if (g84[O2Q.End]) {
+                g84[O2Q.End][t8S.Ghost] = x4Q.clone(O2Q);
+                if (g3p) {
+                  console.log("Ghost end:" + g84[O2Q.End].DT);
+                }
+              }
+              r8$ = { Start: O2Q.Start, End: O2Q.End };
+              g_r = O2Q.High + N_w;
+              if (!z4S || z4S < O2Q.Low - N_w) {
+                z4S = O2Q.Low - N_w;
+              }
+            }
+          }
+          w42[t8S.Profit] = g_r;
+          w42[t8S.Loss] = z4S;
+          if (w42.Close >= g_r) {
+            g_r = null;
+          } else if (C8R.inputs["Exit Field"] == V1e && w42.High >= g_r) {
+            g_r = null;
+          }
+          if (h4b == "none") {
+            if (w03 == A10 + 3) {
+              if (
+                !g84[A10 + 2][t8S.Darvas] &&
+                !g84[A10 + +"1"][t8S.Darvas] &&
+                !g84[A10][t8S.Darvas] &&
+                g84[A10].High > w42.High
+              ) {
+                B5D = "h";
+                B5D += "ig";
+                B5D += "h";
+                h4b = B5D;
+              }
+            }
+          }
+          if (h4b == "high") {
+            if (w42.High > g84[A10].High) {
+              k4x = "n";
+              k4x += "o";
+              k4x += "n";
+              k4x += "e";
+              h4b = k4x;
+            } else if (
+              g84[w03 - 3].Low < g84[w03 - 2].Low &&
+              g84[w03 - 3].Low < g84[w03 - 1].Low &&
+              g84[w03 - 3].Low < w42.Low
+            ) {
+              F8w = "da";
+              F8w += "r";
+              F8w += "vas";
+              O2Q = {
+                State: "1" >> 32,
+                High: g84[A10].High,
+                Low: g84[w03 - 3].Low,
+                Start: A10,
+              };
+              g84[A10][t8S.Darvas] = x4Q.clone(O2Q);
+              h4b = F8w;
+              if (g3p) {
+                console.log("Darvas begin:" + g84[A10].DT);
+              }
+              if (g3p) {
+                console.log("Darvas established:" + w42.DT);
+              }
+              if (r8$) {
+                E6m = "Gho";
+                E6m += "s";
+                E6m += "t ";
+                E6m += "end:";
+                if (r8$.End > w03 && g84[r8$.Start]) {
+                  w42[t8S.Ghost] = x4Q.clone(g84[r8$.Start][t8S.Ghost]);
+                  w42[t8S.Ghost].End = w03;
+                  if (g84[r8$.End]) {
+                    delete g84[r8$.End][t8S.Ghost];
+                    if (g3p) {
+                      console.log("Ghost End removed:" + g84[r8$.End].DT);
+                    }
+                  }
+                }
+                w42[t8S.Ghost].State = 0;
+                g84[r8$.Start][t8S.Ghost].End = w03;
+                if (g3p) {
+                  console.log(E6m + w42.DT);
+                }
+                r8$ = null;
+              }
+              g_r = O2Q.High + N_w;
+              if (!z4S || z4S < O2Q.Low - N_w) {
+                z4S = O2Q.Low - N_w;
+              }
+            }
+          }
+          if (h4b == "darvas") {
+            S0K = "n";
+            S0K += "o";
+            S0K += "n";
+            S0K += "e";
+            if (w42.Close > O2Q.High) {
+              r8$ = {};
+            } else if (
+              C8R.inputs["Exit Field"] == "high/low" &&
+              w42.High > O2Q.High
+            ) {
+              r8$ = {};
+            } else if (w42.Close < O2Q.Low) {
+              h4b = "none";
+            } else if (
+              C8R.inputs["Exit Field"] == "high/low" &&
+              w42.Low < O2Q.Low
+            ) {
+              h4b = "none";
+            }
+            if (r8$) {
+              h4b = S0K;
+            } else if (h4b == "none") {
+              g_r = null;
+              z4S = null;
+            }
+            if (!C8R.inputs["Ghost Boxes"]) {
+              r8$ = null;
+            }
+            if (h4b == "none") {
+              F3E = "D";
+              F3E += "a";
+              F3E += "rvas ";
+              F3E += "end:";
+              for (var k6P = O2Q.Start + 1; k6P < w03; k6P++) {
+                g84[k6P][t8S.Darvas] = x4Q.clone(O2Q);
+              }
+              s9H.K2h(45);
+              O2Q.State = s9H.o6M("0", 64);
+              O2Q.End = w03;
+              w42[t8S.Darvas] = x4Q.clone(O2Q);
+              if (g3p) {
+                console.log(F3E + w42.DT);
+              }
+              w42[t8S.ATH] = A10;
+              continue;
+            }
+          }
+          if (z4S) {
+            P70 = "high/";
+            P70 += "l";
+            P70 += "o";
+            P70 += "w";
+            T0i = "Exit Fie";
+            T0i += "ld";
+            if (
+              w42.Close < O2Q.Low ||
+              (C8R.inputs[T0i] == P70 && w42.Low < O2Q.Low)
+            ) {
+              N0z = "h";
+              N0z += "ig";
+              N0z += "h/";
+              N0z += "low";
+              if (h4b == "darvas") {
+                h4b = "none";
+              }
+              if (
+                w42.Close < z4S ||
+                (C8R.inputs["Exit Field"] == N0z && w42.Low < z4S)
+              ) {
+                g_r = null;
+                z4S = null;
+              }
+              if (r8$) {
+                d47 = "Ghos";
+                d47 += "t en";
+                d47 += "d:";
+                if (r8$.End > w03 && g84[r8$.Start]) {
+                  w42[t8S.Ghost] = x4Q.clone(g84[r8$.Start][t8S.Ghost]);
+                  w42[t8S.Ghost].End = w03;
+                  if (g84[r8$.End]) {
+                    delete g84[r8$.End][t8S.Ghost];
+                    if (g3p) {
+                      console.log("Ghost End removed:" + g84[r8$.End].DT);
+                    }
+                  }
+                }
+                w42[t8S.Ghost].State = 0;
+                g84[r8$.Start][t8S.Ghost].End = w03;
+                if (g3p) {
+                  console.log(d47 + w42.DT);
+                }
+                r8$ = null;
+              }
+            }
+          }
+        }
+        if (w42.High >= g84[A10].High) {
+          P4j = "All Ti";
+          P4j += "m";
+          P4j += "e High:";
+          A10 = w03;
+          if (g3p) {
+            console.log(P4j + w42.DT);
+          }
+        }
+        if (
+          w03 < 3 ||
+          (w42.High >= g84[w03 - 1].High &&
+            w42.High >= g84[w03 - 2].High &&
+            w42.High >= g84[w03 - ("3" | 0)].High)
+        ) {
+          if (w03 - A10 >= H9N) {
+            x7F = "A";
+            x7F += "ll";
+            x7F += " Ti";
+            x7F += "me High:";
+            A10 = w03;
+            for (var v1M = 0; v1M < H9N; v1M++) {
+              if (w03 - v1M < 0) break;
+              if (g84[w03 - v1M].High > g84[A10].High) {
+                s9H.V84(4);
+                A10 = s9H.F4O(w03, v1M);
+              }
+            }
+            if (g3p) {
+              console.log(x7F + w42.DT);
+            }
+          }
+        }
+        if (C8R.inputs["Volume Spike"] && w03 > H9N && w03 == A10) {
+          if (w42[t8S.ADV] * u$8 < w42.Volume) {
+            k3$ = "V";
+            k3$ += "olu";
+            k3$ += "me Spi";
+            k3$ += "ke:";
+            s9H.V84(4);
+            w42[t8S.Spike] = s9H.F4O("1", 0);
+            if (g3p) {
+              console.log(k3$ + w42.DT);
+            }
+          }
+        }
+        w42[t8S.ATH] = A10;
+      }
+    };
+    x4Q.Studies.displayDarvas = function (o2x, I8g, x0_) {
+      var U0X,
+        e_W,
+        l9x,
+        H8b,
+        D_L,
+        G3C,
+        Z1a,
+        c6n,
+        Z1J,
+        l3q,
+        k9v,
+        x4Z,
+        O4e,
+        s$L,
+        r9k,
+        Y52,
+        B1k,
+        M4U,
+        l7c,
+        b__,
+        t1r,
+        Z37,
+        q_X,
+        r5Z,
+        V9K,
+        T$y,
+        P8d,
+        A62,
+        X0M,
+        s6B,
+        B7_,
+        N_Q,
+        A8_,
+        Q1e,
+        T0e,
+        O3p,
+        N0V;
+      U0X = "aut";
+      U0X += "o";
+      e_W = x4Q.Studies.determineColor(I8g.outputs.Levels);
+      if (!e_W || e_W == U0X || x4Q.isTransparent(e_W)) {
+        e_W = o2x.defaultColor;
+      }
+      l9x = x4Q.Studies.determineColor(I8g.outputs.Darvas);
+      if (!l9x || l9x == "auto" || x4Q.isTransparent(l9x)) {
+        l9x = o2x.defaultColor;
+      }
+      H8b = x4Q.Studies.determineColor(I8g.outputs.Ghost);
+      if (!H8b || H8b == "auto" || x4Q.isTransparent(H8b)) {
+        H8b = o2x.defaultColor;
+      }
+      D_L = o2x.panels[I8g.panel];
+      G3C = I8g.getContext(o2x);
+      s9H.K2h(21);
+      var Y41 = s9H.F4O(13, 13, 3);
+      k9v = o2x.layout.candleWidth - Y41;
+      if (k9v < 2) {
+        k9v = +"1";
+      }
+      o2x.startClip(I8g.panel);
+      if (I8g.inputs["Stop Levels"]) {
+        if (G3C.setLineDash) {
+          G3C.setLineDash([2, 2]);
+        }
+        G3C.lineWidth = 2;
+        G3C.strokeStyle = e_W;
+        G3C.beginPath();
+        for (Z1a = 0; Z1a < x0_.length; Z1a++) {
+          x4Z = "Lo";
+          x4Z += "ss ";
+          c6n = x0_[Z1a];
+          s9H.K2h(100);
+          O4e = x0_[s9H.F4O("1", Z1a, 0)];
+          if (!c6n) continue;
+          l3q = c6n["Loss " + I8g.name]
+            ? Math.floor(o2x.pixelFromPrice(c6n[x4Z + I8g.name], D_L))
+            : null;
+          s$L =
+            O4e && O4e["Loss " + I8g.name]
+              ? Math.floor(o2x.pixelFromPrice(O4e["Loss " + I8g.name], D_L))
+              : null;
+          if (l3q) {
+            if (c6n.candleWidth) {
+              k9v = Math.floor(Math.max("1" ^ 0, c6n.candleWidth));
+            }
+            r9k = Math.floor(o2x.pixelFromBar(Z1a, D_L.chart) + k9v / 2);
+            Y52 = Math.floor(o2x.pixelFromBar(Z1a, D_L.chart) - k9v / 2);
+            if (s$L && s$L >= l3q) {
+              G3C.lineTo(Y52, l3q);
+            } else if (Z1a === 0) {
+              G3C.moveTo(o2x.chart.left, l3q);
+            } else {
+              G3C.moveTo(Y52, l3q);
+            }
+            G3C.lineTo(r9k, l3q);
+          }
+        }
+        G3C.stroke();
+        if (G3C.setLineDash) {
+          G3C.setLineDash([]);
+        }
+        G3C.lineWidth = 1;
+      }
+      B1k = -10;
+      s9H.V84(11);
+      l7c = s9H.F4O(0, "0");
+      t1r = -10;
+      q_X = 0;
+      V9K = !"1";
+      T$y = !!"";
+      s9H.V84(131);
+      var E1R = s9H.F4O(1, 11, 97, 5, 6);
+      s9H.K2h(126);
+      var h7x = s9H.o6M(14, 3800, 2, 19, 68724);
+      s9H.K2h(34);
+      var f1f = s9H.F4O(11, 62720, 686000);
+      s9H.V84(149);
+      var z8Z = s9H.F4O(3, 1818, 20, 8504);
+      s9H.V84(140);
+      var t3F = s9H.o6M(20, 19, 99081, 5484);
+      s9H.V84(35);
+      var e0N = s9H.o6M(56086, 8010, 8, 3);
+      s9H.V84(4);
+      var s2J = s9H.o6M(3773, 10);
+      P8d =
+        G3C.measureText(
+          "1844" >> E1R <= h7x
+            ? (785.23, 72.02) != (f1f, 451.29)
+              ? (z8Z, t3F) == e0N
+                ? (481.74, 524.03)
+                : "\u25B2"
+              : 380.22
+            : (!!"", s2J),
+        ).width / +"2";
+      A62 = +"0";
+      for (Z1a = 0; Z1a < x0_.length; Z1a++) {
+        X0M = "Ghos";
+        X0M += "t Box";
+        X0M += "e";
+        X0M += "s";
+        if (!x0_[Z1a]) continue;
+        if (x0_[Z1a].Close || x0_[Z1a].Close === 0) {
+          A62 = Z1a;
+        }
+        if (x0_[Z1a]["Spike " + I8g.name]) {
+          G3C.fillStyle = l9x;
+          G3C.textBaseline = "bottom";
+          s6B = o2x.pixelFromPrice(x0_[Z1a].High, o2x.chart.panel);
+          G3C.fillText(
+            919.83 > "472.05" * 1 ? "\u25BC" : "t",
+            o2x.pixelFromBar(Z1a) - P8d,
+            s6B - 5,
+          );
+        }
+        if (x0_[Z1a].candleWidth) {
+          k9v = Math.floor(Math.max(1, x0_[Z1a].candleWidth));
+        }
+        if (x0_[Z1a]["Darvas " + I8g.name]) {
+          B7_ = "Darv";
+          B7_ += "a";
+          B7_ += "s";
+          B7_ += " ";
+          c6n = x0_[Z1a][B7_ + I8g.name];
+          if (c6n.State == 1 && !V9K) {
+            B1k = Math.floor(o2x.pixelFromBar(Z1a, D_L.chart) - k9v / 2);
+            M4U = Math.floor(o2x.pixelFromPrice(c6n.High, D_L));
+            b__ = Math.floor(o2x.pixelFromPrice(c6n.Low, D_L)) - M4U;
+            V9K = !!{};
+          } else if (c6n.State === 0) {
+            N_Q = "Stop ";
+            N_Q += "Levels";
+            s9H.K2h(4);
+            var H2D = s9H.F4O(14, 12);
+            l7c =
+              Math.floor(o2x.pixelFromBar(Z1a, D_L.chart) + k9v / H2D) - B1k;
+            M4U = Math.floor(o2x.pixelFromPrice(c6n.High, D_L));
+            b__ = Math.floor(o2x.pixelFromPrice(c6n.Low, D_L)) - M4U;
+            G3C.strokeStyle = l9x;
+            G3C.fillStyle = l9x;
+            if (!I8g.inputs[N_Q]) {
+              G3C.strokeRect(B1k, M4U, l7c, b__);
+              G3C.globalAlpha = 0.2;
+            } else {
+              s9H.K2h(3);
+              G3C.globalAlpha = s9H.F4O("0.3", 1);
+            }
+            G3C.fillRect(B1k, M4U, l7c, b__);
+            G3C.globalAlpha = 1;
+            V9K = !{};
+          }
+        }
+        if (x0_[Z1a]["Ghost " + I8g.name] && I8g.inputs[X0M]) {
+          c6n = x0_[Z1a]["Ghost " + I8g.name];
+          if (c6n.State == 1 && !T$y) {
+            t1r = Math.floor(o2x.pixelFromBar(Z1a, D_L.chart) - k9v / +"2");
+            Z37 = Math.floor(o2x.pixelFromPrice(c6n.High, D_L));
+            q_X = Math.floor(
+              (c6n.End - c6n.Start + 1) * o2x.layout.candleWidth + k9v / 2,
+            );
+            r5Z = Math.floor(o2x.pixelFromPrice(c6n.Low, D_L)) - Z37;
+            T$y = !![];
+          } else if (c6n.State === 0) {
+            if (c6n.Start == c6n.End) {
+              t1r = Math.floor(o2x.pixelFromBar(Z1a, D_L.chart) - k9v / +"2");
+            }
+            s9H.V84(34);
+            var Z54 = s9H.F4O(16, 6, 94);
+            q_X =
+              Math.floor(o2x.pixelFromBar(Z1a, D_L.chart) + k9v / Z54) - t1r;
+            Z37 = Math.floor(o2x.pixelFromPrice(c6n.High, D_L));
+            r5Z = Math.floor(o2x.pixelFromPrice(c6n.Low, D_L)) - Z37;
+            G3C.strokeStyle = H8b;
+            G3C.fillStyle = H8b;
+            if (!I8g.inputs["Stop Levels"]) {
+              G3C.strokeRect(t1r, Z37, q_X, r5Z);
+              G3C.globalAlpha = 0.2;
+            } else {
+              s9H.V84(4);
+              G3C.globalAlpha = s9H.F4O("0.3", 0);
+            }
+            G3C.fillRect(t1r, Z37, q_X, r5Z);
+            G3C.globalAlpha = 1;
+            T$y = !{};
+          }
+        }
+      }
+      if (V9K) {
+        s9H.K2h(8);
+        var T5$ = s9H.o6M(10, 12);
+        l7c = Math.floor(o2x.pixelFromBar(A62, D_L.chart) + k9v / T5$) - B1k;
+        G3C.strokeStyle = l9x;
+        G3C.fillStyle = l9x;
+        if (!I8g.inputs["Stop Levels"]) {
+          G3C.beginPath();
+          s9H.K2h(26);
+          G3C.moveTo(s9H.o6M(2, l7c, B1k), M4U);
+          G3C.lineTo(B1k, M4U);
+          s9H.V84(1);
+          G3C.lineTo(B1k, s9H.F4O(M4U, b__));
+          s9H.K2h(26);
+          G3C.lineTo(s9H.o6M(2, l7c, B1k), s9H.F4O(M4U, b__, s9H.V84(1)));
+          G3C.stroke();
+          s9H.V84(4);
+          G3C.globalAlpha = s9H.o6M("0.2", 0);
+        } else {
+          G3C.globalAlpha = 0.3;
+        }
+        s9H.K2h(3);
+        G3C.fillRect(B1k, M4U, s9H.F4O(2, l7c), b__);
+        G3C.globalAlpha = 1;
+      }
+      if (T$y) {
+        G3C.strokeStyle = H8b;
+        G3C.fillStyle = H8b;
+        if (!I8g.inputs["Stop Levels"]) {
+          G3C.strokeRect(t1r, Z37, q_X, r5Z);
+          G3C.globalAlpha = 0.2;
+        } else {
+          A8_ = 320194734;
+          Q1e = 2014323804;
+          T0e = 2;
+          for (
+            var e8l = 1;
+            s9H.o0D(e8l.toString(), e8l.toString().length, 75291) !== A8_;
+            e8l++
+          ) {
+            G3C.globalAlpha = 0.3;
+            T0e += 2;
+          }
+          if (s9H.S6r(T0e.toString(), T0e.toString().length, 3135) !== Q1e) {
+            G3C.globalAlpha = 952;
+          }
+        }
+        G3C.fillRect(t1r, Z37, q_X, r5Z);
+        G3C.globalAlpha = 1;
+      }
+      if (V9K || T$y) {
+        O3p = "S";
+        O3p += "top L";
+        O3p += "evel";
+        O3p += "s";
+        if (I8g.inputs[O3p]) {
+          if (G3C.setLineDash) {
+            G3C.setLineDash([2, 2]);
+          }
+          G3C.lineWidth = 2;
+          G3C.strokeStyle = e_W;
+          N0V = Math.floor(o2x.pixelFromBar(A62 - 1, D_L.chart) + k9v / 2);
+          if (Z1J) {
+            G3C.beginPath();
+            G3C.moveTo(N0V, Z1J);
+            G3C.lineTo(V9K ? B1k + 2 * l7c : t1r + q_X, Z1J);
+            G3C.stroke();
+          }
+          if (l3q) {
+            G3C.beginPath();
+            G3C.moveTo(N0V, l3q);
+            G3C.lineTo(V9K ? B1k + 2 * l7c : t1r + q_X, l3q);
+            G3C.stroke();
+          }
+          if (G3C.setLineDash) {
+            G3C.setLineDash([]);
+          }
+          G3C.lineWidth = 1;
+        }
+        V9K = ![];
+        T$y = ![];
+      }
+      o2x.endClip();
+    };
+    x4Q.Studies.studyLibrary = x4Q.extend(x4Q.Studies.studyLibrary, {
+      Darvas: {
+        name: "Darvas Box",
+        underlay: !0,
+        calculateFN: x4Q.Studies.calculateDarvas,
+        seriesFN: x4Q.Studies.displayDarvas,
+        inputs: {
+          "ATH Lookback Period": 100,
+          "Exit Field": ["close", "high/low"],
+          "Ghost Boxes": !!{},
+          "Stop Levels": !!"",
+          "Level Offset": 0.01,
+          "Price Minimum": 5,
+          "Volume Spike": !!0,
+          "Volume % of Avg": "400" | 16,
+        },
+        outputs: { Darvas: "#5F7CB8", Ghost: "#699158", Levels: "auto" },
+        customRemoval: !!1,
+        attributes: {
+          "Price Minimum": { min: 0.01, step: 0.01 },
+          yaxisDisplayValue: { hidden: !!{} },
+          panelName: { hidden: !!"1" },
+          flippedEnabled: { hidden: !![] },
+        },
+      },
+    });
+  }
+};
+s0 = (y1J) => {
+  var h1r, Y9l, h$2, Y7E;
+  h1r = "und";
+  h1r += "efined";
+  Y9l = typeof _CIQ !== h1r ? _CIQ : y1J.CIQ;
+  if (!Y9l.Studies) {
+    console.error(
+      "detrended feature requires first activating studies feature.",
+    );
+  } else {
+    h$2 = "fiel";
+    h$2 += "d";
+    Y7E = "Detrend";
+    Y7E += "ed Price Oscillator";
+    Y9l.Studies.calculateDetrendedPrice = function (u3P, V$L) {
+      var O_M, y_g, A5a, e1G, z0X, m6E;
+      O_M = V$L.chart.scrubbed;
+      if (O_M.length < V$L.days + 1) {
+        V$L.error = !0;
+        return;
+      }
+      y_g = V$L.inputs.Field;
+      if (!y_g || y_g == "field") {
+        y_g = "Close";
+      }
+      A5a = Math.floor(V$L.days / 2 + 1);
+      Y9l.Studies.MA(
+        V$L.inputs["Moving Average Type"],
+        V$L.days,
+        y_g,
+        -A5a,
+        "MA",
+        u3P,
+        V$L,
+      );
+      for (
+        var O_X = Math.max(V$L.days - A5a - 1, V$L.startFrom - A5a);
+        O_X < O_M.length - A5a;
+        O_X++
+      ) {
+        e1G = "M";
+        e1G += "A ";
+        if (O_X < 0) continue;
+        z0X = Y9l.Studies.getQuoteFieldValue(O_M[O_X], y_g, V$L.subField);
+        m6E = Y9l.Studies.getQuoteFieldValue(O_M[O_X], e1G + V$L.name);
+        if (z0X !== null && m6E !== null) {
+          u7J6i.V84(4);
+          O_M[O_X]["Result " + V$L.name] = u7J6i.F4O(z0X, m6E);
+        }
+      }
+    };
+    Y9l.Studies.studyLibrary = Y9l.extend(Y9l.Studies.studyLibrary, {
+      Detrended: {
+        name: Y7E,
+        calculateFN: Y9l.Studies.calculateDetrendedPrice,
+        inputs: { Period: 14, Field: h$2, "Moving Average Type": "ma" },
+      },
+    });
+  }
+};
+a8 = (V1U) => {
+  var s57, J1Z;
+  s57 = typeof _CIQ !== "undefined" ? _CIQ : V1U.CIQ;
+  u7J6i.R4I();
+  if (!s57.Studies) {
+    console.error(
+      "disparity feature requires first activating studies feature.",
+    );
+  } else {
+    J1Z = "m";
+    J1Z += "a";
+    s57.Studies.calculateDisparity = function (V$T, y4N) {
+      var r5_, K48, Z11, Z2j;
+      r5_ = "_";
+      r5_ += "M";
+      r5_ += "A";
+      K48 = y4N.chart.scrubbed;
+      if (K48.length < y4N.days + 1) {
+        y4N.error = !![];
+        return;
+      }
+      Z11 = y4N.inputs.Field;
+      if (!Z11 || Z11 == "field") {
+        Z11 = "Close";
+      }
+      s57.Studies.MA(
+        y4N.inputs["Moving Average Type"],
+        y4N.days,
+        Z11,
+        0,
+        r5_,
+        V$T,
+        y4N,
+      );
+      for (
+        var N$V = Math.max(y4N.startFrom, y4N.days - 1);
+        N$V < K48.length;
+        N$V++
+      ) {
+        if (!K48[N$V]) continue;
+        Z2j = K48[N$V]["_MA " + y4N.name];
+        if (Z2j) {
+          K48[N$V]["Result " + y4N.name] =
+            100 * (s57.Studies.getQuoteFieldValue(K48[N$V], Z11) / Z2j - +"1");
+        }
+      }
+    };
+    s57.Studies.studyLibrary = s57.extend(s57.Studies.studyLibrary, {
+      Disparity: {
+        name: "Disparity Index",
+        calculateFN: s57.Studies.calculateDisparity,
+        inputs: {
+          Period: "14" * 1,
+          Field: "field",
+          "Moving Average Type": J1Z,
+        },
+      },
+    });
+  }
+};
+X9 = (z2p) => {
+  var F0k = u7J6i;
+  var I1i;
+  F0k.p24();
+  I1i = typeof _CIQ !== "undefined" ? _CIQ : z2p.CIQ;
+  if (!I1i.Studies) {
+    console.error(
+      "easeOfMovement feature requires first activating studies feature.",
+    );
+  } else {
+    I1i.Studies.calculateEaseOfMovement = function (Q1u, Y9L) {
+      var i3u, Y4q, G9e, K1z, h0O, U9w, M62;
+      i3u = "Mo";
+      i3u += "vin";
+      i3u += "g Average T";
+      i3u += "ype";
+      Y4q = Y9L.chart.scrubbed;
+      if (Y4q.length < Y9L.days) {
+        Y9L.error = !!{};
+        return;
+      }
+      for (var c5d = Math.max(+"1", Y9L.startFrom); c5d < Y4q.length; c5d++) {
+        F0k.K2h(60);
+        var v8C = F0k.F4O(5, 14, 7);
+        G9e = (Y4q[c5d].High + Y4q[c5d].Low) / v8C;
+        F0k.K2h(20);
+        var V3F = F0k.F4O(5, 2, 2);
+        F0k.K2h(150);
+        var Y0q = F0k.F4O(3, 4, 14, 11, 3);
+        F0k.V84(35);
+        var N77 = F0k.F4O(254, 18, 14, 4);
+        K1z = (Y4q[c5d - "1" * V3F].High + Y4q[c5d - Y0q].Low) / N77;
+        F0k.K2h(4);
+        h0O = F0k.o6M(G9e, K1z);
+        F0k.V84(137);
+        var j6e = F0k.o6M(94117649, 6, 5882353, 4);
+        U9w = Y4q[c5d].Volume / j6e / (Y4q[c5d].High - Y4q[c5d].Low);
+        F0k.V84(12);
+        M62 = F0k.o6M(U9w, h0O);
+        if (!isFinite(M62)) {
+          Y4q[c5d]["_EOM1 " + Y9L.name] = NaN;
+        } else {
+          Y4q[c5d]["_EOM1 " + Y9L.name] = M62;
+        }
+      }
+      I1i.Studies.MA(
+        Y9L.inputs[i3u],
+        Y9L.days,
+        "_EOM1 " + Y9L.name,
+        0,
+        "Result",
+        Q1u,
+        Y9L,
+      );
+    };
+    I1i.Studies.studyLibrary = I1i.extend(I1i.Studies.studyLibrary, {
+      EOM: {
+        name: "Ease of Movement",
+        calculateFN: I1i.Studies.calculateEaseOfMovement,
+        inputs: { Period: 14, "Moving Average Type": "ma" },
+      },
+    });
+  }
+};
+V_ = (s9n) => {
+  var e76, i6d, L0K;
+  e76 = "undefine";
+  e76 += "d";
+  i6d = typeof _CIQ !== e76 ? _CIQ : s9n.CIQ;
+  if (!i6d.Studies) {
+    L0K = "ehlerFisher feature requires first activating studies";
+    L0K += " ";
+    L0K += "feature.";
+    console.error(L0K);
+  } else {
+    i6d.Studies.calculateEhlerFisher = function (I22, V3x) {
+      var I5B = u7J6i;
+      var D9p, q_F, S5F, f_P, N_q;
+      D9p = V3x.chart.scrubbed;
+      if (D9p.length < V3x.days + 1) {
+        V3x.error = !!{};
+        return;
+      }
+      q_F = 0;
+      function q7w(Q7b, S$n) {
+        var b65, N5a, R42;
+        b65 = Number.MAX_VALUE;
+        I5B.V84(151);
+        var O0p = I5B.o6M(17, 34, 12, 6);
+        N5a = Number.MAX_VALUE * O0p;
+        for (var m9b = S$n - Q7b + ("1" - 0); m9b <= S$n; m9b++) {
+          I5B.V84(10);
+          var Q3H = I5B.F4O(3, 1, 4);
+          R42 = (D9p[m9b].High + D9p[m9b].Low) / Q3H;
+          b65 = Math.min(b65, R42);
+          N5a = Math.max(N5a, R42);
+        }
+        return [b65, N5a];
+      }
+      if (V3x.startFrom > 1) {
+        I5B.V84(57);
+        var r5O = I5B.o6M(8, 1, 18, 10);
+        q_F = D9p[V3x.startFrom - r5O]["_n " + V3x.name];
+      }
+      for (var E8b = V3x.startFrom; E8b < D9p.length; E8b++) {
+        S5F = D9p[E8b];
+        if (S5F.futureTick) break;
+        if (E8b < V3x.days - 1) {
+          S5F["EF " + V3x.name] = S5F["EF Trigger " + V3x.name] = q_F;
+          continue;
+        }
+        f_P = q7w(V3x.days, E8b);
+        I5B.V84(1);
+        var x3z = I5B.o6M(49, 15);
+        I5B.V84(152);
+        var k5G = I5B.o6M(63, 16, 7, 11);
+        I5B.K2h(66);
+        var n6a = I5B.F4O(19, 15, 9, 3);
+        q_F =
+          0.33 *
+            ("2" >> x3z) *
+            (((D9p[E8b].High + D9p[E8b].Low) / k5G - f_P[0]) /
+              Math.max(+"0.000001", f_P[n6a] - f_P[0]) -
+              0.5) +
+          0.67 * q_F;
+        if (q_F > 0) {
+          q_F = Math.min(q_F, 0.9999);
+        } else if (q_F < 0) {
+          q_F = Math.max(q_F, -0.9999);
+        }
+        N_q = E8b ? D9p[E8b - 1]["EF " + V3x.name] : 0;
+        I5B.V84(153);
+        var B4A = I5B.o6M(1496, 16, 3, 11, 17);
+        I5B.K2h(154);
+        var Z3S = I5B.o6M(1, 4, 0, 5, 1);
+        S5F["EF " + V3x.name] =
+          0.5 * Math.log((B4A + q_F) / (Z3S - q_F)) + 0.5 * N_q;
+        S5F["EF Trigger " + V3x.name] = N_q;
+        S5F["_n " + V3x.name] = q_F;
+      }
+    };
+    i6d.Studies.studyLibrary = i6d.extend(i6d.Studies.studyLibrary, {
+      "Ehler Fisher": {
+        name: "Ehler Fisher Transform",
+        calculateFN: i6d.Studies.calculateEhlerFisher,
+        inputs: { Period: 10 },
+        outputs: { EF: "auto", "EF Trigger": "#FF0000" },
+      },
+    });
+  }
+};
+n4 = (f6D) => {
+  var f13, b81, B_E, o_z;
+  f13 = "u";
+  f13 += "ndef";
+  f13 += "ined";
+  b81 = typeof _CIQ !== f13 ? _CIQ : f6D.CIQ;
+  if (!b81.Studies) {
+    console.error("elder feature requires first activating studies feature.");
+  } else {
+    B_E = "#";
+    B_E += "5F7C";
+    B_E += "B";
+    B_E += "8";
+    o_z = "Elder Ra";
+    o_z += "y Ind";
+    o_z += "ex";
+    b81.Studies.calculateElderImpulse = function (G0Y, v8z) {
+      var v10 = u7J6i;
+      var X$Y, i1e, t_h, A8C, V4r, r3Z, n1X, d4U;
+      X$Y = G0Y.layout.aggregationType;
+      i1e = G0Y.chart.customChart;
+      if (i1e) {
+        if (v8z.disabled || (X$Y && X$Y != "ohlc")) {
+          if (!v8z.disabled) {
+            v8z.error =
+              "Elder Impulse study is not compatible with aggregated chart types.";
+          }
+          if (i1e.colorFunction) {
+            i1e.priorColorFunction = i1e.colorFunction;
+          }
+          if (i1e.chartType) {
+            i1e.priorChartType = i1e.chartType;
+          }
+          i1e.colorFunction = null;
+          i1e.chartType = null;
+          G0Y.setMainSeriesRenderer();
+          return;
+        }
+        if (i1e.priorColorFunction) {
+          i1e.colorFunction = i1e.priorColorFunction;
+          i1e.priorColorFunction = null;
+          i1e.chartType = i1e.priorChartType;
+          i1e.priorChartType = null;
+          G0Y.setMainSeriesRenderer();
+        }
+      }
+      t_h = v8z.chart.scrubbed;
+      A8C = v8z.outputs.Bullish;
+      V4r = v8z.outputs.Bearish;
+      r3Z = v8z.outputs.Neutral;
+      b81.Studies.MA("exponential", 13, "Close", 0, "_MA", G0Y, v8z);
+      v10.V84(39);
+      var J9v = v10.o6M(320841, 13, 17, 10, 19448);
+      v10.V84(10);
+      var N0v = v10.o6M(11, 288, 20);
+      v10.V84(34);
+      var I2K = v10.o6M(4, 5271, 15825);
+      v10.K2h(4);
+      var j72 = v10.F4O(57820, 53690);
+      v10.V84(1);
+      var v76 = v10.F4O(4089, 11);
+      v10.K2h(4);
+      var J5B = v10.F4O(9499, 8);
+      v10.K2h(57);
+      var D5E = v10.F4O(11, 2068, 37, 8);
+      v10.K2h(139);
+      var w5A = v10.F4O(2, 57, 6140, 20, 15);
+      v10.K2h(28);
+      var J4m = v10.F4O(2, 8139, 17);
+      v8z.macd = new b81.Studies.StudyDescriptor(
+        ((J9v, N0v) < "7070" - 0
+          ? "_"
+          : (I2K, j72) == (v76, J5B)
+            ? ("R", "X")
+            : D5E != w5A
+              ? 992.77
+              : J4m) + v8z.name,
+        "macd",
+        v8z.panel,
+      );
+      v8z.macd.chart = v8z.chart;
+      v8z.macd.days = v8z.days;
+      v8z.macd.startFrom = v8z.startFrom;
+      v8z.macd.inputs = {
+        "Fast MA Period": 12,
+        "Slow MA Period": 26,
+        "Signal Period": 9,
+      };
+      v8z.macd.outputs = { _MACD: null, _Signal: null };
+      b81.Studies.calculateMACD(G0Y, v8z.macd);
+      for (var W3w = v8z.startFrom; W3w < t_h.length; W3w++) {
+        d4U = "_";
+        d4U += "hi";
+        d4U += "s";
+        d4U += "t";
+        if (W3w === 0) {
+          n1X = r3Z;
+        } else if (
+          t_h[W3w]["_MA " + v8z.name] > t_h[W3w - 1]["_MA " + v8z.name] &&
+          t_h[W3w][
+            (613.33 != 152.43
+              ? "_"
+              : (+"212", 62.22) > (802.16, 3143)
+                ? 0x19b9
+                : (+"940.04", 6720) !== 513.35
+                  ? (!{}, !{})
+                  : (0x169d, 8.92e3)) +
+              v8z.name +
+              "_hist"
+          ] > t_h[W3w - ("1" ^ 0)]["_" + v8z.name + "_hist"]
+        ) {
+          n1X = A8C;
+        } else if (
+          t_h[W3w]["_MA " + v8z.name] < t_h[W3w - +"1"]["_MA " + v8z.name] &&
+          t_h[W3w][((107.92, +"7030") == 49.04 ? !!{} : "_") + v8z.name + d4U] <
+            t_h[W3w - 1]["_" + v8z.name + "_hist"]
+        ) {
+          n1X = V4r;
+        } else {
+          n1X = r3Z;
+        }
+        t_h[W3w]["Result " + v8z.name] = n1X;
+      }
+    };
+    b81.Studies.calculateElderRay = function (o00, h8$) {
+      var A9A, w5S, Y3_, i5i, q$p, n15, F4c;
+      A9A = "_hi";
+      A9A += "s";
+      A9A += "t";
+      A9A += "2";
+      w5S = "_";
+      w5S += "hist1";
+      Y3_ = "_";
+      Y3_ += "E";
+      Y3_ += "MA";
+      i5i = h8$.chart.scrubbed;
+      u7J6i.p24();
+      if (i5i.length < h8$.days) {
+        h8$.error = !!1;
+        return;
+      }
+      b81.Studies.MA("exponential", h8$.days, "Close", 0, Y3_, o00, h8$);
+      for (
+        var r5m = Math.max(h8$.startFrom, h8$.days - ("1" - 0));
+        r5m < i5i.length;
+        r5m++
+      ) {
+        q$p = "_";
+        q$p += "EMA ";
+        n15 = "_his";
+        n15 += "t2";
+        F4c = "_hist";
+        F4c += "1";
+        i5i[r5m][h8$.name + F4c] = i5i[r5m].High - i5i[r5m]["_EMA " + h8$.name];
+        i5i[r5m][h8$.name + n15] = i5i[r5m].Low - i5i[r5m][q$p + h8$.name];
+      }
+      h8$.outputMap = {};
+      h8$.outputMap[h8$.name + w5S] = "";
+      h8$.outputMap[h8$.name + A9A] = "";
+    };
+    b81.Studies.calculateElderForce = function (p$d, B7B) {
+      var j$O, U5B, m9K;
+      j$O = "Resul";
+      j$O += "t";
+      U5B = B7B.chart.scrubbed;
+      if (U5B.length < B7B.days) {
+        B7B.error = !![];
+        return;
+      }
+      u7J6i.R4I();
+      for (var H3U = Math.max(1, B7B.startFrom); H3U < U5B.length; H3U++) {
+        m9K = "_";
+        m9K += "EF";
+        m9K += "1 ";
+        u7J6i.V84(1);
+        var q8q = u7J6i.o6M(0, 1);
+        U5B[H3U][m9K + B7B.name] =
+          U5B[H3U].Volume * (U5B[H3U].Close - U5B[H3U - q8q].Close);
+      }
+      b81.Studies.MA(
+        "exponential",
+        B7B.days,
+        "_EF1 " + B7B.name,
+        0,
+        j$O,
+        p$d,
+        B7B,
+      );
+    };
+    b81.Studies.initElderImpulse = function (w0e, l6M, h1A, e4W, q6l, z9n) {
+      u7J6i.R4I();
+      var L0W;
+      L0W = b81.Studies.initializeFN(w0e, l6M, h1A, e4W, q6l, z9n);
+      if (!q6l.calculateOnly) {
+        if (
+          !w0e.chart ||
+          !w0e.chart.panel ||
+          (w0e.chart.customChart && w0e.chart.customChart.owner !== L0W.name)
+        ) {
+          w0e.dispatch("notification", "eldercannotadd");
+          return;
+        }
+        w0e.chart.customChart = {
+          owner: L0W.name,
+          chartType: "colored_bar",
+          colorFunction: function (p6F, N3e, q2N) {
+            var j8w;
+            if (!N3e) {
+              return;
+            }
+            j8w = N3e["Result " + L0W.name];
+            u7J6i.R4I();
+            if (j8w && typeof j8w == "object") {
+              j8w = j8w.color;
+            }
+            return j8w;
+          },
+        };
+        w0e.setMainSeriesRenderer();
+      }
+      return L0W;
+    };
+    b81.Studies.displayElderForce = function (z75, v_x, U85) {
+      var L55, K1Q, n28, r8u, Q0F;
+      L55 = "Re";
+      L55 += "sult ";
+      b81.Studies.displaySeriesAsLine(z75, v_x, U85);
+      K1Q = b81.Studies.determineColor(v_x.outputs.Result);
+      n28 = z75.panels[v_x.panel];
+      r8u = v_x.getYAxis(z75);
+      Q0F = {
+        skipTransform: n28.name != v_x.chart.name,
+        panelName: v_x.panel,
+        band: L55 + v_x.name,
+        threshold: 0,
+        color: K1Q,
+        yAxis: r8u,
+      };
+      if (!v_x.highlight && z75.highlightedDraggable) {
+        Q0F.opacity = 0.3;
+      }
+      Q0F.direction = 1;
+      b81.preparePeakValleyFill(z75, Q0F);
+      Q0F.direction = -1;
+      b81.preparePeakValleyFill(z75, Q0F);
+    };
+    b81.Studies.displayElderRay = function (S3i, K5_, c3e) {
+      var A1t = u7J6i;
+      var W4_, K31, y9u, h$W, y0t, e0P, z78, X6O;
+      W4_ = S3i.panels[K5_.panel];
+      K31 = K5_.getContext(S3i);
+      y9u = K5_.getYAxis(S3i);
+      h$W = S3i.pixelFromPrice(0, W4_, y9u);
+      A1t.V84(139);
+      var O$l = A1t.o6M(3, 32, 1, 16, 12);
+      y0t = S3i.layout.candleWidth - O$l;
+      if (y0t < 2) {
+        A1t.K2h(3);
+        y0t = A1t.o6M("1", 1);
+      }
+      S3i.canvasColor("stx_histogram");
+      function x5F(N3I, Z_1, i1S, H66) {
+        K31.fillStyle = b81.Studies.determineColor(K5_.outputs[i1S]);
+        K31.fillRect(
+          Math.floor(S3i.pixelFromBar(N3I, W4_.chart) - y0t / 2 + y0t * Z_1),
+          Math.floor(h$W),
+          Math.floor(y0t * (1 - +"2" * Z_1)),
+          Math.floor(S3i.pixelFromPrice(X6O[K5_.name + H66], W4_, y9u) - h$W),
+        );
+      }
+      e0P = K31.fillStyle;
+      if (!K5_.underlay) {
+        K31.globalAlpha = 1;
+      }
+      S3i.startClip(K5_.panel);
+      if (!K5_.highlight && S3i.highlightedDraggable) {
+        K31.globalAlpha *= 0.3;
+      }
+      for (var e7G = +"0"; e7G < c3e.length; e7G++) {
+        z78 = "_hi";
+        z78 += "s";
+        z78 += "t";
+        z78 += "1";
+        X6O = c3e[e7G];
+        if (!X6O) continue;
+        if (X6O.candleWidth) {
+          y0t = Math.floor(Math.max(1, X6O.candleWidth - +"2"));
+        }
+        if (X6O[K5_.name + z78] > 0) {
+          x5F(e7G, 0, "Elder Bull Power", "_hist1");
+        }
+        if (X6O[K5_.name + "_hist2"] < "0" >> 64) {
+          x5F(e7G, 0, "Elder Bear Power", "_hist2");
+        }
+        if (X6O[K5_.name + "_hist1"] < 0) {
+          x5F(e7G, 0.1, "Elder Bull Power", "_hist1");
+        }
+        if (X6O[K5_.name + "_hist2"] > 0) {
+          x5F(e7G, 0.1, "Elder Bear Power", "_hist2");
+        }
+      }
+      S3i.endClip();
+      K31.fillStyle = e0P;
+    };
+    b81.Studies.studyLibrary = b81.extend(b81.Studies.studyLibrary, {
+      "Elder Force": {
+        name: "Elder Force Index",
+        calculateFN: b81.Studies.calculateElderForce,
+        seriesFN: b81.Studies.displayElderForce,
+        inputs: { Period: 13 },
+      },
+      "Elder Ray": {
+        name: o_z,
+        seriesFN: b81.Studies.displayElderRay,
+        calculateFN: b81.Studies.calculateElderRay,
+        centerline: "0" ^ 0,
+        inputs: { Period: 13 },
+        outputs: {
+          "Elder Bull Power": "#00DD00",
+          "Elder Bear Power": "#FF0000",
+        },
+      },
+      "Elder Impulse": {
+        name: "Elder Impulse System",
+        calculateFN: b81.Studies.calculateElderImpulse,
+        initializeFN: b81.Studies.initElderImpulse,
+        seriesFN: null,
+        customRemoval: !!1,
+        underlay: !![],
+        inputs: {},
+        outputs: { Bullish: "#8BC176", Bearish: "#DD3E39", Neutral: B_E },
+        removeFN: function (E9D, l40) {
+          var i_1 = u7J6i;
+          var X8Q, C9W, q67;
+          if (
+            !E9D.chart ||
+            (E9D.chart.customChart && E9D.chart.customChart.owner !== l40.name)
+          ) {
+            return;
+          }
+          i_1.R4I();
+          X8Q = -1998566938;
+          C9W = 1960105403;
+          q67 = 2;
+          for (
+            var P$A = "1" >> 64;
+            i_1.o0D(P$A.toString(), P$A.toString().length, 7767) !== X8Q;
+            P$A++
+          ) {
+            E9D.chart.customChart = null;
+            E9D.setMainSeriesRenderer();
+            i_1.K2h(11);
+            q67 += i_1.F4O(0, "2");
+          }
+          if (
+            i_1.o0D(q67.toString(), q67.toString().length, "49866" >> 64) !==
+            C9W
+          ) {
+            E9D.chart.customChart = 1;
+            E9D.setMainSeriesRenderer();
+          }
+        },
+      },
+    });
+  }
+};
+F3 = (y0w) => {
+  var g3U, y91;
+  g3U = typeof _CIQ !== "undefined" ? _CIQ : y0w.CIQ;
+  if (!g3U.Studies) {
+    console.error(
+      "fractalChaos feature requires first activating studies feature.",
+    );
+  } else {
+    y91 = "Fractal Chaos Band";
+    y91 += "s";
+    g3U.Studies.calculateFractalChaos = function (m7r, x9m) {
+      var P9I = u7J6i;
+      var W7a, X$A, Z$S, K0m, a08, K3d, J4D, b7H, Y5i, g4M;
+      W7a = x9m.chart.scrubbed;
+      X$A = 0;
+      Z$S = 0;
+      K0m = 0;
+      if (x9m.startFrom && x9m.type == "Fractal Chaos Bands") {
+        a08 = "Fractal";
+        a08 += " High ";
+        P9I.K2h(155);
+        var a8g = P9I.F4O(6, 7, 12, 5, 4);
+        X$A = W7a[x9m.startFrom - a8g][a08 + x9m.name];
+        P9I.V84(77);
+        var j36 = P9I.F4O(47, 7, 19, 6, 16);
+        Z$S = W7a[x9m.startFrom - j36]["Fractal Low " + x9m.name];
+      }
+      for (
+        var w0L = Math.max("4" | 0, x9m.startFrom);
+        w0L < W7a.length;
+        w0L++
+      ) {
+        K3d = "Frac";
+        K3d += "tal C";
+        K3d += "haos Bands";
+        J4D = "R";
+        J4D += "esu";
+        J4D += "lt ";
+        if (W7a[w0L].futureTick) break;
+        b7H = !isNaN(W7a[w0L].High);
+        Y5i = !isNaN(W7a[w0L].Low);
+        if (b7H || Y5i) {
+          P9I.V84(0);
+          W7a[w0L][J4D + x9m.name] = P9I.F4O(0, "0");
+        }
+        K0m = 0;
+        for (g4M = +"0"; g4M <= w0L; g4M++) {
+          if (!W7a[w0L - g4M]) break;
+          if (W7a[w0L - g4M].High > W7a[w0L - 2].High) break;
+          if (g4M < 2 && W7a[w0L - g4M].High == W7a[w0L - 2].High) break;
+          if (W7a[w0L - g4M].High < W7a[w0L - 2].High) {
+            K0m++;
+          }
+          if (K0m == 4) {
+            X$A = W7a[w0L - 2].High;
+            break;
+          }
+        }
+        if (x9m.type == "Fractal Chaos Bands") {
+          if (b7H) {
+            W7a[w0L]["Fractal High " + x9m.name] = X$A > 0 ? X$A : null;
+          }
+        } else if (K0m == 4) {
+          W7a[w0L]["Result " + x9m.name] = 1;
+        }
+        K0m = 0;
+        for (g4M = +"0"; g4M <= w0L; g4M++) {
+          if (!W7a[w0L - g4M]) break;
+          if (W7a[w0L - g4M].Low < W7a[w0L - 2].Low) break;
+          if (g4M < 2 && W7a[w0L - g4M].Low == W7a[w0L - 2].Low) break;
+          if (W7a[w0L - g4M].Low > W7a[w0L - 2].Low) {
+            K0m++;
+          }
+          if (K0m == 4) {
+            Z$S = W7a[w0L - 2].Low;
+            break;
+          }
+        }
+        if (x9m.type == K3d) {
+          if (Y5i) {
+            W7a[w0L]["Fractal Low " + x9m.name] = Z$S > 0 ? Z$S : null;
+          }
+        } else if (K0m == ("4" | 4)) {
+          W7a[w0L]["Result " + x9m.name] = -1;
+        }
+      }
+    };
+    g3U.Studies.studyLibrary = g3U.extend(g3U.Studies.studyLibrary, {
+      "Fractal Chaos": {
+        name: "Fractal Chaos Oscillator",
+        range: "-1 to 1",
+        calculateFN: g3U.Studies.calculateFractalChaos,
+        inputs: {},
+        centerline: null,
+      },
+      "Fractal Chaos Bands": {
+        name: y91,
+        overlay: !0,
+        calculateFN: g3U.Studies.calculateFractalChaos,
+        seriesFN: g3U.Studies.displayChannel,
+        inputs: { "Channel Fill": !0 },
+        outputs: {
+          "Fractal High": "auto",
+          "Fractal Low": "auto",
+          "Fractal Channel": "auto",
+        },
+      },
+    });
+  }
+};
+R4 = (C2L) => {
+  var Q5j;
+  Q5j = typeof _CIQ !== "undefined" ? _CIQ : C2L.CIQ;
+  if (!Q5j.Studies) {
+    console.error(
+      "GoNoGo - Trend study requires first activating studies feature.",
+    );
+  } else {
+    (function O6m() {
+      var S$z, d9H, R0E, k$7, w4p, I7r;
+      function k1W(U3u, C0M) {
+        var R0L, F_O;
+        u7J6i.R4I();
+        var { customChart: X_M } = U3u.chart;
+        if (X_M) {
+          R0L = "ka";
+          R0L += "gi";
+          F_O = U3u.layout.aggregationType;
+          if (
+            C0M.disabled ||
+            F_O === "linebreak" ||
+            F_O === R0L ||
+            F_O === "pandf" ||
+            F_O === "renko"
+          ) {
+            if (!C0M.disabled) {
+              C0M.error = I7r;
+            }
+            if (X_M.colorFunction) {
+              X_M.priorColorFunction = X_M.colorFunction;
+            }
+            X_M.colorFunction = null;
+            return !!"";
+          }
+          if (X_M.priorColorFunction) {
+            X_M.colorFunction = X_M.priorColorFunction;
+            X_M.priorColorFunction = null;
+          }
+        }
+        return !![];
+      }
+      function t73(O8G, B5u) {
+        if (
+          !O8G.chart ||
+          (O8G.chart.customChart && O8G.chart.customChart.owner !== B5u.name)
+        ) {
+          return;
+        }
+        O8G.chart.customChart = null;
+        O8G.setMainSeriesRenderer();
+      }
+      function l_n(K1u, t7v, B_3, g1P, e90, C$i) {
+        var z_i;
+        z_i = new Q5j.Studies.StudyDescriptor(C$i, "PSAR", t7v.panel, {
+          "Minimum AF": B_3,
+          "Maximum AF": g1P,
+        });
+        z_i.startFrom = t7v.startFrom;
+        z_i.chart = t7v.chart;
+        Q5j.Studies.calculatePSAR(K1u, z_i);
+      }
+      function w4i(H$c, m49) {
+        if (
+          !H$c.chart ||
+          !H$c.chart.panel ||
+          (H$c.chart.customChart && H$c.chart.customChart.owner !== m49.name)
+        ) {
+          H$c.dispatch("notification", "gonogocannotadd");
+          return;
+        }
+        H$c.chart.customChart = {
+          owner: m49.name,
+          colorFunction: function (g1X, c26, q7T) {
+            u7J6i.R4I();
+            var D10, A9t;
+            u7J6i.K2h(1);
+            D10 = c26[`${u7J6i.F4O("C", "olor ")}${m49.name}`];
+            if (D10 && typeof D10 === "object") {
+              D10 = D10.color;
+            }
+            A9t = "#00000000";
+            return D10 === "auto" ? g1X.defaultColor : D10 || A9t;
+          },
+        };
+        u7J6i.R4I();
+        H$c.setMainSeriesRenderer();
+        return !"";
+      }
+      S$z = "#";
+      S$z += "d2691";
+      S$z += "e";
+      d9H = "#";
+      d9H += "f";
+      d9H += "ffff";
+      d9H += "f";
+      R0E = "#";
+      R0E += "b5";
+      function d1W(s5E, W5w) {
+        var C7p = u7J6i;
+        var h_S, f3Y, a63, i8v, D4V, n82, d9n, w9J, F7A, w7n, f2P;
+        h_S = "mys";
+        h_S += "a";
+        h_S += "r";
+        f3Y = "mymac";
+        f3Y += "d";
+        a63 = "e";
+        a63 += "m";
+        a63 += "a";
+        i8v = W5w.chart.scrubbed;
+        if (!Array.isArray(i8v)) {
+          return;
+        }
+        if (!k1W(s5E, W5w)) {
+          return;
+        }
+        J$5(s5E, W5w, 25, "Close", "mtm");
+        C7p.V84(7);
+        U_i(s5E, W5w, C7p.o6M(0, "5"), 0, "sma", "mtm " + W5w.name, "mtmavg");
+        n2z(s5E, W5w, 12, 26, 9, a63, "ema", "Close", f3Y);
+        U_i(s5E, W5w, 50, 0, "sma", "Close", "myma");
+        C7p.V84(3);
+        l_n(s5E, W5w, 0.2, C7p.F4O("0.2", 1), 0.2, h_S);
+        D4V = `Trend ${W5w.name}`;
+        C7p.V84(1);
+        n82 = `${C7p.F4O("Bu", "ll ")}${W5w.name}`;
+        C7p.V84(68);
+        d9n = `${C7p.o6M(" ", "B", "ear")}${W5w.name}`;
+        w9J = `Color ${W5w.name}`;
+        W5w.outputMap = {};
+        for (var h13 = W5w.startFrom; h13 < i8v.length; h13++) {
+          F7A = "obje";
+          F7A += "ct";
+          w7n = i8v[h13];
+          if (!w7n || typeof w7n !== F7A) {
+            continue;
+          }
+          f2P = 0;
+          if (w7n.Close > w7n[`myma ${W5w.name}`]) {
+            f2P++;
+          }
+          if (w7n.Close > w7n[`${"Result mysa" + "r"}`]) {
+            f2P++;
+          }
+          if (
+            w7n[`MACD mymacd`] > 0 &&
+            w7n[`${"Signal mym" + "ac" + "d"}`] > "0" - 0
+          ) {
+            f2P++;
+          }
+          if (w7n[`${"mtmavg" + " "}${W5w.name}`] > 0) {
+            f2P++;
+          }
+          w7n[D4V] = f2P;
+          w7n[n82] = 0;
+          w7n[d9n] = 0;
+          if (h13 > 0) {
+            if (w7n[D4V] > 2.5 && i8v[h13 - 1][D4V] <= "2.5" * 1) {
+              w7n[n82] = +"1";
+            }
+            if (w7n[D4V] < 2.0 && i8v[h13 - 1][D4V] >= 2.0) {
+              w7n[d9n] = -1;
+            }
+          }
+          C7p.K2h(1);
+          w7n[w9J] = W5w.outputs[C7p.F4O("Score ", f2P)];
+        }
+      }
+      function U_i(C9q, X7F, L9J, l2$, v2Y, M2N, F1x) {
+        Q5j.Studies.MA(v2Y, L9J, M2N, l2$, F1x, C9q, X7F);
+      }
+      R0E += "00b";
+      R0E += "5";
+      function k9r(T4M, q1t, H08, H8C, L$E, o1U) {
+        var U0z;
+        if (!L$E.initialized) {
+          L$E.yaxisDisplayValue = null;
+          L$E.initialized = !!"1";
+        }
+        U0z = Q5j.Studies.initializeFN(T4M, q1t, H08, H8C, L$E, o1U);
+        if (L$E && !L$E.panelName && U0z && U0z.panel) {
+          L$E.panelName = U0z.panel;
+        }
+        if (L$E.calculateOnly) {
+          return U0z;
+        }
+        if (w4i(T4M, U0z)) {
+          U0z.checkDisabled = !!{};
+          return U0z;
+        }
+      }
+      k$7 = "#00";
+      function J$5(D5U, p7P, G22, O1B, e5l) {
+        var r2W = u7J6i;
+        var T2T;
+        r2W.V84(4);
+        var G$X = r2W.F4O(9489, 9);
+        r2W.V84(146);
+        var P9k = r2W.F4O(7297, 3, 10, 65630);
+        r2W.K2h(156);
+        var a0N = r2W.F4O(17, 75600, 79600, 3);
+        r2W.V84(4);
+        var C4Z = r2W.o6M(819, 2);
+        T2T = new Q5j.Studies.StudyDescriptor(
+          e5l + ((G$X, P9k) <= (917.02, a0N) ? (![], C4Z) : " ") + p7P.name,
+          "Momentum",
+          p7P.panel,
+          { Field: O1B, Period: G22 },
+        );
+        r2W.R4I();
+        T2T.days = G22;
+        T2T.startFrom = p7P.startFrom;
+        T2T.parameters = p7P.parameters;
+        T2T.chart = p7P.chart;
+        Q5j.Studies.calculateRateOfChange(D5U, T2T);
+      }
+      k$7 += "ff";
+      k$7 += "f";
+      k$7 += "f";
+      w4p = "G";
+      w4p += "oNoGo -";
+      w4p += " Tr";
+      function m$2(M_j, P08, F5k) {
+        var R78 = u7J6i;
+        var f25,
+          Y6o,
+          o4C,
+          x9I,
+          f9F,
+          K6a,
+          A98,
+          d4p,
+          Q8l,
+          H1L,
+          N6m,
+          q4y,
+          Z8J,
+          T77,
+          m6t,
+          a7i,
+          x8x,
+          H3X,
+          Q1n,
+          j8G;
+        if (!Array.isArray(F5k)) {
+          return;
+        }
+        f25 = -1697093519;
+        R78.K2h(4);
+        Y6o = -R78.F4O("893356287", 0);
+        o4C = 2;
+        for (
+          var Z42 = +"1";
+          R78.S6r(Z42.toString(), Z42.toString().length, 48458) !== f25;
+          Z42++
+        ) {
+          x9I = M_j.panels[P08.panel];
+          R78.K2h(45);
+          o4C += R78.o6M("2", 0);
+        }
+        if (R78.o0D(o4C.toString(), o4C.toString().length, +"88740") !== Y6o) {
+          x9I = M_j.panels[P08.panel];
+        }
+        if (!x9I || P08.noDraw) {
+          return;
+        }
+        f9F = `Bull ${P08.name}`;
+        K6a = `Bear ${P08.name}`;
+        A98 = Math.min(16, Math.max(8, Math.round(M_j.layout.candleWidth)));
+        d4p = Q5j.Studies.determineColor(P08.outputs.Go);
+        R78.p24();
+        Q8l = Q5j.Studies.determineColor(P08.outputs.NoGo);
+        H1L = Q5j.Studies.determineColor(P08.outputs["Text Go"]);
+        N6m = Q5j.Studies.determineColor(P08.outputs["Text NoGo"]);
+        if (d4p === "auto") {
+          d4p = M_j.defaultColor;
+        }
+        if (Q8l === "auto") {
+          Q8l = M_j.defaultColor;
+        }
+        if (H1L === "auto") {
+          H1L = Q5j.chooseForegroundColor(d4p);
+        }
+        if (N6m === "auto") {
+          N6m = Q5j.chooseForegroundColor(Q8l);
+        }
+        var { context: q_u } = M_j.chart;
+        q_u.save();
+        for (var E_3 = "0" * 1; E_3 < F5k.length; E_3++) {
+          q4y = F5k[E_3];
+          if (!q4y) {
+            continue;
+          }
+          if (q4y[f9F] === "1" - 0 || q4y[K6a] === -1) {
+            Z8J = "c";
+            Z8J += "en";
+            Z8J += "ter";
+            R78.V84(4);
+            var M6$ = R78.o6M(13, 12);
+            T77 = q4y[f9F] === M6$;
+            m6t = M_j.pixelFromBar(E_3);
+            a7i = T77
+              ? M_j.pixelFromPrice(q4y.Low) + A98
+              : M_j.pixelFromPrice(q4y.High) - A98;
+            x8x = 4;
+            H3X = T77 ? "Go" : "NoGo";
+            q_u.font = `${A98}px bold Roboto, sans-serif`;
+            var { width: U11 } = q_u.measureText(H3X);
+            R78.K2h(26);
+            Q1n = R78.o6M(x8x, 2, U11);
+            R78.V84(26);
+            j8G = R78.o6M(x8x, 2, A98);
+            q_u.fillStyle = T77 ? d4p : Q8l;
+            R78.V84(53);
+            q_u.fillRect(
+              R78.o6M(m6t, 2, Q1n),
+              R78.F4O(a7i, j8G, "2", R78.V84(105)),
+              Q1n,
+              j8G,
+            );
+            q_u.fillStyle = T77 ? H1L : N6m;
+            q_u.textAlign = Z8J;
+            q_u.textBaseline = "middle";
+            q_u.fillText(H3X, m6t, a7i);
+          }
+        }
+        q_u.restore();
+      }
+      function n2z(L90, H2_, Y9U, o7i, x3g, E5D, a1q, I9f, Z_v) {
+        var T23, l7a;
+        T23 = {
+          "Fast MA Period": Y9U,
+          "Slow MA Period": o7i,
+          "Signal Period": x3g,
+          "Moving Average Type": E5D,
+          "Signal MA Type": a1q,
+          Field: I9f,
+        };
+        l7a = new Q5j.Studies.StudyDescriptor(Z_v, "macd", H2_.panel, T23);
+        l7a.startFrom = H2_.startFrom;
+        u7J6i.R4I();
+        l7a.chart = H2_.chart;
+        Q5j.Studies.calculateMACD(L90, l7a);
+      }
+      w4p += "end";
+      I7r = "GoNoGo study is not compatible with selected aggregation type.";
+      Q5j.Studies.studyLibrary = Q5j.extend(Q5j.Studies.studyLibrary, {
+        "GoNoGo Trend": {
+          name: w4p,
+          overlay: !0,
+          initializeFN: k9r,
+          calculateFN: d1W,
+          seriesFN: m$2,
+          removeFN: t73,
+          inputs: {},
+          outputs: {
+            Go: k$7,
+            NoGo: R0E,
+            "Text Go": "#808080",
+            "Text NoGo": d9H,
+            "Score 0": "#8b008b",
+            "Score 1": "#ee82ee",
+            "Score 2": S$z,
+            "Score 3": "#7fffd4",
+            "Score 4": "#00bfff",
+          },
+          attributes: {
+            yaxisDisplayValue: { hidden: !![] },
+            panelName: { hidden: !0 },
+            underlayEnabled: { hidden: !!"1" },
+          },
+        },
+      });
+    })();
+  }
+};
+E8 = (A2n) => {
+  var a8s = u7J6i;
+  a8s.p24();
+  var D8q, x_i, t3B, P11;
+  D8q = typeof _CIQ !== "undefined" ? _CIQ : A2n.CIQ;
+  if (!D8q.Studies) {
+    console.error(
+      "highLowStudies feature requires first activating studies feature.",
+    );
+  } else {
+    x_i = "a";
+    x_i += "u";
+    x_i += "t";
+    x_i += "o";
+    t3B = "Hi";
+    t3B += "ghest High Val";
+    t3B += "ue";
+    P11 = "a";
+    P11 += "u";
+    P11 += "t";
+    P11 += "o";
+    D8q.Studies.calculateMaxHighMinLow = function (m82, f0T) {
+      var D5H, Y$g, T7X, Z3K, I7S, Z7z, h5G, E5v, W79, S$A, V4R;
+      D5H = "Lo";
+      D5H += "w Period";
+      Y$g = f0T.chart.scrubbed;
+      T7X = f0T.days;
+      Z3K = f0T.days;
+      if (f0T.inputs["High Period"]) {
+        T7X = f0T.inputs["High Period"];
+      }
+      if (f0T.inputs[D5H]) {
+        Z3K = f0T.inputs["Low Period"];
+      }
+      if (Y$g.length < Math.max(T7X, Z3K) + +"1") {
+        f0T.error = !!{};
+        return;
+      }
+      I7S = Number.MAX_VALUE;
+      a8s.V84(8);
+      var x2y = a8s.F4O(11, 10);
+      Z7z = Number.MAX_VALUE * x2y;
+      if (f0T.startFrom > "1" >> 64) {
+        for (h5G = 1; h5G < T7X; h5G++) {
+          if (f0T.startFrom - h5G >= 0) {
+            Z7z = Math.max(Z7z, Y$g[f0T.startFrom - h5G].High);
+          }
+        }
+        for (h5G = 1; h5G < Z3K; h5G++) {
+          if (f0T.startFrom - h5G >= 0) {
+            I7S = Math.min(I7S, Y$g[f0T.startFrom - h5G].Low);
+          }
+        }
+      }
+      for (var f7w = Math.max(0, f0T.startFrom - 1); f7w < Y$g.length; f7w++) {
+        E5v = "VT ";
+        E5v += "HZ Fi";
+        E5v += "lte";
+        E5v += "r";
+        Z7z = Math.max(Z7z, Y$g[f7w].High);
+        I7S = Math.min(I7S, Y$g[f7w].Low);
+        if (f7w >= T7X) {
+          if (Y$g[f7w - T7X].High == Z7z) {
+            Z7z = Y$g[f7w].High;
+            for (h5G = "1" >> 0; h5G < T7X; h5G++) {
+              Z7z = Math.max(Z7z, Y$g[f7w - h5G].High);
+            }
+          }
+        }
+        if (f7w >= Z3K) {
+          if (Y$g[f7w - Z3K].Low == I7S) {
+            I7S = Y$g[f7w].Low;
+            for (h5G = 1; h5G < Z3K; h5G++) {
+              I7S = Math.min(I7S, Y$g[f7w - h5G].Low);
+            }
+          }
+        }
+        W79 = 0;
+        if (f0T.type == "HHV") {
+          W79 = Z7z;
+        } else if (f0T.type == "LLV") {
+          W79 = I7S;
+        } else if (f0T.type == "Donchian Width") {
+          a8s.K2h(4);
+          W79 = a8s.o6M(Z7z, I7S);
+        } else if (f0T.type == "GAPO" || f0T.type == "Gopala") {
+          W79 = Math.log(Z7z - I7S) / Math.log(Z3K);
+        } else if (f0T.type == E5v) {
+          a8s.K2h(4);
+          W79 = a8s.F4O(Z7z, I7S);
+          Y$g[f7w]["_MHML " + f0T.name] = W79;
+          continue;
+        } else if (f0T.type == "Williams %R") {
+          a8s.K2h(21);
+          var U$N = a8s.o6M(1, 107, 7);
+          W79 = (U$N * (Z7z - Y$g[f7w].Close)) / (Z7z - I7S);
+          Y$g[f7w]["Result " + f0T.name] = W79;
+          continue;
+        }
+        if (f7w == Y$g.length - ("1" >> 32)) break;
+        if (!Y$g[f7w + 1].futureTick) {
+          S$A = "Do";
+          S$A += "nchian C";
+          S$A += "hann";
+          S$A += "el";
+          if (f0T.type == S$A) {
+            V4R = "D";
+            V4R += "onchian Median";
+            V4R += " ";
+            a8s.V84(81);
+            Y$g[a8s.F4O(f7w, "1")]["Donchian High " + f0T.name] = Z7z;
+            a8s.K2h(1);
+            Y$g[a8s.F4O(f7w, 1)]["Donchian Low " + f0T.name] = I7S;
+            a8s.K2h(1);
+            Y$g[a8s.o6M(f7w, 1)][V4R + f0T.name] = a8s.o6M(
+              2,
+              I7S,
+              Z7z,
+              a8s.V84(15),
+            );
+          } else {
+            a8s.V84(1);
+            Y$g[a8s.o6M(f7w, 1)]["Result " + f0T.name] = W79;
+          }
+        }
+      }
+    };
+    D8q.Studies.calculateVerticalHorizontalFilter = function (z3C, J9k) {
+      var a4u, X_6, H1T, e_b;
+      a4u = J9k.chart.scrubbed;
+      if (a4u.length < J9k.days + 1) {
+        J9k.error = !![];
+        return;
+      }
+      J9k.mhml = new D8q.Studies.StudyDescriptor(J9k.name, J9k.type, J9k.panel);
+      J9k.mhml.chart = J9k.chart;
+      J9k.mhml.days = J9k.days;
+      J9k.mhml.startFrom = J9k.startFrom;
+      J9k.mhml.inputs = {};
+      J9k.mhml.outputs = { _MHML: null };
+      D8q.Studies.calculateMaxHighMinLow(z3C, J9k.mhml);
+      X_6 = +"0";
+      H1T = [];
+      for (
+        var c_B = Math.max(1, J9k.startFrom - J9k.days);
+        c_B < a4u.length;
+        c_B++
+      ) {
+        e_b = Math.abs(a4u[c_B].Close - a4u[c_B - 1].Close);
+        H1T.push(e_b);
+        X_6 += e_b;
+        if (H1T.length == J9k.days) {
+          a4u[c_B]["Result " + J9k.name] = a4u[c_B]["_MHML " + J9k.name] / X_6;
+          X_6 -= H1T.shift();
+        }
+      }
+    };
+    D8q.Studies.studyLibrary = D8q.extend(D8q.Studies.studyLibrary, {
+      "Donchian Channel": {
+        name: "Donchian Channel",
+        overlay: !![],
+        calculateFN: D8q.Studies.calculateMaxHighMinLow,
+        seriesFN: D8q.Studies.displayChannel,
+        inputs: { "High Period": 20, "Low Period": +"20", "Channel Fill": !0 },
+        outputs: {
+          "Donchian High": "auto",
+          "Donchian Median": P11,
+          "Donchian Low": "auto",
+        },
+      },
+      "Donchian Width": {
+        name: "Donchian Width",
+        calculateFN: D8q.Studies.calculateMaxHighMinLow,
+        inputs: { "High Period": 20, "Low Period": 20 },
+      },
+      GAPO: {
+        name: "Gopalakrishnan Range Index",
+        calculateFN: D8q.Studies.calculateMaxHighMinLow,
+      },
+      HHV: {
+        name: t3B,
+        calculateFN: D8q.Studies.calculateMaxHighMinLow,
+        inputs: { Period: 14 },
+      },
+      LLV: {
+        name: "Lowest Low Value",
+        calculateFN: D8q.Studies.calculateMaxHighMinLow,
+        inputs: { Period: "14" | 8 },
+      },
+      "Williams %R": {
+        name: "Williams %R",
+        calculateFN: D8q.Studies.calculateMaxHighMinLow,
+        inputs: { Period: +"14" },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !0,
+            studyOverBoughtValue: -20,
+            studyOverBoughtColor: x_i,
+            studyOverSoldValue: -("80" | 64),
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+      "VT HZ Filter": {
+        name: "Vertical Horizontal Filter",
+        calculateFN: D8q.Studies.calculateVerticalHorizontalFilter,
+        inputs: { Period: 28 },
+      },
+      "High-Low": {
+        name: "High Minus Low",
+        calculateFN: function (m83, k7X) {
+          var S0M;
+          a8s.R4I();
+          S0M = k7X.chart.scrubbed;
+          for (var P3z = k7X.startFrom; P3z < S0M.length; P3z++) {
+            S0M[P3z]["Result " + k7X.name] = S0M[P3z].High - S0M[P3z].Low;
+          }
+        },
+        inputs: {},
+      },
+    });
+  }
+};
+G3 = (q$i) => {
+  var u5Y, C_o, B17;
+  u5Y = "u";
+  u5Y += "ndefin";
+  u5Y += "ed";
+  C_o = typeof _CIQ !== u5Y ? _CIQ : q$i.CIQ;
+  if (!C_o.Studies) {
+    console.error(
+      "ichimoku feature requires first activating studies feature.",
+    );
+  } else {
+    B17 = "Ic";
+    B17 += "himo";
+    B17 += "ku Clo";
+    B17 += "uds";
+    C_o.Studies.calculateIchimoku = function (N4x, k7c) {
+      var A2$ = u7J6i;
+      var g$C, J_I, c66, l2_, y_d, p6T, G1T, K7g, t3N, y1d, S7p;
+      g$C = "L";
+      g$C += "agging Spa";
+      g$C += "n";
+      g$C += " Period";
+      J_I = "L";
+      J_I += "eading Spa";
+      J_I += "n B Period";
+      c66 = "Conve";
+      c66 += "rsion Lin";
+      c66 += "e Period";
+      l2_ = k7c.chart.scrubbed;
+      y_d = {
+        Base: Number(k7c.inputs["Base Line Period"]),
+        Conv: Number(k7c.inputs[c66]),
+        LeadB: Number(k7c.inputs[J_I]),
+        Lag: Number(k7c.inputs[g$C]),
+      };
+      for (p6T = k7c.startFrom; p6T < l2_.length; p6T++) {
+        if (!l2_[p6T]) continue;
+        G1T = D14(y_d.Conv, p6T);
+        A2$.K2h(66);
+        var U1v = A2$.o6M(20, 11, 8, 1);
+        A2$.K2h(4);
+        var n8f = A2$.o6M(17, 15);
+        l2_[p6T]["Conversion Line " + k7c.name] = (G1T[U1v] + G1T[0]) / n8f;
+        G1T = D14(y_d.Base, p6T);
+        A2$.K2h(4);
+        var p2T = A2$.o6M(7, 6);
+        A2$.K2h(151);
+        var T$V = A2$.F4O(15, 36, 7, 12);
+        l2_[p6T]["Base Line " + k7c.name] = (G1T[p2T] + G1T[0]) / T$V;
+        if (p6T < y_d.Lag) continue;
+        l2_[p6T - y_d.Lag]["Lagging Span " + k7c.name] = l2_[p6T].Close;
+      }
+      A2$.R4I();
+      K7g = [];
+      function D14(B3q, q86) {
+        var K_Q, F2P;
+        K_Q = Number.MAX_VALUE;
+        A2$.R4I();
+        F2P = Number.MAX_VALUE * -("1" | 0);
+        for (var a$Y = q86 - B3q + 1; a$Y <= q86; a$Y++) {
+          if (a$Y < 0) continue;
+          K_Q = Math.min(K_Q, l2_[a$Y].Low);
+          F2P = Math.max(F2P, l2_[a$Y].High);
+        }
+        return [K_Q, F2P];
+      }
+      for (
+        p6T = Math.max(0, k7c.startFrom - y_d.Base);
+        p6T < l2_.length;
+        p6T++
+      ) {
+        G1T = D14(y_d.LeadB, p6T);
+        A2$.K2h(48);
+        var q3G = A2$.F4O(16, 1, 8, 6);
+        t3N =
+          (l2_[p6T]["Conversion Line " + k7c.name] +
+            l2_[p6T]["Base Line " + k7c.name]) /
+          q3G;
+        A2$.V84(1);
+        var G_D = A2$.F4O(3, 29);
+        A2$.K2h(10);
+        var I$H = A2$.o6M(12, 14, 0);
+        y1d = (G1T["1" - 0] + G1T["0" << G_D]) / I$H;
+        if (l2_[p6T + y_d.Base]) {
+          l2_[p6T + y_d.Base]["Leading Span A " + k7c.name] = t3N;
+          l2_[p6T + y_d.Base]["Leading Span B " + k7c.name] = y1d;
+        } else {
+          S7p = {};
+          S7p["Leading Span A " + k7c.name] = t3N;
+          S7p["Leading Span B " + k7c.name] = y1d;
+          K7g.push(S7p);
+        }
+      }
+      k7c.appendFutureTicks(N4x, K7g);
+    };
+    C_o.Studies.displayIchimoku = function (D7M, U_R, Z_I) {
+      var i2O, h_l, A82, y7W, s1K, x9M, l6D, K6A;
+      i2O = "L";
+      i2O += "eading Span B ";
+      h_l = "Leading Span A " + U_R.name;
+      A82 = i2O + U_R.name;
+      u7J6i.R4I();
+      y7W = C_o.Studies.determineColor(U_R.outputs[U_R.outputMap[h_l]]);
+      s1K = C_o.Studies.determineColor(U_R.outputs[U_R.outputMap[A82]]);
+      x9M = D7M.panels[U_R.panel];
+      l6D = U_R.getYAxis(D7M);
+      K6A = {
+        topBand: h_l,
+        bottomBand: A82,
+        topColor: y7W,
+        bottomColor: s1K,
+        skipTransform: x9M.name != U_R.chart.name,
+        topAxis: l6D,
+        bottomAxis: l6D,
+        opacity: 0.3,
+      };
+      if (!U_R.highlight && D7M.highlightedDraggable) {
+        u7J6i.V84(4);
+        K6A.opacity *= u7J6i.F4O("0.3", 0);
+      }
+      C_o.fillIntersecting(D7M, U_R.panel, K6A);
+      C_o.Studies.displaySeriesAsLine(D7M, U_R, Z_I);
+    };
+    C_o.Studies.studyLibrary = C_o.extend(C_o.Studies.studyLibrary, {
+      "Ichimoku Clouds": {
+        name: B17,
+        overlay: !!{},
+        calculateFN: C_o.Studies.calculateIchimoku,
+        seriesFN: C_o.Studies.displayIchimoku,
+        inputs: {
+          "Conversion Line Period": 9,
+          "Base Line Period": 26,
+          "Leading Span B Period": 52,
+          "Lagging Span Period": +"26",
+        },
+        outputs: {
+          "Conversion Line": "#0000FF",
+          "Base Line": "#FF0000",
+          "Leading Span A": "#00FF00",
+          "Leading Span B": "#FF0000",
+          "Lagging Span": "#808000",
+        },
+      },
+    });
+  }
+};
+V$ = (g0h) => {
+  var j0q = u7J6i;
+  var k6s, F0A;
+  k6s = typeof _CIQ !== "undefined" ? _CIQ : g0h.CIQ;
+  j0q.p24();
+  if (!k6s.Studies) {
+    console.error(
+      "intradayMomentum feature requires first activating studies feature.",
+    );
+  } else {
+    F0A = "I";
+    F0A += "ntraday M";
+    F0A += "omentum Index";
+    k6s.Studies.calculateIntradayMomentum = function (F5W, u7M) {
+      var h4x, c3g, t_C, x1c, B3R, D3j, a29, h2r;
+      j0q.p24();
+      h4x = u7M.chart.scrubbed;
+      c3g = u7M.days;
+      if (h4x.length < c3g + 1) {
+        u7M.error = !!{};
+        return;
+      }
+      t_C = 0;
+      x1c = 0;
+      if (u7M.startFrom > +"1") {
+        B3R = "_t";
+        B3R += "otU";
+        B3R += "p ";
+        j0q.V84(60);
+        var q0l = j0q.F4O(20, 34, 13);
+        t_C = h4x[u7M.startFrom - q0l][B3R + u7M.name];
+        j0q.V84(120);
+        var m9B = j0q.o6M(14, 365, 17, 2, 7);
+        x1c = h4x[u7M.startFrom - m9B]["_totDn " + u7M.name];
+      }
+      for (var Q7q = u7M.startFrom; Q7q < h4x.length; Q7q++) {
+        D3j = "_t";
+        D3j += "o";
+        D3j += "tUp";
+        D3j += " ";
+        a29 = h4x[Q7q].Close - h4x[Q7q].Open;
+        if (a29 > 0) {
+          t_C += a29;
+        } else {
+          x1c -= a29;
+        }
+        if (Q7q >= c3g) {
+          h2r = h4x[Q7q - c3g].Close - h4x[Q7q - c3g].Open;
+          if (h2r > 0) {
+            t_C -= h2r;
+          } else {
+            x1c += h2r;
+          }
+        }
+        j0q.K2h(157);
+        h4x[Q7q]["Result " + u7M.name] = j0q.F4O(100, t_C, x1c, t_C);
+        h4x[Q7q][D3j + u7M.name] = t_C;
+        h4x[Q7q]["_totDn " + u7M.name] = x1c;
+      }
+    };
+    k6s.Studies.studyLibrary = k6s.extend(k6s.Studies.studyLibrary, {
+      "Intraday Mtm": {
+        name: F0A,
+        calculateFN: k6s.Studies.calculateIntradayMomentum,
+        inputs: { Period: 20 },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !!{},
+            studyOverBoughtValue: 70,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: 30,
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+    });
+  }
+};
+C2 = (W4V) => {
+  var A6t, d2B, i2_;
+  A6t = typeof _CIQ !== "undefined" ? _CIQ : W4V.CIQ;
+  if (!A6t.Studies) {
+    console.error("keltner feature requires first activating studies feature.");
+  } else {
+    d2B = "aut";
+    d2B += "o";
+    i2_ = "aut";
+    i2_ += "o";
+    A6t.Studies.calculateKeltner = function (w0I, Q$F) {
+      var r4g, h2E;
+      r4g = "Clos";
+      r4g += "e";
+      h2E = "Movi";
+      h2E += "ng Average ";
+      h2E += "Type";
+      A6t.Studies.MA(Q$F.inputs[h2E], Q$F.days, r4g, 0, "MA", w0I, Q$F);
+      A6t.Studies.calculateStudyATR(w0I, Q$F);
+      A6t.Studies.calculateGenericEnvelope(
+        w0I,
+        Q$F,
+        Q$F.inputs.Shift,
+        "MA " + Q$F.name,
+        "ATR " + Q$F.name,
+      );
+    };
+    A6t.Studies.studyLibrary = A6t.extend(A6t.Studies.studyLibrary, {
+      Keltner: {
+        name: "Keltner Channel",
+        overlay: !!1,
+        seriesFN: A6t.Studies.displayChannel,
+        calculateFN: A6t.Studies.calculateKeltner,
+        inputs: {
+          Period: 10,
+          Shift: "5" >> 32,
+          "Moving Average Type": "ema",
+          "Channel Fill": !!{},
+        },
+        outputs: {
+          "Keltner Top": i2_,
+          "Keltner Median": d2B,
+          "Keltner Bottom": "auto",
+        },
+        attributes: { Shift: { min: 0.1, step: 0.1 } },
+      },
+    });
+  }
+};
+N3 = (j3t) => {
+  var l4A, P2u, U3g;
+  u7J6i.R4I();
+  l4A = typeof _CIQ !== "undefined" ? _CIQ : j3t.CIQ;
+  if (!l4A.Studies) {
+    console.error("klinger feature requires first activating studies feature.");
+  } else {
+    P2u = "#";
+    P2u += "FF";
+    P2u += "000";
+    P2u += "0";
+    U3g = "#FF";
+    U3g += "0";
+    U3g += "00";
+    U3g += "0";
+    l4A.Studies.calculateKlinger = function (b0_, c2O) {
+      var g9U,
+        J7W,
+        M1y,
+        t2h,
+        j4D,
+        T7Z,
+        r4G,
+        Q_U,
+        F95,
+        A2z,
+        y$e,
+        m$V,
+        w7b,
+        R_W,
+        B$X;
+      g9U = "Sign";
+      g9U += "al Period";
+      g9U += "s";
+      J7W = "_EM";
+      J7W += "A";
+      J7W += "-";
+      J7W += "L ";
+      M1y = "Lo";
+      M1y += "ng ";
+      M1y += "Cycl";
+      M1y += "e";
+      t2h = c2O.chart.scrubbed;
+      j4D = Number(c2O.inputs["Short Cycle"]);
+      T7Z = Number(c2O.inputs[M1y]);
+      if (t2h.length < Math.max(j4D, T7Z) + 1) {
+        c2O.error = !!{};
+        return;
+      }
+      r4G = c2O.name + "_hist";
+      Q_U = "Klinger " + c2O.name;
+      F95 = "KlingerSignal " + c2O.name;
+      A2z = "_SV " + c2O.name;
+      y$e = "_EMA-S " + c2O.name;
+      m$V = J7W + c2O.name;
+      for (w7b = Math.max("1" << 0, c2O.startFrom); w7b < t2h.length; w7b++) {
+        R_W = "hl";
+        R_W += "c";
+        R_W += "/";
+        R_W += "3";
+        B$X = t2h[w7b].Volume;
+        if (t2h[w7b]["hlc/3"] < t2h[w7b - 1][R_W]) {
+          B$X *= -1;
+        }
+        if (B$X) {
+          t2h[w7b][A2z] = B$X;
+        }
+      }
+      l4A.Studies.MA("exponential", j4D, A2z, 0, "_EMA-S", b0_, c2O);
+      l4A.Studies.MA("exponential", T7Z, A2z, 0, "_EMA-L", b0_, c2O);
+      for (w7b = Math.max(T7Z, c2O.startFrom); w7b < t2h.length; w7b++) {
+        if (
+          t2h[w7b].futureTick ||
+          t2h[w7b][y$e] === null ||
+          t2h[w7b][m$V] === null
+        )
+          break;
+        t2h[w7b][Q_U] = t2h[w7b][y$e] - t2h[w7b][m$V];
+      }
+      l4A.Studies.MA(
+        "exponential",
+        Number(c2O.inputs[g9U]),
+        Q_U,
+        0,
+        "KlingerSignal",
+        b0_,
+        c2O,
+      );
+      for (w7b = c2O.startFrom; w7b < t2h.length; w7b++) {
+        t2h[w7b][r4G] = t2h[w7b][Q_U] - t2h[w7b][F95];
+      }
+      c2O.outputMap[r4G] = "";
+    };
+    l4A.Studies.studyLibrary = l4A.extend(l4A.Studies.studyLibrary, {
+      Klinger: {
+        name: "Klinger Volume Oscillator",
+        seriesFN: l4A.Studies.displayHistogramWithSeries,
+        calculateFN: l4A.Studies.calculateKlinger,
+        inputs: { "Signal Periods": 13, "Short Cycle": 34, "Long Cycle": 55 },
+        outputs: {
+          Klinger: "auto",
+          KlingerSignal: U3g,
+          "Increasing Bar": "#00DD00",
+          "Decreasing Bar": P2u,
+        },
+      },
+    });
+  }
+};
+c6 = (Y$c) => {
+  var B7S = u7J6i;
+  var P3j, L0A, G26, D3u, X9T, V3$, V7N, j3J, P3v, n8F, d4i, E9P, V7p;
+  P3j = typeof _CIQ !== "undefined" ? _CIQ : Y$c.CIQ;
+  B7S.R4I();
+  if (!P3j.Studies) {
+    console.error(
+      "linearRegression feature requires first activating studies feature.",
+    );
+  } else {
+    L0A = "au";
+    L0A += "to";
+    G26 = "fie";
+    G26 += "l";
+    G26 += "d";
+    D3u = "a";
+    D3u += "u";
+    D3u += "t";
+    D3u += "o";
+    X9T = "f";
+    X9T += "ie";
+    X9T += "ld";
+    V3$ = "a";
+    V3$ += "uto";
+    V7N = "fi";
+    V7N += "el";
+    V7N += "d";
+    j3J = "fiel";
+    j3J += "d";
+    P3v = "au";
+    P3v += "t";
+    P3v += "o";
+    n8F = "Li";
+    n8F += "nea";
+    n8F += "r Reg Forecast";
+    d4i = "time serie";
+    d4i += "s";
+    E9P = "Time";
+    E9P += " Seri";
+    E9P += "e";
+    E9P += "s";
+    V7p = "ts";
+    V7p += "ma";
+    P3j.Studies.prettify["time series"] = V7p;
+    P3j.Studies.movingAverage.conversions.tsma = "time series";
+    P3j.Studies.movingAverage.translations["time series"] = E9P;
+    P3j.Studies.movingAverage.typeMap.tsma = "TimeSeries";
+    P3j.Studies.movingAverage.typeMap[d4i] = "TimeSeries";
+    P3j.Studies.calculateMovingAverageTimeSeries = function (D5z, O$y) {
+      var h6p, v$i, v_B, U5I, d4J, F9a, e5J, E$N, s_H;
+      h6p = "m";
+      h6p += "a";
+      O$y.ma = new P3j.Studies.StudyDescriptor(O$y.name, h6p, O$y.panel);
+      O$y.ma.chart = O$y.chart;
+      O$y.ma.days = O$y.days;
+      O$y.ma.startFrom = O$y.startFrom;
+      O$y.ma.inputs = O$y.inputs;
+      P3j.Studies.calculateLinearRegressionIndicator(D5z, O$y.ma);
+      v$i = O$y.name;
+      for (var K9O in O$y.outputs) {
+        B7S.K2h(68);
+        v$i = B7S.o6M(
+          v$i,
+          K9O,
+          790.96 == (554.74, 9260)
+            ? (+"5580", 6630) !== 191.26
+              ? !!"1"
+              : (376.2, !![])
+            : " ",
+        );
+      }
+      v_B = parseInt(O$y.inputs.Offset, 10);
+      if (isNaN(v_B)) {
+        v_B = 0;
+      }
+      U5I = O$y.chart.scrubbed;
+      d4J = v_B;
+      for (var K07 = O$y.startFrom - 1; K07 >= 0; K07--) {
+        F9a = P3j.Studies.getQuoteFieldValue(U5I[K07], v$i);
+        if (F9a === null) continue;
+        if (d4J > ("0" ^ 0)) {
+          d4J--;
+          continue;
+        }
+        break;
+      }
+      e5J = [];
+      for (K07++; K07 < U5I.length; K07++) {
+        E$N = U5I[K07];
+        if (K07 + v_B >= 0) {
+          if (K07 + v_B < U5I.length) {
+            B7S.K2h(1);
+            U5I[B7S.F4O(K07, v_B)][v$i] = E$N["Forecast " + O$y.name];
+          } else {
+            s_H = {};
+            s_H[v$i] = E$N["Forecast " + O$y.name];
+            e5J.push(s_H);
+          }
+        }
+      }
+      O$y.appendFutureTicks(D5z, e5J);
+    };
+    P3j.Studies.calculateLinearRegressionIndicator = function (B7C, T9i) {
+      var S3R,
+        L8L,
+        l1K,
+        T2K,
+        B5M,
+        p7T,
+        Q68,
+        g1J,
+        N57,
+        Q4q,
+        x2Q,
+        h3R,
+        W1Y,
+        C1K,
+        S0$,
+        L7x,
+        Q78,
+        a_l,
+        H1J;
+      S3R = "f";
+      S3R += "ield";
+      L8L = T9i.chart.scrubbed;
+      if (L8L.length < T9i.days + 1) {
+        T9i.error = !!{};
+        return;
+      }
+      l1K = T9i.inputs.Field;
+      if (!l1K || l1K == S3R) {
+        l1K = "Close";
+      }
+      B7S.V84(4);
+      B7S.p24();
+      var x3C = B7S.F4O(18, 17);
+      T2K = (T9i.days * (T9i.days + x3C)) / ("2" ^ 0);
+      B5M = Math.pow(T2K, 2);
+      B7S.K2h(158);
+      var f8o = B7S.o6M(8, 1, 10, 56, 3);
+      B7S.V84(4);
+      var s7l = B7S.o6M(14, 13);
+      B7S.K2h(77);
+      var f_d = B7S.F4O(61, 36, 20, 2, 6);
+      p7T = (T2K * (f8o * T9i.days + s7l)) / f_d;
+      Q68 = +"0";
+      g1J = 0;
+      N57 = 0;
+      if (T9i.startFrom) {
+        B7S.V84(10);
+        var t_d = B7S.o6M(19, 10, 10);
+        Q4q = L8L[T9i.startFrom - t_d]["_sums " + T9i.name];
+        if (Q4q) {
+          g1J = Q4q[0];
+          Q68 = Q4q[1];
+          N57 = Q4q[2];
+        }
+      }
+      for (var i3Q = T9i.startFrom; i3Q < L8L.length; i3Q++) {
+        x2Q = "_";
+        x2Q += "su";
+        x2Q += "ms ";
+        h3R = "RSqu";
+        h3R += "are";
+        h3R += "d";
+        h3R += " ";
+        W1Y = "Int";
+        W1Y += "er";
+        W1Y += "cept";
+        W1Y += " ";
+        C1K = "Sl";
+        C1K += "op";
+        C1K += "e ";
+        S0$ = P3j.Studies.getQuoteFieldValue(L8L[i3Q], l1K, T9i.subField);
+        if (S0$ === null) continue;
+        g1J += T9i.days * S0$ - Q68;
+        Q68 += S0$;
+        N57 += Math.pow(S0$, 2);
+        if (i3Q < T9i.days - 1) continue;
+        else if (i3Q > T9i.days - 1) {
+          L7x = P3j.Studies.getQuoteFieldValue(
+            L8L[i3Q - T9i.days],
+            l1K,
+            T9i.subField,
+          );
+          if (L7x === null) continue;
+          Q68 -= L7x;
+          N57 -= Math.pow(L7x, +"2");
+        }
+        Q78 = (T9i.days * g1J - T2K * Q68) / (T9i.days * p7T - B5M);
+        L8L[i3Q][C1K + T9i.name] = Q78;
+        a_l = (Q68 - Q78 * T2K) / T9i.days;
+        L8L[i3Q][W1Y + T9i.name] = a_l;
+        L8L[i3Q]["Forecast " + T9i.name] = a_l + Q78 * T9i.days;
+        B7S.K2h(38);
+        var t_s = B7S.F4O(6, 13, 21, 0);
+        H1J = (T9i.days * p7T - B5M) / (T9i.days * N57 - Math.pow(Q68, t_s));
+        B7S.V84(159);
+        L8L[i3Q][h3R + T9i.name] = B7S.o6M(Q78, H1J, Q78);
+        L8L[i3Q][x2Q + T9i.name] = [g1J, Q68, N57];
+      }
+    };
+    P3j.Studies.studyLibrary = P3j.extend(P3j.Studies.studyLibrary, {
+      "Lin Fcst": {
+        name: n8F,
+        overlay: !!{},
+        calculateFN: P3j.Studies.calculateLinearRegressionIndicator,
+        inputs: { Period: 14, Field: "field" },
+        outputs: { Forecast: P3v },
+      },
+      "Lin Incpt": {
+        name: "Linear Reg Intercept",
+        overlay: !0,
+        calculateFN: P3j.Studies.calculateLinearRegressionIndicator,
+        inputs: { Period: 14, Field: j3J },
+        outputs: { Intercept: "auto" },
+      },
+      "Lin R2": {
+        name: "Linear Reg R2",
+        calculateFN: P3j.Studies.calculateLinearRegressionIndicator,
+        inputs: { Period: 14, Field: V7N },
+        outputs: { RSquared: V3$ },
+      },
+      "LR Slope": {
+        name: "Linear Reg Slope",
+        calculateFN: P3j.Studies.calculateLinearRegressionIndicator,
+        inputs: { Period: 14, Field: X9T },
+        outputs: { Slope: D3u },
+      },
+      "Time Fcst": {
+        name: "Time Series Forecast",
+        overlay: !!"1",
+        calculateFN: P3j.Studies.calculateLinearRegressionIndicator,
+        inputs: { Period: 14, Field: G26 },
+        outputs: { Forecast: L0A },
+      },
+    });
+  }
+};
+m3 = (I3f) => {
+  var M4O = u7J6i;
+  var E7I, R8m, i93, t2j;
+  M4O.R4I();
+  E7I = typeof _CIQ !== "undefined" ? _CIQ : I3f.CIQ;
+  if (!E7I.Studies) {
+    R8m = "macd feature requires first acti";
+    R8m += "vating studies feature.";
+    console.error(R8m);
+  } else {
+    i93 = "#FF";
+    i93 += "0000";
+    t2j = "MA";
+    t2j += "CD";
+    E7I.Studies.calculateMACD = function (r1E, n4d) {
+      var K9l,
+        i3_,
+        H6L,
+        M4n,
+        N0K,
+        r3l,
+        j_b,
+        B8m,
+        a7k,
+        n10,
+        y4H,
+        j$n,
+        A_c,
+        D$d,
+        u0T,
+        A3j,
+        t_D,
+        Q8u,
+        L5V,
+        h5C,
+        W4H,
+        O0K,
+        h6H;
+      K9l = "S";
+      K9l += "i";
+      K9l += "gna";
+      K9l += "l";
+      i3_ = "_MA";
+      i3_ += "C";
+      i3_ += "D2";
+      H6L = "Cl";
+      H6L += "ose";
+      M4n = "f";
+      M4n += "ield";
+      N0K = "Fast MA Pe";
+      N0K += "rio";
+      N0K += "d";
+      r3l = n4d.chart.scrubbed;
+      j_b = n4d.inputs;
+      B8m = n4d.name;
+      if (!n4d.macd1Days) {
+        n4d.macd1Days = parseFloat(j_b[N0K]);
+      }
+      if (!n4d.macd2Days) {
+        n4d.macd2Days = parseFloat(j_b["Slow MA Period"]);
+      }
+      if (!n4d.signalDays) {
+        n4d.signalDays = parseFloat(j_b["Signal Period"]);
+      }
+      if (!n4d.days) {
+        n4d.days = Math.max(n4d.macd1Days, n4d.macd2Days, n4d.signalDays);
+      }
+      if (r3l.length < n4d.days + 1) {
+        n4d.error = !!{};
+        return;
+      }
+      a7k = n4d.inputs.Field;
+      if (!a7k || a7k == M4n) {
+        a7k = H6L;
+      }
+      n10 = j_b["Moving Average Type"];
+      if (!n10) {
+        n10 = "exponential";
+      }
+      E7I.Studies.MA(n10, n4d.macd1Days, a7k, 0, "_MACD1", r1E, n4d);
+      E7I.Studies.MA(n10, n4d.macd2Days, a7k, 0, i3_, r1E, n4d);
+      A_c = Math.max(n4d.startFrom, n4d.days - 1);
+      for (y4H = A_c; y4H < r3l.length; y4H++) {
+        D$d = "_MA";
+        D$d += "CD2 ";
+        u0T = "_MAC";
+        u0T += "D1 ";
+        j$n = r3l[y4H];
+        if (
+          (j$n["_MACD1 " + B8m] || j$n[u0T + B8m] === 0) &&
+          (j$n["_MACD2 " + B8m] || j$n["_MACD2 " + B8m] === 0)
+        ) {
+          M4O.K2h(1);
+          j$n[M4O.o6M("MACD ", B8m)] = j$n["_MACD1 " + B8m] - j$n[D$d + B8m];
+        }
+      }
+      A3j = -329571769;
+      t_D = +"1012390578";
+      Q8u = 2;
+      for (
+        var B1c = 1;
+        M4O.S6r(B1c.toString(), B1c.toString().length, 77759) !== A3j;
+        B1c++
+      ) {
+        L5V = "exponentia";
+        L5V += "l";
+        h5C = j_b["exponential"];
+        if (~h5C) {
+          h5C = L5V;
+        }
+        Q8u += 2;
+      }
+      if (M4O.o0D(Q8u.toString(), Q8u.toString().length, +"22400") !== t_D) {
+        W4H = "expone";
+        W4H += "ntial";
+        h5C = j_b["Signal MA Type"];
+        if (!h5C) {
+          h5C = W4H;
+        }
+      }
+      E7I.Studies.MA(h5C, n4d.signalDays, "MACD " + B8m, 0, K9l, r1E, n4d);
+      M4O.K2h(1);
+      O0K = M4O.F4O(B8m, "_hist");
+      for (y4H = A_c; y4H < r3l.length; y4H++) {
+        j$n = r3l[y4H];
+        M4O.V84(1);
+        h6H = j$n[M4O.F4O("Signal ", B8m)];
+        if (!h6H && h6H !== "0" * 1) continue;
+        j$n[O0K] = j$n["MACD " + B8m] - j$n["Signal " + B8m];
+      }
+      n4d.outputMap[O0K] = "";
+    };
+    E7I.Studies.studyLibrary = E7I.extend(E7I.Studies.studyLibrary, {
+      macd: {
+        name: t2j,
+        calculateFN: E7I.Studies.calculateMACD,
+        seriesFN: E7I.Studies.displayHistogramWithSeries,
+        inputs: {
+          "Fast MA Period": 12,
+          "Slow MA Period": 26,
+          "Signal Period": 9,
+        },
+        outputs: {
+          MACD: "auto",
+          Signal: "#FF0000",
+          "Increasing Bar": "#00DD00",
+          "Decreasing Bar": i93,
+        },
+      },
+    });
+  }
+};
+c8 = (o4S) => {
+  var w4$, P6L;
+  w4$ = typeof _CIQ !== "undefined" ? _CIQ : o4S.CIQ;
+  if (!w4$.Studies) {
+    P6L = "massIndex feature requires first activat";
+    P6L += "ing studies feature.";
+    console.error(P6L);
+  } else {
+    w4$.Studies.calculateMassIndex = function (V1p, I2E) {
+      var V0a = u7J6i;
+      var s4E, t6F, a7w, r3q, v8P, p_G, d7I, G0n;
+      s4E = "_EM";
+      s4E += "A2";
+      t6F = "_EM";
+      t6F += "A";
+      a7w = "_Hi";
+      a7w += "gh";
+      a7w += "-Low ";
+      r3q = I2E.chart.scrubbed;
+      if (r3q.length < Math.max(+"9", I2E.days + 1)) {
+        I2E.error = !"";
+        return;
+      }
+      for (var g7a = I2E.startFrom; g7a < r3q.length; g7a++) {
+        r3q[g7a]["_High-Low " + I2E.name] = r3q[g7a].High - r3q[g7a].Low;
+      }
+      w4$.Studies.MA("exponential", 9, a7w + I2E.name, +"0", t6F, V1p, I2E);
+      w4$.Studies.MA("exponential", 9, "_EMA " + I2E.name, 0, s4E, V1p, I2E);
+      v8P = 0;
+      if (
+        r3q[I2E.startFrom - "1" * 1] &&
+        r3q[I2E.startFrom - 1]["_total " + I2E.name]
+      ) {
+        v8P = r3q[I2E.startFrom - ("1" ^ 0)]["_total " + I2E.name];
+      }
+      for (var I3d = Math.max(17, I2E.startFrom); I3d < r3q.length; I3d++) {
+        p_G = "_to";
+        p_G += "tal ";
+        d7I = "_";
+        d7I += "E";
+        d7I += "MA";
+        d7I += "2 ";
+        G0n = "_";
+        G0n += "EMA";
+        G0n += " ";
+        v8P += r3q[I3d][G0n + I2E.name] / r3q[I3d][d7I + I2E.name];
+        if (I3d >= 17 + I2E.days - +"1") {
+          r3q[I3d]["Result " + I2E.name] = v8P;
+          V0a.V84(4);
+          var Q5p = V0a.o6M(15, 14);
+          V0a.V84(78);
+          var e9t = V0a.o6M(7, 8, 8, 91, 4);
+          v8P -=
+            r3q[I3d - I2E.days + Q5p]["_EMA " + I2E.name] /
+            r3q[I3d - I2E.days + e9t]["_EMA2 " + I2E.name];
+        }
+        r3q[I3d][p_G + I2E.name] = v8P;
+      }
+    };
+    w4$.Studies.displayMassIndex = function (m8n, o1v, B9J) {
+      var s3H, Z4M, G2Q, F3_, J0q, L_O;
+      s3H = "R";
+      s3H += "e";
+      s3H += "sult ";
+      w4$.Studies.displaySeriesAsLine(m8n, o1v, B9J);
+      u7J6i.p24();
+      Z4M = o1v.inputs["Bulge Threshold"];
+      G2Q = m8n.panels[o1v.panel];
+      F3_ = o1v.getYAxis(m8n);
+      J0q = w4$.Studies.determineColor(o1v.outputs.Result);
+      L_O = {
+        skipTransform: m8n.panels[o1v.panel].name != o1v.chart.name,
+        panelName: o1v.panel,
+        band: s3H + o1v.name,
+        threshold: Z4M,
+        direction: 1,
+        color: J0q,
+        yAxis: F3_,
+        opacity: 0.3,
+      };
+      if (!o1v.highlight && m8n.highlightedDraggable) {
+        L_O.opacity *= 0.3;
+      }
+      w4$.preparePeakValleyFill(m8n, L_O);
+      w4$.Studies.drawHorizontal(m8n, o1v, null, Z4M, F3_, J0q);
+    };
+    w4$.Studies.studyLibrary = w4$.extend(w4$.Studies.studyLibrary, {
+      "Mass Idx": {
+        name: "Mass Index",
+        seriesFN: w4$.Studies.displayMassIndex,
+        calculateFN: w4$.Studies.calculateMassIndex,
+        inputs: { Period: +"25", "Bulge Threshold": 27 },
+        attributes: { "Bulge Threshold": { min: 20, max: 35, step: 0.1 } },
+      },
+    });
+  }
+};
+k2 = (v4_) => {
+  var V6X = u7J6i;
+  var H6O, o5n, B6H;
+  V6X.p24();
+  H6O = typeof _CIQ !== "undefined" ? _CIQ : v4_.CIQ;
+  if (!H6O.Studies) {
+    o5n = "mone";
+    o5n += "yFlow feature requires first activating studies feature.";
+    console.error(o5n);
+  } else {
+    B6H = "au";
+    B6H += "t";
+    B6H += "o";
+    H6O.Studies.calculateMoneyFlowIndex = function (s99, Y_3) {
+      var B_e,
+        X41,
+        f55,
+        n75,
+        i2d,
+        S70,
+        c0v,
+        A3r,
+        E9j,
+        l$W,
+        L6h,
+        J6X,
+        c5L,
+        a6T,
+        h5H;
+      B_e = Y_3.chart.scrubbed;
+      if (B_e.length < Y_3.days + 1) {
+        Y_3.error = !!1;
+        return;
+      }
+      X41 = 0;
+      f55 = +"0";
+      V6X.V84(79);
+      var W8T = V6X.F4O(1, 1, 0);
+      n75 = B_e[Y_3.startFrom - W8T];
+      i2d = "_rawMF " + Y_3.name;
+      S70 = "_cumMF " + Y_3.name;
+      c0v = "Result " + Y_3.name;
+      if (n75 && n75[S70]) {
+        X41 = n75[S70][0];
+        A3r = -1969188687;
+        E9j = 1029003757;
+        l$W = 2;
+        for (
+          var t3S = 1;
+          V6X.S6r(t3S.toString(), t3S.toString().length, 70152) !== A3r;
+          t3S++
+        ) {
+          f55 = n75[S70][4];
+          l$W += 2;
+        }
+        if (V6X.o0D(l$W.toString(), l$W.toString().length, 4367) !== E9j) {
+          f55 = n75[S70][+"1"];
+        }
+      }
+      for (var H0X = Y_3.startFrom; H0X < B_e.length; H0X++) {
+        L6h = "h";
+        L6h += "lc/3";
+        J6X = B_e[H0X][L6h];
+        if (H0X > +"0" && !B_e[H0X].futureTick) {
+          V6X.K2h(4);
+          c5L = B_e[V6X.o6M(H0X, 1)]["hlc/3"];
+          a6T = J6X * B_e[H0X].Volume;
+          if (J6X > c5L) {
+            X41 += a6T;
+          } else if (J6X < c5L) {
+            a6T *= -+"1";
+            f55 -= a6T;
+          } else {
+            a6T = 0;
+          }
+          if (H0X > Y_3.days) {
+            h5H = B_e[H0X - Y_3.days][i2d];
+            if (h5H > ("0" | 0)) {
+              X41 -= h5H;
+            } else {
+              f55 += h5H;
+            }
+            if (f55 === 0) {
+              B_e[H0X][c0v] = 100;
+            } else if (B_e[H0X].Volume) {
+              V6X.K2h(160);
+              B_e[H0X][c0v] = V6X.o6M(X41, 100, 100, 1, f55);
+            }
+          }
+          B_e[H0X][i2d] = a6T;
+          B_e[H0X][S70] = [X41, f55];
+        }
+      }
+    };
+    H6O.Studies.studyLibrary = H6O.extend(H6O.Studies.studyLibrary, {
+      "M Flow": {
+        name: "Money Flow Index",
+        range: "0 to 100",
+        calculateFN: H6O.Studies.calculateMoneyFlowIndex,
+        inputs: { Period: 14 },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: 80,
+            studyOverBoughtColor: B6H,
+            studyOverSoldValue: 20,
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+    });
+  }
+};
+h_ = (Y8J) => {
+  var V9u = u7J6i;
+  var y7M, S1u, I01, r7m, X0g, y3d, A7r, D9g, D_J, L8m;
+  y7M = typeof _CIQ !== "undefined" ? _CIQ : Y8J.CIQ;
+  V9u.R4I();
+  if (!y7M.Studies) {
+    console.error(
+      "movingAverages feature requires first activating studies feature.",
+    );
+  } else {
+    S1u = "aut";
+    S1u += "o";
+    I01 = "au";
+    I01 += "to";
+    r7m = "au";
+    r7m += "to";
+    X0g = "m";
+    X0g += "a";
+    y3d = "poi";
+    y3d += "n";
+    y3d += "ts";
+    A7r = "TripleExpon";
+    A7r += "en";
+    A7r += "t";
+    A7r += "ial";
+    D9g = "Do";
+    D9g += "ub";
+    D9g += "leExponen";
+    D9g += "tial";
+    D_J = "3-ex";
+    D_J += "p";
+    D_J += "onential";
+    L8m = "h";
+    L8m += "u";
+    L8m += "l";
+    L8m += "l";
+    y7M.Studies.prettify = y7M.extend(
+      { "2-exponential": "dema", "3-exponential": "tema", hull: "hma" },
+      y7M.Studies.prettify,
+    );
+    y7M.extend(y7M.Studies.movingAverage, {
+      conversions: { hma: L8m, dema: "2-exponential", tema: D_J },
+      translations: {
+        hull: "Hull",
+        "2-exponential": "Double Exponential",
+        "3-exponential": "Triple Exponential",
+      },
+      typeMap: {
+        hma: "Hull",
+        hull: "Hull",
+        dema: D9g,
+        "2-exponential": "DoubleExponential",
+        tema: "TripleExponential",
+        "3-exponential": A7r,
+      },
+    });
+    y7M.Studies.calculateMovingAverageHull = function (n1D, l3v) {
+      var u48, K6S, q$u, r4Y, M2v, b_G, a_Z, t6r, e3B;
+      u48 = l3v.chart.scrubbed;
+      K6S = l3v.inputs.Field;
+      if (!K6S || K6S == "field") {
+        K6S = "Close";
+      }
+      y7M.Studies.MA("wma", l3v.days, K6S, 0, "_WMA1", n1D, l3v);
+      y7M.Studies.MA("wma", Math.ceil(l3v.days / 2), K6S, 0, "_WMA2", n1D, l3v);
+      for (q$u = l3v.startFrom - 1; q$u >= 0; q$u--) {
+        r4Y = y7M.Studies.getQuoteFieldValue(u48[q$u], K6S, l3v.subField);
+        if (r4Y !== null) break;
+      }
+      V9u.R4I();
+      for (q$u++; q$u < u48.length; q$u++) {
+        M2v = "_WM";
+        M2v += "A1";
+        M2v += " ";
+        b_G = u48[q$u];
+        b_G["_MMA " + l3v.name] =
+          ("2" << 0) * b_G["_WMA2 " + l3v.name] - b_G[M2v + l3v.name];
+      }
+      a_Z = parseInt(l3v.inputs.Offset, 10);
+      if (isNaN(a_Z)) {
+        a_Z = 0;
+      }
+      t6r = Math.floor(Math.sqrt(l3v.days));
+      y7M.Studies.MA("wma", t6r, "_MMA " + l3v.name, a_Z, "_HMA", n1D, l3v);
+      e3B = l3v.name;
+      for (var w4H in l3v.outputs) {
+        V9u.K2h(68);
+        e3B = V9u.F4O(
+          e3B,
+          w4H,
+          (7740, 2150) == 2563
+            ? !1
+            : (4072, 837.86) <= 6850
+              ? 6600 !== 4270
+                ? " "
+                : 7.5e3
+              : 0xb0b,
+        );
+      }
+      for (
+        q$u = Math.max(l3v.days + t6r - +"1", l3v.startFrom);
+        q$u < u48.length;
+        q$u++
+      ) {
+        u48[q$u][e3B] = u48[q$u]["_HMA " + l3v.name];
+      }
+    };
+    y7M.Studies.calculateMovingAverageDoubleExponential = function (q2H, X50) {
+      var F7v, p1$, y7E, r22, s0_, v1k, o_a, L7E, N1V, S22, u8p, n27;
+      F7v = "Clo";
+      F7v += "se";
+      p1$ = X50.chart.scrubbed;
+      y7E = X50.inputs.Field;
+      if (!y7E || y7E == "field") {
+        y7E = F7v;
+      }
+      y7M.Studies.MA("ema", X50.days, y7E, 0, "_EMA1", q2H, X50);
+      y7M.Studies.MA(
+        "ema",
+        X50.days,
+        "_EMA1 " + X50.name,
+        +"0",
+        "_EMA2",
+        q2H,
+        X50,
+      );
+      r22 = parseInt(X50.inputs.Offset, "10" << 0);
+      if (isNaN(r22)) {
+        r22 = 0;
+      }
+      o_a = r22;
+      for (s0_ = X50.startFrom - +"1"; s0_ >= "0" >> 0; s0_--) {
+        v1k = y7M.Studies.getQuoteFieldValue(p1$[s0_], y7E, X50.subField);
+        if (v1k === null) continue;
+        if (o_a > 0) {
+          o_a--;
+          continue;
+        }
+        break;
+      }
+      L7E = X50.name;
+      V9u.p24();
+      for (var z4F in X50.outputs) {
+        V9u.V84(68);
+        L7E = V9u.o6M(L7E, z4F, " ");
+      }
+      N1V = [];
+      for (s0_++; s0_ < p1$.length; s0_++) {
+        if (s0_ < 2 * (X50.days - 1)) continue;
+        S22 = p1$[s0_];
+        V9u.K2h(161);
+        var T8C = V9u.o6M(1, 13, 1, 10, 2);
+        u8p = "2" * T8C * S22["_EMA1 " + X50.name] - S22["_EMA2 " + X50.name];
+        if (s0_ + r22 >= 0) {
+          if (s0_ + r22 < p1$.length) {
+            V9u.V84(1);
+            p1$[V9u.F4O(s0_, r22)][L7E] = u8p;
+          } else {
+            n27 = {};
+            n27[L7E] = u8p;
+            N1V.push(n27);
+          }
+        }
+      }
+      X50.appendFutureTicks(q2H, N1V);
+    };
+    y7M.Studies.calculateMovingAverageTripleExponential = function (T0r, h3V) {
+      var t84, a5f, k8C, H12, I42, y0H, V_I, M74, E4h, d_p, k9j, j6c, M48, s87;
+      t84 = "_E";
+      t84 += "MA2";
+      a5f = "e";
+      a5f += "ma";
+      k8C = "f";
+      k8C += "i";
+      k8C += "el";
+      k8C += "d";
+      H12 = h3V.chart.scrubbed;
+      I42 = h3V.inputs.Field;
+      if (!I42 || I42 == k8C) {
+        I42 = "Close";
+      }
+      y7M.Studies.MA(a5f, h3V.days, I42, 0, "_EMA1", T0r, h3V);
+      y7M.Studies.MA("ema", h3V.days, "_EMA1 " + h3V.name, 0, t84, T0r, h3V);
+      y7M.Studies.MA(
+        "ema",
+        h3V.days,
+        "_EMA2 " + h3V.name,
+        0,
+        "_EMA3",
+        T0r,
+        h3V,
+      );
+      y0H = parseInt(h3V.inputs.Offset, 10);
+      if (isNaN(y0H)) {
+        y0H = 0;
+      }
+      E4h = y0H;
+      for (V_I = h3V.startFrom - 1; V_I >= 0; V_I--) {
+        M74 = y7M.Studies.getQuoteFieldValue(H12[V_I], I42, h3V.subField);
+        if (M74 === null) continue;
+        if (E4h > 0) {
+          E4h--;
+          continue;
+        }
+        break;
+      }
+      d_p = h3V.name;
+      for (var m8J in h3V.outputs) {
+        V9u.V84(68);
+        d_p = V9u.F4O(d_p, m8J, 981.08 > (918.93, 4550) ? 0x1f45 : " ");
+      }
+      k9j = [];
+      for (V_I++; V_I < H12.length; V_I++) {
+        if (V_I < +"3" * (h3V.days - 1)) continue;
+        j6c = H12[V_I];
+        V9u.V84(58);
+        var Y$C = V9u.F4O(0, 8, 5, 1);
+        V9u.K2h(6);
+        var l_k = V9u.o6M(7, 1467, 15, 14);
+        M48 =
+          Y$C * j6c["_EMA1 " + h3V.name] -
+          l_k * j6c["_EMA2 " + h3V.name] +
+          j6c["_EMA3 " + h3V.name];
+        if (V_I + y0H >= 0) {
+          if (V_I + y0H < H12.length) {
+            V9u.K2h(1);
+            H12[V9u.o6M(V_I, y0H)][d_p] = M48;
+          } else {
+            s87 = {};
+            s87[d_p] = M48;
+            k9j.push(s87);
+          }
+        }
+      }
+      h3V.appendFutureTicks(T0r, k9j);
+    };
+    y7M.Studies.calculateMAEnvelope = function (N28, w0y) {
+      var l36, y7d, X8V, D70, T60;
+      l36 = "percen";
+      l36 += "t";
+      y7d = "fiel";
+      y7d += "d";
+      X8V = w0y.inputs.Field;
+      if (!X8V || X8V == y7d) {
+        X8V = "Close";
+      }
+      y7M.Studies.MA(
+        w0y.inputs["Moving Average Type"],
+        w0y.days,
+        X8V,
+        +"0",
+        "MA",
+        N28,
+        w0y,
+      );
+      D70 = w0y.inputs["Shift Type"];
+      V9u.p24();
+      T60 = w0y.inputs.Shift;
+      if (!D70) {
+        D70 = "percent";
+        T60 = w0y.inputs["Shift Percentage"];
+      }
+      if (D70 == l36) {
+        V9u.K2h(12);
+        y7M.Studies.calculateGenericEnvelope(
+          N28,
+          w0y,
+          V9u.o6M(100, T60),
+          "MA " + w0y.name,
+        );
+      } else if (D70 == "points") {
+        y7M.Studies.calculateGenericEnvelope(
+          N28,
+          w0y,
+          null,
+          "MA " + w0y.name,
+          null,
+          Number(T60),
+        );
+      }
+    };
+    y7M.Studies.calculateMADev = function (B44, W4z) {
+      var I_e, W7s, n_0, R77, d2u, D60, a1z, k5K, k$9, T28, V3j, S5l, i7W, h_O;
+      I_e = "_";
+      I_e += "hi";
+      I_e += "st";
+      W7s = "e";
+      W7s += "xpon";
+      W7s += "en";
+      W7s += "tial";
+      n_0 = "Movin";
+      n_0 += "g Average ";
+      n_0 += "Type";
+      R77 = "Poi";
+      R77 += "nt";
+      R77 += "s";
+      d2u = "Points ";
+      d2u += "Or Percent";
+      D60 = W4z.chart.scrubbed;
+      if (D60.length < W4z.days + +"1") {
+        W4z.error = !!"1";
+        return;
+      }
+      a1z = W4z.inputs.Field;
+      if (!a1z || a1z == "field") {
+        a1z = "Close";
+      }
+      k5K = W4z.inputs[d2u];
+      if (!k5K) {
+        k5K = R77;
+      }
+      k$9 = W4z.inputs[n_0];
+      if (!k$9) {
+        k$9 = W7s;
+      }
+      y7M.Studies.MA(k$9, W4z.days, a1z, 0, "_MA", B44, W4z);
+      T28 = W4z.name + "_hist";
+      for (
+        var u6E = Math.max(W4z.startFrom, W4z.days - +"1");
+        u6E < D60.length;
+        u6E++
+      ) {
+        V3j = "_";
+        V3j += "M";
+        V3j += "A ";
+        S5l = D60[u6E];
+        i7W = y7M.Studies.getQuoteFieldValue(S5l, a1z, W4z.subField);
+        h_O = S5l[V3j + W4z.name];
+        if (h_O || h_O === 0) {
+          if (k5K == "Points") {
+            V9u.V84(4);
+            S5l[T28] = V9u.F4O(i7W, h_O);
+          } else {
+            V9u.V84(162);
+            S5l[T28] = V9u.o6M(100, h_O, 1, i7W);
+          }
+        }
+      }
+      W4z.outputMap = {};
+      W4z.outputMap[W4z.name + I_e] = "";
+    };
+    y7M.Studies.calculateGMMA = function (l0Z, s0K) {
+      var A0e, Z8j, Y$x;
+      A0e = s0K.chart.scrubbed;
+      V9u.p24();
+      V9u.K2h(11);
+      Z8j = [3, 5, V9u.F4O(0, "8"), 10, 12, 15];
+      V9u.K2h(3);
+      Y$x = [
+        30,
+        35,
+        40,
+        V9u.F4O("45", 1),
+        +"50",
+        V9u.F4O(64, "60", V9u.V84(7)),
+      ];
+      if (A0e.length < Z8j[0]) {
+        s0K.error = !"";
+        return;
+      }
+      s0K.outputMap = {};
+      Z8j.forEach(l84("Short Term"));
+      Y$x.forEach(l84("Long Term"));
+      function l84(N9G) {
+        return function (A2f) {
+          var T18, e9z;
+          T18 = "C";
+          T18 += "lo";
+          T18 += "s";
+          T18 += "e";
+          e9z = "e";
+          e9z += "m";
+          e9z += "a";
+          V9u.V84(1);
+          y7M.Studies.MA(e9z, A2f, T18, 0, V9u.F4O("MA ", A2f), l0Z, s0K);
+          s0K.outputMap[
+            "MA " +
+              A2f +
+              ((496.31, 335.89) >= (9250, 722.13) ? (904.78, !{}) : " ") +
+              s0K.name
+          ] = N9G;
+        };
+      }
+    };
+    y7M.Studies.studyLibrary = y7M.extend(y7M.Studies.studyLibrary, {
+      "MA Env": {
+        name: "Moving Average Envelope",
+        overlay: !!"1",
+        seriesFN: y7M.Studies.displayChannel,
+        calculateFN: y7M.Studies.calculateMAEnvelope,
+        inputs: {
+          Period: 50,
+          Field: "field",
+          "Shift Type": ["percent", y3d],
+          Shift: 5,
+          "Moving Average Type": X0g,
+          "Channel Fill": !!{},
+        },
+        outputs: {
+          "MA Env Top": "auto",
+          "MA Env Median": r7m,
+          "MA Env Bottom": "auto",
+        },
+        attributes: { Shift: { min: "0.1" - 0, step: 0.1 } },
+      },
+      "MA Dev": {
+        name: "Moving Average Deviation",
+        calculateFN: y7M.Studies.calculateMADev,
+        seriesFN: y7M.Studies.displayHistogramWithSeries,
+        inputs: {
+          Period: 12,
+          Field: "field",
+          "Moving Average Type": "ma",
+          "Points Or Percent": ["Points", "Percent"],
+        },
+        outputs: { "Increasing Bar": "#00DD00", "Decreasing Bar": "#FF0000" },
+      },
+      Guppy: {
+        name: "Guppy Multiple Moving Average",
+        overlay: !!{},
+        calculateFN: y7M.Studies.calculateGMMA,
+        inputs: {},
+        outputs: { "Short Term": "#ea1d2c", "Long Term": "#00afed" },
+      },
+      "High Low": {
+        name: "High Low Bands",
+        overlay: !"",
+        seriesFN: y7M.Studies.displayChannel,
+        calculateFN: function (l5F, r3f) {
+          var H1g;
+          H1g = "Movin";
+          H1g += "g ";
+          H1g += "Average Type";
+          r3f.inputs[H1g] = "triangular";
+          V9u.R4I();
+          y7M.Studies.calculateMAEnvelope(l5F, r3f);
+        },
+        inputs: {
+          Period: 10,
+          Field: "field",
+          "Shift Percentage": 5,
+          "Channel Fill": !0,
+        },
+        outputs: {
+          "High Low Top": "auto",
+          "High Low Median": I01,
+          "High Low Bottom": S1u,
+        },
+        attributes: { "Shift Percentage": { min: 0.1, step: 0.1 } },
+      },
+    });
+  }
+};
+x6 = (H7Q) => {
+  var u$0 = u7J6i;
+  var w$r, P4e, Q2J;
+  w$r = typeof _CIQ !== "undefined" ? _CIQ : H7Q.CIQ;
+  u$0.p24();
+  if (!w$r.Studies) {
+    P4e = "par";
+    P4e += "abolicSAR feature r";
+    P4e += "equires first activating studies fe";
+    P4e += "ature.";
+    console.error(P4e);
+  } else {
+    Q2J = "Par";
+    Q2J += "abolic ";
+    Q2J += "SAR";
+    w$r.Studies.calculatePSAR = function (S78, e$u) {
+      var i0a, X8G, i5r, O0N, r6b, B5f, a9M, n8D, c90, k3S, D4G, C3e, d9m, b8M;
+      i0a = "Maximum";
+      u$0.p24();
+      i0a += " AF";
+      X8G = e$u.chart.scrubbed;
+      i5r = 0;
+      O0N = null;
+      r6b = !!0;
+      B5f = 0;
+      function N1O() {
+        i5r = 0;
+        O0N = null;
+        u$0.R4I();
+        r6b = !r6b;
+      }
+      a9M = parseFloat(e$u.inputs["Minimum AF"]);
+      n8D = parseFloat(e$u.inputs[i0a]);
+      if (e$u.startFrom > 0) {
+        B5f = X8G[e$u.startFrom - +"1"]["Result " + e$u.name];
+        u$0.V84(17);
+        var b5g = u$0.o6M(7, 16, 18, 8);
+        c90 = X8G[e$u.startFrom - b5g]["_state " + e$u.name];
+        if (c90 && c90.length == ("3" | 2)) {
+          i5r = c90[0];
+          O0N = c90[1];
+          u$0.V84(7);
+          r6b = c90[u$0.F4O(0, "2")];
+        }
+      }
+      for (var K2S = e$u.startFrom - ("1" | 0); K2S < X8G.length - 1; K2S++) {
+        k3S = "_s";
+        k3S += "ta";
+        k3S += "te ";
+        if (K2S < 0) continue;
+        if (X8G[K2S].futureTick) break;
+        D4G = B5f;
+        if (r6b) {
+          if (!O0N || O0N < X8G[K2S].High) {
+            O0N = X8G[K2S].High;
+            u$0.K2h(1);
+            i5r = Math.min(u$0.o6M(i5r, a9M), n8D);
+          }
+          u$0.V84(163);
+          B5f = u$0.o6M(D4G, i5r, D4G, O0N);
+          C3e = Math.min(X8G[Math.max(1, K2S) - +"1"].Low, X8G[K2S].Low);
+          if (B5f > X8G[K2S + 1].Low) {
+            B5f = O0N;
+            N1O();
+          } else if (B5f > C3e) {
+            B5f = C3e;
+          }
+        } else {
+          if (!O0N || O0N > X8G[K2S].Low) {
+            O0N = X8G[K2S].Low;
+            u$0.K2h(1);
+            i5r = Math.min(u$0.F4O(i5r, a9M), n8D);
+          }
+          u$0.V84(163);
+          B5f = u$0.o6M(D4G, i5r, D4G, O0N);
+          d9m = Math.max(X8G[Math.max(1, K2S) - 1].High, X8G[K2S].High);
+          if (B5f < X8G[K2S + 1].High) {
+            B5f = O0N;
+            N1O();
+          } else if (B5f < d9m) {
+            B5f = d9m;
+          }
+        }
+        u$0.V84(81);
+        X8G[u$0.F4O(K2S, "1")][k3S + e$u.name] = [i5r, O0N, r6b];
+        if (!isNaN(X8G[K2S].High) || !isNaN(X8G[K2S].Low)) {
+          b8M = "R";
+          b8M += "esult ";
+          u$0.V84(102);
+          X8G[u$0.o6M(64, K2S, "1")][b8M + e$u.name] = B5f;
+        }
+      }
+    };
+    w$r.Studies.studyLibrary = w$r.extend(w$r.Studies.studyLibrary, {
+      PSAR: {
+        name: Q2J,
+        overlay: !!{},
+        calculateFN: w$r.Studies.calculatePSAR,
+        seriesFN: w$r.Studies.displayPSAR2,
+        inputs: { "Minimum AF": 0.02, "Maximum AF": 0.2 },
+      },
+    });
+  }
+};
+X6 = (u0$) => {
+  var u80, E$i, l_d, t6K, y0M, N1o;
+  u80 = typeof _CIQ !== "undefined" ? _CIQ : u0$.CIQ;
+  if (!u80.Studies) {
+    E$i = "pivotPoints feature";
+    E$i += " requires first acti";
+    E$i += "vating s";
+    E$i += "tudies feature.";
+    console.error(E$i);
+  } else {
+    l_d = "#b";
+    l_d += "3d9";
+    l_d += "87";
+    t6K = "#";
+    t6K += "6";
+    t6K += "99";
+    t6K += "158";
+    y0M = "fib";
+    y0M += "ona";
+    y0M += "cci";
+    N1o = "sta";
+    N1o += "ndar";
+    N1o += "d";
+    u80.Studies.calculatePivotPoints = function (u0V, p_g) {
+      var R7h = u7J6i;
+      var J9X,
+        J9S,
+        w9U,
+        H3d,
+        N1Q,
+        P7w,
+        Q6T,
+        c5A,
+        U_D,
+        I7N,
+        S4r,
+        d7c,
+        b$B,
+        J8p,
+        R6h,
+        V24,
+        M90,
+        B$3,
+        R_z,
+        j5Z,
+        g1q;
+      J9X = "sec";
+      J9X += "on";
+      function x7Y() {
+        R7h.V84(20);
+        var B5k = R7h.F4O(289, 16, 18);
+        R7h.V84(4);
+        var y5r = R7h.F4O(54, 51);
+        I7N.pivotPoint = (I7N.high + I7N.low + J9S[X12 - B5k].Close) / y5r;
+        I7N.prevHigh = I7N.high;
+        I7N.prevLow = I7N.low;
+        I7N.hlSpread = I7N.high - I7N.low;
+        I7N.high = I7N.low = 0;
+      }
+      J9X += "d";
+      J9S = p_g.chart.scrubbed;
+      w9U = "day";
+      H3d = u0V.layout.interval;
+      N1Q = u0V.layout.timeUnit;
+      if (H3d == "day") {
+        w9U = "month";
+      } else if (u80.ChartEngine.isDailyInterval(H3d)) {
+        w9U = "year";
+      } else if (
+        H3d == J9X ||
+        H3d == "millisecond" ||
+        N1Q == "second" ||
+        N1Q == "millisecond"
+      ) {
+        w9U = "15min";
+      } else {
+        P7w = "wee";
+        P7w += "k";
+        Q6T = u0V.layout.periodicity;
+        if (H3d != "minute") {
+          Q6T *= H3d;
+        }
+        if (Q6T >= 30) {
+          w9U = P7w;
+        }
+      }
+      c5A = null;
+      R7h.K2h(83);
+      var A1V = R7h.F4O(20, 91, 34, 2, 11);
+      R7h.R4I();
+      U_D = A1V - u80.getFromNS(u0V.chart, "market.beginningDayOfWeek", 0);
+      I7N = {
+        pivotPoint: NaN,
+        high: 0,
+        low: 0,
+        prevHigh: 0,
+        prevLow: 0,
+        hlSpread: 0,
+      };
+      if (
+        p_g.startFrom > 1 &&
+        J9S[p_g.startFrom - 1]["_pointers " + p_g.name]
+      ) {
+        I7N = u80.clone(J9S[p_g.startFrom - 1]["_pointers " + p_g.name]);
+      }
+      for (var X12 = Math.max(+"1", p_g.startFrom); X12 < J9S.length; X12++) {
+        S4r = "15mi";
+        S4r += "n";
+        d7c = "we";
+        d7c += "e";
+        d7c += "k";
+        if (!J9S[X12 - 1]) continue;
+        I7N.high = Math.max(I7N.high, J9S[X12 - 1].High);
+        I7N.low = Math.min(
+          I7N.low > 0 ? I7N.low : J9S[X12 - ("1" - 0)].Low,
+          J9S[X12 - 1].Low,
+        );
+        if (p_g.inputs.Continuous) {
+          x7Y();
+        } else if (
+          w9U == "year" &&
+          J9S[X12].DT.getYear() != J9S[X12 - 1].DT.getYear()
+        ) {
+          x7Y();
+        } else if (
+          w9U == "month" &&
+          J9S[X12].DT.getMonth() != J9S[X12 - 1].DT.getMonth()
+        ) {
+          x7Y();
+        } else if (
+          w9U == d7c &&
+          (J9S[X12].DT.getDay() + U_D) % 7 <
+            (J9S[X12 - 1].DT.getDay() + U_D) % 7
+        ) {
+          x7Y();
+        } else if (w9U == "day") {
+          if (c5A === null) {
+            c5A = u80.Studies.getMarketOffset({
+              stx: u0V,
+              localQuoteDate: J9S[X12].DT,
+              shiftToDateBoundary: !!"1",
+            });
+          }
+          b$B = new Date(
+            new Date(+J9S[X12].DT).setMilliseconds(
+              J9S[X12].DT.getMilliseconds() + c5A,
+            ),
+          );
+          J8p = new Date(
+            new Date(+J9S[X12 - 1].DT).setMilliseconds(
+              J9S[X12 - +"1"].DT.getMilliseconds() + c5A,
+            ),
+          );
+          if (
+            J8p.getDate() !== b$B.getDate() &&
+            J8p.getDay() !== ("0" ^ 0) &&
+            u0V.chart.market.isMarketDate(b$B)
+          ) {
+            c5A = null;
+            x7Y();
+          }
+        } else if (
+          w9U == S4r &&
+          (J9S[X12].DT.getHours() != J9S[X12 - 1].DT.getHours() ||
+            Math.floor(J9S[X12].DT.getMinutes() / 15) !=
+              Math.floor(J9S[X12 - 1].DT.getMinutes() / 15))
+        ) {
+          x7Y();
+        }
+        J9S[X12]["Pivot " + p_g.name] = I7N.pivotPoint;
+        if (p_g.inputs.Type.toLowerCase() == "fibonacci") {
+          R6h = "S";
+          R6h += "up";
+          R6h += "p";
+          R6h += "ort 1 ";
+          V24 = "Resist";
+          V24 += "anc";
+          V24 += "e 3 ";
+          M90 = "Resista";
+          M90 += "nce 2 ";
+          B$3 = "R";
+          B$3 += "esis";
+          B$3 += "t";
+          B$3 += "ance 1 ";
+          J9S[X12][B$3 + p_g.name] = I7N.pivotPoint + 0.382 * I7N.hlSpread;
+          J9S[X12][M90 + p_g.name] = I7N.pivotPoint + 0.618 * I7N.hlSpread;
+          J9S[X12][V24 + p_g.name] = I7N.pivotPoint + I7N.hlSpread;
+          J9S[X12][R6h + p_g.name] = I7N.pivotPoint - 0.382 * I7N.hlSpread;
+          J9S[X12]["Support 2 " + p_g.name] =
+            I7N.pivotPoint - 0.618 * I7N.hlSpread;
+          J9S[X12]["Support 3 " + p_g.name] = I7N.pivotPoint - I7N.hlSpread;
+        } else {
+          R_z = "S";
+          R_z += "upport";
+          R_z += " 1 ";
+          j5Z = "Resis";
+          j5Z += "tanc";
+          j5Z += "e 3 ";
+          g1q = "Res";
+          g1q += "i";
+          g1q += "stance";
+          g1q += " 2 ";
+          J9S[X12]["Resistance 1 " + p_g.name] =
+            +"2" * I7N.pivotPoint - I7N.prevLow;
+          J9S[X12][g1q + p_g.name] = I7N.pivotPoint + I7N.hlSpread;
+          J9S[X12][j5Z + p_g.name] =
+            I7N.prevHigh + ("2" ^ 0) * (I7N.pivotPoint - I7N.prevLow);
+          J9S[X12][R_z + p_g.name] = +"2" * I7N.pivotPoint - I7N.prevHigh;
+          J9S[X12]["Support 2 " + p_g.name] = I7N.pivotPoint - I7N.hlSpread;
+          R7h.K2h(8);
+          var r_p = R7h.o6M(10, 12);
+          J9S[X12]["Support 3 " + p_g.name] =
+            I7N.prevLow - r_p * (I7N.prevHigh - I7N.pivotPoint);
+        }
+        J9S[X12]["_pointers " + p_g.name] = u80.clone(I7N);
+      }
+    };
+    u80.Studies.displayPivotPoints = function (E7N, H64, D39) {
+      var t6J, d7O, H$m, D6l, c9e, W0r, Q3i, s5A;
+      H64.noSlopes = !H64.inputs.Continuous;
+      u7J6i.R4I();
+      u80.Studies.displaySeriesAsLine(E7N, H64, D39);
+      if (H64.inputs.Shading) {
+        t6J = "S";
+        t6J += "uppor";
+        t6J += "t ";
+        t6J += "3";
+        d7O = "S";
+        d7O += "upport 2 ";
+        H$m = "S";
+        H$m += "up";
+        H$m += "po";
+        H$m += "rt 2";
+        D6l = "Supp";
+        D6l += "ort 1 ";
+        c9e = "Pi";
+        c9e += "vo";
+        c9e += "t";
+        c9e += " ";
+        W0r = "Res";
+        W0r += "istance";
+        W0r += " 2 ";
+        Q3i = E7N.panels[H64.panel];
+        s5A = {
+          noSlopes: H64.noSlopes,
+          opacity: H64.parameters.opacity ? H64.parameters.opacity : 0.2,
+          skipTransform: Q3i.name != H64.chart.name,
+          yAxis: H64.getYAxis(E7N),
+        };
+        if (!H64.highlight && E7N.highlightedDraggable) {
+          s5A.opacity *= 0.3;
+        }
+        u80.prepareChannelFill(
+          E7N,
+          u80.extend(
+            {
+              panelName: H64.panel,
+              topBand: "Resistance 3 " + H64.name,
+              bottomBand: W0r + H64.name,
+              color: u80.Studies.determineColor(H64.outputs["Resistance 3"]),
+            },
+            s5A,
+          ),
+        );
+        u80.prepareChannelFill(
+          E7N,
+          u80.extend(
+            {
+              panelName: H64.panel,
+              topBand: "Resistance 2 " + H64.name,
+              bottomBand: "Resistance 1 " + H64.name,
+              color: u80.Studies.determineColor(H64.outputs["Resistance 2"]),
+            },
+            s5A,
+          ),
+        );
+        u80.prepareChannelFill(
+          E7N,
+          u80.extend(
+            {
+              panelName: H64.panel,
+              topBand: "Resistance 1 " + H64.name,
+              bottomBand: c9e + H64.name,
+              color: u80.Studies.determineColor(H64.outputs["Resistance 1"]),
+            },
+            s5A,
+          ),
+        );
+        u80.prepareChannelFill(
+          E7N,
+          u80.extend(
+            {
+              panelName: H64.panel,
+              topBand: D6l + H64.name,
+              bottomBand: "Pivot " + H64.name,
+              color: u80.Studies.determineColor(H64.outputs["Support 1"]),
+            },
+            s5A,
+          ),
+        );
+        u80.prepareChannelFill(
+          E7N,
+          u80.extend(
+            {
+              panelName: H64.panel,
+              topBand: "Support 2 " + H64.name,
+              bottomBand: "Support 1 " + H64.name,
+              color: u80.Studies.determineColor(H64.outputs[H$m]),
+            },
+            s5A,
+          ),
+        );
+        u80.prepareChannelFill(
+          E7N,
+          u80.extend(
+            {
+              panelName: H64.panel,
+              topBand: "Support 3 " + H64.name,
+              bottomBand: d7O + H64.name,
+              color: u80.Studies.determineColor(H64.outputs[t6J]),
+            },
+            s5A,
+          ),
+        );
+      }
+    };
+    u80.Studies.studyLibrary = u80.extend(u80.Studies.studyLibrary, {
+      "Pivot Points": {
+        name: "Pivot Points",
+        overlay: !"",
+        seriesFN: u80.Studies.displayPivotPoints,
+        calculateFN: u80.Studies.calculatePivotPoints,
+        inputs: { Type: [N1o, y0M], Continuous: ![], Shading: ![] },
+        outputs: {
+          Pivot: "auto",
+          "Resistance 1": "#b82c0b",
+          "Support 1": t6K,
+          "Resistance 2": "#e36460",
+          "Support 2": l_d,
+          "Resistance 3": "#ffd0cf",
+          "Support 3": "#d3e8ae",
+        },
+        parameters: { init: { opacity: 0.2 } },
+      },
+    });
+  }
+};
+o5 = (U6O) => {
+  var r4k, l_4, V5J;
+  r4k = "u";
+  r4k += "nd";
+  r4k += "efin";
+  r4k += "ed";
+  l_4 = typeof _CIQ !== r4k ? _CIQ : U6O.CIQ;
+  if (!l_4.Studies) {
+    console.error(
+      "prettyGoodOscillator feature requires first activating studies feature.",
+    );
+  } else {
+    V5J = "Pr";
+    V5J += "etty";
+    V5J += " Good Oscil";
+    V5J += "lator";
+    l_4.Studies.calculatePrettyGoodOscillator = function (e_4, z0q) {
+      var s00;
+      s00 = z0q.chart.scrubbed;
+      if (s00.length < z0q.days + +"1") {
+        z0q.error = !!{};
+        return;
+      }
+      l_4.Studies.MA("exponential", z0q.days, "trueRange", 0, "_EMA", e_4, z0q);
+      l_4.Studies.MA("simple", z0q.days, "Close", 0, "_SMA", e_4, z0q);
+      for (var v1A = Math.max(1, z0q.startFrom); v1A < s00.length; v1A++) {
+        if (!s00[v1A]["_SMA " + z0q.name] || !s00[v1A]["_EMA " + z0q.name])
+          continue;
+        s00[v1A]["Result " + z0q.name] =
+          (s00[v1A].Close - s00[v1A]["_SMA " + z0q.name]) /
+          s00[v1A]["_EMA " + z0q.name];
+      }
+    };
+    l_4.Studies.studyLibrary = l_4.extend(l_4.Studies.studyLibrary, {
+      "Pretty Good": {
+        name: V5J,
+        calculateFN: l_4.Studies.calculatePrettyGoodOscillator,
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: 3,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: -3,
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+    });
+  }
+};
+P7 = (f7H) => {
+  var B0T, H$j;
+  B0T = typeof _CIQ !== "undefined" ? _CIQ : f7H.CIQ;
+  u7J6i.p24();
+  if (!B0T.Studies) {
+    console.error(
+      "priceMomentumOscillator feature requires first activating studies feature.",
+    );
+  } else {
+    H$j = "aut";
+    H$j += "o";
+    B0T.Studies.calculatePMO = function (N2J, t2f) {
+      var e8v, R9y, I4j, u12, O2Y, Y9W, E2i, i7D;
+      e8v = "expone";
+      e8v += "nti";
+      e8v += "al";
+      R9y = "e";
+      R9y += "xponential";
+      I4j = {
+        Smooth: Number(t2f.inputs["Smoothing Period"]) - 1,
+        Double: Number(t2f.inputs["Double Smoothing Period"]) - 1,
+        Signal: Number(t2f.inputs["Signal Period"]),
+      };
+      u12 = t2f.chart.scrubbed;
+      if (u12.length < I4j.Smooth + I4j.Double) {
+        t2f.error = !0;
+        return;
+      }
+      O2Y = t2f.inputs.Field;
+      if (!O2Y || O2Y == "field") {
+        O2Y = "Close";
+      }
+      for (Y9W = t2f.startFrom; Y9W < u12.length; Y9W++) {
+        if (!u12[Y9W]) continue;
+        if (!u12[Y9W - 1]) continue;
+        E2i = B0T.Studies.getQuoteFieldValue(u12[Y9W - ("1" ^ 0)], O2Y);
+        if (E2i) {
+          i7D = "_";
+          i7D += "R";
+          i7D += "OCx1";
+          i7D += "0 ";
+          u7J6i.V84(116);
+          var W5m = u7J6i.o6M(18, 36, 8, 18, 8);
+          u12[Y9W][i7D + t2f.name] =
+            +"1000" *
+            (B0T.Studies.getQuoteFieldValue(u12[Y9W], O2Y) / E2i - W5m);
+        }
+      }
+      B0T.Studies.MA(
+        R9y,
+        I4j.Smooth,
+        "_ROCx10 " + t2f.name,
+        0,
+        "_EMAx10",
+        N2J,
+        t2f,
+      );
+      B0T.Studies.MA(
+        e8v,
+        I4j.Double,
+        "_EMAx10 " + t2f.name,
+        0,
+        "PMO",
+        N2J,
+        t2f,
+      );
+      B0T.Studies.MA(
+        "exponential",
+        I4j.Signal,
+        "PMO " + t2f.name,
+        0,
+        "PMOSignal",
+        N2J,
+        t2f,
+      );
+      t2f.zoneOutput = "PMO";
+    };
+    B0T.Studies.studyLibrary = B0T.extend(B0T.Studies.studyLibrary, {
+      PMO: {
+        name: "Price Momentum Oscillator",
+        calculateFN: B0T.Studies.calculatePMO,
+        inputs: {
+          Field: "field",
+          "Smoothing Period": 35,
+          "Double Smoothing Period": 20,
+          "Signal Period": 10,
+        },
+        outputs: { PMO: "auto", PMOSignal: "#FF0000" },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !!{},
+            studyOverBoughtValue: "2.5" - 0,
+            studyOverBoughtColor: H$j,
+            studyOverSoldValue: -2.5,
+            studyOverSoldColor: "auto",
+          },
+        },
+        attributes: {
+          studyOverBoughtValue: { min: 0, step: "0.05" },
+          studyOverSoldValue: { max: 0, step: "0.05" },
+        },
+      },
+    });
+  }
+};
+U4 = (b0p) => {
+  var C5_ = u7J6i;
+  var J41, Z7Z, i9A, s$g, e9x, A1e, N4m, V64, L0$, E2Y, H1i, R$U;
+  J41 = "und";
+  J41 += "efin";
+  J41 += "ed";
+  Z7Z = typeof _CIQ !== J41 ? _CIQ : b0p.CIQ;
+  C5_.R4I();
+  if (!Z7Z.Studies) {
+    i9A = "priceVolumeOscillator feature requires fi";
+    i9A += "rst activating studies feature.";
+    console.error(i9A);
+  } else {
+    s$g = "au";
+    s$g += "t";
+    s$g += "o";
+    e9x = "#";
+    e9x += "FF0000";
+    A1e = "v";
+    A1e += "d";
+    A1e += "m";
+    A1e += "a";
+    N4m = "f";
+    N4m += "ield";
+    V64 = "R";
+    V64 += "AVI";
+    L0$ = "P";
+    L0$ += "erc";
+    L0$ += "ent";
+    E2Y = "Po";
+    E2Y += "ints";
+    H1i = "P";
+    H1i += "er";
+    H1i += "c";
+    H1i += "ent";
+    R$U = "f";
+    R$U += "iel";
+    R$U += "d";
+    Z7Z.Studies.calculatePriceOscillator = function (S4V, r9R) {
+      var j_6,
+        A3f,
+        Q_m,
+        X9$,
+        c7G,
+        A_k,
+        G14,
+        H8h,
+        n4S,
+        g2Y,
+        s2I,
+        m7k,
+        f6j,
+        j7Y,
+        A6B,
+        s_r,
+        B4P,
+        m7Z,
+        O_5;
+      j_6 = "_";
+      j_6 += "Short M";
+      j_6 += "A";
+      A3f = "Poin";
+      A3f += "ts Or P";
+      A3f += "ercen";
+      C5_.p24();
+      A3f += "t";
+      Q_m = "Cl";
+      Q_m += "o";
+      Q_m += "se";
+      X9$ = "Long Cy";
+      X9$ += "cl";
+      X9$ += "e";
+      c7G = r9R.chart.scrubbed;
+      A_k = Number(r9R.inputs["Short Cycle"]);
+      G14 = Number(r9R.inputs[X9$]);
+      if (c7G.length < Math.max(A_k, G14) + 1) {
+        r9R.error = !"";
+        return;
+      }
+      H8h = r9R.inputs.Field;
+      n4S = r9R.inputs["Moving Average Type"];
+      if (!n4S) {
+        n4S = "simple";
+      }
+      if (!H8h || H8h == "field") {
+        H8h = Q_m;
+      }
+      if (r9R.parameters.isVolume) {
+        g2Y = "V";
+        g2Y += "o";
+        g2Y += "lu";
+        g2Y += "me";
+        H8h = g2Y;
+        n4S = "exponential";
+      }
+      s2I = r9R.inputs[A3f];
+      if (!s2I) {
+        s2I = "Percent";
+      }
+      Z7Z.Studies.MA(n4S, A_k, H8h, 0, j_6, S4V, r9R);
+      Z7Z.Studies.MA(n4S, G14, H8h, +"0", "_Long MA", S4V, r9R);
+      for (var p2K = Math.max(G14, r9R.startFrom); p2K < c7G.length; p2K++) {
+        m7k = "_Shor";
+        m7k += "t MA ";
+        f6j = c7G[p2K];
+        if (!f6j) continue;
+        j7Y = f6j[m7k + r9R.name];
+        A6B = f6j["_Long MA " + r9R.name];
+        if ((j7Y || j7Y === 0) && (A6B || A6B === 0)) {
+          s_r = "R";
+          s_r += "e";
+          s_r += "sult ";
+          B4P = "Re";
+          B4P += "sul";
+          B4P += "t";
+          B4P += " ";
+          m7Z = "P";
+          m7Z += "o";
+          m7Z += "ints";
+          if (s2I == m7Z) {
+            C5_.K2h(4);
+            f6j[B4P + r9R.name] = C5_.F4O(j7Y, A6B);
+          } else {
+            C5_.K2h(162);
+            f6j[s_r + r9R.name] = C5_.F4O(100, A6B, 1, j7Y);
+          }
+          if (r9R.outputs["Increasing Bar"]) {
+            O_5 = "_h";
+            O_5 += "ist";
+            f6j[r9R.name + O_5] = f6j["Result " + r9R.name];
+            r9R.outputMap = {};
+            r9R.outputMap[r9R.name + "_hist"] = "";
+          }
+        }
+      }
+    };
+    Z7Z.Studies.displayRAVI = function (d_T, C5v, S8V) {
+      var C3L,
+        F_I,
+        j07,
+        s6v,
+        e_X,
+        v2$,
+        W4E,
+        N2d,
+        h7m,
+        b4a,
+        V_g,
+        s5G,
+        u8a,
+        z74,
+        r_R,
+        a0O,
+        q7t,
+        q6I;
+      C3L = "In";
+      C3L += "creasing";
+      C3L += " ";
+      C3L += "Bar";
+      F_I = d_T.panels[C5v.panel];
+      j07 = C5v.getContext(d_T);
+      s6v = C5v.getYAxis(d_T);
+      e_X = d_T.pixelFromPrice(0, F_I, s6v);
+      v2$ = d_T.layout.candleWidth - +"2";
+      if (v2$ < 2) {
+        v2$ = 1;
+      }
+      W4E = Z7Z.Studies.determineColor(C5v.outputs[C3L]);
+      N2d = Z7Z.Studies.determineColor(C5v.outputs["Decreasing Bar"]);
+      d_T.startClip(C5v.panel);
+      d_T.canvasColor("stx_histogram");
+      if (!C5v.underlay) {
+        j07.globalAlpha = +"1";
+      }
+      if (!C5v.highlight && d_T.highlightedDraggable) {
+        j07.globalAlpha *= +"0.3";
+      }
+      for (var D53 = 0; D53 < S8V.length; D53++) {
+        h7m = "_";
+        h7m += "h";
+        h7m += "i";
+        h7m += "st";
+        b4a = "_";
+        b4a += "h";
+        b4a += "ist";
+        V_g = "_hi";
+        V_g += "st";
+        s5G = "_h";
+        s5G += "i";
+        s5G += "s";
+        s5G += "t";
+        u8a = 0;
+        z74 = S8V[D53];
+        C5_.V84(4);
+        r_R = S8V[C5_.F4O(D53, 1)];
+        if (!r_R) {
+          r_R = d_T.getPreviousBar(d_T.chart, C5v.name + s5G, D53);
+        }
+        if (!z74) continue;
+        a0O = +"0";
+        q7t = 0;
+        if (C5v.parameters && C5v.parameters.studyOverZonesEnabled) {
+          a0O = parseFloat(C5v.parameters.studyOverBoughtValue);
+          q7t = parseFloat(C5v.parameters.studyOverSoldValue);
+        }
+        if (d_T.cleanupGaps === "stretch") {
+          while (S8V[D53 + 1]) {
+            C5_.V84(1);
+            q6I = S8V[C5_.o6M(D53, 1)][C5v.name + "_hist"];
+            if (q6I || q6I === 0 || S8V[D53 + 1].futureTick) break;
+            u8a++;
+            D53++;
+          }
+        }
+        if (!r_R || r_R[C5v.name + "_hist"] === undefined) {
+          r_R = d_T.getPreviousBar(d_T.chart, C5v.name + "_hist", D53 - u8a);
+        }
+        if (!r_R) {
+          j07.fillStyle = "#CCCCCC";
+        } else if (
+          z74[C5v.name + "_hist"] > a0O &&
+          r_R[C5v.name + "_hist"] < z74[C5v.name + V_g]
+        ) {
+          j07.fillStyle = W4E;
+        } else if (
+          z74[C5v.name + "_hist"] < q7t &&
+          r_R[C5v.name + b4a] > z74[C5v.name + "_hist"]
+        ) {
+          j07.fillStyle = N2d;
+        } else {
+          j07.fillStyle = "#CCCCCC";
+        }
+        if (z74.candleWidth) {
+          v2$ = Math.floor(Math.max(1, z74.candleWidth - 2));
+        }
+        j07.fillRect(
+          Math.floor(d_T.pixelFromBar(D53 - u8a, F_I.chart) - v2$ / 2),
+          Math.floor(e_X),
+          Math.floor(v2$ + u8a * d_T.layout.candleWidth),
+          Math.floor(d_T.pixelFromPrice(z74[C5v.name + h7m], F_I, s6v) - e_X),
+        );
+      }
+      d_T.endClip();
+    };
+    Z7Z.Studies.studyLibrary = Z7Z.extend(Z7Z.Studies.studyLibrary, {
+      "Price Osc": {
+        name: "Price Oscillator",
+        calculateFN: Z7Z.Studies.calculatePriceOscillator,
+        inputs: {
+          Field: R$U,
+          "Short Cycle": 12,
+          "Long Cycle": 26,
+          "Moving Average Type": "ema",
+          "Points Or Percent": ["Points", H1i],
+        },
+      },
+      "Vol Osc": {
+        name: "Volume Oscillator",
+        calculateFN: Z7Z.Studies.calculatePriceOscillator,
+        inputs: {
+          "Short Cycle": 12,
+          "Long Cycle": 26,
+          "Points Or Percent": [E2Y, L0$],
+        },
+        parameters: { init: { isVolume: !!{} } },
+      },
+      RAVI: {
+        name: V64,
+        seriesFN: Z7Z.Studies.displayRAVI,
+        calculateFN: Z7Z.Studies.calculatePriceOscillator,
+        inputs: {
+          Field: N4m,
+          "Moving Average Type": A1e,
+          "Short Cycle": "7" << 32,
+          "Long Cycle": 65,
+        },
+        outputs: { "Increasing Bar": "#00DD00", "Decreasing Bar": e9x },
+        centerline: 0,
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !!{},
+            studyOverBoughtValue: 3,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: -3,
+            studyOverSoldColor: s$g,
+          },
+        },
+        attributes: {
+          studyOverBoughtValue: { min: 0, step: "0.1" },
+          studyOverSoldValue: { max: 0, step: "0.1" },
+        },
+      },
+    });
+  }
+};
+i3 = (a1Y) => {
+  var v4V, g07, u9t;
+  v4V = typeof _CIQ !== "undefined" ? _CIQ : a1Y.CIQ;
+  if (!v4V.Studies) {
+    g07 = "primeNumber feature ";
+    g07 += "requires first activa";
+    g07 += "ting";
+    g07 += " studies feature.";
+    console.error(g07);
+  } else {
+    u9t = "Prime Number Os";
+    u9t += "cillator";
+    v4V.Studies.calculatePrimeNumber = function (G4d, d6i) {
+      var S_2 = u7J6i;
+      S_2.p24();
+      var g61, m1i, E4K, n3B, K20, l7o, j5j, O2f, J59;
+      g61 = [];
+      m1i = d6i.chart.scrubbed;
+      for (var V5f = d6i.startFrom; V5f < m1i.length; V5f++) {
+        E4K = m1i[V5f];
+        if (!E4K) continue;
+        n3B = E4K.High;
+        if (!isNaN(n3B)) {
+          for (var p9w = +"0"; n3B > 0 && n3B <= 10; p9w++) {
+            n3B *= 10;
+          }
+          if (D5b(n3B)) {
+            n3B += +"2";
+          }
+          n3B = Math.ceil(n3B);
+          if (n3B % 2 === +"0") {
+            n3B++;
+          }
+          while (!D5b(n3B)) {
+            n3B += 2;
+          }
+          n3B /= Math.pow(10, p9w);
+        }
+        K20 = E4K.Low;
+        if (!isNaN(K20)) {
+          for (var l3H = 0; K20 > 0 && K20 <= 10; l3H++) {
+            S_2.K2h(11);
+            K20 *= S_2.o6M(0, "10");
+          }
+          if (D5b(K20)) {
+            K20 -= 2;
+          }
+          K20 = Math.floor(K20);
+          if (K20 % +"2" === 0) {
+            K20--;
+          }
+          if (K20 > 0) {
+            while (!D5b(K20)) {
+              K20 -= +"2";
+            }
+            K20 /= Math.pow(+"10", l3H);
+          }
+        }
+        if (d6i.type == "Prime Number Bands") {
+          l7o = "P";
+          l7o += "rime Band";
+          l7o += "s Top";
+          l7o += " ";
+          if (!isNaN(n3B)) {
+            E4K[l7o + d6i.name] = n3B;
+          }
+          if (!isNaN(K20)) {
+            E4K["Prime Bands Bottom " + d6i.name] = Math.max(0, K20);
+          }
+        } else {
+          S_2.K2h(45);
+          j5j = S_2.o6M("0", 32);
+          S_2.V84(164);
+          var t_r = S_2.o6M(11, 700, 689, 97, 3);
+          O2f = (d6i.inputs["Tolerance Percentage"] * (n3B - K20)) / t_r;
+          S_2.K2h(165);
+          var o3c = S_2.F4O(1, 16, 281, 6, 19);
+          J59 = n3B + K20 - o3c * E4K.Close;
+          if (J59 < O2f) {
+            j5j = 1;
+          } else if (J59 > O2f) {
+            j5j = -1;
+          }
+          if (j5j) {
+            E4K["Result " + d6i.name] = j5j;
+          }
+        }
+      }
+      function D5b(x59) {
+        var J7r;
+        if (x59 <= 0) {
+          return !"1";
+        } else if (x59 != Math.floor(x59)) {
+          return !{};
+        } else if (g61[x59] === !![] || g61[x59] === ![]) {
+          return g61[x59];
+        }
+        J7r = parseInt(Math.sqrt(x59), 10);
+        for (var i2m = 2; i2m <= J7r; i2m++) {
+          if (x59 % i2m === +"0") {
+            g61[x59] = !1;
+            return !{};
+          }
+        }
+        S_2.R4I();
+        g61[x59] = !![];
+        return !![];
+      }
+    };
+    v4V.Studies.studyLibrary = v4V.extend(v4V.Studies.studyLibrary, {
+      "Prime Number": {
+        name: u9t,
+        range: "-1 to 1",
+        calculateFN: v4V.Studies.calculatePrimeNumber,
+        centerline: 0,
+        inputs: { "Tolerance Percentage": 5 },
+        attributes: { "Tolerance Percentage": { min: 0.1, step: 0.1 } },
+      },
+      "Prime Number Bands": {
+        name: "Prime Number Bands",
+        overlay: !!"1",
+        calculateFN: v4V.Studies.calculatePrimeNumber,
+        seriesFN: v4V.Studies.displayChannel,
+        inputs: { "Channel Fill": !![] },
+        outputs: {
+          "Prime Bands Top": "auto",
+          "Prime Bands Bottom": "auto",
+          "Prime Bands Channel": "auto",
+        },
+      },
+    });
+  }
+};
+l2 = (W$s) => {
+  var A8c = u7J6i;
+  var q5S, E2D, v4T, g9j, G6X, y2N, O3h, L9W;
+  q5S = "und";
+  q5S += "e";
+  A8c.p24();
+  q5S += "fined";
+  E2D = typeof _CIQ !== q5S ? _CIQ : W$s.CIQ;
+  if (!E2D.Studies) {
+    console.error("pring feature requires first activating studies feature.");
+  } else {
+    v4T = "da";
+    v4T += "il";
+    v4T += "y";
+    g9j = "fie";
+    g9j += "ld";
+    G6X = "Pring's Sp";
+    G6X += "eci";
+    G6X += "al K";
+    y2N = "#F";
+    y2N += "F00";
+    y2N += "0";
+    y2N += "0";
+    O3h = "#00";
+    O3h += "DD00";
+    L9W = "fi";
+    L9W += "e";
+    L9W += "ld";
+    E2D.Studies.calculateKST = function (C4t, X5N) {
+      var F_T, t7r, E8y, x_V, D4P, D3V, P6C, m4B, L57, V2R, g98;
+      F_T = "L";
+      F_T += "ight";
+      F_T += " SMA Peri";
+      F_T += "od";
+      t7r = X5N.chart.scrubbed;
+      E8y = X5N.inputs.Field;
+      if (!E8y || E8y == "field") {
+        E8y = "Close";
+      }
+      x_V = {};
+      D4P = {};
+      x_V[1] = Number(X5N.inputs["Lightest Rate of Change Period"]);
+      x_V[2] = Number(X5N.inputs["Light Rate of Change Period"]);
+      x_V[3] = Number(X5N.inputs["Heavy Rate of Change Period"]);
+      x_V[4] = Number(X5N.inputs["Heaviest Rate of Change Period"]);
+      D4P[1] = Number(X5N.inputs["Lightest SMA Period"]);
+      D4P[+"2"] = Number(X5N.inputs[F_T]);
+      D4P[3] = Number(X5N.inputs["Heavy SMA Period"]);
+      D4P[4] = Number(X5N.inputs["Heaviest SMA Period"]);
+      D3V = Number(X5N.inputs["Signal Period"]);
+      for (P6C = X5N.startFrom; P6C < t7r.length; P6C++) {
+        if (!t7r[P6C]) continue;
+        for (m4B = 1; m4B <= 4; m4B++) {
+          if (
+            P6C >= x_V[m4B] &&
+            t7r[P6C - x_V[m4B]] &&
+            E2D.Studies.getQuoteFieldValue(t7r[P6C - x_V[m4B]], E8y)
+          ) {
+            A8c.K2h(4);
+            var b1R = A8c.F4O(500, 400);
+            A8c.V84(4);
+            var A6W = A8c.o6M(16, 15);
+            t7r[P6C]["_ROC" + m4B + " " + X5N.name] =
+              b1R *
+              (E2D.Studies.getQuoteFieldValue(t7r[P6C], E8y) /
+                E2D.Studies.getQuoteFieldValue(t7r[P6C - x_V[m4B]], E8y) -
+                A6W);
+          }
+        }
+      }
+      A8c.R4I();
+      for (m4B = 1; m4B <= 4; m4B++) {
+        L57 = "_R";
+        L57 += "O";
+        L57 += "C";
+        E2D.Studies.MA(
+          "simple",
+          D4P[m4B],
+          L57 + m4B + (+"1940" == 7020 ? (21.22, 0x8cc) : " ") + X5N.name,
+          0,
+          "_SMA" + m4B,
+          C4t,
+          X5N,
+        );
+      }
+      for (P6C = X5N.startFrom; P6C < t7r.length; P6C++) {
+        t7r[P6C]["KST " + X5N.name] = null;
+        for (m4B = 1; m4B <= 4; m4B++) {
+          V2R = "_";
+          V2R += "SMA";
+          A8c.K2h(36);
+          var h5y = A8c.F4O(90384, 19, 8, 633, 18);
+          A8c.K2h(68);
+          var Z1h = A8c.o6M(5371, 538, 11);
+          A8c.V84(166);
+          var L_a = A8c.o6M(3, 8, 7, 3078, 3);
+          A8c.K2h(4);
+          var p2M = A8c.o6M(4193, 3594);
+          A8c.K2h(167);
+          var Z_F = A8c.F4O(1, 15, 10, 1971, 14);
+          g98 =
+            t7r[P6C][
+              V2R +
+                m4B +
+                (549.91 == h5y
+                  ? Z1h < (L_a, +"685.26")
+                    ? (p2M, "h")
+                    : (!!0, Z_F)
+                  : " ") +
+                X5N.name
+            ];
+          if (g98 || g98 === 0) {
+            A8c.K2h(3);
+            t7r[P6C]["KST " + X5N.name] += A8c.F4O(m4B, g98);
+          }
+        }
+      }
+      E2D.Studies.MA(
+        "simple",
+        D3V,
+        "KST " + X5N.name,
+        0,
+        "KSTSignal",
+        C4t,
+        X5N,
+      );
+    };
+    E2D.Studies.calculateSpecialK = function (j44, i$v) {
+      var i4_, b5I, O4O, G5d, o1B, P0m, y01, A0j, z1M, o_K, a0A, J$f, K08, D6y;
+      i4_ = "Cl";
+      i4_ += "o";
+      i4_ += "s";
+      i4_ += "e";
+      b5I = "fi";
+      b5I += "e";
+      b5I += "l";
+      b5I += "d";
+      O4O = i$v.chart.scrubbed;
+      G5d = i$v.inputs.Field;
+      if (!G5d || G5d == b5I) {
+        G5d = i4_;
+      }
+      o1B = i$v.inputs.Interval;
+      if (!o1B) {
+        o1B = "daily";
+      }
+      P0m = {
+        daily: [10, 15, 20, 30, 50, 65, 75, 100, 195, 265, 390, 530],
+        weekly: [
+          "4" >> 64,
+          5,
+          "6" ^ 0,
+          8,
+          "10" | 0,
+          13,
+          15,
+          20,
+          39,
+          52,
+          78,
+          104,
+        ],
+      };
+      y01 = {
+        daily: [10, +"10", 10, 15, 50, 65, +"75", 100, +"130", 130, 130, 195],
+        weekly: [4, 5, 6, 8, 10, 13, 15, 20, 26, 26, 26, +"39"],
+      };
+      for (A0j = i$v.startFrom; A0j < O4O.length; A0j++) {
+        if (!O4O[A0j]) continue;
+        for (z1M = "0" | 0; z1M < P0m[o1B].length; z1M++) {
+          o_K = "_R";
+          o_K += "O";
+          o_K += "C";
+          if (
+            A0j >= P0m[o1B][z1M] &&
+            E2D.Studies.getQuoteFieldValue(O4O[A0j - P0m[o1B][z1M]], G5d) !==
+              null
+          ) {
+            A8c.K2h(8);
+            var O3R = A8c.o6M(2, 3);
+            O4O[A0j][o_K + z1M + " " + i$v.name] =
+              +"100" *
+              (E2D.Studies.getQuoteFieldValue(O4O[A0j], G5d) /
+                E2D.Studies.getQuoteFieldValue(O4O[A0j - P0m[o1B][z1M]], G5d) -
+                O3R);
+          }
+        }
+      }
+      for (z1M = 0; z1M < y01[o1B].length; z1M++) {
+        a0A = "_R";
+        a0A += "OC";
+        J$f = "sim";
+        J$f += "p";
+        J$f += "le";
+        K08 = "d";
+        K08 += "a";
+        K08 += "ily";
+        E2D.Studies.MA(
+          o1B == K08 ? J$f : "exponential",
+          y01[o1B][z1M],
+          a0A +
+            z1M +
+            (2416 < "755.92" - 0
+              ? 1124 <= ("7086" >> 0, 1902)
+                ? (!0, !!"1")
+                : "p"
+              : " ") +
+            i$v.name,
+          0,
+          "_MA" + z1M,
+          j44,
+          i$v,
+        );
+      }
+      for (A0j = i$v.startFrom; A0j < O4O.length; A0j++) {
+        O4O[A0j]["Result " + i$v.name] = null;
+        for (z1M = +"0"; z1M < y01[o1B].length; z1M++) {
+          A8c.K2h(34);
+          var T5E = A8c.F4O(4, 2138, 2138);
+          A8c.K2h(128);
+          var N0U = A8c.o6M(1, 1071, 3, 9282);
+          A8c.V84(1);
+          var k9F = A8c.o6M(4, 12);
+          A8c.K2h(10);
+          var f5V = A8c.F4O(7, 20, 6977);
+          A8c.V84(1);
+          var U6i = A8c.o6M(7345, 15);
+          A8c.V84(4);
+          var Z3F = A8c.o6M(9517, 13);
+          A8c.V84(147);
+          var u1p = A8c.o6M(6, 1089, 91, 91);
+          D6y =
+            O4O[A0j][
+              "_MA" +
+                z1M +
+                (T5E != N0U
+                  ? ("3090" | k9F, f5V) > (U6i, 839.17)
+                    ? " "
+                    : Z3F
+                  : (u1p, +"0x2d9")) +
+                i$v.name
+            ];
+          if (D6y || D6y === "0" >> 32) {
+            A8c.V84(168);
+            O4O[A0j]["Result " + i$v.name] += A8c.F4O(D6y, 0, z1M, 4, "1");
+          }
+        }
+      }
+    };
+    E2D.Studies.studyLibrary = E2D.extend(E2D.Studies.studyLibrary, {
+      "Pring KST": {
+        name: "Pring's Know Sure Thing",
+        calculateFN: E2D.Studies.calculateKST,
+        inputs: {
+          Field: L9W,
+          "Lightest Rate of Change Period": +"10",
+          "Lightest SMA Period": 10,
+          "Light Rate of Change Period": 15,
+          "Light SMA Period": 10,
+          "Heavy Rate of Change Period": 20,
+          "Heavy SMA Period": 10,
+          "Heaviest Rate of Change Period": 30,
+          "Heaviest SMA Period": 15,
+          "Signal Period": 9,
+        },
+        outputs: { KST: O3h, KSTSignal: y2N },
+      },
+      "Pring Sp-K": {
+        name: G6X,
+        calculateFN: E2D.Studies.calculateSpecialK,
+        inputs: { Field: g9j, Interval: [v4T, "weekly"] },
+      },
+    });
+  }
+};
+L$ = (X4t) => {
+  var S3Z, m9q, I3k, X1c, h8d, F0y, M39, E$w, o6I, w40, c8S, l3I, q2S, K2d;
+  S3Z = "u";
+  S3Z += "nde";
+  S3Z += "fi";
+  S3Z += "ned";
+  m9q = typeof _CIQ !== S3Z ? _CIQ : X4t.CIQ;
+  I3k = typeof _timezoneJS !== "undefined" ? _timezoneJS : X4t.timezoneJS;
+  if (!m9q.Studies) {
+    console.error(
+      "projectedVolume feature requires first activating studies feature.",
+    );
+  } else if (!m9q.Studies.studyLibrary.PVAT) {
+    X1c = "s";
+    X1c += "tep";
+    h8d = "#b";
+    h8d += "82";
+    h8d += "c";
+    h8d += "0c";
+    F0y = "hh:mm";
+    F0y += ":ss";
+    M39 = "#f";
+    M39 += "e641c";
+    E$w = "-";
+    E$w += "150%";
+    o6I = "-";
+    o6I += "7";
+    o6I += "5%";
+    w40 = "+";
+    w40 += "25%";
+    c8S = "+5";
+    c8S += "0%";
+    l3I = "+75";
+    l3I += "%";
+    q2S = "+1";
+    q2S += "25%";
+    K2d = "+";
+    K2d += "15";
+    K2d += "0%";
+    m9q.Studies.initProjectedVolume = function (U6I, q0N, a59, N1h, u4$, R2j) {
+      var h4K, x1s, N$O;
+      h4K = "Anc";
+      h4K += "h";
+      h4K += "or Tim";
+      h4K += "e";
+      var { market: z3Y } = U6I.chart;
+      x1s = "00:00";
+      if (z3Y) {
+        x1s = z3Y.getNormalOpen();
+      }
+      u7J6i.p24();
+      if (x1s.match(/^[\d]{2}:[\d]{2}$/)) {
+        x1s += ":00";
+      }
+      if (!a59[h4K] || !a59["Anchor Time"].length) {
+        a59["Anchor Time"] = x1s;
+      }
+      N$O = m9q.Studies.initializeFN(U6I, q0N, a59, N1h, u4$, R2j);
+      if (!U6I.currentlyImporting) {
+        N$O.defaultAnchorTime = x1s;
+      }
+      return N$O;
+    };
+    m9q.Studies.validateProjectedVolumeLookback = function (X8M, P7V) {
+      var { interval: f$s, periodicity: Q85 } = X8M.layout;
+      var { "Lookback Days": c3R } = P7V.inputs;
+      u7J6i.V84(169);
+      u7J6i.p24();
+      return u7J6i.F4O(Q85, c3R, 10, f$s);
+    };
+    m9q.Studies.calculateProjectedVolume = function (p6H, n8q) {
+      var n_P = u7J6i;
+      var v1o,
+        B$e,
+        K8a,
+        U6W,
+        v2U,
+        N_L,
+        q05,
+        w_I,
+        m3E,
+        x1$,
+        C2M,
+        z8P,
+        G7r,
+        E6s,
+        F6X,
+        f5r,
+        Y3D,
+        s7P,
+        g8E,
+        L2I,
+        l04,
+        b1f,
+        L_r,
+        n6q,
+        C_C,
+        i7B,
+        Y1W,
+        B4k,
+        M8y,
+        s1E,
+        J6T,
+        C$V,
+        Y6T,
+        C07,
+        F$l,
+        h_y,
+        f7_,
+        J4t,
+        I5T,
+        P1T,
+        F5L,
+        W3n,
+        Z7S,
+        j_N,
+        N2K,
+        A4x,
+        x7v,
+        a0H,
+        a4c,
+        g5W,
+        O_A,
+        q01,
+        p1a;
+      v1o = "A";
+      v1o += "ver";
+      v1o += "age Line";
+      B$e = ":";
+      B$e += "0";
+      B$e += "0";
+      K8a = "t";
+      K8a += "i";
+      K8a += "ck";
+      var { interval: C5S, timeUnit: O4C, aggregationType: c$s } = p6H.layout;
+      var { symbol: y6X, scroll: j$c, scrubbed: g8q, market: p6u } = p6H.chart;
+      U6W = n8q.type === "PAV";
+      v2U = n8q.study ? n8q.study.name : n8q.type;
+      if (m9q.ChartEngine.isDailyInterval(C5S)) {
+        n_P.V84(68);
+        n8q.error = `${v2U}${n_P.o6M("ay Only", " is", " Intrad")}`;
+      } else if (O4C === K8a) {
+        n_P.V84(68);
+        n8q.error = `${n_P.o6M("ot supported for ", "Tic", "k mode n")}${v2U}`;
+      } else if (O4C !== "minute") {
+        n8q.error = `Sub-minute periodicities not supported for ${v2U}`;
+      } else if (!c$s || !["ohlc", "heikinashi"].includes(c$s)) {
+        n8q.error = `Aggregation type not supported for ${v2U}`;
+      } else if (!m9q.Studies.validateProjectedVolumeLookback(p6H, n8q)) {
+        n8q.error = `Selected lookback/periodicity combo not supported for ${v2U}`;
+      }
+      if (n8q.error) {
+        return;
+      }
+      if (n8q.inputs["Anchor Selector"]) {
+        m9q.Studies.initAnchorHandle(p6H, n8q);
+      } else {
+        m9q.Studies.removeAnchorHandle(p6H, n8q);
+      }
+      N_L = p6u ? p6u.getNormalOpen() : "00:00";
+      if (N_L.match(/^[\d]{2}:[\d]{2}$/)) {
+        N_L += B$e;
+      }
+      if (!p6H.currentlyImporting) {
+        if (!n8q.defaultAnchorTime) {
+          n8q.defaultAnchorTime = N_L;
+        } else if (N_L !== n8q.defaultAnchorTime) {
+          n8q.defaultAnchorTime = N_L;
+          n8q.inputs["Anchor Time"] = N_L;
+          m9q.Studies.repositionAnchor(p6H, n8q);
+          return;
+        }
+      }
+      var { "Lookback Days": a2F, "Anchor Time": B63 } = n8q.inputs;
+      var [c8l, J5n, j_C = +"0"] = B63.split(":");
+      q05 = m9q.getFn("Market.Symbology.isForexSymbol")(y6X);
+      w_I = n8q.getDependents(p6H);
+      m3E = 0;
+      x1$ = [];
+      w_I.forEach(({ inputs: t2w, outputMap: X1Z }) => {
+        n_P.R4I();
+        if (t2w.Period) {
+          m3E = Math.max(parseInt(t2w.Period), m3E);
+          x1$.push(...Object.keys(X1Z));
+        }
+      });
+      function U7X(w5G, W2w) {
+        var R5g, X9F, O86;
+        R5g = s76(w5G);
+        X9F = p6u.getOpen(R5g) || I6Y(R5g);
+        O86 = q6Z(X9F);
+        if (!W2w) {
+          return O86;
+        }
+        if (O86 < 0) {
+          O86 = q6Z(W8z(X9F, 1, !0));
+        }
+        if (O86 >= g8q.length) {
+          return !"1";
+        }
+        n_P.p24();
+        return O86;
+      }
+      n8q.dependentsOutputMap = x1$;
+      function W8z(S9X, T3r, p4d) {
+        while (T3r) {
+          S9X = new Date(new Date(S9X).setDate(S9X.getDate() + (p4d ? 1 : -1)));
+          if (p6u.isMarketDate(S9X)) {
+            T3r--;
+          }
+        }
+        return S9X;
+      }
+      z8P = U7X(g8q.length - 1, !!{});
+      G7r = Math.ceil(g8q.length - 1 - j$c);
+      n_P.K2h(4);
+      E6s = U7X(n_P.F4O(G7r, m3E));
+      if (q05 && g8q[E6s] && m9q.dateToStr(g8q[E6s].DT, "HH:mm") !== N_L) {
+        n_P.K2h(101);
+        E6s = U7X(n_P.o6M("1", 1, E6s));
+      }
+      function q6Z(m8W) {
+        var p_b, F$K, V3d, v04;
+        p_b = -2061667755;
+        F$K = -1700093692;
+        V3d = 2;
+        n_P.p24();
+        for (
+          var R0T = 1;
+          n_P.S6r(R0T.toString(), R0T.toString().length, 35016) !== p_b;
+          R0T++
+        ) {
+          v04 = "s";
+          v04 += "cru";
+          v04 += "bbe";
+          v04 += "d";
+          return p6H.tickFromDate(m8W, null, null, !!{}, v04);
+        }
+        if (n_P.S6r(V3d.toString(), V3d.toString().length, 93779) !== F$K) {
+          n_P.V84(45);
+          return p6H.tickFromDate(m8W, n_P.o6M("1", 32), 1, !!"", "");
+        }
+      }
+      if (
+        !q05 &&
+        n8q.startFrom > E6s &&
+        g8q[E6s] &&
+        g8q[E6s]["V " + n8q.name] !== undefined &&
+        x1$.every((c$Y) => {
+          n_P.R4I();
+          return ![undefined, null].includes(g8q[E6s][c$Y]);
+        }) &&
+        z8P !== !{}
+      ) {
+        C2M = z8P;
+      } else {
+        C2M = E6s;
+      }
+      F6X = W8z(s76(E6s), a2F);
+      function s76(a_B) {
+        var N$T;
+        N$T = "sc";
+        N$T += "rub";
+        N$T += "be";
+        N$T += "d";
+        n_P.R4I();
+        return p6H.dateFromTick(a_B, null, !!{}, N$T);
+      }
+      F6X.setHours(0, 0, 0);
+      f5r = U7X(0, !!{});
+      Y3D = (f5r || f5r === 0) && q6Z(W8z(g8q[f5r].DT, a2F, !0));
+      n_P.p24();
+      if (g8q[0].DT > F6X) {
+        if (p6H.quoteDriver) {
+          if (n8q.chart.endPoints.begin > F6X) {
+            p6H.quoteDriver.extendHistoricalData({ from: F6X });
+          }
+          if (Y3D > 0) {
+            C2M = Y3D;
+          } else {
+            return;
+          }
+        } else {
+          return (n8q.error = `Not enough data to calculate ${v2U}`);
+        }
+      }
+      function I6Y(z8l) {
+        var k_o;
+        n_P.R4I();
+        z8l.setHours(0);
+        z8l.setMinutes(0);
+        k_o = m9q.Studies.getMarketOffset({ stx: p6H, localQuoteDate: z8l });
+        return new Date(z8l.getTime() + k_o);
+      }
+      if (C2M < 0 || C2M > g8q.length - 1) {
+        return;
+      }
+      s7P =
+        g8q.length - n8q.startFrom === "1" >> 64 &&
+        n8q.cachedFutureTicks &&
+        n8q.cachedLastProjection &&
+        +n8q.cachedLastProjection.DT === +g8q[g8q.length - 1].DT &&
+        g8q[C2M]["PV " + n8q.name];
+      if (s7P) {
+        g8E = "P";
+        g8E += "V";
+        g8E += " ";
+        n_P.V84(8);
+        var F9i = n_P.o6M(15, 16);
+        g8q[g8q.length - F9i][g8E + n8q.name] =
+          n8q.cachedLastProjection.projectedValue;
+        n8q.appendFutureTicks(p6H, n8q.cachedFutureTicks);
+        C2M = n8q.startFrom;
+      } else {
+        L2I = "PV";
+        L2I += " ";
+        n8q.cachedFutureTicks = null;
+        n8q.cachedLastProjection = null;
+        l04 = [z8P];
+        b1f = [];
+        for (var C7_ = 0; C7_ < a2F; C7_++) {
+          L_r = U7X(l04[+"0"] - 1);
+          l04.unshift(L_r);
+        }
+        while (l04[a2F] >= C2M) {
+          n6q = l04.pop();
+          if (!g8q[n6q]) {
+            return I1z(n6q);
+          }
+          C_C = h6a(g8q[n6q].DT);
+          var { hours: q3n, minutes: S_$ } = C_C;
+          i7B = p6u.getClose(g8q[n6q].DT);
+          Y1W = void 0;
+          if (!i7B) {
+            Y1W = { hours: 24, minutes: 0 };
+          } else {
+            B4k = p6u.getNextClose(g8q[n6q].DT);
+            Y1W = h6a(i7B);
+            while (
+              !(Y1W.hours === 0 && Y1W.minutes === 0) &&
+              i7B.getDate() === B4k.getDate()
+            ) {
+              i7B = B4k;
+              B4k = p6u.getNextClose(B4k);
+            }
+            Y1W = h6a(i7B);
+            if (Y1W.hours === 0) {
+              Y1W.hours = 24;
+            }
+          }
+          M8y = l04.slice();
+          for (var J2s = 0; J2s < M8y.length; J2s++) {
+            s1E = M8y[J2s];
+            if (!g8q[s1E]) {
+              return I1z(s1E);
+            }
+            var { hours: x$z, minutes: X$V } = h6a(g8q[s1E].DT);
+            if (x$z < q3n || (x$z === q3n && X$V < S_$)) {
+              do {
+                s1E++;
+                ({ hours: x$z, minutes: X$V } = h6a(g8q[s1E].DT));
+              } while (!(x$z === q3n && X$V === S_$));
+            }
+            M8y[J2s] = s1E;
+          }
+          while (q3n < Y1W.hours || (q3n === Y1W.hours && S_$ < Y1W.minutes)) {
+            J6T = !!"";
+            C$V = void 0;
+            n_P.V84(45);
+            Y6T = void n_P.o6M("0", 0);
+            C07 = +"0";
+            F$l = 0;
+            for (var P5o = 0; P5o < M8y.length; P5o++) {
+              h_y = M8y[P5o];
+              if (h_y === null) continue;
+              f7_ = g8q[h_y];
+              if (!f7_) {
+                return I1z(h_y);
+              }
+              var { hours: T2Z, minutes: r9Z } = h6a(f7_.DT);
+              J4t = f7_.DT.getDate();
+              if (T2Z === q3n && r9Z === S_$) {
+                C07 += f7_.Volume;
+                F$l++;
+                M8y[P5o]++;
+                if (g8q[M8y[P5o]].DT.getDate() !== J4t) {
+                  M8y[P5o] = null;
+                } else if (!J6T) {
+                  ({ hours: C$V, minutes: Y6T } = h6a(g8q[M8y[P5o]].DT));
+                  J6T = !![];
+                }
+              }
+            }
+            q3n = C$V;
+            S_$ = Y6T;
+            if (F$l === 0) break;
+            n_P.K2h(12);
+            I5T = n_P.F4O(F$l, C07);
+            if (g8q[n6q]) {
+              P1T = "PV";
+              P1T += " ";
+              g8q[n6q][P1T + n8q.name] = I5T;
+            } else {
+              b1f.push({ ["PV " + n8q.name]: I5T });
+            }
+            n6q++;
+          }
+          l04.unshift(U7X(l04[0] - 1));
+        }
+        n8q.cachedLastProjection = {
+          DT: g8q[g8q.length - 1].DT,
+          projectedValue: g8q[g8q.length - 1][L2I + n8q.name],
+        };
+        n8q.cachedFutureTicks = b1f;
+        n8q.appendFutureTicks(p6H, b1f);
+      }
+      F5L = null;
+      W3n = 0;
+      Z7S = 0;
+      function I1z(D76) {
+        n_P.p24();
+        console.error(
+          `Expected data for ${s76(D76).toDateString()} but found none. This may be caused by gaps in your data or an improperly configured market definition.`,
+        );
+      }
+      if (s7P && U6W) {
+        while (C2M > 0) {
+          N2K = "V";
+          N2K += " ";
+          n_P.V84(95);
+          A4x = g8q[n_P.o6M(C2M, "1")][N2K + n8q.name];
+          if (A4x || A4x === +"0") {
+            W3n = A4x;
+            break;
+          }
+          C2M--;
+        }
+      }
+      for (var j80 = C2M; j80 < g8q.length; j80++) {
+        x7v = "P";
+        x7v += "V";
+        x7v += " ";
+        a0H = g8q[j80];
+        a4c = a0H.Volume;
+        g5W = a0H[x7v + n8q.name];
+        if (!a0H.futureTick) {
+          j_N = j80;
+        }
+        if (F5L === null) {
+          F5L = m9q.Studies.getMarketOffset({
+            stx: p6H,
+            localQuoteDate: g8q[j80].DT,
+            shiftToDateBoundary: !"",
+          });
+        }
+        O_A = new Date(new Date(a0H.DT).getTime() + F5L);
+        q01 =
+          g8q[j80 - ("1" | 1)] &&
+          new Date(new Date(g8q[j80 - 1].DT).getTime() + F5L);
+        p1a = new I3k.Date(
+          a0H.DT,
+          p6u.market_def.market_tz || "America/New_York",
+        );
+        p1a.setHours(c8l, J5n, j_C);
+        n_P.K2h(1);
+        p1a = new Date(n_P.F4O(p1a, F5L));
+        p1a.setDate(O_A.getDate());
+        if (q01 && O_A.getDate() !== q01.getDate()) {
+          F5L = null;
+          n_P.K2h(11);
+          W3n = n_P.F4O(0, "0");
+          Z7S = 0;
+        }
+        if (O_A < p1a) {
+          a0H["V " + n8q.name] = 0;
+          a0H["PV " + n8q.name] = +"0";
+          continue;
+        }
+        if (U6W) {
+          W3n += a4c;
+          Z7S += g5W;
+        } else {
+          W3n = a4c;
+          Z7S = g5W;
+        }
+        a0H["V " + n8q.name] = W3n;
+        if (!s7P) {
+          a0H["PV " + n8q.name] = Z7S;
+        }
+        if ([NaN, null, undefined].includes(W3n) && !a0H.futureTick) {
+          n8q.error = `${v2U} requires volume`;
+          return;
+        }
+      }
+      n8q.cachedLastProjection.projectedValue = g8q[j_N]["PV " + n8q.name];
+      n8q.outputMap = {};
+      n8q.outputMap["V " + n8q.name] = "";
+      n8q.outputMap["PV " + n8q.name] = v1o;
+      function h6a(R2e) {
+        n_P.p24();
+        return { hours: R2e.getHours(), minutes: R2e.getMinutes() };
+      }
+      w_I.forEach((U0g) => {
+        n_P.R4I();
+        U0g.startFrom = C2M;
+        U0g.study.calculateFN(p6H, U0g);
+      });
+    };
+    m9q.Studies.displayProjectedVolume = function (s1H, F6V, h83) {
+      var z6$ = u7J6i;
+      var r0t, p4w, R1B, k8B, D6W, N5D, x1P, P82, W6E;
+      r0t = "stx_volu";
+      r0t += "me_unde";
+      r0t += "r";
+      r0t += "lay_down";
+      p4w = "Alert Ba";
+      p4w += "r";
+      if (F6V.error) {
+        return m9q.Studies.removeAnchorHandle(s1H, F6V);
+      }
+      var { "Alert Threshold": v3e = "" } = F6V.inputs;
+      z6$.K2h(17);
+      var I9Q = z6$.F4O(17, 11, 8, 15);
+      z6$.K2h(170);
+      var U_F = z6$.o6M(12, 10, 4, 12);
+      z6$.V84(34);
+      var e4i = z6$.o6M(14, 108, 1412);
+      R1B = parseInt(v3e.slice(0, I9Q), U_F) / e4i;
+      k8B = F6V.outputs[p4w];
+      if (typeof k8B === "object") {
+        k8B = k8B.color;
+      }
+      F6V.volumeField = "V " + F6V.name;
+      F6V.alignStepToSide = !!{};
+      F6V.extendToEndOfLastBar = !!{};
+      F6V.lineWidth = 2;
+      D6W = s1H.canvasStyle("stx_volume_underlay_up").opacity;
+      N5D = s1H.canvasStyle(r0t).opacity;
+      F6V.colorFunction = function (Q76) {
+        var t3T, O26, j47, r3i, T1H, f6X;
+        var { Open: p1c, Close: E9h, iqPrevClose: f0a } = Q76;
+        t3T = s1H.colorByCandleDirection ? p1c : f0a;
+        z6$.R4I();
+        z6$.V84(171);
+        O26 = z6$.o6M(t3T, E9h);
+        j47 = Q76["PV " + F6V.name];
+        r3i = Q76["V " + F6V.name];
+        z6$.K2h(172);
+        T1H = z6$.F4O(R1B, j47, 1);
+        f6X = R1B < +"0" ? r3i < T1H : r3i > T1H;
+        return {
+          fill_color:
+            (f6X && k8B) || (O26 ? this.fill_color_down : this.fill_color_up),
+          border_color: O26 ? this.border_color_down : this.border_color_up,
+          opacity: f6X ? 1 : O26 ? N5D : D6W,
+          border_opacity: O26 ? N5D : D6W,
+        };
+      };
+      x1P = F6V.study ? F6V.study.name : F6V.type;
+      var { loadingMore: E0i } = s1H.chart;
+      P82 = h83.some((E2N) => {
+        var K2_;
+        K2_ = "PV";
+        K2_ += " ";
+        return E2N && E2N[F6V.volumeField] && E2N[K2_ + F6V.name];
+      });
+      W6E =
+        h83[0] &&
+        !h83[+"0"].futureTick &&
+        (h83[0]["PV " + F6V.name] === undefined ||
+          (F6V.dependentsOutputMap || []).some((K$Q) => {
+            return [undefined, null].includes(h83[0][K$Q]);
+          }));
+      if (!P82 && E0i) {
+        z6$.V84(1);
+        return (F6V.error = `${z6$.o6M("Fetching data ", "for ")}${x1P}`);
+      }
+      m9q.Studies.createVolumeChart(s1H, F6V, h83);
+      m9q.Studies.displaySeriesAsLine(s1H, F6V, h83);
+      if (F6V.anchorHandle) {
+        m9q.Studies.displayAnchorHandleAndLine(s1H, F6V, h83);
+      }
+      if (W6E) {
+        m9q.Studies.calculateProjectedVolume(s1H, F6V);
+      }
+    };
+    m9q.Studies.studyLibrary = m9q.extend(m9q.Studies.studyLibrary, {
+      PVAT: {
+        name: "Projected Volume at Time",
+        range: "0 to max",
+        yAxis: { ground: !![] },
+        calculateFN: m9q.Studies.calculateProjectedVolume,
+        seriesFN: m9q.Studies.displayProjectedVolume,
+        initializeFN: m9q.Studies.initProjectedVolume,
+        removeFN: m9q.Studies.removeAnchorHandle,
+        inputs: {
+          "Lookback Days": 10,
+          "Anchor Time": "",
+          "Alert Threshold": [
+            K2d,
+            q2S,
+            "+100%",
+            l3I,
+            c8S,
+            w40,
+            "None",
+            "-25%",
+            "-50%",
+            o6I,
+            "-100%",
+            "-125%",
+            E$w,
+          ],
+          "Anchor Selector": !![],
+        },
+        outputs: {
+          "Average Line": M39,
+          "Alert Bar": "#cfbd0e",
+          "Up Volume": "#8cc176",
+          "Down Volume": "#b82c0c",
+        },
+        parameters: { plotType: "step" },
+        attributes: {
+          "Anchor Time": { placeholder: F0y, step: 1 },
+          "Alert Threshold": { defaultSelected: "+50%" },
+        },
+      },
+      PAV: {
+        name: "Projected Aggregate Volume",
+        range: "0 to max",
+        yAxis: { ground: !!{} },
+        calculateFN: m9q.Studies.calculateProjectedVolume,
+        seriesFN: m9q.Studies.displayProjectedVolume,
+        initializeFN: m9q.Studies.initProjectedVolume,
+        removeFN: m9q.Studies.removeAnchorHandle,
+        inputs: {
+          "Lookback Days": +"10",
+          "Anchor Time": "",
+          "Anchor Selector": !!{},
+        },
+        outputs: {
+          "Average Line": "#fe641c",
+          "Up Volume": "#8cc176",
+          "Down Volume": h8d,
+        },
+        parameters: { plotType: X1c },
+        attributes: { "Anchor Time": { placeholder: "hh:mm:ss", step: 1 } },
+      },
+    });
+  }
+};
+y9 = (D3z) => {
+  var b0o;
+  b0o = typeof _CIQ !== "undefined" ? _CIQ : D3z.CIQ;
+  if (!b0o.Studies) {
+    console.error(
+      "psychologicalLine feature requires first activating studies feature.",
+    );
+  } else {
+    b0o.Studies.calculatePsychologicalLine = function (y6q, J4r) {
+      var l2Z, D$j, g$8, l1e, G0e, i2F;
+      l2Z = J4r.chart.scrubbed;
+      u7J6i.R4I();
+      if (l2Z.length < J4r.days + 1) {
+        J4r.error = !!1;
+        return;
+      }
+      D$j = [];
+      u7J6i.V84(14);
+      var y_J = u7J6i.F4O(2, 12, 6, 104);
+      g$8 = y_J / J4r.days;
+      l1e = 0;
+      for (
+        var w4S = Math.max(J4r.startFrom - J4r.days, 1);
+        w4S < l2Z.length;
+        w4S++
+      ) {
+        G0e = "Result";
+        G0e += " ";
+        if (l2Z[w4S].futureTick) break;
+        i2F = Number(l2Z[w4S].Close > l2Z[w4S - +"1"].Close);
+        if (i2F) {
+          l1e += g$8;
+        }
+        D$j.push(i2F);
+        if (D$j.length > J4r.days) {
+          l1e -= D$j.shift() * g$8;
+        }
+        if (w4S < J4r.startFrom) continue;
+        if (!isNaN(l2Z[w4S].Close)) {
+          l2Z[w4S][G0e + J4r.name] = l1e;
+        }
+      }
+    };
+    b0o.Studies.studyLibrary = b0o.extend(b0o.Studies.studyLibrary, {
+      PSY: {
+        name: "Psychological Line",
+        range: "0 to 100",
+        calculateFN: b0o.Studies.calculatePsychologicalLine,
+        inputs: { Period: 20 },
+      },
+    });
+  }
+};
+l5 = (e3O) => {
+  var h_X, B4C, j1m, H83;
+  h_X = "u";
+  h_X += "n";
+  h_X += "defined";
+  B4C = typeof _CIQ !== h_X ? _CIQ : e3O.CIQ;
+  if (!B4C.Studies) {
+    j1m = "qstick feature req";
+    j1m += "uires first activating studies feature.";
+    console.error(j1m);
+  } else {
+    H83 = "QS";
+    H83 += "tick";
+    B4C.Studies.calculateQStick = function (q_o, l$Z) {
+      var t1y, I2h;
+      t1y = "Moving";
+      t1y += " Average Typ";
+      t1y += "e";
+      I2h = l$Z.chart.scrubbed;
+      if (I2h.length < l$Z.days + 1) {
+        l$Z.error = !!{};
+        return;
+      }
+      for (var g25 = l$Z.startFrom; g25 < I2h.length; g25++) {
+        I2h[g25]["_Close-Open " + l$Z.name] = I2h[g25].Close - I2h[g25].Open;
+      }
+      B4C.Studies.MA(
+        l$Z.inputs[t1y],
+        l$Z.days,
+        "_Close-Open " + l$Z.name,
+        0,
+        "Result",
+        q_o,
+        l$Z,
+      );
+    };
+    B4C.Studies.studyLibrary = B4C.extend(B4C.Studies.studyLibrary, {
+      QStick: {
+        name: H83,
+        calculateFN: B4C.Studies.calculateQStick,
+        inputs: { Period: 8, "Moving Average Type": "ma" },
+      },
+    });
+  }
+};
+J3 = (p3m) => {
+  var o8O, V2P, L9Q, I77, z86, o23, F8d;
+  o8O = "u";
+  o8O += "ndef";
+  o8O += "ined";
+  V2P = typeof _CIQ !== o8O ? _CIQ : p3m.CIQ;
+  if (!V2P.Studies) {
+    L9Q = "rainbow feature requires first activ";
+    L9Q += "ating stud";
+    L9Q += "ies feature.";
+    console.error(L9Q);
+  } else {
+    I77 = "R";
+    I77 += "ainbow Oscillator";
+    z86 = "#0";
+    z86 += "000F";
+    z86 += "F";
+    o23 = "#";
+    o23 += "FF";
+    o23 += "7F0";
+    o23 += "0";
+    F8d = "Rainbow Moving Aver";
+    F8d += "age";
+    V2P.Studies.calculateRainbow = function (K0b, H8H) {
+      var e31 = u7J6i;
+      var G9g,
+        C_c,
+        G1M,
+        o6u,
+        X68,
+        Z7b,
+        a1A,
+        v6m,
+        h3Z,
+        g5l,
+        K41,
+        r6a,
+        n57,
+        W1$,
+        F3g,
+        v1y;
+      G9g = "Cl";
+      G9g += "o";
+      G9g += "se";
+      C_c = H8H.chart.scrubbed;
+      if (C_c.length < H8H.days + ("1" ^ 0)) {
+        H8H.error = !![];
+        return;
+      }
+      G1M = H8H.inputs.Field;
+      if (!G1M || G1M == "field") {
+        G1M = G9g;
+      }
+      o6u = G1M;
+      function G4C(T02, c$H) {
+        var K44, l9o;
+        e31.K2h(4);
+        e31.R4I();
+        var D2d = e31.o6M(0, 1);
+        K44 = Number.MAX_VALUE * D2d;
+        l9o = Number.MAX_VALUE;
+        for (var B08 = c$H - T02 + 1; B08 <= c$H; B08++) {
+          if (B08 < 0) continue;
+          K44 = Math.max(K44, C_c[B08].Close);
+          l9o = Math.min(l9o, C_c[B08].Close);
+        }
+        return [l9o, K44];
+      }
+      for (var y9Z = 1; y9Z <= 10; y9Z++) {
+        X68 = "S";
+        X68 += "M";
+        X68 += "A";
+        V2P.Studies.MA("simple", H8H.days, o6u, +"0", X68 + y9Z, K0b, H8H);
+        e31.K2h(128);
+        var w8E = e31.o6M(2084, 4168, 2, 4150);
+        e31.V84(80);
+        var y8X = e31.o6M(9618, 7, 1622, 6, 18);
+        e31.V84(173);
+        var T7H = e31.o6M(19, 1751, 20, 130, 4);
+        e31.K2h(68);
+        var F_h = e31.o6M(11, 4896, 3);
+        e31.K2h(16);
+        var v59 = e31.F4O(125477, 118106, 10);
+        e31.V84(35);
+        var h29 = e31.F4O(45436, 7574, 7, 8);
+        e31.K2h(62);
+        var u1y = e31.o6M(7146, 7158, 7146);
+        o6u =
+          "SMA" +
+          y9Z +
+          (w8E <= y8X
+            ? (358.36, 472.15) !== (643.27, T7H)
+              ? 748.91 <= F_h
+                ? " "
+                : (687.86, v59)
+              : (!!1, !!"1")
+            : (h29, u1y)) +
+          H8H.name;
+      }
+      for (var O1F = Math.max(H8H.startFrom, +"10"); O1F < C_c.length; O1F++) {
+        if (!C_c[O1F]) continue;
+        if (C_c[O1F].futureTick) break;
+        Z7b = 0;
+        a1A = +"0";
+        e31.K2h(4);
+        var J4Z = e31.F4O(2, 3);
+        v6m = Number.MAX_VALUE * J4Z;
+        h3Z = Number.MAX_VALUE;
+        for (y9Z = 1; y9Z <= 10; y9Z++) {
+          g5l = C_c[O1F]["SMA" + y9Z + " " + H8H.name];
+          if (g5l || g5l === 0) {
+            Z7b += g5l;
+            a1A++;
+            v6m = Math.max(v6m, g5l);
+            h3Z = Math.min(h3Z, g5l);
+          }
+        }
+        if (H8H.name.indexOf("Osc") > -("1" * 1)) {
+          K41 = G4C(H8H.inputs["HHV/LLV Lookback"], O1F);
+          if (a1A) {
+            r6a = "Und";
+            r6a += "er ";
+            n57 = "_";
+            n57 += "hi";
+            n57 += "s";
+            n57 += "t";
+            e31.K2h(99);
+            var v8V = e31.o6M(6, 8, 2, 20, 380);
+            e31.V84(4);
+            var D4M = e31.F4O(18, 17);
+            C_c[O1F][H8H.name + n57] =
+              (v8V *
+                (V2P.Studies.getQuoteFieldValue(C_c[O1F], G1M) - Z7b / a1A)) /
+              Math.max(0.000001, K41[D4M] - K41[0]);
+            e31.V84(4);
+            var h0i = e31.F4O(114, 14);
+            e31.V84(10);
+            var c6H = e31.F4O(7, 4, 4);
+            C_c[O1F]["Over " + H8H.name] =
+              (h0i * (v6m - h3Z)) / Math.max(0.000001, K41[c6H] - K41[0]);
+            C_c[O1F][r6a + H8H.name] = -C_c[O1F]["Over " + H8H.name];
+            C_c[O1F]["Zero " + H8H.name] = 0;
+          }
+        }
+      }
+      if (H8H.name.indexOf("Osc") > -1) {
+        W1$ = "_";
+        W1$ += "hi";
+        W1$ += "st";
+        F3g = "Nega";
+        F3g += "t";
+        F3g += "ive B";
+        F3g += "ar";
+        v1y = "Po";
+        v1y += "sit";
+        v1y += "iv";
+        v1y += "e Bar";
+        H8H.outputMap = {};
+        H8H.outputMap["Over " + H8H.name] = v1y;
+        H8H.outputMap["Under " + H8H.name] = F3g;
+        H8H.outputMap["Zero " + H8H.name] = "";
+        H8H.outputMap[H8H.name + W1$] = "";
+      }
+    };
+    V2P.Studies.displayRainbowMA = function (E1f, M20, C7c) {
+      var Z5N;
+      Z5N = E1f.panels[M20.panel];
+      for (var P$m = 10; P$m > 0; P$m--) {
+        V2P.Studies.displayIndividualSeriesAsLine(
+          E1f,
+          M20,
+          Z5N,
+          "SMA" + P$m + (3606 <= (9192, 7822) ? " " : 864.14) + M20.name,
+          C7c,
+        );
+      }
+    };
+    V2P.Studies.displayRainbowOsc = function (j3F, Y1A, l4D) {
+      var A34 = u7J6i;
+      var Y9S,
+        d3Z,
+        I_M,
+        l8t,
+        Q7M,
+        f$8,
+        d$d,
+        S$J,
+        Q8b,
+        y3L,
+        U7D,
+        J6u,
+        J96,
+        w2K,
+        a2Z,
+        u_O,
+        T2U,
+        M7u,
+        L6v;
+      Y9S = "#CCCCC";
+      Y9S += "C";
+      d3Z = "s";
+      d3Z += "tx_histogra";
+      d3Z += "m";
+      I_M = "Over";
+      I_M += " ";
+      V2P.Studies.displaySeriesAsLine(j3F, Y1A, l4D);
+      l8t = j3F.panels[Y1A.panel];
+      Q7M = Y1A.getContext(j3F);
+      f$8 = Y1A.getYAxis(j3F);
+      j3F.startClip(Y1A.panel);
+      if (!Y1A.highlight && j3F.highlightedDraggable) {
+        Q7M.globalAlpha *= 0.3;
+      }
+      d$d = j3F.pixelFromPrice(+"0", l8t, f$8);
+      S$J = l8t.name != Y1A.chart.name;
+      Q8b = V2P.Studies.determineColor(Y1A.outputs["Positive Bar"]);
+      Q7M.strokeStyle = Q8b;
+      j3F.plotDataSegmentAsLine("Over " + Y1A.name, l8t, {
+        skipTransform: S$J,
+        label: !"1",
+        yAxis: f$8,
+      });
+      A34.V84(7);
+      y3L = Q7M.createLinearGradient(
+        A34.F4O(64, "0"),
+        d$d,
+        0,
+        f$8.flipped ? f$8.bottom : f$8.top,
+      );
+      A34.V84(4);
+      y3L.addColorStop(A34.F4O("0", 0), j3F.containerColor);
+      y3L.addColorStop(1, Q8b);
+      V2P.prepareChannelFill(j3F, {
+        skipTransform: S$J,
+        color: y3L,
+        opacity: !Y1A.highlight && j3F.highlightedDraggable ? 0.3 : 1,
+        panelName: Y1A.panel,
+        topBand: I_M + Y1A.name,
+        bottomBand: "Zero " + Y1A.name,
+        yAxis: f$8,
+      });
+      U7D = V2P.Studies.determineColor(Y1A.outputs["Negative Bar"]);
+      Q7M.strokeStyle = U7D;
+      j3F.plotDataSegmentAsLine("Under " + Y1A.name, l8t, {
+        skipTransform: S$J,
+        label: ![],
+        yAxis: f$8,
+      });
+      J6u = Q7M.createLinearGradient(
+        0,
+        d$d,
+        0,
+        f$8.flipped ? f$8.top : f$8.bottom,
+      );
+      J6u.addColorStop(+"0", j3F.containerColor);
+      J6u.addColorStop(1, U7D);
+      V2P.prepareChannelFill(j3F, {
+        skipTransform: S$J,
+        color: J6u,
+        opacity: !Y1A.highlight && j3F.highlightedDraggable ? 0.3 : 1,
+        panelName: Y1A.panel,
+        topBand: "Zero " + Y1A.name,
+        bottomBand: "Under " + Y1A.name,
+        yAxis: f$8,
+      });
+      A34.V84(50);
+      A34.R4I();
+      var n7T = A34.F4O(7, 3, 2);
+      J96 = j3F.layout.candleWidth - ("2" | n7T);
+      if (J96 < 2) {
+        J96 = 1;
+      }
+      j3F.canvasColor(d3Z);
+      if (!Y1A.underlay) {
+        Q7M.globalAlpha = 1;
+      }
+      if (!Y1A.highlight && j3F.highlightedDraggable) {
+        Q7M.globalAlpha *= 0.3;
+      }
+      Q7M.fillStyle = Y9S;
+      for (var w3z = 0; w3z < l4D.length; w3z++) {
+        w2K = "_";
+        w2K += "h";
+        w2K += "i";
+        w2K += "st";
+        a2Z = "st";
+        a2Z += "retch";
+        u_O = 0;
+        T2U = l4D[w3z];
+        if (!T2U) continue;
+        if (j3F.cleanupGaps === a2Z) {
+          while (l4D[w3z + 1]) {
+            M7u = "_h";
+            M7u += "i";
+            M7u += "s";
+            M7u += "t";
+            A34.V84(1);
+            L6v = l4D[A34.o6M(w3z, 1)][Y1A.name + M7u];
+            if (L6v || L6v === 0 || l4D[w3z + 1].futureTick) break;
+            u_O++;
+            w3z++;
+          }
+        }
+        if (T2U[Y1A.name + "_hist"] > 0) {
+          Q7M.fillStyle = Q8b;
+        } else if (T2U[Y1A.name + "_hist"] < 0) {
+          Q7M.fillStyle = U7D;
+        }
+        if (T2U.candleWidth) {
+          J96 = Math.floor(Math.max(1, T2U.candleWidth - 2));
+        }
+        Q7M.fillRect(
+          Math.floor(j3F.pixelFromBar(w3z - u_O, l8t.chart) - J96 / 2),
+          Math.floor(d$d),
+          Math.floor(J96 + u_O * j3F.layout.candleWidth),
+          Math.floor(j3F.pixelFromPrice(T2U[Y1A.name + w2K], l8t, f$8) - d$d),
+        );
+      }
+      j3F.endClip();
+    };
+    V2P.Studies.studyLibrary = V2P.extend(V2P.Studies.studyLibrary, {
+      "Rainbow MA": {
+        name: F8d,
+        overlay: !!"1",
+        calculateFN: V2P.Studies.calculateRainbow,
+        seriesFN: V2P.Studies.displayRainbowMA,
+        inputs: { Period: 2, Field: "field" },
+        outputs: {
+          SMA1: "#FF0000",
+          SMA2: o23,
+          SMA3: "#FFFF00",
+          SMA4: "#7FFF00",
+          SMA5: "#00FF7F",
+          SMA6: "#00FFFF",
+          SMA7: "#007FFF",
+          SMA8: z86,
+          SMA9: "#7F00FF",
+          SMA10: "#FF00FF",
+        },
+      },
+      "Rainbow Osc": {
+        name: I77,
+        calculateFN: V2P.Studies.calculateRainbow,
+        seriesFN: V2P.Studies.displayRainbowOsc,
+        centerline: +"0",
+        inputs: { Period: 2, Field: "field", "HHV/LLV Lookback": 10 },
+        outputs: { "Positive Bar": "#00DD00", "Negative Bar": "#FF0000" },
+      },
+    });
+  }
+};
+V6 = (j$s) => {
+  var U2R;
+  U2R = typeof _CIQ !== "undefined" ? _CIQ : j$s.CIQ;
+  if (!U2R.Studies) {
+    console.error(
+      "randomWalk feature requires first activating studies feature.",
+    );
+  } else {
+    U2R.Studies.calculateRandomWalk = function (p_I, b9R) {
+      var x6F, I3I, T_H, f5e, P3I, V$I, W6m, K7Q, Y7i, Q6Q, D5l;
+      x6F = b9R.chart.scrubbed;
+      u7J6i.p24();
+      if (x6F.length < b9R.days + 1) {
+        b9R.error = !!"1";
+        return;
+      }
+      for (var U8a = Math.max(2, b9R.startFrom); U8a < x6F.length; U8a++) {
+        I3I = 0;
+        T_H = x6F[U8a].High;
+        f5e = x6F[U8a].Low;
+        P3I = +"0";
+        V$I = 0;
+        for (var J0D = 1; J0D <= b9R.days; J0D++) {
+          if (x6F[U8a].futureTick) break;
+          if (U8a <= J0D) {
+            P3I = V$I = +"0";
+            break;
+          }
+          I3I += x6F[U8a - J0D].trueRange;
+          W6m = (I3I / J0D) * Math.sqrt(J0D);
+          if (W6m) {
+            K7Q = (T_H - x6F[U8a - J0D].Low) / W6m;
+            Y7i = (x6F[U8a - J0D].High - f5e) / W6m;
+            P3I = Math.max(P3I, K7Q);
+            V$I = Math.max(V$I, Y7i);
+          }
+        }
+        if (!x6F[U8a].futureTick && (!isNaN(T_H) || !isNaN(f5e))) {
+          Q6Q = "Rando";
+          Q6Q += "m Walk";
+          Q6Q += " Low ";
+          D5l = "Random Walk ";
+          D5l += "H";
+          D5l += "igh ";
+          x6F[U8a][D5l + b9R.name] = P3I;
+          x6F[U8a][Q6Q + b9R.name] = V$I;
+        }
+      }
+    };
+    U2R.Studies.studyLibrary = U2R.extend(U2R.Studies.studyLibrary, {
+      "Random Walk": {
+        name: "Random Walk Index",
+        calculateFN: U2R.Studies.calculateRandomWalk,
+        outputs: {
+          "Random Walk High": "#FF0000",
+          "Random Walk Low": "#0000FF",
+        },
+      },
+    });
+  }
+};
+Q1 = (Z3V) => {
+  var r2T = u7J6i;
+  var I1V, w$p, b$8, I00, h$1, q5d;
+  r2T.p24();
+  I1V = typeof _CIQ !== "undefined" ? _CIQ : Z3V.CIQ;
+  if (!I1V.Studies) {
+    w$p = 1913601023;
+    b$8 = -2087763861;
+    r2T.V84(0);
+    I00 = r2T.F4O(0, "2");
+    for (
+      var h2Z = 1;
+      r2T.o0D(h2Z.toString(), h2Z.toString().length, 14072) !== w$p;
+      h2Z++
+    ) {
+      h$1 = "rela";
+      h$1 += "tiveVigor feature requires first activating studies feature.";
+      console.error(h$1);
+      I00 += 2;
+    }
+    if (r2T.o0D(I00.toString(), I00.toString().length, "55635" | 66) !== b$8) {
+      console.error("");
+    }
+  } else {
+    q5d = "Rela";
+    q5d += "tive Vigor I";
+    q5d += "ndex";
+    I1V.Studies.calculateRelativeVigor = function (N6h, J$m) {
+      var b2D, U2c, T5t, K95, D5s, h_$, c9g, Q6j, j37, s8U, R_0, G8e;
+      b2D = "Re";
+      b2D += "lV";
+      r2T.p24();
+      b2D += "igSign";
+      b2D += "al";
+      U2c = "Rel V";
+      U2c += "ig ";
+      T5t = J$m.chart.scrubbed;
+      if (T5t.length < J$m.days + 1) {
+        J$m.error = !!1;
+        return;
+      }
+      for (K95 = J$m.startFrom; K95 < T5t.length; K95++) {
+        D5s = "_Chan";
+        D5s += "ge ";
+        h_$ = T5t[K95];
+        if (!isNaN(h_$.Close) && !isNaN(h_$.Open)) {
+          h_$[D5s + J$m.name] = h_$.Close - h_$.Open;
+        }
+        if (!isNaN(h_$.High) && !isNaN(h_$.Low)) {
+          h_$["_Range " + J$m.name] = h_$.High - h_$.Low;
+        }
+      }
+      I1V.Studies.MA(
+        "triangular",
+        4,
+        "_Change " + J$m.name,
+        0,
+        "_Numer",
+        N6h,
+        J$m,
+      );
+      I1V.Studies.MA(
+        "triangular",
+        4,
+        "_Range " + J$m.name,
+        0,
+        "_Denom",
+        N6h,
+        J$m,
+      );
+      c9g = [];
+      Q6j = [];
+      for (
+        K95 = Math.max(J$m.startFrom - J$m.days, +"0");
+        K95 < T5t.length;
+        K95++
+      ) {
+        j37 = "Rel Vi";
+        j37 += "g ";
+        if (T5t[K95].futureTick) break;
+        if (
+          T5t[K95]["_Numer " + J$m.name] === null &&
+          T5t[K95]["_Denom " + J$m.name] === null
+        )
+          continue;
+        c9g.push(T5t[K95]["_Numer " + J$m.name]);
+        Q6j.push(T5t[K95]["_Denom " + J$m.name]);
+        if (c9g.length > J$m.days) {
+          c9g.shift();
+          Q6j.shift();
+        }
+        s8U = 0;
+        R_0 = +"0";
+        for (G8e = 0; G8e < c9g.length; G8e++) {
+          s8U += c9g[G8e];
+        }
+        for (G8e = 0; G8e < Q6j.length; G8e++) {
+          R_0 += Q6j[G8e];
+        }
+        if (R_0 === 0) {
+          R_0 = 0.00000001;
+        }
+        if (K95 < J$m.startFrom) continue;
+        r2T.V84(12);
+        T5t[K95][j37 + J$m.name] = r2T.o6M(R_0, s8U);
+      }
+      I1V.Studies.MA("triangular", 4, U2c + J$m.name, 0, b2D, N6h, J$m);
+      for (K95 = J$m.startFrom; K95 < T5t.length; K95++) {
+        T5t[K95][J$m.name + "_hist"] =
+          T5t[K95]["Rel Vig " + J$m.name] -
+          T5t[K95]["RelVigSignal " + J$m.name];
+      }
+      J$m.outputMap[J$m.name + "_hist"] = "";
+    };
+    I1V.Studies.studyLibrary = I1V.extend(I1V.Studies.studyLibrary, {
+      "Rel Vig": {
+        name: q5d,
+        seriesFN: I1V.Studies.displayHistogramWithSeries,
+        calculateFN: I1V.Studies.calculateRelativeVigor,
+        inputs: { Period: +"10" },
+        outputs: {
+          "Rel Vig": "auto",
+          RelVigSignal: "#FF0000",
+          "Increasing Bar": "#00DD00",
+          "Decreasing Bar": "#FF0000",
+        },
+      },
+    });
+  }
+};
+B6 = (N3F) => {
+  var F1Z = u7J6i;
+  F1Z.R4I();
+  var x3a, p8l, W5e, C0s, p3R, k$p;
+  x3a = typeof _CIQ !== "undefined" ? _CIQ : N3F.CIQ;
+  if (!x3a.Studies) {
+    p8l = "rsi feature requires first activatin";
+    p8l += "g studies feature.";
+    console.error(p8l);
+  } else {
+    W5e = "a";
+    W5e += "u";
+    W5e += "to";
+    C0s = "a";
+    C0s += "u";
+    C0s += "t";
+    C0s += "o";
+    p3R = "0 ";
+    p3R += "to ";
+    p3R += "10";
+    p3R += "0";
+    k$p = "fi";
+    k$p += "eld";
+    x3a.Studies.calculateRSI = function (R4c, v0b) {
+      var V94, i7Y, Z73, o7k, J6S, c7E, Q8B, N1H, M21, A1$, J35;
+      V94 = "R";
+      V94 += "S";
+      V94 += "I";
+      i7Y = v0b.chart.scrubbed;
+      Z73 = v0b.inputs.Field;
+      if (!Z73 || Z73 == "field") {
+        Z73 = "Close";
+      }
+      if (i7Y.length < v0b.days + +"1") {
+        v0b.error = !"";
+        return;
+      }
+      for (var W32 = v0b.startFrom; W32 < i7Y.length; W32++) {
+        if (!W32) continue;
+        o7k = i7Y[W32];
+        F1Z.V84(4);
+        J6S = i7Y[F1Z.F4O(W32, 1)];
+        c7E = x3a.Studies.getQuoteFieldValue(o7k, Z73);
+        Q8B = x3a.Studies.getQuoteFieldValue(J6S, Z73);
+        if (c7E === null || Q8B === null) continue;
+        F1Z.V84(4);
+        N1H = F1Z.o6M(c7E, Q8B);
+        M21 = Math.min(W32, v0b.days);
+        A1$ = J6S["_avgG " + v0b.name];
+        if (!A1$) {
+          A1$ = 0;
+        }
+        F1Z.V84(12);
+        A1$ -= F1Z.F4O(M21, A1$);
+        J35 = J6S["_avgL " + v0b.name];
+        if (!J35) {
+          J35 = 0;
+        }
+        F1Z.V84(12);
+        J35 -= F1Z.F4O(M21, J35);
+        if (N1H > 0) {
+          F1Z.V84(12);
+          A1$ += F1Z.F4O(M21, N1H);
+        } else if (N1H <= 0) {
+          F1Z.V84(12);
+          J35 -= F1Z.F4O(M21, N1H);
+        } else continue;
+        if (W32 >= v0b.days) {
+          if ((A1$ || A1$ === +"0") && (J35 || J35 === "0" >> 0)) {
+            o7k["RSI " + v0b.name] = k4M(A1$, J35);
+          }
+        }
+        o7k["_avgG " + v0b.name] = A1$;
+        o7k["_avgL " + v0b.name] = J35;
+      }
+      v0b.zoneOutput = V94;
+      function k4M(i6V, H2M) {
+        var o9q;
+        if (H2M === 0) {
+          return 100;
+        }
+        F1Z.K2h(12);
+        o9q = F1Z.F4O(H2M, i6V);
+        F1Z.K2h(174);
+        return F1Z.F4O(100, 1, "100", o9q);
+      }
+    };
+    x3a.Studies.studyLibrary = x3a.extend(x3a.Studies.studyLibrary, {
+      rsi: {
+        name: "RSI",
+        inputs: { Period: 14, Field: k$p },
+        calculateFN: x3a.Studies.calculateRSI,
+        range: p3R,
+        outputs: { RSI: C0s },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: 80,
+            studyOverBoughtColor: W5e,
+            studyOverSoldValue: 20,
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+    });
+  }
+};
+b1 = (R_x) => {
+  var P3k, b5u, Z$p;
+  P3k = typeof _CIQ !== "undefined" ? _CIQ : R_x.CIQ;
+  if (!P3k.Studies) {
+    console.error(
+      "schaffTrendCycle feature requires first activating studies feature.",
+    );
+  } else {
+    b5u = "aut";
+    b5u += "o";
+    Z$p = "Schaff Tren";
+    Z$p += "d Cycle";
+    P3k.Studies.calculateSchaff = function (Y5G, D5y) {
+      var W8o = u7J6i;
+      var D7$,
+        b76,
+        A99,
+        I6$,
+        j8j,
+        y52,
+        b4q,
+        v7p,
+        z2J,
+        q5W,
+        B0V,
+        w37,
+        I4o,
+        x5l,
+        b9A,
+        a0J,
+        q3Z,
+        N6Q,
+        d4O,
+        e1e,
+        E2R;
+      D7$ = "Moving Average Ty";
+      D7$ += "pe";
+      b76 = "fi";
+      b76 += "eld";
+      A99 = "Short Cy";
+      A99 += "cle";
+      I6$ = D5y.chart.scrubbed;
+      j8j = D5y.days;
+      y52 = Number(D5y.inputs[A99]);
+      b4q = Number(D5y.inputs["Long Cycle"]);
+      if (I6$.length < Math.max(j8j, y52, b4q) + 1) {
+        D5y.error = !![];
+        return;
+      }
+      v7p = D5y.inputs.Field;
+      if (!v7p || v7p == b76) {
+        v7p = "Close";
+      }
+      z2J = 0.5;
+      P3k.Studies.MA(
+        D5y.inputs["Moving Average Type"],
+        y52,
+        v7p,
+        0,
+        "_MACD1",
+        Y5G,
+        D5y,
+      );
+      P3k.Studies.MA(D5y.inputs[D7$], b4q, v7p, 0, "_MACD2", Y5G, D5y);
+      W8o.p24();
+      q5W = 0;
+      B0V = 0;
+      for (var e_E = D5y.startFrom; e_E < I6$.length; e_E++) {
+        w37 = "_";
+        w37 += "P";
+        w37 += "F ";
+        I4o = "_MAC";
+        I4o += "D2 ";
+        x5l = I6$[e_E];
+        if (e_E < b4q - 1) continue;
+        b9A = x5l["_MACD1 " + D5y.name];
+        a0J = x5l[I4o + D5y.name];
+        if (b9A || b9A === 0 || a0J || a0J === 0) {
+          W8o.V84(4);
+          x5l["_MACD " + D5y.name] = W8o.o6M(b9A, a0J);
+        }
+        q3Z = x5l["_MACD " + D5y.name];
+        if (e_E < b4q + (j8j - 1)) continue;
+        N6Q = J0j(j8j, e_E, "_MACD");
+        q5W =
+          N6Q[1] > N6Q[0] ? (100 * (q3Z - N6Q[0])) / (N6Q[1] - N6Q[0]) : q5W;
+        if (q3Z || q3Z === ("0" | 0)) {
+          d4O = "_P";
+          d4O += "F ";
+          x5l["_PF " + D5y.name] = I6$[e_E - 1]["_PF " + D5y.name]
+            ? I6$[e_E - 1][d4O + D5y.name] +
+              z2J * (q5W - I6$[e_E - ("1" ^ 0)]["_PF " + D5y.name])
+            : q5W;
+        }
+        e1e = x5l[w37 + D5y.name];
+        if (e_E < b4q + 2 * (j8j - "1" * 1)) continue;
+        N6Q = J0j(j8j, e_E, "_PF");
+        B0V =
+          N6Q[+"1"] > N6Q[0]
+            ? (+"100" * (e1e - N6Q[+"0"])) / (N6Q[1] - N6Q[0])
+            : B0V;
+        if (e1e || e1e === 0) {
+          E2R = "R";
+          E2R += "e";
+          E2R += "sult ";
+          x5l[E2R + D5y.name] = I6$[e_E - +"1"]["Result " + D5y.name]
+            ? I6$[e_E - 1]["Result " + D5y.name] +
+              z2J * (B0V - I6$[e_E - +"1"]["Result " + D5y.name])
+            : B0V;
+        }
+      }
+      function J0j(t45, k11, P68) {
+        var B02, c9s, i_W, c9U, X$k, d97;
+        B02 = null;
+        c9s = null;
+        for (var G9_ = k11 - t45 + ("1" | 0); G9_ <= k11; G9_++) {
+          W8o.K2h(16);
+          var X1J = W8o.o6M(2527, 25, 19);
+          W8o.V84(4);
+          var m9S = W8o.o6M(6539, 6036);
+          i_W = I6$[G9_][P68 + ((+"4510", X1J) !== m9S ? " " : !{}) + D5y.name];
+          if (!i_W) continue;
+          B02 = B02 === null ? i_W : Math.min(B02, i_W);
+          c9s = c9s === null ? i_W : Math.max(c9s, i_W);
+        }
+        c9U = -1189504772;
+        X$k = -2127447887;
+        d97 = 2;
+        for (
+          var u6q = 1;
+          W8o.S6r(u6q.toString(), u6q.toString().length, +"54080") !== c9U;
+          u6q++
+        ) {
+          return [B02, c9s];
+        }
+        if (W8o.S6r(d97.toString(), d97.toString().length, 18458) !== X$k) {
+          return [B02, c9s];
+        }
+      }
+    };
+    P3k.Studies.studyLibrary = P3k.extend(P3k.Studies.studyLibrary, {
+      Schaff: {
+        name: Z$p,
+        range: "0 to 100",
+        calculateFN: P3k.Studies.calculateSchaff,
+        inputs: {
+          Period: 10,
+          Field: "field",
+          "Short Cycle": 23,
+          "Long Cycle": 50,
+          "Moving Average Type": "ema",
+        },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: 75,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: 25,
+            studyOverSoldColor: b5u,
+          },
+        },
+      },
+    });
+  }
+};
+E5 = (p0S) => {
+  var h90 = u7J6i;
+  var B5X, v5g;
+  B5X = typeof _CIQ !== "undefined" ? _CIQ : p0S.CIQ;
+  h90.R4I();
+  if (!B5X.Studies) {
+    v5g = "shinohar";
+    v5g += "a feature r";
+    v5g += "equires first activating studies feature.";
+    console.error(v5g);
+  } else {
+    B5X.Studies.calculateShinohara = function (r7_, X01) {
+      h90.p24();
+      var h5R, L1r, R28, a3c, R2b, N63, F2b;
+      h5R = X01.chart.scrubbed;
+      if (h5R.length < X01.days + 1) {
+        X01.error = !!{};
+        return;
+      }
+      L1r = -1743634723;
+      R28 = 1777394786;
+      a3c = +"2";
+      for (
+        var Z9z = 1;
+        h90.S6r(Z9z.toString(), Z9z.toString().length, "18575" - 0) !== L1r;
+        Z9z++
+      ) {
+        R2b = { weakNum: 0, weakDen: 0, strongNum: 0, strongDen: 0 };
+        a3c += +"2";
+      }
+      if (h90.o0D(a3c.toString(), a3c.toString().length, 66115) !== R28) {
+        R2b = { weakNum: 1, weakDen: 1, strongNum: 8, strongDen: 5 };
+      }
+      if (X01.startFrom > "1" * 1) {
+        N63 = "_acc";
+        N63 += "ums ";
+        R2b = B5X.clone(h5R[X01.startFrom - 1][N63 + X01.name]);
+      }
+      for (var G$D = X01.startFrom; G$D < h5R.length; G$D++) {
+        R2b.weakNum += h5R[G$D].High - h5R[G$D].Close;
+        R2b.weakDen += h5R[G$D].Close - h5R[G$D].Low;
+        if (G$D > ("0" | 0)) {
+          h90.K2h(8);
+          var m1L = h90.o6M(4, 5);
+          R2b.strongNum += h5R[G$D].High - h5R[G$D - m1L].Close;
+          h90.V84(38);
+          var K0k = h90.F4O(14, 15, 10, 20);
+          R2b.strongDen += h5R[G$D - K0k].Close - h5R[G$D].Low;
+        }
+        if (G$D >= X01.days) {
+          R2b.weakNum -= h5R[G$D - X01.days].High - h5R[G$D - X01.days].Close;
+          R2b.weakDen -= h5R[G$D - X01.days].Close - h5R[G$D - X01.days].Low;
+          if (R2b.weakDen) {
+            h90.V84(4);
+            var I9S = h90.F4O(117, 17);
+            h5R[G$D]["Weak Ratio " + X01.name] =
+              (I9S * R2b.weakNum) / R2b.weakDen;
+          }
+          if (G$D > X01.days) {
+            F2b = "Strong R";
+            F2b += "atio ";
+            h90.K2h(16);
+            var K5s = h90.o6M(0, 16, 17);
+            R2b.strongNum -=
+              h5R[G$D - X01.days].High - h5R[G$D - X01.days - K5s].Close;
+            h90.V84(1);
+            var O04 = h90.F4O(0, 1);
+            R2b.strongDen -=
+              h5R[G$D - X01.days - O04].Close - h5R[G$D - X01.days].Low;
+            if (R2b.strongDen) {
+              h90.K2h(96);
+              var S_4 = h90.F4O(600, 2, 600, 98);
+              h5R[G$D][F2b + X01.name] = (S_4 * R2b.strongNum) / R2b.strongDen;
+            }
+          }
+        }
+        h5R[G$D]["_accums " + X01.name] = B5X.clone(R2b);
+      }
+    };
+    B5X.Studies.studyLibrary = B5X.extend(B5X.Studies.studyLibrary, {
+      Shinohara: {
+        name: "Shinohara Intensity Ratio",
+        calculateFN: B5X.Studies.calculateShinohara,
+        inputs: { Period: 26 },
+        outputs: { "Strong Ratio": "#E99B54", "Weak Ratio": "#5F7CB8" },
+      },
+    });
+  }
+};
+m4 = (z3g) => {
+  var N$t = u7J6i;
+  N$t.R4I();
+  var l3p, X02, o5U, a1J, I8R, f0z, t2P, X4i, N$Q;
+  l3p = "undefi";
+  l3p += "n";
+  l3p += "e";
+  l3p += "d";
+  X02 = typeof _CIQ !== l3p ? _CIQ : z3g.CIQ;
+  if (!X02.Studies) {
+    console.error(
+      "stochastics feature requires first activating studies feature.",
+    );
+  } else {
+    o5U = "#F";
+    o5U += "F0";
+    o5U += "00";
+    o5U += "0";
+    a1J = "fi";
+    a1J += "eld";
+    I8R = "St";
+    I8R += "oc";
+    I8R += "hastics";
+    f0z = "a";
+    f0z += "u";
+    f0z += "to";
+    t2P = "f";
+    t2P += "i";
+    t2P += "el";
+    t2P += "d";
+    X4i = "a";
+    X4i += "u";
+    X4i += "t";
+    X4i += "o";
+    N$Q = "Stochasti";
+    N$Q += "c Momentu";
+    N$Q += "m In";
+    N$Q += "dex";
+    X02.Studies.calculateStochastics = function (G9z, F2$) {
+      var c7T, X_0, Z3R, i0D, u_d, z5m, H1C, r4U;
+      c7T = "%";
+      c7T += "K";
+      X_0 = "%D Per";
+      X_0 += "iods";
+      if (!F2$.smooth) {
+        F2$.smooth = F2$.inputs.Smooth;
+      }
+      Z3R = F2$.inputs.Field;
+      if (!Z3R || Z3R == "field") {
+        Z3R = "Close";
+      }
+      i0D = F2$.inputs["%K Periods"];
+      if (!i0D) {
+        i0D = F2$.days;
+      }
+      u_d = F2$.chart.scrubbed;
+      if (u_d.length < Math.max(i0D, F2$.days) + 1) {
+        F2$.error = !"";
+        return;
+      }
+      z5m = F2$.inputs["%K Smoothing Periods"];
+      if (z5m && !F2$.inputs.Fast) {
+        F2$.smooth = !!{};
+      } else if (F2$.smooth) {
+        z5m = 3;
+      }
+      function E4A(S8I, X0n, Y5v) {
+        var F2Z, V7W, M4B, k9C, o65, t5C, I2t, h2k, J_s;
+        N$t.V84(175);
+        F2Z = N$t.o6M("1", S8I, 0, Y5v);
+        N$t.K2h(99);
+        var M5y = N$t.o6M(2, 13, 1, 2, 53);
+        N$t.p24();
+        V7W = Number.MAX_VALUE * M5y;
+        M4B = Number.MAX_VALUE;
+        for (var l6P = F2Z; l6P <= S8I; l6P++) {
+          k9C = "H";
+          k9C += "i";
+          k9C += "g";
+          k9C += "h";
+          o65 = "C";
+          o65 += "lo";
+          o65 += "s";
+          o65 += "e";
+          t5C = "Lo";
+          t5C += "w";
+          I2t = X02.Studies.getQuoteFieldValue(
+            u_d[l6P],
+            X0n == "Close" ? "Low" : X0n,
+            t5C,
+          );
+          h2k = X02.Studies.getQuoteFieldValue(
+            u_d[l6P],
+            X0n == o65 ? k9C : X0n,
+            "High",
+          );
+          if (!I2t && I2t !== +"0") continue;
+          if (!h2k && h2k !== 0) continue;
+          M4B = Math.min(M4B, I2t);
+          V7W = Math.max(V7W, h2k);
+        }
+        if (V7W == Number.MAX_VALUE * -1 || M4B == Number.MAX_VALUE) {
+          return null;
+        }
+        J_s =
+          V7W == M4B
+            ? +"0"
+            : ((X02.Studies.getQuoteFieldValue(u_d[S8I], X0n) - M4B) /
+                (V7W - M4B)) *
+              +"100";
+        return J_s;
+      }
+      H1C = F2$.inputs[X_0];
+      if (!H1C) {
+        H1C = 3;
+      }
+      if (F2$.outputs.Fast) {
+        F2$.outputMap = {};
+        F2$.outputMap["%K " + F2$.name] = "Fast";
+        F2$.outputMap["%D " + F2$.name] = "Slow";
+      }
+      for (var x0l = Math.max(i0D, F2$.startFrom); x0l < u_d.length; x0l++) {
+        r4U = E4A(x0l, Z3R, i0D);
+        if (r4U !== null) {
+          u_d[x0l]["_Fast%K " + F2$.name] = r4U;
+        }
+      }
+      N$t.R4I();
+      X02.Studies.MA(
+        "simple",
+        F2$.smooth ? z5m : 1,
+        "_Fast%K " + F2$.name,
+        0,
+        c7T,
+        G9z,
+        F2$,
+      );
+      X02.Studies.MA("simple", H1C, "%K " + F2$.name, "0" << 0, "%D", G9z, F2$);
+    };
+    X02.Studies.calculateStochMomentum = function (V5q, i1_) {
+      var T07,
+        z63,
+        H3w,
+        y2c,
+        M$K,
+        y9X,
+        l$n,
+        Q$4,
+        v0Y,
+        i8F,
+        E$c,
+        L68,
+        J9b,
+        B8z,
+        x3_;
+      T07 = "expon";
+      T07 += "e";
+      T07 += "ntial";
+      z63 = "_";
+      z63 += "D";
+      z63 += "H";
+      z63 += "L ";
+      H3w = "expo";
+      H3w += "nential";
+      y2c = "_";
+      y2c += "H";
+      y2c += "S1";
+      function u5J(M0U, d_m) {
+        var O4h, U6f;
+        O4h = null;
+        U6f = null;
+        for (var x$Y = d_m - M0U + 1; x$Y <= d_m; x$Y++) {
+          O4h = O4h === null ? L68[x$Y].Low : Math.min(O4h, L68[x$Y].Low);
+          U6f = U6f === null ? L68[x$Y].High : Math.max(U6f, L68[x$Y].High);
+        }
+        return [O4h, U6f];
+      }
+      M$K = "_";
+      M$K += "H";
+      M$K += " ";
+      y9X = "%D ";
+      y9X += "Per";
+      y9X += "iods";
+      l$n = "%K ";
+      l$n += "Smoothing Peri";
+      l$n += "ods";
+      Q$4 = Number(i1_.inputs["%K Periods"]);
+      v0Y = Number(i1_.inputs[l$n]);
+      i8F = Number(i1_.inputs["%K Double Smoothing Periods"]);
+      E$c = Number(i1_.inputs[y9X]);
+      L68 = i1_.chart.scrubbed;
+      if (L68.length < Q$4 + v0Y + i8F - +"1" || L68.length < E$c) {
+        i1_.error = !!{};
+        return;
+      }
+      for (J9b = Math.max(Q$4, i1_.startFrom) - 1; J9b < L68.length; J9b++) {
+        B8z = L68[J9b];
+        x3_ = u5J(Q$4, J9b);
+        N$t.K2h(176);
+        var b2F = N$t.o6M(5, 2399, 8, 4, 15);
+        N$t.V84(74);
+        var V_z = N$t.o6M(18, 4, 11, 9);
+        B8z["_H " + i1_.name] = B8z.Close - (x3_[0] + x3_[b2F]) / V_z;
+        N$t.V84(177);
+        var A1q = N$t.o6M(15, 1, 7, 44, 4);
+        B8z["_DHL " + i1_.name] = x3_[A1q] - x3_[0];
+      }
+      X02.Studies.MA("exponential", v0Y, M$K + i1_.name, 0, y2c, V5q, i1_);
+      X02.Studies.MA(H3w, i8F, "_HS1 " + i1_.name, 0, "_HS2", V5q, i1_);
+      X02.Studies.MA("exponential", v0Y, z63 + i1_.name, 0, "_DHL1", V5q, i1_);
+      X02.Studies.MA(T07, i8F, "_DHL1 " + i1_.name, +"0", "_DHL2", V5q, i1_);
+      for (J9b = Q$4 - 1; J9b < L68.length; J9b++) {
+        N$t.K2h(10);
+        var V1k = N$t.o6M(3, 95, 8);
+        L68[J9b]["%K " + i1_.name] =
+          (L68[J9b]["_HS2 " + i1_.name] /
+            (0.5 * L68[J9b]["_DHL2 " + i1_.name])) *
+          V1k;
+      }
+      X02.Studies.MA(
+        i1_.inputs["%D Moving Average Type"],
+        E$c,
+        "%K " + i1_.name,
+        0,
+        "%D",
+        V5q,
+        i1_,
+      );
+      i1_.zoneOutput = "%K";
+    };
+    X02.Studies.studyLibrary = X02.extend(X02.Studies.studyLibrary, {
+      "Stch Mtm": {
+        name: N$Q,
+        calculateFN: X02.Studies.calculateStochMomentum,
+        inputs: {
+          "%K Periods": 10,
+          "%K Smoothing Periods": 3,
+          "%K Double Smoothing Periods": "3" * 1,
+          "%D Periods": 10,
+          "%D Moving Average Type": "ema",
+        },
+        outputs: { "%K": X4i, "%D": "#FF0000" },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: 40,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: -+"40",
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+      stochastics: {
+        name: "Stochastics (Simple)",
+        range: "0 to 100",
+        calculateFN: X02.Studies.calculateStochastics,
+        inputs: { Period: 14, Field: t2P, Smooth: !![] },
+        outputs: { Fast: "auto", Slow: "#FF0000" },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !!{},
+            studyOverBoughtValue: 80,
+            studyOverBoughtColor: f0z,
+            studyOverSoldValue: 20,
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+      Stochastics: {
+        name: I8R,
+        range: "0 to 100",
+        calculateFN: X02.Studies.calculateStochastics,
+        inputs: {
+          Field: a1J,
+          "%K Periods": 14,
+          Fast: !"1",
+          "%K Smoothing Periods": 3,
+          "%D Periods": 3,
+        },
+        outputs: { "%K": "auto", "%D": o5U },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !!{},
+            studyOverBoughtValue: 80,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: "20" ^ 0,
+            studyOverSoldColor: "auto",
+          },
+        },
+        attributes: {
+          "%K Smoothing Periods": {
+            hidden: function () {
+              return this.inputs.Fast;
+            },
+          },
+        },
+        centerline: "50" * 1,
+      },
+    });
+  }
+};
+g7 = (M0y) => {
+  var k_h;
+  k_h = typeof _CIQ !== "undefined" ? _CIQ : M0y.CIQ;
+  if (!k_h.Studies) {
+    console.error(
+      "supertrend feature requires first activating studies feature.",
+    );
+  } else {
+    k_h.Studies.calculateSupertrend = function (s8o, j_4) {
+      var K9_ = u7J6i;
+      var K8P, i1d, O6A, b4o, w0q, E8P, H4p, D51, S2u, K9r, k5O, n_h, b_L, a3Q;
+      K8P = j_4.chart.scrubbed;
+      if (K8P.length < j_4.days + 1) {
+        j_4.error = !0;
+        return;
+      }
+      k_h.Studies.calculateStudyATR(s8o, j_4);
+      for (var Y2A = j_4.startFrom; Y2A < K8P.length; Y2A++) {
+        i1d = "Tr";
+        i1d += "e";
+        i1d += "nd";
+        i1d += " ";
+        O6A = "_";
+        O6A += "Uptr";
+        O6A += "end ";
+        b4o = "A";
+        b4o += "TR";
+        b4o += " ";
+        w0q = K8P[Y2A];
+        if (!w0q) continue;
+        K9_.V84(1);
+        var e$Y = K9_.o6M(0, 2);
+        E8P = (w0q.High + w0q.Low) / e$Y;
+        H4p = j_4.inputs.Multiplier * w0q[b4o + j_4.name];
+        K9_.K2h(4);
+        D51 = K9_.o6M(E8P, H4p);
+        K9_.K2h(1);
+        S2u = K9_.F4O(E8P, H4p);
+        if (Y2A) {
+          K9r = "_Downt";
+          K9r += "re";
+          K9r += "n";
+          K9r += "d ";
+          k5O = "_D";
+          k5O += "ow";
+          k5O += "nt";
+          k5O += "rend ";
+          n_h = "_Uptren";
+          n_h += "d ";
+          if (
+            K8P[Y2A - +"1"] &&
+            K8P[Y2A - 1].Close &&
+            K8P[Y2A - 1].Close > K8P[Y2A - ("1" - 0)]["_Uptrend " + j_4.name] &&
+            K8P[Y2A - 1]["_Uptrend " + j_4.name] > D51
+          ) {
+            K9_.V84(4);
+            D51 = K8P[K9_.o6M(Y2A, 1)][n_h + j_4.name];
+          }
+          if (
+            K8P[Y2A - 1] &&
+            K8P[Y2A - 1].Close &&
+            K8P[Y2A - 1].Close < K8P[Y2A - 1][k5O + j_4.name] &&
+            K8P[Y2A - 1][K9r + j_4.name] < S2u
+          ) {
+            K9_.K2h(4);
+            S2u = K8P[K9_.F4O(Y2A, 1)]["_Downtrend " + j_4.name];
+          }
+        }
+        w0q["_Direction " + j_4.name] = 1;
+        if (Y2A) {
+          b_L = "_Uptr";
+          b_L += "end ";
+          a3Q = "_Directio";
+          a3Q += "n ";
+          K9_.V84(4);
+          w0q["_Direction " + j_4.name] = K8P[K9_.F4O(Y2A, 1)][a3Q + j_4.name];
+          if (w0q.Close > K8P[Y2A - 1]["_Downtrend " + j_4.name]) {
+            w0q["_Direction " + j_4.name] = 1;
+          } else if (w0q.Close < K8P[Y2A - ("1" - 0)][b_L + j_4.name]) {
+            w0q["_Direction " + j_4.name] = -1;
+          }
+        }
+        w0q[O6A + j_4.name] = D51;
+        w0q["_Downtrend " + j_4.name] = S2u;
+        w0q[i1d + j_4.name] = w0q["_Direction " + j_4.name] > 0 ? D51 : S2u;
+        if (!Y2A) continue;
+      }
+      K9_.p24();
+      j_4.outputMap = {};
+      j_4.outputMap["Trend " + j_4.name] = "";
+    };
+    k_h.Studies.displaySupertrend = function (T5d, S7i, Z_5) {
+      var I5y = u7J6i;
+      var C$z,
+        A2g,
+        P7M,
+        V6B,
+        T$q,
+        L5h,
+        c1l,
+        Z32,
+        n4T,
+        P8w,
+        q5v,
+        d2S,
+        g8L,
+        W5v,
+        k3C,
+        p_Y,
+        Q1a;
+      C$z = T5d.panels[S7i.panel];
+      A2g = S7i.getContext(T5d);
+      P7M = S7i.getYAxis(T5d);
+      V6B = {
+        skipTransform: C$z.name != S7i.chart.name,
+        skipProjections: !![],
+        label: T5d.preferences.labels,
+        yAxis: P7M,
+        highlight: S7i.highlight,
+      };
+      T$q = "Trend " + S7i.name;
+      L5h = T5d.getTransformFunction(P7M);
+      for (var l5V = 0; L5h && l5V < Z_5.length; l5V++) {
+        c1l = Z_5[l5V];
+        Z32 = T5d.getTransformedQuote(c1l, P7M);
+        if (c1l && Z32) {
+          Z32[T$q] = L5h(T5d, C$z.chart, c1l[T$q]);
+        }
+      }
+      T5d.plotDataSegmentAsLine(T$q, C$z, V6B, C8E);
+      A2g.lineWidth = +"1";
+      A2g.globalAlpha = 1;
+      T5d.startClip(S7i.panel);
+      if (!S7i.highlight && T5d.highlightedDraggable) {
+        A2g.globalAlpha *= 0.3;
+      }
+      I5y.K2h(96);
+      var C4P = I5y.F4O(616, 12, 308, 603);
+      I5y.V84(62);
+      var d6X = I5y.o6M(81720, 4078, 10215);
+      I5y.K2h(34);
+      var Q3O = I5y.F4O(6, 6, 7);
+      I5y.V84(140);
+      var T1$ = I5y.F4O(9, 16, 123275, 8208);
+      I5y.V84(17);
+      var Z4i = I5y.F4O(0, 0, 16, 14);
+      n4T =
+        A2g.measureText(
+          +"2765" > "141.17" - 0 ? "\u25B2" : C4P <= (d6X, Q3O) ? "g" : T1$,
+        ).width / Z4i;
+      for (P8w = 0; P8w < Z_5.length; P8w++) {
+        g8L = "_";
+        g8L += "Direction ";
+        if (!Z_5[P8w]) continue;
+        W5v = Z_5[P8w][g8L + S7i.name];
+        if (!W5v) continue;
+        if (d2S > W5v) {
+          k3C = "bott";
+          k3C += "om";
+          q5v = k_h.Studies.determineColor(S7i.outputs.Downtrend);
+          if (!q5v || q5v == "auto" || k_h.isTransparent(q5v)) {
+            q5v = T5d.defaultColor;
+          }
+          A2g.fillStyle = q5v;
+          A2g.textBaseline = k3C;
+          p_Y = T5d.pixelFromPrice(Z_5[P8w].High, C$z, P7M);
+          for (var o9D = 5; o9D <= 45; o9D += 10) {
+            if (P7M.flipped) {
+              A2g.fillText("\u25B2", T5d.pixelFromBar(P8w) - n4T, p_Y + o9D);
+            } else {
+              A2g.fillText(
+                (6400, "7080" << 0) < 9770
+                  ? "\u25BC"
+                  : 7770 >= 4779
+                    ? (39.97, 2435) >= (6190, 9882)
+                      ? ("C", 6.96e3)
+                      : (171.1, 296.12)
+                    : 967.56,
+                T5d.pixelFromBar(P8w) - n4T,
+                p_Y - o9D,
+              );
+            }
+          }
+        } else if (d2S < W5v) {
+          q5v = k_h.Studies.determineColor(S7i.outputs.Uptrend);
+          if (!q5v || q5v == "auto" || k_h.isTransparent(q5v)) {
+            q5v = T5d.defaultColor;
+          }
+          A2g.fillStyle = q5v;
+          A2g.textBaseline = "top";
+          Q1a = T5d.pixelFromPrice(Z_5[P8w].Low, C$z, P7M);
+          for (var z_C = 5; z_C <= 45; z_C += 10) {
+            if (P7M.flipped) {
+              A2g.fillText(
+                (1700, 1363) === (+"353.97", +"1174") ? (0xd93, !{}) : "\u25BC",
+                T5d.pixelFromBar(P8w) - n4T,
+                Q1a - z_C,
+              );
+            } else {
+              A2g.fillText(
+                (227.5, 7880) >= 775.42
+                  ? (8315, 115.07) < (67.87, 425.21)
+                    ? "\u25B2"
+                    : (+"772.71", "R")
+                  : "R",
+                T5d.pixelFromBar(P8w) - n4T,
+                Q1a + z_C,
+              );
+            }
+          }
+        }
+        d2S = W5v;
+      }
+      I5y.p24();
+      function C8E(w0S, d4x, e0M) {
+        var H0C, M2A, P__;
+        H0C = -2072464972;
+        M2A = -1372135055;
+        P__ = 2;
+        for (
+          var n_f = 1;
+          I5y.o0D(n_f.toString(), n_f.toString().length, 8864) !== H0C;
+          n_f++
+        ) {
+          if (d4x || d4x["" % S7i.name] > 3) {
+            return S7i.outputs.Downtrend;
+          }
+          return S7i.outputs.Uptrend;
+        }
+        if (I5y.o0D(P__.toString(), P__.toString().length, 23177) !== M2A) {
+          if (d4x && d4x["_Direction " + S7i.name] < 0) {
+            return S7i.outputs.Downtrend;
+          }
+          return S7i.outputs.Uptrend;
+        }
+      }
+      T5d.endClip();
+    };
+    k_h.Studies.studyLibrary = k_h.extend(k_h.Studies.studyLibrary, {
+      Supertrend: {
+        name: "Supertrend",
+        overlay: !![],
+        seriesFN: k_h.Studies.displaySupertrend,
+        calculateFN: k_h.Studies.calculateSupertrend,
+        inputs: { Period: 7, Multiplier: 3 },
+        outputs: { Uptrend: "#8cc176", Downtrend: "#b82c0c" },
+        attributes: { Multiplier: { min: 0.1, step: 0.1 } },
+      },
+    });
+  }
+};
+K3 = (p36) => {
+  var C0F, x3u;
+  C0F = typeof _CIQ !== "undefined" ? _CIQ : p36.CIQ;
+  if (!C0F.Studies) {
+    console.error(
+      "swingIndex feature requires first activating studies feature.",
+    );
+  } else {
+    x3u = "Swi";
+    x3u += "ng I";
+    x3u += "ndex";
+    C0F.Studies.calculateSwingIndex = function (j8g, I6a) {
+      var J1E = u7J6i;
+      var n8r, I74, E$D, o6z, C82, P4i, K5x, Y3W, c1x, x8M, K_l;
+      n8r = I6a.inputs["Limit Move Value"];
+      if (n8r <= 0 || isNaN(n8r)) {
+        n8r = 99999;
+      }
+      I74 = I6a.chart.scrubbed;
+      E$D = +"0";
+      if (I6a.startFrom > 1) {
+        J1E.K2h(178);
+        var z5p = J1E.o6M(9, 14, 20, 8, 18);
+        E$D = I74[I6a.startFrom - z5p]["Result " + I6a.name];
+      }
+      for (var i_U = Math.max(1, I6a.startFrom); i_U < I74.length; i_U++) {
+        o6z = Math.abs(I74[i_U].High - I74[i_U - 1].Close);
+        C82 = Math.abs(I74[i_U].Low - I74[i_U - 1].Close);
+        P4i = Math.abs(I74[i_U].High - I74[i_U].Low);
+        K5x = Math.abs(I74[i_U - 1].Close - I74[i_U - 1].Open);
+        Y3W = Math.max(o6z, C82);
+        c1x = Math.max(P4i, Y3W);
+        J1E.V84(179);
+        x8M = J1E.F4O(c1x, K5x, "0.25");
+        if (c1x == o6z) {
+          J1E.K2h(3);
+          x8M -= J1E.o6M(0.5, C82);
+        } else if (c1x == C82) {
+          J1E.V84(3);
+          x8M -= J1E.o6M(0.5, o6z);
+        }
+        J1E.K2h(149);
+        var Y4$ = J1E.o6M(100, 300, 6, 53);
+        J1E.K2h(1);
+        var Z0j = J1E.F4O(26, 6);
+        J1E.V84(1);
+        var K7G = J1E.o6M(17, 15);
+        K_l =
+          ((Y4$ *
+            (I74[i_U].Close -
+              I74[i_U - ("1" << Z0j)].Close +
+              0.5 * (I74[i_U].Close - I74[i_U].Open) +
+              +"0.25" *
+                (I74[i_U - ("1" << K7G)].Close - I74[i_U - +"1"].Open))) /
+            x8M) *
+          (Y3W / n8r);
+        if (x8M === +"0" || n8r === 0) {
+          K_l = 0;
+        }
+        if (I6a.type == "Swing") {
+          E$D = 0;
+        }
+        E$D += K_l;
+        I74[i_U]["Result " + I6a.name] = E$D;
+      }
+    };
+    C0F.Studies.studyLibrary = C0F.extend(C0F.Studies.studyLibrary, {
+      "Acc Swing": {
+        name: "Accumulative Swing Index",
+        calculateFN: C0F.Studies.calculateSwingIndex,
+        inputs: { "Limit Move Value": 0.5 },
+        attributes: { "Limit Move Value": { min: +"0.01", step: 0.01 } },
+      },
+      Swing: {
+        name: x3u,
+        calculateFN: C0F.Studies.calculateSwingIndex,
+        inputs: { "Limit Move Value": 0.5 },
+        attributes: { "Limit Move Value": { min: 0.01, step: +"0.01" } },
+      },
+    });
+  }
+};
+U7 = (v7d) => {
+  var Q$E = u7J6i;
+  var h$T, o9d, v8t, X9x, R96, S7N;
+  h$T = "undefine";
+  h$T += "d";
+  o9d = typeof _CIQ !== h$T ? _CIQ : v7d.CIQ;
+  if (!o9d.Studies) {
+    Q$E.K2h(11);
+    v8t = -Q$E.o6M(37, "677439853");
+    Q$E.K2h(45);
+    X9x = -Q$E.F4O("523660852", 96);
+    R96 = +"2";
+    for (
+      var J6c = 1;
+      Q$E.o0D(J6c.toString(), J6c.toString().length, 13467) !== v8t;
+      J6c++
+    ) {
+      console.error(
+        "trendIntensity feature requires first activating studies feature.",
+      );
+      R96 += 2;
+    }
+    if (Q$E.o0D(R96.toString(), R96.toString().length, 12897) !== X9x) {
+      console.error("");
+    }
+  } else {
+    S7N = "f";
+    S7N += "i";
+    S7N += "el";
+    S7N += "d";
+    o9d.Studies.calculateTrendIntensity = function (P1_, p3Z) {
+      var Z1i, q2$, I6G, z_1, B9y, z$U, B4d, e0g, U8K, q3E, U2B, J6I, O2h;
+      Z1i = "S";
+      Z1i += "ign";
+      Z1i += "a";
+      Z1i += "l";
+      q2$ = "T";
+      q2$ += "II ";
+      I6G = "e";
+      function D_C(u7i, i_b) {
+        if (Math.abs(i_b) < 0.00000001) {
+          return 100;
+        }
+        Q$E.R4I();
+        Q$E.V84(160);
+        return Q$E.o6M(u7i, 100, 100, 1, i_b);
+      }
+      I6G += "m";
+      I6G += "a";
+      z_1 = "m";
+      z_1 += "a";
+      B9y = "fie";
+      B9y += "ld";
+      z$U = p3Z.chart.scrubbed;
+      if (z$U.length < p3Z.days + 1) {
+        p3Z.error = !!{};
+        return;
+      }
+      B4d = p3Z.inputs.Field;
+      if (!B4d || B4d == B9y) {
+        B4d = "Close";
+      }
+      o9d.Studies.MA(z_1, p3Z.days, B4d, 0, "_SMA", P1_, p3Z);
+      e0g = 0;
+      U8K = 0;
+      J6I = [];
+      O2h = Math.ceil(p3Z.days / 2);
+      for (q3E = Math.max(0, p3Z.startFrom - O2h); q3E < z$U.length; q3E++) {
+        if (!z$U[q3E]["_SMA " + p3Z.name] && z$U[q3E]["_SMA " + p3Z.name] !== 0)
+          continue;
+        U2B =
+          o9d.Studies.getQuoteFieldValue(z$U[q3E], B4d) -
+          z$U[q3E]["_SMA " + p3Z.name];
+        if (U2B < 0) {
+          Q$E.V84(180);
+          U8K += Q$E.F4O(1, U2B);
+        } else {
+          e0g += U2B;
+        }
+        J6I.push(U2B);
+        if (J6I.length > O2h) {
+          U2B = J6I.shift();
+          if (U2B < 0) {
+            Q$E.K2h(181);
+            U8K -= Q$E.F4O(32, "1", U2B);
+          } else {
+            e0g -= U2B;
+          }
+        }
+        if (q3E < p3Z.startFrom) continue;
+        z$U[q3E]["TII " + p3Z.name] = D_C(e0g, U8K);
+      }
+      o9d.Studies.MA(
+        I6G,
+        p3Z.inputs["Signal Period"],
+        q2$ + p3Z.name,
+        0,
+        Z1i,
+        P1_,
+        p3Z,
+      );
+    };
+    o9d.Studies.studyLibrary = o9d.extend(o9d.Studies.studyLibrary, {
+      "Trend Int": {
+        name: "Trend Intensity Index",
+        calculateFN: o9d.Studies.calculateTrendIntensity,
+        range: "0 to 100",
+        inputs: { Period: 14, Field: S7N, "Signal Period": +"9" },
+        outputs: { TII: "auto", Signal: "#FF0000" },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: 80,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: 20,
+            studyOverSoldColor: "auto",
+          },
+        },
+      },
+    });
+  }
+};
+m6 = (G8R) => {
+  var a$G, s0j;
+  a$G = "unde";
+  a$G += "fi";
+  a$G += "n";
+  a$G += "ed";
+  s0j = typeof _CIQ !== a$G ? _CIQ : G8R.CIQ;
+  if (!s0j.Studies) {
+    console.error("trix feature requires first activating studies feature.");
+  } else {
+    s0j.Studies.calculateTRIX = function (e9Q, i6K) {
+      var O30 = u7J6i;
+      var A6j, L2t, m$O, X7j, Y6D, S88, V55, M8r, F9G, R2D, V$b, c4q;
+      A6j = "_MA3";
+      A6j += " ";
+      L2t = "_M";
+      L2t += "A2";
+      L2t += " ";
+      m$O = "Cl";
+      m$O += "o";
+      m$O += "se";
+      O30.R4I();
+      X7j = i6K.chart.scrubbed;
+      if (X7j.length < i6K.days + 1) {
+        i6K.error = !!{};
+        return;
+      }
+      Y6D = i6K.name;
+      O30.V84(1);
+      S88 = [m$O, O30.o6M("_MA1 ", Y6D), O30.F4O(L2t, Y6D), O30.o6M(A6j, Y6D)];
+      for (var u64 = 0; u64 < S88.length - 1; u64++) {
+        s0j.Studies.MA(
+          "exponential",
+          i6K.days,
+          S88[u64],
+          0,
+          "_MA" + (u64 + 1).toString(),
+          e9Q,
+          i6K,
+        );
+      }
+      V55 = -442751836;
+      M8r = -1125852153;
+      F9G = 2;
+      for (
+        var W4y = 1;
+        O30.S6r(W4y.toString(), W4y.toString().length, 45753) !== V55;
+        W4y++
+      ) {
+        R2D = S88[3];
+        F9G += 2;
+      }
+      if (O30.S6r(F9G.toString(), F9G.toString().length, 44795) !== M8r) {
+        R2D = S88[7];
+      }
+      for (var c1Z = Math.max(1, i6K.startFrom); c1Z < X7j.length; c1Z++) {
+        O30.V84(4);
+        V$b = X7j[O30.o6M(c1Z, 1)][R2D];
+        if (!V$b) continue;
+        c4q = X7j[c1Z][R2D];
+        if (c4q || c4q === 0) {
+          O30.V84(1);
+          X7j[c1Z][O30.o6M("Result ", Y6D)] = O30.o6M(
+            100,
+            V$b,
+            1,
+            c4q,
+            O30.V84(162),
+          );
+        }
+      }
+    };
+    s0j.Studies.studyLibrary = s0j.extend(s0j.Studies.studyLibrary, {
+      TRIX: { name: "TRIX", calculateFN: s0j.Studies.calculateTRIX },
+    });
+  }
+};
+c_ = (C14) => {
+  var C4C = u7J6i;
+  var L3P, b9Y, y19, V1v, i$R, v6W;
+  L3P = "u";
+  L3P += "nde";
+  C4C.p24();
+  L3P += "fin";
+  L3P += "ed";
+  b9Y = typeof _CIQ !== L3P ? _CIQ : C14.CIQ;
+  if (!b9Y.Studies) {
+    y19 = "twiggsM";
+    y19 += "o";
+    y19 += "neyFlow feature requires first activating studies featu";
+    y19 += "re.";
+    console.error(y19);
+  } else {
+    b9Y.Studies.calculateTwiggsMoneyFlow = function (W$H, b_u) {
+      var W_X, k$e, D9t, d$e, p08, p0f, w_6, D07, K1k, y0D, C$2, V22;
+      W_X = b_u.chart.scrubbed;
+      if (W_X.length < b_u.days) {
+        k$e = 1241491194;
+        D9t = 1017237490;
+        d$e = +"2";
+        for (
+          var J3n = 1;
+          C4C.S6r(J3n.toString(), J3n.toString().length, 87154) !== k$e;
+          J3n++
+        ) {
+          b_u.error = !![];
+          d$e += +"2";
+        }
+        if (C4C.S6r(d$e.toString(), d$e.toString().length, 28822) !== D9t) {
+          b_u.error = ![];
+        }
+        return;
+      }
+      C4C.R4I();
+      p08 = 0;
+      p0f = 0;
+      w_6 = W_X[b_u.startFrom - +"1"];
+      if (w_6) {
+        D07 = "_";
+        D07 += "su";
+        D07 += "mV";
+        D07 += " ";
+        K1k = "_";
+        K1k += "sum";
+        K1k += "MF";
+        K1k += " ";
+        if (w_6[K1k + b_u.name]) {
+          p08 = w_6["_sumMF " + b_u.name];
+        }
+        if (w_6[D07 + b_u.name]) {
+          p0f = w_6["_sumV " + b_u.name];
+        }
+      }
+      for (var R0H = Math.max(1, b_u.startFrom); R0H < W_X.length; R0H++) {
+        y0D = Math.max(W_X[R0H - 1].Close, W_X[R0H].High);
+        C$2 = Math.min(W_X[R0H - 1].Close, W_X[R0H].Low);
+        C4C.K2h(182);
+        var r0G = C4C.F4O(1999998, 3, 999995, 12, 11);
+        W_X[R0H]["_MFV " + b_u.name] =
+          (W_X[R0H].Volume * (+"2" * W_X[R0H].Close - y0D - C$2)) /
+          (y0D - C$2 === 0 ? r0G : y0D - C$2);
+        if (R0H > b_u.days - 1) {
+          C4C.V84(44);
+          var U2i = C4C.o6M(95, 6, 19, 18);
+          p08 *= (b_u.days - U2i) / b_u.days;
+          p0f *= (b_u.days - +"1") / b_u.days;
+        }
+        p08 += W_X[R0H]["_MFV " + b_u.name];
+        p0f += W_X[R0H].Volume;
+        if (R0H > b_u.days - 1) {
+          V22 = "R";
+          V22 += "esult ";
+          if (p0f) {
+            C4C.K2h(12);
+            W_X[R0H][V22 + b_u.name] = C4C.o6M(p0f > 0 ? p0f : 999999, p08);
+          }
+        }
+        W_X[R0H]["_sumMF " + b_u.name] = p08;
+        W_X[R0H]["_sumV " + b_u.name] = p0f;
+      }
+    };
+    C4C.K2h(7);
+    V1v = -C4C.o6M(0, "1186526532");
+    C4C.K2h(45);
+    i$R = -C4C.F4O("329218042", 64);
+    v6W = 2;
+    for (
+      var m6h = 1;
+      C4C.S6r(m6h.toString(), m6h.toString().length, 72592) !== V1v;
+      m6h++
+    ) {
+      b9Y.Studies.studyLibrary = b9Y.extend(b9Y.Studies.studyLibrary, {
+        Twiggs: {
+          name: "",
+          calculateFN: b9Y.Studies.calculateTwiggsMoneyFlow,
+          inputs: { Period: 90 },
+        },
+      });
+      v6W += +"2";
+    }
+    if (C4C.S6r(v6W.toString(), v6W.toString().length, 98595) !== i$R) {
+      b9Y.Studies.studyLibrary = b9Y.extend(b9Y.Studies.studyLibrary, {
+        Twiggs: {
+          name: "Twiggs Money Flow",
+          calculateFN: b9Y.Studies.calculateTwiggsMoneyFlow,
+          inputs: { Period: 21 },
+        },
+      });
+    }
+  }
+};
+P3 = (v$G) => {
+  var W5X, p5v;
+  W5X = "un";
+  W5X += "d";
+  W5X += "efined";
+  p5v = typeof _CIQ !== W5X ? _CIQ : v$G.CIQ;
+  u7J6i.p24();
+  if (!p5v.Studies) {
+    console.error(
+      "typicalPrice feature requires first activating studies feature.",
+    );
+  } else if (!p5v.Studies.calculateTypicalPrice) {
+    console.error(
+      "typicalPrice feature requires first activating medianPrice feature.",
+    );
+  } else {
+    p5v.Studies.studyLibrary = p5v.extend(p5v.Studies.studyLibrary, {
+      "Typical Price": {
+        name: "Typical Price",
+        calculateFN: p5v.Studies.calculateTypicalPrice,
+        inputs: { Period: 14 },
+      },
+      "Weighted Close": {
+        name: "Weighted Close",
+        calculateFN: p5v.Studies.calculateTypicalPrice,
+        inputs: { Period: 14 },
+      },
+    });
+  }
+};
+h7 = (o48) => {
+  var Q0p, a7a, n3A;
+  Q0p = typeof _CIQ !== "undefined" ? _CIQ : o48.CIQ;
+  if (!Q0p.Studies) {
+    console.error(
+      "ulcerIndex feature requires first activating studies feature.",
+    );
+  } else {
+    a7a = "f";
+    a7a += "i";
+    a7a += "eld";
+    n3A = "Ulcer I";
+    n3A += "n";
+    n3A += "dex";
+    Q0p.Studies.calculateUlcerIndex = function (I83, a_j) {
+      var C0x, r2f, G1W, h7U, f4S, r8g, k0s;
+      C0x = "_";
+      C0x += "PD2";
+      C0x += " ";
+      r2f = "C";
+      r2f += "l";
+      r2f += "o";
+      function T2l(H$Z, B09, r6j) {
+        u7J6i.p24();
+        var Y4F;
+        Y4F = null;
+        for (var A0c = B09 - H$Z + +"1"; A0c <= B09; A0c++) {
+          if (A0c < 0) continue;
+          Y4F =
+            Y4F === null
+              ? Q0p.Studies.getQuoteFieldValue(G1W[A0c], r6j)
+              : Math.max(Y4F, Q0p.Studies.getQuoteFieldValue(G1W[A0c], r6j));
+        }
+        return Y4F;
+      }
+      r2f += "se";
+      u7J6i.p24();
+      G1W = a_j.chart.scrubbed;
+      if (G1W.length < 2 * a_j.days - ("1" | 0)) {
+        a_j.error = !![];
+        return;
+      }
+      h7U = a_j.inputs.Field;
+      if (!h7U || h7U == "field") {
+        h7U = r2f;
+      }
+      for (
+        f4S = Math.max(a_j.startFrom, a_j.days - 1);
+        f4S < G1W.length;
+        f4S++
+      ) {
+        G1W[f4S]["_PD2 " + a_j.name] = Math.pow(
+          100 *
+            (Q0p.Studies.getQuoteFieldValue(G1W[f4S], h7U) /
+              T2l(a_j.days, f4S, h7U) -
+              +"1"),
+          2,
+        );
+      }
+      Q0p.Studies.MA("simple", a_j.days, C0x + a_j.name, 0, "_MA", I83, a_j);
+      for (
+        f4S = Math.max(a_j.startFrom, 2 * (a_j.days - 1));
+        f4S < G1W.length;
+        f4S++
+      ) {
+        r8g = "_";
+        r8g += "M";
+        r8g += "A";
+        r8g += " ";
+        k0s = G1W[f4S][r8g + a_j.name];
+        if (k0s || k0s === 0) {
+          G1W[f4S]["Result " + a_j.name] = Math.sqrt(k0s);
+        }
+      }
+    };
+    Q0p.Studies.studyLibrary = Q0p.extend(Q0p.Studies.studyLibrary, {
+      Ulcer: {
+        name: n3A,
+        calculateFN: Q0p.Studies.calculateUlcerIndex,
+        inputs: { Period: 14, Field: a7a },
+      },
+    });
+  }
+};
+D8 = (M2p) => {
+  var y2P = u7J6i;
+  var o2i, W1b, z6s, H8l;
+  o2i = "und";
+  o2i += "efined";
+  W1b = typeof _CIQ !== o2i ? _CIQ : M2p.CIQ;
+  y2P.R4I();
+  if (!W1b.Studies) {
+    console.error(
+      "ultimateOscillator feature requires first activating studies feature.",
+    );
+  } else {
+    z6s = "a";
+    z6s += "ut";
+    z6s += "o";
+    H8l = "Ul";
+    H8l += "tim";
+    H8l += "ate Oscill";
+    H8l += "ator";
+    W1b.Studies.calculateUltimateOscillator = function (E9p, m8F) {
+      var p_q,
+        z$J,
+        I_s,
+        k1K,
+        r3r,
+        j5a,
+        x0n,
+        s0f,
+        i2l,
+        W0M,
+        J31,
+        i2Z,
+        c2G,
+        i$O,
+        o53,
+        d52,
+        V$a,
+        I5i,
+        g48,
+        r$6;
+      p_q = "Cycle";
+      p_q += " 3";
+      z$J = "C";
+      z$J += "yc";
+      z$J += "le ";
+      z$J += "2";
+      I_s = "Cycl";
+      I_s += "e 1";
+      k1K = m8F.chart.scrubbed;
+      r3r = [m8F.inputs[I_s], m8F.inputs[z$J], m8F.inputs[p_q]];
+      j5a = Math.max(r3r[0], r3r[1], r3r[2]);
+      if (k1K.length < j5a + 1) {
+        m8F.error = !!"1";
+        return;
+      }
+      y2P.V84(10);
+      var D5d = y2P.F4O(20, 5, 16);
+      x0n = r3r[0] * r3r[D5d];
+      y2P.K2h(4);
+      var H41 = y2P.o6M(5, 3);
+      s0f = r3r[0] * r3r[H41];
+      y2P.V84(2);
+      var A$y = y2P.o6M(16, 31, 16, 8);
+      y2P.K2h(16);
+      var Q7Z = y2P.F4O(0, 10, 12);
+      i2l = r3r[A$y] * r3r[Q7Z];
+      W0M = [0, 0, 0];
+      J31 = [0, 0, 0];
+      if (m8F.startFrom) {
+        if (k1K[m8F.startFrom - +"1"]["_accbp " + m8F.name]) {
+          W0M = k1K[m8F.startFrom - ("1" >> 0)]["_accbp " + m8F.name].slice();
+        }
+        if (k1K[m8F.startFrom - 1]["_acctr " + m8F.name]) {
+          J31 = k1K[m8F.startFrom - 1]["_acctr " + m8F.name].slice();
+        }
+      }
+      for (var D09 = Math.max(+"1", m8F.startFrom); D09 < k1K.length; D09++) {
+        i2Z = "Re";
+        i2Z += "s";
+        i2Z += "ult ";
+        c2G = Math.min(k1K[D09].Low, k1K[D09 - 1].Close);
+        i$O = k1K[D09].Close - c2G;
+        y2P.V84(20);
+        var n7z = y2P.F4O(122, 11, 11);
+        o53 = Math.max(k1K[D09].High, k1K[D09 - n7z].Close) - c2G;
+        for (var s27 = 0; s27 < r3r.length; s27++) {
+          W0M[s27] += i$O;
+          J31[s27] += o53;
+          if (D09 > r3r[s27]) {
+            d52 = Math.min(
+              k1K[D09 - r3r[s27]].Low,
+              k1K[D09 - r3r[s27] - 1].Close,
+            );
+            V$a = k1K[D09 - r3r[s27]].Close - d52;
+            I5i =
+              Math.max(
+                k1K[D09 - r3r[s27]].High,
+                k1K[D09 - r3r[s27] - +"1"].Close,
+              ) - d52;
+            W0M[s27] -= V$a;
+            J31[s27] -= I5i;
+          }
+        }
+        k1K[D09]["_accbp " + m8F.name] = W0M.slice();
+        k1K[D09]["_acctr " + m8F.name] = J31.slice();
+        if (D09 < j5a) continue;
+        y2P.K2h(38);
+        var u$N = y2P.F4O(8, 20, 29, 0);
+        y2P.K2h(183);
+        var z4p = y2P.F4O(12, 4, 20, 339, 20);
+        y2P.K2h(21);
+        var B06 = y2P.F4O(1, 14, 16);
+        g48 =
+          (i2l * W0M[0]) / J31[0] +
+          (s0f * W0M[u$N]) / J31[z4p] +
+          (x0n * W0M[B06]) / J31[2];
+        y2P.K2h(68);
+        r$6 = y2P.F4O(x0n, i2l, s0f);
+        y2P.K2h(111);
+        k1K[D09][i2Z + m8F.name] = y2P.o6M(g48, r$6, 100);
+      }
+    };
+    W1b.Studies.studyLibrary = W1b.extend(W1b.Studies.studyLibrary, {
+      Ultimate: {
+        name: H8l,
+        calculateFN: W1b.Studies.calculateUltimateOscillator,
+        inputs: { "Cycle 1": "7" >> 64, "Cycle 2": 14, "Cycle 3": 28 },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: "70" | 6,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: 30,
+            studyOverSoldColor: z6s,
+          },
+        },
+      },
+    });
+  }
+};
+o6 = (C8w) => {
+  var y8k = u7J6i;
+  var l0U, D3C, y5l, v3b, x5J, T$S, P5w;
+  l0U = -974554133;
+  y8k.p24();
+  y8k.K2h(7);
+  D3C = y8k.F4O(64, "1923813897");
+  y5l = 2;
+  for (
+    var l3o = 1;
+    y8k.o0D(l3o.toString(), l3o.toString().length, 99892) !== l0U;
+    l3o++
+  ) {
+    v3b = !_CIQ != "" ? _CIQ : C8w.CIQ;
+    y5l += 2;
+  }
+  if (y8k.S6r(y5l.toString(), y5l.toString().length, 55363) !== D3C) {
+    v3b = typeof _CIQ !== "undefined" ? _CIQ : C8w.CIQ;
+  }
+  if (!v3b.Studies) {
+    x5J = "valuationLines feature requires first activating studies";
+    x5J += " ";
+    x5J += "feature.";
+    console.error(x5J);
+  } else {
+    T$S = "#85";
+    T$S += "c9";
+    T$S += "9";
+    T$S += "e";
+    P5w = "fie";
+    P5w += "ld";
+    v3b.Studies.calculateValuationLines = function (z0H, L7$, b3I) {
+      var R6q,
+        B8M,
+        j8T,
+        q6n,
+        k7v,
+        u8W,
+        T4O,
+        m_J,
+        N9W,
+        F7P,
+        N2l,
+        V11,
+        i2U,
+        M$z,
+        d5P;
+      R6q = "Displa";
+      R6q += "y Av";
+      R6q += "erage";
+      B8M = L7$.inputs.Field == "field" ? "Close" : L7$.inputs.Field;
+      j8T = L7$.inputs["Average Type"];
+      q6n = L7$.inputs[R6q];
+      k7v = L7$.inputs["Display 1 Standard Deviation (1\u03C3)"];
+      u8W = L7$.inputs["Display 2 Standard Deviation (2\u03C3)"];
+      T4O = L7$.inputs["Display 3 Standard Deviation (3\u03C3)"];
+      m_J = [];
+      for (var t$_ = 0; t$_ < b3I.length; ++t$_) {
+        N9W = v3b.Studies.getQuoteFieldValue(b3I[t$_], B8M);
+        if (N9W !== null) {
+          m_J.push(N9W);
+        }
+      }
+      F7P = (function (y5S, h_V) {
+        var Z0M, Y2k, l8i, W9e, L6i, b6J, Q3N;
+        Z0M = "m";
+        Z0M += "ea";
+        Z0M += "n";
+        Y2k = y5S.length;
+        l8i = 0;
+        y8k.p24();
+        W9e = 0;
+        L6i = 0;
+        switch (h_V) {
+          case Z0M:
+            W9e = Y2k;
+            for (; L6i < Y2k; ++L6i) {
+              l8i += y5S[L6i];
+            }
+            break;
+          case "harmonic":
+            l8i = Y2k;
+            for (; L6i < Y2k; ++L6i) {
+              y8k.K2h(71);
+              var W$3 = y8k.F4O(7, 17, 24, 17, 17);
+              W9e += W$3 / y5S[L6i];
+            }
+            break;
+          case "median":
+            y8k.V84(12);
+            b6J = Math.floor(y8k.o6M(2, Y2k));
+            Q3N = y5S.slice().sort(function (s$q, b$P) {
+              if (s$q > b$P) {
+                return 1;
+              }
+              if (s$q < b$P) {
+                return -1;
+              }
+              y8k.K2h(0);
+              return y8k.F4O(0, "0");
+            });
+            if (Y2k % 2 === ("0" | 0)) {
+              y8k.V84(184);
+              var V8p = y8k.o6M(24, 17, 12, 13, 17);
+              l8i = Q3N[b6J] + Q3N[b6J - V8p];
+              W9e = 2;
+            } else {
+              l8i = Q3N[b6J];
+              y8k.K2h(3);
+              W9e = y8k.F4O("1", 1);
+            }
+            break;
+        }
+        y8k.K2h(12);
+        return y8k.o6M(W9e, l8i);
+      })(m_J, j8T);
+      N2l =
+        !(k7v || u8W || T4O) ||
+        (function (f$D, S6W) {
+          var O4z, d55;
+          O4z = f$D.length;
+          d55 = 0;
+          for (var U4O = 0; U4O < O4z; ++U4O) {
+            d55 += Math.pow(f$D[U4O] - S6W, 2);
+          }
+          y8k.V84(12);
+          return Math.sqrt(y8k.o6M(O4z, d55));
+        })(m_J, F7P);
+      L7$.data = {
+        Average: q6n ? [F7P] : null,
+        "1 Standard Deviation (1\u03C3)": k7v ? [F7P + N2l, F7P - N2l] : null,
+        "2 Standard Deviation (2\u03C3)": u8W
+          ? [F7P + N2l * ("2" - 0), F7P - N2l * 2]
+          : null,
+        "3 Standard Deviation (3\u03C3)": T4O
+          ? [F7P + N2l * ("3" ^ 0), F7P - N2l * 3]
+          : null,
+      };
+      V11 = N2l;
+      if (!L7$.parameters) {
+        L7$.parameters = {};
+      }
+      if (T4O) {
+        y8k.V84(185);
+        L7$.parameters.range = [
+          y8k.o6M(N2l, V11, 3, F7P),
+          y8k.o6M(3, N2l, F7P, V11, y8k.V84(186)),
+        ];
+      } else if (u8W) {
+        y8k.V84(185);
+        L7$.parameters.range = [
+          y8k.F4O(N2l, V11, 2, F7P),
+          y8k.F4O(2, N2l, F7P, V11, y8k.K2h(186)),
+        ];
+      } else if (k7v) {
+        y8k.V84(28);
+        L7$.parameters.range = [
+          y8k.F4O(N2l, F7P, V11),
+          y8k.F4O(V11, F7P, N2l, y8k.K2h(68)),
+        ];
+      } else if (q6n) {
+        y8k.V84(4);
+        L7$.parameters.range = [
+          y8k.o6M(F7P, V11),
+          y8k.F4O(F7P, V11, y8k.V84(1)),
+        ];
+      }
+      if (L7$.panel) {
+        i2U = z0H.panels[L7$.panel];
+        M$z = z0H.getYAxisByName(i2U, L7$.name);
+        if (M$z) {
+          M$z.decimalPlaces = i2U.chart.yAxis.printDecimalPlaces;
+          d5P = { yAxis: M$z };
+          z0H.calculateYAxisRange(
+            i2U,
+            M$z,
+            L7$.parameters.range[0],
+            L7$.parameters.range[1],
+          );
+          z0H.createYAxis(i2U, d5P);
+          z0H.drawYAxis(i2U, d5P);
+        }
+      }
+    };
+    v3b.Studies.displayValuationLines = function (S7b, g7W) {
+      var D$e,
+        S0y,
+        O4A,
+        D$2,
+        I1Z,
+        z0W,
+        a1Z,
+        C7M,
+        S8Y,
+        O8Z,
+        U6c,
+        i5S,
+        f6l,
+        x$d,
+        v7O,
+        m_e,
+        z2O,
+        N8G,
+        X6D,
+        y_u,
+        I_A,
+        W8R,
+        z49,
+        t2$,
+        O7b;
+      D$e = "ciq-valuation-de";
+      D$e += "viation-line";
+      S0y = "ci";
+      S0y += "q-valuatio";
+      S0y += "n-average-";
+      S0y += "line";
+      O4A = "Ave";
+      O4A += "rage";
+      O4A += " Ty";
+      O4A += "pe";
+      D$2 = S7b.panels[g7W.panel];
+      I1Z = g7W.getYAxis(S7b);
+      z0W = g7W.getContext(S7b);
+      a1Z = g7W.data;
+      C7M = g7W.parameters.labels;
+      S8Y = g7W.inputs[O4A];
+      y8k.R4I();
+      O8Z = { mean: "AVG", median: "MED", harmonic: "HAVG" };
+      U6c = S7b.canvasStyle(S0y);
+      i5S = S7b.canvasStyle(D$e);
+      f6l = 3;
+      x$d = S7b.getCanvasFontSize("stx_yaxis") + f6l * ("2" ^ 0);
+      for (var o7R in a1Z) {
+        if (!a1Z[o7R]) continue;
+        y8k.K2h(187);
+        v7O = y8k.o6M(o7R, "Average");
+        m_e = v3b.Studies.determineColor(g7W.outputs[o7R]);
+        z2O = a1Z[o7R];
+        for (N8G = 0; N8G < z2O.length; ++N8G) {
+          t2$ = "so";
+          t2$ += "l";
+          t2$ += "i";
+          t2$ += "d";
+          X6D = z2O[N8G];
+          y_u = S7b.pixelFromPrice(X6D, D$2, I1Z);
+          if (y_u <= D$2.top || y_u >= D$2.yAxis.bottom) continue;
+          z49 = v7O
+            ? {
+                pattern:
+                  U6c.borderStyle != "none" ? U6c.borderStyle || t2$ : "solid",
+                lineWidth: parseFloat(U6c.borderWidth) || 1,
+                opacity: parseFloat(U6c.opacity) || 1,
+                yAxis: I1Z,
+              }
+            : {
+                pattern:
+                  i5S.borderStyle != "none"
+                    ? i5S.borderStyle || "dashed"
+                    : "dashed",
+                lineWidth: parseFloat(i5S.borderWidth) || "1" >> 0,
+                opacity: parseFloat(i5S.opacity) || "1" << 32,
+                yAxis: I1Z,
+              };
+          S7b.plotLine(
+            D$2.left,
+            D$2.right,
+            y_u,
+            y_u,
+            m_e,
+            "line",
+            z0W,
+            D$2,
+            z49,
+          );
+          if (C7M === "yaxis") {
+            S7b.createYAxisLabel(
+              D$2,
+              S7b.formatYAxisPrice(X6D, D$2),
+              y_u,
+              m_e,
+              null,
+              z0W,
+              I1Z,
+            );
+            continue;
+          }
+          y_u += Math.floor(z49.lineWidth / ("2" ^ 0));
+          if (y_u + x$d >= D$2.yAxis.bottom) continue;
+          I_A =
+            (v7O ? O8Z[S8Y] + ": " : o7R[0] + "\u03C3: ") +
+            S7b.formatYAxisPrice(X6D, D$2);
+          W8R = z0W.measureText(I_A).width;
+          O7b = D$2.right - W8R - f6l;
+          if (I1Z && I1Z.position == "left") {
+            O7b = D$2.left + f6l;
+          }
+          y8k.V84(188);
+          z0W.strokeText(I_A, O7b, y8k.o6M(2, 0.5, y_u, x$d));
+        }
+      }
+    };
+    v3b.Studies.studyLibrary = v3b.extend(v3b.Studies.studyLibrary, {
+      "val lines": {
+        name: "Valuation Lines",
+        calculateFN: function () {},
+        seriesFN: function (O$j, A5A, I1N) {
+          v3b.Studies.calculateValuationLines(O$j, A5A, I1N);
+          v3b.Studies.displayValuationLines(O$j, A5A);
+        },
+        overlay: !0,
+        yAxisFN: function () {},
+        inputs: {
+          Field: P5w,
+          "Average Type": ["mean", "median", "harmonic"],
+          "Display Average": !![],
+          "Display 1 Standard Deviation (1\u03C3)": ![],
+          "Display 2 Standard Deviation (2\u03C3)": !!0,
+          "Display 3 Standard Deviation (3\u03C3)": ![],
+        },
+        outputs: {
+          Average: "#00afed",
+          "1 Standard Deviation (1\u03C3)": "#e1e1e1",
+          "2 Standard Deviation (2\u03C3)": T$S,
+          "3 Standard Deviation (3\u03C3)": "#fff69e",
+        },
+      },
+    });
+  }
+};
+u8 = (P16) => {
+  var b0I, m0R, t5l, Z8U, z$g;
+  b0I = typeof _CIQ !== "undefined" ? _CIQ : P16.CIQ;
+  if (!b0I.Studies) {
+    m0R = "volatilityIndex feature requires first activating st";
+    m0R += "u";
+    m0R += "dies feature.";
+    console.error(m0R);
+  } else {
+    t5l = "aut";
+    t5l += "o";
+    Z8U = "0 to";
+    Z8U += " 100";
+    z$g = "Relat";
+    z$g += "ive Vo";
+    z$g += "latili";
+    z$g += "ty";
+    b0I.Studies.calculateRelativeVolatility = function (x$p, C7w) {
+      var x6Q = u7J6i;
+      var P5Z,
+        U5z,
+        J7S,
+        I3$,
+        a4P,
+        E_L,
+        y3J,
+        b6r,
+        A8a,
+        F2q,
+        j5b,
+        J2D,
+        q9t,
+        X3S,
+        g8Y;
+      function P$2(s2g, B7R) {
+        if (s2g + B7R === "0" >> 0) {
+          return 100;
+        }
+        x6Q.K2h(157);
+        return x6Q.F4O(100, s2g, B7R, s2g);
+      }
+      P5Z = "R";
+      P5Z += "el ";
+      P5Z += "V";
+      P5Z += "ol";
+      C7w.days = Number(C7w.inputs["Smoothing Period"]);
+      U5z = Number(C7w.inputs["STD Period"]);
+      J7S = C7w.chart.scrubbed;
+      if (J7S.length < C7w.days + U5z) {
+        C7w.error = !0;
+        return;
+      }
+      I3$ = C7w.inputs.Field;
+      if (!I3$ || I3$ == "field") {
+        I3$ = "Close";
+      }
+      C7w.std = new b0I.Studies.StudyDescriptor(C7w.name, "sdev", C7w.panel);
+      C7w.std.chart = C7w.chart;
+      C7w.std.days = U5z;
+      a4P = 2036171061;
+      E_L = -831515377;
+      y3J = 2;
+      x6Q.R4I();
+      for (
+        var i7U = +"1";
+        x6Q.S6r(i7U.toString(), i7U.toString().length, 90323) !== a4P;
+        i7U++
+      ) {
+        C7w.std.startFrom = C7w.startFrom;
+        C7w.std.inputs = { Field: I3$, "Standard Deviations": 1, Type: "ma" };
+        y3J += 2;
+      }
+      if (x6Q.o0D(y3J.toString(), y3J.toString().length, 42785) !== E_L) {
+        C7w.std.startFrom = C7w.startFrom;
+        C7w.std.inputs = { Field: I3$, "Standard Deviations": 6, Type: "ma" };
+      }
+      C7w.std.outputs = { _STD: null };
+      b0I.Studies.calculateStandardDeviation(x$p, C7w.std);
+      b6r = 0;
+      A8a = 0;
+      if (C7w.startFrom > 1) {
+        b6r = J7S[C7w.startFrom - 1]["_avgG " + C7w.name] || 0;
+        A8a = J7S[C7w.startFrom - 1]["_avgL " + C7w.name] || 0;
+      }
+      for (
+        var P7B = Math.max(C7w.startFrom, C7w.days);
+        P7B < J7S.length;
+        P7B++
+      ) {
+        F2q = "_";
+        F2q += "avgG";
+        F2q += " ";
+        j5b = "_";
+        j5b += "ST";
+        j5b += "D";
+        j5b += " ";
+        J2D = J7S[P7B];
+        x6Q.V84(4);
+        q9t = J7S[x6Q.F4O(P7B, 1)];
+        X3S = b0I.Studies.getQuoteFieldValue(J2D, I3$);
+        g8Y = b0I.Studies.getQuoteFieldValue(q9t, I3$);
+        if (X3S === null || g8Y === null) continue;
+        if (!J2D[j5b + C7w.name] && J2D["_STD " + C7w.name] !== 0) continue;
+        if (X3S > g8Y) {
+          x6Q.V84(80);
+          var u5q = x6Q.F4O(0, 6, 5, 19, 19);
+          b6r = (b6r * (C7w.days - u5q) + J2D["_STD " + C7w.name]) / C7w.days;
+          x6Q.V84(82);
+          var W35 = x6Q.F4O(8, 3, 3, 1);
+          A8a = (A8a * (C7w.days - W35)) / C7w.days;
+        } else {
+          x6Q.K2h(19);
+          var y1F = x6Q.F4O(4, 4, 5, 5);
+          A8a = (A8a * (C7w.days - y1F) + J2D["_STD " + C7w.name]) / C7w.days;
+          x6Q.V84(40);
+          var I2k = x6Q.o6M(4, 6, 10, 59, 4);
+          b6r = (b6r * (C7w.days - I2k)) / C7w.days;
+        }
+        J2D["Rel Vol " + C7w.name] = P$2(b6r, A8a);
+        J2D[F2q + C7w.name] = b6r;
+        J2D["_avgL " + C7w.name] = A8a;
+      }
+      C7w.zoneOutput = P5Z;
+    };
+    b0I.Studies.calculateHistoricalVolatility = function (S1T, P7I) {
+      var C04 = u7J6i;
+      var y9H, P1q, t39, X4I, Z4B, y6z, P98, O5T, r8o, c0O;
+      y9H = "Day";
+      y9H += "s Per Yea";
+      y9H += "r";
+      P1q = P7I.chart.scrubbed;
+      function x2E(M2G) {
+        var H2i;
+        H2i = "mont";
+        H2i += "h";
+        if (isNaN(M2G)) {
+          M2G = 365;
+        }
+        if (S1T.layout.interval == "day") {
+          return M2G;
+        } else if (S1T.layout.interval == "week") {
+          return 52;
+        } else if (S1T.layout.interval == H2i) {
+          return 12;
+        }
+        return M2G;
+      }
+      if (P1q.length < P7I.days + +"1") {
+        P7I.error = !"";
+        return;
+      }
+      t39 = P7I.inputs.Field;
+      if (!t39 || t39 == "field") {
+        t39 = "Close";
+      }
+      X4I = P7I.inputs["Standard Deviations"];
+      if (X4I < +"0") {
+        X4I = +"1";
+      }
+      C04.V84(64);
+      var C_W = C04.F4O(17, 12, 99, 29);
+      Z4B = C_W * Math.sqrt(x2E(P7I.inputs[y9H])) * X4I;
+      y6z = [];
+      P98 = 0;
+      if (P7I.startFrom > 1) {
+        C04.V84(4);
+        var v7F = C04.F4O(17, 16);
+        P98 = P1q[P7I.startFrom - v7F]["_state " + P7I.name][+"0"];
+        y6z = P1q[P7I.startFrom - 1]["_state " + P7I.name]["1" ^ 0].slice();
+      }
+      for (var p34 = Math.max(1, P7I.startFrom); p34 < P1q.length; p34++) {
+        O5T = b0I.Studies.getQuoteFieldValue(P1q[p34 - 1], t39);
+        if (O5T) {
+          r8o = Math.log(b0I.Studies.getQuoteFieldValue(P1q[p34], t39) / O5T);
+          y6z.push(r8o);
+          P98 += r8o;
+          if (p34 >= P7I.days) {
+            c0O = +"0";
+            P98 /= P7I.days;
+            for (var V9Z = 0; V9Z < y6z.length; V9Z++) {
+              c0O += Math.pow(y6z[V9Z] - P98, 2);
+            }
+            P98 *= P7I.days;
+            P98 -= y6z.shift();
+            P1q[p34]["Result " + P7I.name] = Math.sqrt(c0O / P7I.days) * Z4B;
+          }
+        }
+        P1q[p34]["_state " + P7I.name] = [P98, y6z.slice()];
+      }
+    };
+    b0I.Studies.studyLibrary = b0I.extend(b0I.Studies.studyLibrary, {
+      "Hist Vol": {
+        name: "Historical Volatility",
+        calculateFN: b0I.Studies.calculateHistoricalVolatility,
+        inputs: {
+          Period: "10" - 0,
+          Field: "field",
+          "Days Per Year": [252, 365],
+          "Standard Deviations": 1,
+        },
+        attributes: { "Standard Deviations": { min: 0.1, step: 0.1 } },
+      },
+      "Rel Vol": {
+        name: z$g,
+        range: Z8U,
+        calculateFN: b0I.Studies.calculateRelativeVolatility,
+        inputs: { Field: "field", "STD Period": 10, "Smoothing Period": 14 },
+        outputs: { "Rel Vol": "auto" },
+        centerline: 50,
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !"",
+            studyOverBoughtValue: 70,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: 30,
+            studyOverSoldColor: t5l,
+          },
+        },
+      },
+    });
+  }
+};
+Y$ = (G6s) => {
+  var i_n = u7J6i;
+  var I3u, m69;
+  I3u = "und";
+  i_n.p24();
+  I3u += "efined";
+  m69 = typeof _CIQ !== I3u ? _CIQ : G6s.CIQ;
+  if (!m69.Studies) {
+    console.error(
+      "volumeProfile feature requires first activating studies feature.",
+    );
+  } else {
+    m69.Studies.displayVolumeProfile = function (b$x, M6r, J_A) {
+      var c4l,
+        b9i,
+        w$v,
+        p2Q,
+        R4N,
+        e9C,
+        Q4M,
+        P0K,
+        e1$,
+        J8d,
+        z7n,
+        D_2,
+        j9x,
+        L46,
+        J_0,
+        Q6$,
+        Y81,
+        K5W,
+        P9H,
+        k8f,
+        r$z;
+      if (!b$x || !b$x.chart.dataSet) {
+        return;
+      }
+      c4l = "stx_volume_profile";
+      b9i = "stx";
+      b9i += "-float-da";
+      b9i += "te";
+      w$v = M6r.getContext(b$x);
+      var { chart: n1u } = b$x;
+      var { panel: A_Z } = n1u;
+      var { yAxis: n6Z } = A_Z;
+      var { flipped: C5c } = n6Z;
+      var { highValue: x5i, lowValue: l5s } = n1u;
+      var {
+        displayBorder: Y6F = M6r.inputs["Display Border"],
+        displayVolume: s70 = M6r.inputs["Display Volume"],
+        widthPercentage: D0n = M6r.inputs["Width Percentage"],
+        numberBars: B2w = M6r.inputs["Price Buckets"],
+      } = M6r.parameters;
+      if (Y6F !== !!0) {
+        Y6F = !!"1";
+      }
+      if (s70 !== !!{}) {
+        s70 = ![];
+      }
+      if (!D0n || D0n < +"0") {
+        D0n = 0.25;
+      }
+      if (!B2w || B2w < 0) {
+        B2w = 30;
+      }
+      B2w = Math.ceil(B2w);
+      i_n.V84(33);
+      p2Q = i_n.F4O(B2w, l5s, x5i);
+      if (p2Q === +"0") {
+        return;
+      }
+      function m$Y(n$u) {
+        var X3u,
+          S3B,
+          V2w,
+          I7Z,
+          I_T,
+          i59,
+          N8j,
+          h7Z,
+          O90,
+          J1c,
+          p2a,
+          B9X,
+          m3L,
+          z0o,
+          D5j,
+          i8q;
+        b$x.canvasColor(c4l);
+        w$v.beginPath();
+        X3u = (h1M) => {
+          return Math.round(h1M);
+        };
+        S3B = (J4V) => {
+          return X3u(b$x.pixelFromTransformedValue(J4V));
+        };
+        V2w = X3u(n1u.width * D0n);
+        I7Z = X3u(n1u.right) - 2.5;
+        I_T = I7Z;
+        var [D65] = R4N[0];
+        for (var p_B = "1" | 1; p_B < R4N.length; p_B++) {
+          var [H$e, z4k] = R4N[p_B];
+          if (z4k) {
+            i_n.K2h(111);
+            i59 = i_n.F4O(V2w, Q4M, z4k);
+            N8j = X3u(I7Z - i59) + (n$u ? -0.5 : 0);
+            i_n.K2h(183);
+            var T8Q = i_n.F4O(11, 1, 15, 269, 7);
+            h7Z = S3B(H$e) + (n$u ? 0.5 : T8Q);
+            O90 = S3B(D65) + (n$u ? +"0.5" : 0);
+            J1c = Math.max(h7Z, n6Z.top);
+            p2a = Math.min(O90, n6Z.bottom);
+            B9X = J1c <= n6Z.bottom && p2a >= n6Z.top;
+            if (B9X) {
+              w$v.moveTo(I7Z, p2a);
+              w$v.lineTo(I7Z, J1c);
+              w$v.lineTo(N8j, J1c);
+              w$v.lineTo(N8j, p2a);
+              if (n$u) {
+                if (p_B == 1 || I_T > N8j) {
+                  w$v.lineTo(I_T, p2a);
+                }
+              } else {
+                w$v.lineTo(I7Z, p2a);
+                if (s70) {
+                  m3L = m69.condenseInt(z4k);
+                  i_n.V84(4);
+                  z0o = i_n.F4O(p2a, J1c);
+                  if (P9H <= z0o - 2) {
+                    D5j = void 0;
+                    try {
+                      ({ width: D5j } = w$v.measureText(m3L));
+                    } catch (i$0) {
+                      D5j = 0;
+                    }
+                    w$v.textBaseline = "top";
+                    i8q = w$v.fillStyle;
+                    w$v.fillStyle = k8f;
+                    i_n.K2h(28);
+                    w$v.fillText(
+                      m3L,
+                      i_n.o6M(D5j, N8j, 3),
+                      i_n.F4O(2, P9H, 2, J1c, z0o, i_n.K2h(189)),
+                    );
+                    w$v.fillStyle = i8q;
+                  }
+                }
+              }
+            }
+            I_T = N8j;
+          } else {
+            I_T = I7Z;
+          }
+          D65 = H$e;
+        }
+        if (!M6r.highlight && b$x.highlightedDraggable) {
+          w$v.globalAlpha *= 0.3;
+        }
+        i_n.R4I();
+        if (!n$u) {
+          w$v.fill();
+        }
+        w$v.strokeStyle = k8f;
+        if (n$u) {
+          w$v.stroke();
+        }
+        w$v.closePath();
+      }
+      R4N = [];
+      if (C5c) {
+        [x5i, l5s] = [l5s, x5i];
+      }
+      e9C = C5c ? -1 : "1" * 1;
+      for (var s59 = l5s, I$R = +"0"; I$R <= B2w; s59 += p2Q * e9C, I$R++) {
+        R4N.push([s59, 0]);
+      }
+      Q4M = 0;
+      for (var l3b = 0; l3b < J_A.length; l3b++) {
+        P0K = J_A[l3b];
+        if (P0K === null) continue;
+        var { Volume: u6Q } = P0K;
+        if (!u6Q) continue;
+        e1$ = b$x.getTransformedQuote(P0K, n6Z);
+        var { High: c_S, Low: B_$ } = e1$ || P0K;
+        J8d = [];
+        z7n = R4N[0][0];
+        D_2 = null;
+        for (var v_e = 1; v_e < R4N.length; v_e++) {
+          i_n.K2h(7);
+          D_2 = R4N[v_e][i_n.F4O(32, "0")];
+          j9x = B_$ >= z7n && B_$ <= D_2;
+          L46 = c_S >= z7n && c_S <= D_2;
+          J_0 = B_$ < z7n && c_S > D_2;
+          if (j9x || L46 || J_0) {
+            J8d.push(v_e);
+          }
+          z7n = D_2;
+        }
+        if (J8d.length) {
+          Q6$ = u6Q / J8d.length;
+          for (var d1Z = 0; d1Z < J8d.length; d1Z++) {
+            Y81 = R4N[J8d[d1Z]][1] += Q6$;
+            if (Y81 > Q4M) {
+              Q4M = Y81;
+            }
+          }
+        }
+      }
+      if (Q4M === +"0") {
+        K5W = "cha";
+        K5W += "rt";
+        b$x.displayErrorAsWatermark(
+          K5W,
+          b$x.translateIf("Not enough data to render the Volume Profile"),
+        );
+        return;
+      }
+      b$x.setStyle(
+        c4l,
+        "color",
+        m69.Studies.determineColor(M6r.outputs["Bars Color"]),
+      );
+      P9H = b$x.getCanvasFontSize(b9i);
+      k8f = b$x.canvasStyle(c4l).borderTopColor;
+      r$z = Y6F && !m69.isTransparent(k8f);
+      b$x.canvasFont(b9i, w$v);
+      m$Y();
+      if (r$z) {
+        m$Y(!!{});
+      }
+      w$v.globalAlpha = 1;
+    };
+    m69.Studies.studyLibrary = m69.extend(m69.Studies.studyLibrary, {
+      "vol profile": {
+        name: "Volume Profile",
+        underlay: !![],
+        seriesFN: m69.Studies.displayVolumeProfile,
+        calculateFN: null,
+        inputs: {
+          "Display Border": !!{},
+          "Display Volume": !{},
+          "Price Buckets": "30" >> 0,
+          "Width Percentage": "0.25" * 1,
+        },
+        outputs: { "Bars Color": "#b64a96" },
+        customRemoval: !![],
+        attributes: {
+          yaxisDisplayValue: { hidden: !!{} },
+          panelName: { hidden: !!"1" },
+          flippedEnabled: { hidden: !![] },
+        },
+      },
+    });
+  }
+};
+o0 = (N8T) => {
+  var x7A, A4P, f4j, F5H;
+  x7A = typeof _CIQ !== "undefined" ? _CIQ : N8T.CIQ;
+  if (!x7A.Studies) {
+    console.error(
+      "volumeStudies feature requires first activating studies feature.",
+    );
+  } else {
+    A4P = "Volum";
+    A4P += "e Und";
+    A4P += "erl";
+    A4P += "ay";
+    f4j = "Pos";
+    f4j += "itive Volume In";
+    f4j += "dex";
+    F5H = "aut";
+    F5H += "o";
+    x7A.Studies.calculateOnBalanceVolume = function (o51, m7A) {
+      var j$9 = u7J6i;
+      var p_4, B1I, A0I, W0J, K4V, s5l, l$5, c0C, D4J, e3i, i6O;
+      p_4 = m7A.inputs.Field;
+      if (!p_4 || p_4 == "field") {
+        p_4 = "Close";
+      }
+      B1I = m7A.inputs["Min Tick Value"];
+      A0I = !!0;
+      if (!B1I && B1I !== ("0" ^ 0)) {
+        A0I = !!{};
+        B1I = 0;
+      }
+      j$9.R4I();
+      W0J = m7A.chart.scrubbed;
+      K4V = 0;
+      for (var X99 = m7A.startFrom; X99 < W0J.length; X99++) {
+        s5l = W0J[X99];
+        c0C = x7A.Studies.getQuoteFieldValue(s5l, p_4);
+        if (!X99 || !c0C) continue;
+        if (W0J[X99 - 1][p_4]) {
+          j$9.K2h(4);
+          l$5 = W0J[j$9.o6M(X99, 1)];
+        }
+        if (!l$5) continue;
+        D4J = x7A.Studies.getQuoteFieldValue(l$5, p_4);
+        if (c0C - D4J > B1I) {
+          K4V = +"1";
+        } else if (D4J - c0C > B1I) {
+          K4V = -+"1";
+        } else if (A0I) {
+          K4V = 0;
+        }
+        e3i = l$5["Result " + m7A.name];
+        if (!e3i) {
+          j$9.V84(0);
+          e3i = j$9.o6M(0, "0");
+        }
+        i6O = s5l.Volume;
+        if (typeof s5l[p_4] === "object") {
+          i6O = s5l[p_4].Volume;
+        }
+        j$9.V84(3);
+        e3i += j$9.F4O(i6O, K4V);
+        s5l["Result " + m7A.name] = e3i;
+      }
+    };
+    x7A.Studies.calculatePriceVolumeTrend = function (b94, C8H) {
+      var g8B = u7J6i;
+      var H6C, u6f, n7Q, x9L, L32, G2E;
+      H6C = "C";
+      H6C += "l";
+      H6C += "o";
+      H6C += "se";
+      u6f = C8H.inputs.Field;
+      if (!u6f || u6f == "field") {
+        u6f = H6C;
+      }
+      n7Q = C8H.chart.scrubbed;
+      g8B.V84(7);
+      x9L = g8B.F4O(32, "0");
+      if (C8H.startFrom > 1) {
+        g8B.V84(79);
+        var x$L = g8B.o6M(8, 8, 0);
+        x9L = n7Q[C8H.startFrom - x$L]["Result " + C8H.name];
+      }
+      for (var D3l = Math.max(1, C8H.startFrom); D3l < n7Q.length; D3l++) {
+        L32 = x7A.Studies.getQuoteFieldValue(n7Q[D3l], u6f);
+        G2E = x7A.Studies.getQuoteFieldValue(n7Q[D3l - 1], u6f);
+        if (L32 === null || G2E === null) continue;
+        x9L += (n7Q[D3l].Volume * (L32 - G2E)) / G2E;
+        n7Q[D3l]["Result " + C8H.name] = x9L;
+      }
+    };
+    x7A.Studies.calculateVolumeIndex = function (O5b, E5W) {
+      var H6$ = u7J6i;
+      var i_7,
+        t1F,
+        V2$,
+        N2O,
+        g7O,
+        E82,
+        H_2,
+        r4F,
+        w7Y,
+        w1E,
+        Z3v,
+        n3W,
+        w3a,
+        m6c,
+        j5G,
+        M9r,
+        P_5;
+      i_7 = "Moving Av";
+      H6$.p24();
+      i_7 += "e";
+      i_7 += "rage Ty";
+      i_7 += "pe";
+      t1F = E5W.inputs.Field;
+      if (!t1F || t1F == "field") {
+        t1F = "Close";
+      }
+      V2$ = E5W.chart.scrubbed;
+      if (V2$.length < E5W.days + 1) {
+        E5W.error = !!1;
+        return;
+      }
+      N2O = 100;
+      if (E5W.startFrom > ("1" | 0)) {
+        N2O = V2$[E5W.startFrom - ("1" ^ 0)]["Index " + E5W.name];
+      }
+      for (var y2v = Math.max(1, E5W.startFrom); y2v < V2$.length; y2v++) {
+        g7O = "Pos Vo";
+        g7O += "l";
+        E82 = "objec";
+        E82 += "t";
+        H_2 = V2$[y2v][t1F];
+        r4F = V2$[y2v].Volume;
+        if (H_2 && typeof H_2 == "object") {
+          r4F = H_2.Volume;
+          H_2 = H_2[E5W.subField];
+        }
+        H6$.K2h(4);
+        w7Y = V2$[H6$.F4O(y2v, 1)][t1F];
+        w1E = V2$[y2v - +"1"].Volume;
+        if (w7Y && typeof w7Y == E82) {
+          w1E = w7Y.Volume;
+          w7Y = w7Y[E5W.subField];
+        }
+        if (!H_2) continue;
+        if (!w7Y) continue;
+        if (
+          (E5W.type == g7O && r4F > w1E) ||
+          (E5W.type == "Neg Vol" && r4F < w1E)
+        ) {
+          H6$.V84(12);
+          N2O *= H6$.o6M(w7Y, H_2);
+        }
+        V2$[y2v]["Index " + E5W.name] = N2O;
+      }
+      Z3v = -1347016583;
+      n3W = -+"880916822";
+      w3a = 2;
+      for (
+        var R5a = 1;
+        H6$.o0D(R5a.toString(), R5a.toString().length, 90823) !== Z3v;
+        R5a++
+      ) {
+        m6c = "I";
+        m6c += "nde";
+        m6c += "x";
+        m6c += " ";
+        x7A.Studies.MA(
+          E5W.inputs["Moving Average Type"],
+          E5W.days,
+          m6c / E5W.name,
+          9,
+          "Index ",
+          O5b,
+          E5W,
+        );
+        w3a += 2;
+      }
+      if (H6$.S6r(w3a.toString(), w3a.toString().length, 69581) !== n3W) {
+        j5G = "I";
+        j5G += "ndex ";
+        M9r = "In";
+        M9r += "dex";
+        M9r += " ";
+        P_5 = "M";
+        P_5 += "oving";
+        P_5 += " Average ";
+        P_5 += "Type";
+        x7A.Studies.MA(
+          E5W.inputs[P_5],
+          E5W.days,
+          M9r / E5W.name,
+          9,
+          j5G,
+          O5b,
+          E5W,
+        );
+      }
+      x7A.Studies.MA(
+        E5W.inputs[i_7],
+        E5W.days,
+        "Index " + E5W.name,
+        0,
+        "MA",
+        O5b,
+        E5W,
+      );
+    };
+    x7A.Studies.studyLibrary = x7A.extend(x7A.Studies.studyLibrary, {
+      "Neg Vol": {
+        name: "Negative Volume Index",
+        calculateFN: x7A.Studies.calculateVolumeIndex,
+        inputs: { Period: 255, Field: "field", "Moving Average Type": "ma" },
+        outputs: { Index: F5H, MA: "#FF0000" },
+      },
+      "On Bal Vol": {
+        name: "On Balance Volume",
+        calculateFN: x7A.Studies.calculateOnBalanceVolume,
+        inputs: {},
+      },
+      "Pos Vol": {
+        name: f4j,
+        calculateFN: x7A.Studies.calculateVolumeIndex,
+        inputs: { Period: 255, Field: "field", "Moving Average Type": "ma" },
+        outputs: { Index: "auto", MA: "#FF0000" },
+      },
+      "Price Vol": {
+        name: "Price Volume Trend",
+        calculateFN: x7A.Studies.calculatePriceVolumeTrend,
+        inputs: { Field: "field" },
+      },
+      "Trade Vol": {
+        name: "Trade Volume Index",
+        calculateFN: x7A.Studies.calculateOnBalanceVolume,
+        inputs: { "Min Tick Value": 0.5 },
+      },
+      "Vol ROC": {
+        name: "Volume Rate of Change",
+        calculateFN: function (F54, V1A) {
+          u7J6i.p24();
+          if (x7A.Studies.calculateRateOfChange) {
+            x7A.Studies.calculateRateOfChange(F54, V1A);
+          } else {
+            console.error(
+              "Volume Rate of Change study requires first activating momentum feature.",
+            );
+            x7A.Studies.calculateRateOfChange = function (R2q, U2t) {};
+          }
+        },
+        parameters: { init: { isVolume: !![] } },
+      },
+      "vol undr": {
+        name: A4P,
+        underlay: !0,
+        range: "0 to max",
+        yAxis: {
+          ground: !!{},
+          initialMarginTop: 0,
+          position: "none",
+          heightFactor: +"0.25",
+        },
+        seriesFN: x7A.Studies.createVolumeChart,
+        calculateFN: x7A.Studies.calculateVolume,
+        inputs: { Series: "series" },
+        attributes: {
+          Series: {
+            hidden: function (z4z) {
+              u7J6i.R4I();
+              return !Object.keys(z4z.chart.series).length;
+            },
+          },
+        },
+        outputs: { "Up Volume": "#8cc176", "Down Volume": "#b82c0c" },
+        removeFN: function (s40, u1x) {
+          u7J6i.R4I();
+          s40.layout.volumeUnderlay = !"1";
+          s40.changeOccurred("layout");
+        },
+      },
+    });
+  }
+};
+r6 = (B3S) => {
+  var B8J = u7J6i;
+  var f2h, W3l, l35;
+  B8J.p24();
+  f2h = typeof _CIQ !== "undefined" ? _CIQ : B3S.CIQ;
+  if (!f2h.Studies) {
+    console.error("vortex feature requires first activating studies feature.");
+  } else {
+    W3l = "0.";
+    W3l += "0";
+    W3l += "1";
+    l35 = "a";
+    l35 += "u";
+    l35 += "to";
+    f2h.Studies.calculateVortex = function (m2L, k1g) {
+      var S8W, i3T, w$G, x1e, e1v, z68, d4g, Q1L, R6Y, b_r, c_y, Q6Z;
+      S8W = k1g.chart.scrubbed;
+      i3T = k1g.days;
+      if (S8W.length < i3T + 1) {
+        k1g.error = !![];
+        return;
+      }
+      w$G = { tr: 0, vmPlus: 0, vmMinus: 0 };
+      if (k1g.startFrom > "1" - 0) {
+        w$G = f2h.clone(S8W[k1g.startFrom - 1]["_totals " + k1g.name]);
+      }
+      for (var S3p = Math.max(k1g.startFrom, 1); S3p < S8W.length; S3p++) {
+        x1e = "_total";
+        x1e += "s ";
+        e1v = "_VMMi";
+        e1v += "nus";
+        e1v += " ";
+        z68 = "_VM";
+        z68 += "Plu";
+        z68 += "s";
+        z68 += " ";
+        d4g = S8W[S3p];
+        B8J.K2h(4);
+        Q1L = S8W[B8J.o6M(S3p, 1)];
+        R6Y = Math.abs(d4g.High - Q1L.Low);
+        b_r = Math.abs(d4g.Low - Q1L.High);
+        c_y = Math.max(d4g.High, Q1L.Close) - Math.min(d4g.Low, Q1L.Close);
+        w$G.tr += c_y;
+        w$G.vmPlus += R6Y;
+        w$G.vmMinus += b_r;
+        if (S3p > i3T) {
+          B8J.V84(4);
+          w$G.tr -= S8W[B8J.F4O(S3p, i3T)]["_True Range " + k1g.name];
+          B8J.V84(4);
+          w$G.vmPlus -= S8W[B8J.o6M(S3p, i3T)]["_VMPlus " + k1g.name];
+          B8J.K2h(4);
+          w$G.vmMinus -= S8W[B8J.F4O(S3p, i3T)]["_VMMinus " + k1g.name];
+        }
+        d4g["_True Range " + k1g.name] = c_y;
+        d4g[z68 + k1g.name] = R6Y;
+        d4g[e1v + k1g.name] = b_r;
+        if (S3p >= i3T) {
+          Q6Z = "+";
+          Q6Z += "V";
+          Q6Z += "I";
+          Q6Z += " ";
+          d4g[Q6Z + k1g.name] = w$G.vmPlus / w$G.tr;
+          d4g["-VI " + k1g.name] = w$G.vmMinus / w$G.tr;
+        }
+        d4g[x1e + k1g.name] = f2h.clone(w$G);
+      }
+    };
+    f2h.Studies.studyLibrary = f2h.extend(f2h.Studies.studyLibrary, {
+      Vortex: {
+        name: "Vortex Indicator",
+        calculateFN: f2h.Studies.calculateVortex,
+        centerline: 1,
+        outputs: { "+VI": "#00FF00", "-VI": "#FF0000" },
+        parameters: {
+          init: {
+            studyOverZonesEnabled: !![],
+            studyOverBoughtValue: 1.1,
+            studyOverBoughtColor: "auto",
+            studyOverSoldValue: 0.9,
+            studyOverSoldColor: l35,
+          },
+        },
+        attributes: {
+          studyOverBoughtValue: { min: 1, step: "0.01" },
+          studyOverSoldValue: { max: 1, step: W3l },
+        },
+      },
+    });
+  }
+};
+i$ = (s_o) => {
+  var o2P = u7J6i;
+  var f3F, l5X, Q06, i3c;
+  f3F = "un";
+  f3F += "de";
+  f3F += "fined";
+  l5X = typeof _CIQ !== f3F ? _CIQ : s_o.CIQ;
+  o2P.p24();
+  if (!l5X.Studies) {
+    console.error(
+      "williamsMFI feature requires first activating studies feature.",
+    );
+  } else {
+    Q06 = "#5f7";
+    Q06 += "cb8";
+    i3c = "#8bc";
+    i3c += "176";
+    l5X.Studies.calculateMFI = function (u6d, c9W) {
+      var t7s, z20, g4T, U4n, J7b, M$U, y8$, f08;
+      t7s = "S";
+      t7s += "cal";
+      t7s += "e Factor";
+      z20 = "S";
+      z20 += "cal";
+      z20 += "e F";
+      z20 += "actor";
+      g4T = c9W.chart.scrubbed;
+      J7b = 0;
+      M$U = c9W.inputs[z20];
+      if (!M$U) {
+        M$U = c9W.study.inputs[t7s];
+      }
+      y8$ = Math.pow(10, Number(M$U));
+      if (c9W.startFrom > 1) {
+        o2P.K2h(190);
+        var I5l = o2P.F4O(1, 1, 9, 13, 5);
+        J7b = g4T[c9W.startFrom - I5l]["_high " + c9W.name];
+      }
+      for (f08 = c9W.startFrom; f08 < g4T.length; f08++) {
+        if (!g4T[f08]) continue;
+        if (g4T[f08].Volume) {
+          g4T[f08][c9W.name + "_hist"] = U4n =
+            (y8$ * (g4T[f08].High - g4T[f08].Low)) / g4T[f08].Volume;
+          g4T[f08]["_high " + c9W.name] = J7b = Math.max(J7b, U4n);
+        }
+      }
+      c9W.outputMap = {};
+      c9W.outputMap[c9W.name + "_hist"] = "";
+    };
+    l5X.Studies.displayMFI = function (J2v, i5W, e5V) {
+      var O$X, B1x, X$U, D7O, b1G, h7b, V5N, B1A, D_$, D7F, r1$, Q5V, K6R, g$S;
+      O$X = "stx_histog";
+      O$X += "ram";
+      B1x = J2v.panels[i5W.panel];
+      X$U = i5W.getContext(J2v);
+      D7O = i5W.getYAxis(J2v);
+      b1G = D7O.flipped ? D7O.top : D7O.bottom;
+      o2P.V84(191);
+      var B3K = o2P.o6M(34, 12, 12, 5722, 14);
+      h7b = J2v.layout.candleWidth - B3K;
+      if (h7b < 2) {
+        o2P.K2h(4);
+        h7b = o2P.o6M("1", 0);
+      }
+      V5N = l5X.Studies.determineColor(i5W.outputs.Green);
+      B1A = l5X.Studies.determineColor(i5W.outputs.Fade);
+      D_$ = l5X.Studies.determineColor(i5W.outputs.Fake);
+      D7F = l5X.Studies.determineColor(i5W.outputs.Squat);
+      J2v.canvasColor(O$X);
+      if (!i5W.underlay) {
+        X$U.globalAlpha = 1;
+      }
+      X$U.fillStyle = "#CCCCCC";
+      J2v.startClip(i5W.panel);
+      if (!i5W.highlight && J2v.highlightedDraggable) {
+        X$U.globalAlpha *= 0.3;
+      }
+      for (var T1o = 0; T1o < e5V.length; T1o++) {
+        r1$ = 0;
+        Q5V = e5V[T1o];
+        o2P.K2h(192);
+        K6R = e5V[o2P.o6M(T1o, 64, "1")];
+        if (!K6R) {
+          K6R = J2v.getPreviousBar(J2v.chart, i5W.name + "_hist", T1o);
+        }
+        if (!Q5V) continue;
+        if (J2v.cleanupGaps === "stretch") {
+          while (e5V[T1o + 1]) {
+            o2P.V84(102);
+            g$S = e5V[o2P.o6M(32, T1o, "1")][i5W.name + "_hist"];
+            if (g$S || g$S === +"0" || e5V[T1o + "1" * 1].futureTick) break;
+            r1$++;
+            T1o++;
+          }
+        }
+        if (!K6R || K6R[i5W.name + "_hist"] === undefined) {
+          K6R = J2v.getPreviousBar(J2v.chart, i5W.name + "_hist", T1o - r1$);
+        }
+        if (!K6R);
+        else if (K6R[i5W.name + "_hist"] < Q5V[i5W.name + "_hist"]) {
+          if (K6R.Volume < Q5V.Volume) {
+            X$U.fillStyle = V5N;
+          } else if (K6R.Volume > Q5V.Volume) {
+            X$U.fillStyle = D_$;
+          }
+        } else if (K6R[i5W.name + "_hist"] > Q5V[i5W.name + "_hist"]) {
+          if (K6R.Volume < Q5V.Volume) {
+            X$U.fillStyle = D7F;
+          } else if (K6R.Volume > Q5V.Volume) {
+            X$U.fillStyle = B1A;
+          }
+        }
+        if (Q5V.candleWidth) {
+          h7b = Math.floor(Math.max(1, Q5V.candleWidth - 2));
+        }
+        X$U.fillRect(
+          Math.floor(J2v.pixelFromBar(T1o - r1$, B1x.chart) - h7b / 2),
+          Math.floor(b1G),
+          Math.floor(h7b + r1$ * J2v.layout.candleWidth),
+          Math.floor(
+            J2v.pixelFromPrice(Q5V[i5W.name + "_hist"], B1x, D7O) - b1G,
+          ),
+        );
+      }
+      J2v.endClip();
+    };
+    l5X.Studies.studyLibrary = l5X.extend(l5X.Studies.studyLibrary, {
+      "W MFI": {
+        name: "Market Facilitation Index",
+        seriesFN: l5X.Studies.displayMFI,
+        calculateFN: l5X.Studies.calculateMFI,
+        yAxis: { ground: !"" },
+        range: "0 to max",
+        inputs: { "Scale Factor": 6 },
+        outputs: { Green: i3c, Fade: "#ab611f", Fake: Q06, Squat: "#ffd0cf" },
+      },
+    });
+  }
+};
+F6 = { CIQ: p8, SplinePlotter: g_, timezoneJS: Z$, $$: S7, $$$: C8 };
+export { K$ as aggregations };
+export { y_ as drawingAdvanced };
+export { D4 as equationsAdvanced };
+export { s5 as highPerformanceMarkers };
+export { Z2 as renderersAdvanced };
+export { J6 as typedefs };
+export { o8 as accumulationDistribution };
+export { Y9 as adx };
+export { u2 as alligator };
+export { b7 as aroon };
+export { O9 as atr };
+export { N8 as awesomeOscillator };
+export { X2 as balanceOfPower };
+export { j9 as bollinger };
+export { o_ as cci };
+export { o2 as centerOfGravity };
+export { l9 as chaikin };
+export { j7 as chande };
+export { G7 as choppiness };
+export { C$ as comparisonStudies };
+export { X0 as coppock };
+export { U2 as darvasBox };
+export { s0 as detrended };
+export { a8 as disparity };
+export { X9 as easeOfMovement };
+export { V_ as ehlerFisher };
+export { n4 as elder };
+export { F3 as fractalChaos };
+export { R4 as goNoGo };
+export { E8 as highLowStudies };
+export { G3 as ichimoku };
+export { V$ as intradayMomentum };
+export { C2 as keltner };
+export { N3 as klinger };
+export { c6 as linearRegression };
+export { m3 as macd };
+export { c8 as massIndex };
+export { k2 as moneyFlow };
+export { h_ as movingAverages };
+export { x6 as parabolicSAR };
+export { X6 as pivotPoints };
+export { o5 as prettyGoodOscillator };
+export { P7 as priceMomentumOscillator };
+export { U4 as priceVolumeOscillator };
+export { i3 as primeNumber };
+export { l2 as pring };
+export { L$ as projectedVolume };
+export { y9 as psychologicalLine };
+export { l5 as qstick };
+export { J3 as rainbow };
+export { V6 as randomWalk };
+export { Q1 as relativeVigor };
+export { B6 as rsi };
+export { b1 as schaffTrendCycle };
+export { E5 as shinohara };
+export { m4 as stochastics };
+export { g7 as supertrend };
+export { K3 as swingIndex };
+export { U7 as trendIntensity };
+export { m6 as trix };
+export { c_ as twiggsMoneyFlow };
+export { P3 as typicalPrice };
+export { h7 as ulcerIndex };
+export { D8 as ultimateOscillator };
+export { o6 as valuationLines };
+export { u8 as volatilityIndex };
+export { Y$ as volumeProfile };
+export { o0 as volumeStudies };
+export { r6 as vortex };
+export { i$ as williamsMFI };
+export {
+  p8 as CIQ,
+  g_ as SplinePlotter,
+  Z$ as timezoneJS,
+  S7 as $$,
+  C8 as $$$,
+};
+if (typeof __TREE_SHAKE__ === "undefined" || !__TREE_SHAKE__) {
+  F6.CIQ.activateImports(
+    K$,
+    y_,
+    D4,
+    s5,
+    Z2,
+    J6,
+    o8,
+    Y9,
+    u2,
+    b7,
+    O9,
+    N8,
+    X2,
+    j9,
+    o_,
+    o2,
+    l9,
+    j7,
+    G7,
+    C$,
+    X0,
+    U2,
+    s0,
+    a8,
+    X9,
+    V_,
+    n4,
+    F3,
+    R4,
+    E8,
+    G3,
+    V$,
+    C2,
+    N3,
+    c6,
+    m3,
+    c8,
+    k2,
+    h_,
+    x6,
+    X6,
+    o5,
+    P7,
+    U4,
+    i3,
+    l2,
+    L$,
+    y9,
+    l5,
+    J3,
+    V6,
+    Q1,
+    B6,
+    b1,
+    E5,
+    m4,
+    g7,
+    K3,
+    U7,
+    m6,
+    c_,
+    P3,
+    h7,
+    D8,
+    o6,
+    u8,
+    Y$,
+    o0,
+    r6,
+    i$,
+    null,
+  );
+} /* eslint-enable  */ /* jshint ignore:end   */ /* ignore jslint end   */

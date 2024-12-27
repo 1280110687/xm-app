@@ -11,7 +11,7 @@ export default (props) => {
   return (
     <>
       {/* <div className="chart-view-component">ChartView</div> */}
-      <iframe {...other} src="/chartiq-9.6.0/chartiq/helloworld.html" className={`chart-iq-component min-h-100px w-full border-none p-0 m-0 ${className}`}></iframe>
+      <iframe {...other} src="/chartiq_9_6/chartiq/index.html" className={`chart-iq-component min-h-100px w-full border-none p-0 m-0 ${className}`}></iframe>
     </>
   );
 };

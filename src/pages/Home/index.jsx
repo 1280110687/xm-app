@@ -11,8 +11,9 @@ import { useEffect } from 'react';
 
 export default () => {
   useMyfHook();
-  const [ visible, setVisible ] = useState(false);
-  const [ locaList, setLocaList ] = useState(JSON.parse(localStorage.getItem("LocaList")) || []);
+  const [form] = Form.useForm();
+  const [visible, setVisible] = useState(false);
+  const [locaList, setLocaList] = useState(JSON.parse(localStorage.getItem("LocaList")) || []);
   console.warn(locaList, "locaList");
 
   const list = [
@@ -36,9 +37,14 @@ export default () => {
   const formRender = () => {
     return (<>
       <Form
+        form={form}
         layout='horizontal'
         onFinish={onFinish}
         initialValues={{ num: 0 }}
+        onValuesChange={(changedFields, allFields) => {
+          const { conversion, ...params } = allFields;
+          console.warn(changedFields, allFields, "changedFields, allFields");
+        }}
         footer={
           <Button block type='submit' color='primary' size='large'>
             提交
@@ -49,7 +55,7 @@ export default () => {
         <Form.Item
           name='name'
           label='名称'
-          rules={[ { required: true, message: '名称不能为空' } ]}
+          rules={[{ required: true, message: '名称不能为空' }]}
         >
           <Input onChange={console.log} placeholder='请输入名称' />
         </Form.Item>
@@ -67,10 +73,10 @@ export default () => {
       </Form>
     </>)
   }
-  const itemTitleRender = (item) => {
+  const itemTitleRender = (index) => {
     return (<div className={`flex justify-between items-center pr-16px`}>
-      <div className={`text-16px text-black font-bold`}>{item.name}</div>
-      <div className={`text-12px text-gray-400`}>{item.num}</div>
+      <div className={`text-16px text-black font-bold`}>{locaList[index].name}</div>
+      <div className={`text-12px text-gray-400`}>{locaList[index].num}</div>
     </div>)
   }
 
@@ -81,12 +87,12 @@ export default () => {
     Toast.show(`删除 - ${item}`)
   }
   const onFinish = (values) => {
-    console.log(values);
     setLocaList((e) => {
-      const newList = [ ...e, values ];
+      const newList = [...e, values];
       localStorage.LocaList = JSON.stringify(newList);
       return newList
     });
+    setVisible(false);
   }
 
   useEffect(() => {
@@ -95,19 +101,19 @@ export default () => {
 
   return <div className="home-page">
     <List>
-      {locaList.map((item, index) => (
+      {locaList?.map((item, index) => (
         <List.Item key={index}>
           <MobileSwipeAction
             editCallBack={() => editCallBack(item)}
             deleteCallBack={() => deleteCallBack(item)}
             children={
               <Collapse accordion>
-                <Collapse.Panel key={index} title={itemTitleRender(item)}>
+                <Collapse.Panel key={index} title={itemTitleRender(index)}>
                   <Stepper
                     value={item.num}
                     onChange={value => {
                       setLocaList((e) => {
-                        e[ index ].num += 1
+                        e[index].num += 1
                         console.log(e)
                         localStorage.LocaList = JSON.stringify(e);
                         return e;

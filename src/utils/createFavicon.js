@@ -16,7 +16,7 @@ export const useCreateFavicon = () => {
         link.id = id;
         // link.href = url //SUrl() + initialState?.merchantConfig?.Favicon;
         link.href = `${url}?timestamp=${Date.now()}`;
-        const head = document.getElementsByTagName('head')[ 0 ];
+        const head = document.getElementsByTagName('head')[0];
         const favicon = document.getElementById(id);
         !favicon && head.appendChild(link);
     }
@@ -24,7 +24,7 @@ export const useCreateFavicon = () => {
         const meta = document.createElement('meta');
         meta.name = name;
         meta.content = content;
-        document.getElementsByTagName('head')[ 0 ].appendChild(meta);
+        document.getElementsByTagName('head')[0].appendChild(meta);
         return this
     };
     const doCreate = () => {
@@ -38,8 +38,9 @@ export const useCreateFavicon = () => {
             { 'mobile-web-app-capable': 'yes' }
         ]
             .reverse()
-            .forEach((res) => addMeta(Object.keys(res)[ 0 ], Object.values(res)[ 0 ]));
+            .forEach((res) => addMeta(Object.keys(res)[0], Object.values(res)[0]));
     }
+
 
     return {
         createFavicon,

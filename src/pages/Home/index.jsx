@@ -107,7 +107,7 @@ export default () => {
   }, []);
 
   return <div className="home-page">
-    <Button color="primary" size='large' onClick={() => goPath('bingo')}>🎲 Bingo</Button>
+    {/* <Button color="primary" size='large' onClick={() => goPath('bingo')}>🎲 Bingo</Button> */}
     <List>
       {locaList?.map((item, index) => (
         <List.Item key={index}>

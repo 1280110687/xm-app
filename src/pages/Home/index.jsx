@@ -8,9 +8,11 @@ import "./index.less";
 import useMyfHook from "./useHook.js";
 import MobileSwipeAction from '@/components/MobileSwipeAction';
 import { useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 export default () => {
   useMyfHook();
+  const navigate = useNavigate();
   const [form] = Form.useForm();
   const [visible, setVisible] = useState(false);
   const [locaList, setLocaList] = useState(JSON.parse(localStorage.getItem("LocaList")) || []);
@@ -33,6 +35,11 @@ export default () => {
       num: 1,
     },
   ]
+
+  const goPath = (path) => {
+    if (typeof path !== 'string' || !path) return;
+    navigate(path.startsWith('/') ? path : `/${path}`);
+  };
 
   const formRender = () => {
     return (<>
@@ -100,6 +107,7 @@ export default () => {
   }, []);
 
   return <div className="home-page">
+    <Button color="primary" size='large' onClick={() => goPath('bingo')}>🎲 Bingo</Button>
     <List>
       {locaList?.map((item, index) => (
         <List.Item key={index}>

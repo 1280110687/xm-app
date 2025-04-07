@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 
 import Layout from '@/layout';
 import Home from '@/pages/Home';
-import Letter from '@/pages/Letter';
+// import Letter from '@/pages/Letter';
 import Bingo from '@/pages/Bingo';
 
 // const Home = lazy(() => import('@/pages/Home'));
@@ -23,7 +23,7 @@ const AppRouter = () => {
             <Route path="/" element={<Layout />}>
                 <Route path="/" element={<Home />} />
                 <Route path="/home" element={<Home />} />
-                <Route path="/letter" element={<Letter />} />
+                {/* <Route path="/letter" element={<Letter />} /> */}
                 <Route path="/bingo" element={<Bingo />} />
             </Route>
             {/* 未匹配路由的重定向 */}

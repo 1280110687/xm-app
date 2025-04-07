@@ -4,7 +4,7 @@
 import React, { useEffect, lazy, useMemo } from 'react';
 import './index.less';
 import Home from '@/pages/Home';
-import Letter from '@/pages/Letter';
+import Letter from '@/pages/letter';
 import Bingo from '@/pages/Bingo';
 
 import { GetQueryString } from '@/utils';

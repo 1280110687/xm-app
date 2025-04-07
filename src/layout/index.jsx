@@ -8,6 +8,7 @@ export default () => {
 
   useLayoutEffect(() => {
     doCreate();
+    document.title = "XM"
   }, [])
 
   return (

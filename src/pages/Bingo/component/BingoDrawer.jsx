@@ -34,7 +34,7 @@ const BingoDrawer = () => {
         speakThaiNumber(newNumber);
         await Dialog.alert({
             content: <div className='flex justify-center items-center h-100px w-full'>
-                <div className='text-66px text-red-400 font-bold'>🎉 {newNumber}</div>
+                <div className='text-66px text-red-400 font-bold'>{newNumber}</div>
             </div>,
             confirmText: "",
             closeOnMaskClick: true,

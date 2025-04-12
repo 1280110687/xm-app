@@ -53,7 +53,7 @@ const BingoDrawer = () => {
         <div className="w-full h-full max-w-xl mx-auto p-4 text-center bg-[#121212] text-[#fafafa]">
             <h2 className="text-xl font-bold mb-4 text-left">🎲 Bingo</h2>
             <Space block direction="vertical" className="mb-4">
-                <Button color="primary" size='large' onClick={drawNumber}>🎲</Button>
+                <Button color="primary" className="w-100px h-100px" size='large' onClick={drawNumber}>🎲</Button>
             </Space>
 
             <div className="mt-6">

@@ -17,7 +17,7 @@ export default defineConfig({
       output: {
         manualChunks: {
           // 手动分包
-          vendor: [ 'react', 'react-dom' ]
+          vendor: ['react', 'react-dom']
         }
       }
     }

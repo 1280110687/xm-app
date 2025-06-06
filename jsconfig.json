@@ -1,19 +1,16 @@
 {
-    "compilerOptions": {
-        "baseUrl": ".", // 设置基础路径
-        "paths": {
-            "@/*": ["src/*"] // 定义路径别名，`@` 指向 `src`
-        },
-        "module": "ESNext",
-        "moduleResolution": "Bundler",
-        "target": "ES2022",
-        "jsx": "react",
-        "allowImportingTsExtensions": true,
-        "strictNullChecks": true,
-        "strictFunctionTypes": true
+  "compilerOptions": {
+    "baseUrl": ".", // 设置基础路径
+    "paths": {
+      "@/*": ["src/*"] // 定义路径别名，`@` 指向 `src`
     },
-    "exclude": [
-        "node_modules",
-        "**/node_modules/*"
-    ]
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "target": "ES2022",
+    "jsx": "react",
+    "allowImportingTsExtensions": true,
+    "strictNullChecks": true,
+    "strictFunctionTypes": true
+  },
+  "exclude": ["node_modules", "**/node_modules/*"]
 }

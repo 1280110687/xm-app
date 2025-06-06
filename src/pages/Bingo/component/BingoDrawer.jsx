@@ -1,13 +1,27 @@
-import React, { useMemo } from 'react';
+import React, { useMemo, useState } from 'react';
 import { useAtom } from 'jotai';
-import { Button, Space, Dialog } from 'antd-mobile';
-import { RedoOutline, FileOutline } from 'antd-mobile-icons'
+import {
+    Form,
+    Input,
+    Button,
+    Space,
+    Dialog,
+    Popup,
+    TextArea,
+    DatePicker,
+    Selector,
+    Slider,
+    Stepper,
+    Switch,
+} from 'antd-mobile';
+import { RedoOutline, FileOutline, SetOutline } from 'antd-mobile-icons'
 import { drawnNumbersAtom } from '@/atoms/bingoAtom';
 
 const ALL_NUMBERS = Array.from({ length: 75 }, (_, i) => i + 1);
 
 const BingoDrawer = () => {
     const [drawnNumbers, setDrawnNumbers] = useAtom(drawnNumbersAtom);
+    const [visible, setVisible] = useState(false);
 
     const remainingNumbers = useMemo(() => {
         return ALL_NUMBERS.filter((n) => !drawnNumbers.includes(n));
@@ -49,11 +63,47 @@ const BingoDrawer = () => {
         });
     };
 
+
+    const SettingContent = () => {
+        const onFinish = (values) => {
+            Dialog.alert({
+                content: <pre>{JSON.stringify(values, null, 2)}</pre>,
+            })
+        }
+        return (<div>
+            <Form
+                layout='horizontal'
+                onFinish={onFinish}
+                footer={
+                    <Button block type='submit' color='primary' size='large'>
+                        提交
+                    </Button>
+                }
+            >
+                <Form.Header>设置是否自动获取下一个数字</Form.Header>
+                <Form.Item
+                    name='delivery'
+                    label='自动'
+                    valuePropName="checked"
+                    childElementPosition='right'
+                >
+                    <Switch />
+                </Form.Item>
+                <Form.Item name='amount' label='分钟' childElementPosition='right'>
+                    <Stepper />
+                </Form.Item>
+            </Form>
+        </div>)
+    }
+
     return (
         <div className="w-full h-full max-w-xl mx-auto p-4 text-center bg-[#121212] text-[#fafafa]">
-            <h2 className="text-xl font-bold mb-4 text-left">🎲 Bingo</h2>
+            <div className='flex justify-between items-start'>
+                <h2 className="text-xl font-bold mb-4 text-left">🎲 Bingo</h2>
+                <SetOutline onClick={() => setVisible(true)} />
+            </div>
             <Space block direction="vertical" className="mb-4">
-                <Button color="primary" size='large' onClick={drawNumber}>🎲</Button>
+                <Button color="primary" className="w-100px h-100px" size='large' onClick={drawNumber}>🎲</Button>
             </Space>
 
             <div className="mt-6">
@@ -79,6 +129,16 @@ const BingoDrawer = () => {
                     ))}
                 </div>
             </div>
+            <Popup
+                visible={visible}
+                onMaskClick={() => {
+                    setVisible(false)
+                }}
+                position='right'
+                bodyStyle={{ width: '70vw' }}
+            >
+                {SettingContent()}
+            </Popup>
         </div>
     );
 };

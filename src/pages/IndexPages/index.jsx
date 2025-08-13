@@ -6,7 +6,7 @@ import './index.less';
 import Home from '@/pages/Home';
 import Letter from '@/pages/letter';
 import Bingo from '@/pages/Bingo';
-
+import { ErrorBlock } from 'antd-mobile'
 import { GetQueryString } from '@/utils';
 
 
@@ -27,7 +27,7 @@ const IndexPages = () => {
 
 
     return <div className={`IndexPages-page`}>
-        {pathMap[path] ? pathMap[path] : pathMap["home"]}
+        {pathMap[path] ? pathMap[path] : <ErrorBlock status='empty' />}
     </div>;
 };
 export default IndexPages;

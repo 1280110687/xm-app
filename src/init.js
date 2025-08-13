@@ -2,8 +2,11 @@
 
 function removeGlobalLoading() {
     const loadingEl = document.getElementById('global-loading');
+    const root = document.getElementById('root');
+
     if (loadingEl?.parentNode) {
         loadingEl.parentNode.removeChild(loadingEl);
+        if (root) root.style.minHeight = '100vh';
     }
 }
 

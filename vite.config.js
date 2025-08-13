@@ -3,6 +3,11 @@ import react from '@vitejs/plugin-react-swc';
 import path from 'path';
 import WindiCSS from 'vite-plugin-windicss';
 import proxy from './viteConfig/proxy' // 代理配置
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 export default defineConfig({
   // 基本路径

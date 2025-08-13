@@ -4,16 +4,13 @@ import { IntlProvider, useIntl } from '@/i18n'
 import Router from '@/router'
 
 function App() {
-  const [ count, setCount ] = useState(0)
 
   return (
-    <>
-      <IntlProvider>
-        <BrowserRouter>
-          <Router />
-        </BrowserRouter>
-      </IntlProvider>
-    </>
+    <IntlProvider>
+      <BrowserRouter>
+        <Router />
+      </BrowserRouter>
+    </IntlProvider>
   )
 }
 

@@ -11,13 +11,8 @@ import Bingo from '@/pages/Bingo';
 
 // const Home = lazy(() => import('@/pages/Home'));
 
-const NotFound = () => <div>NotFound 404</div>;
+const NotFound = () => <div>123</div>;
 
-{
-    /* <Suspense fallback={<div>Loading...</div>}>
-
-</Suspense> */
-}
 
 const AppRouter = () => {
     usePrivateHook();

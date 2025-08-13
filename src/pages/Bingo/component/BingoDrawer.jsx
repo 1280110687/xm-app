@@ -1,39 +1,50 @@
-import React, { useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState, useCallback } from 'react';
 import { useAtom } from 'jotai';
 import {
     Form,
-    Input,
     Button,
     Space,
     Dialog,
     Popup,
-    TextArea,
-    DatePicker,
-    Selector,
-    Slider,
+    CenterPopup,
     Stepper,
     Switch,
 } from 'antd-mobile';
 import { RedoOutline, FileOutline, SetOutline } from 'antd-mobile-icons'
-import { drawnNumbersAtom } from '@/atoms/bingoAtom';
+import { drawnNumbersAtom, drawnConfigAtom } from '@/atoms/bingoAtom';
+import Countdown from '@/components/Countdown';
+import { asyncTime, debounce } from '@/utils';
 
 const ALL_NUMBERS = Array.from({ length: 75 }, (_, i) => i + 1);
+
 
 const BingoDrawer = () => {
     const [drawnNumbers, setDrawnNumbers] = useAtom(drawnNumbersAtom);
     const [visible, setVisible] = useState(false);
+    const [modalVisible, setModalVisible] = useState(false);
+    const [drawnConfig, setDrawnConfig] = useAtom(drawnConfigAtom);
+    const [currentNum, setCurrentNum] = useState("12");
+
+    const colorRanges = [
+        { max: 15, color: 'bg-red-500' },
+        { max: 30, color: 'bg-green-500' },
+        { max: 45, color: 'bg-blue-500' },
+        { max: 60, color: 'bg-orange-500' },
+        { max: Infinity, color: 'bg-yellow-900' }
+    ];
+
 
     const remainingNumbers = useMemo(() => {
         return ALL_NUMBERS.filter((n) => !drawnNumbers.includes(n));
     }, [drawnNumbers]);
 
-
+    const getNumberColor = (num) => colorRanges.find(range => num <= range.max)?.color || '';
     const speakThaiNumber = (number) => {
         const utterance = new SpeechSynthesisUtterance(number.toString());
         utterance.lang = 'th-TH';
         speechSynthesis.speak(utterance);
     };
-    const drawNumber = async () => {
+    const drawNumber = useCallback(async () => {
         if (remainingNumbers.length === 0) {
             await Dialog.alert({
                 content: 'หมายเลขทั้งหมดถูกจับครบแล้ว!',
@@ -44,16 +55,13 @@ const BingoDrawer = () => {
         }
         const randomIndex = Math.floor(Math.random() * remainingNumbers.length);
         const newNumber = remainingNumbers[randomIndex];
+        await asyncTime(1000);
         setDrawnNumbers([...drawnNumbers, newNumber]);
         speakThaiNumber(newNumber);
-        await Dialog.alert({
-            content: <div className='flex justify-center items-center h-100px w-full'>
-                <div className='text-66px text-red-400 font-bold'>{newNumber}</div>
-            </div>,
-            confirmText: "",
-            closeOnMaskClick: true,
-        });
-    };
+        setCurrentNum(newNumber);
+        setModalVisible(true);
+    }, [drawnNumbers]);
+    const debouncedDrawNumber = useMemo(() => debounce(drawNumber, 1000), [drawNumber]);
     const reset = async () => {
         await Dialog.confirm({
             content: '🔄 เริ่มใหม่',
@@ -64,32 +72,44 @@ const BingoDrawer = () => {
     };
 
 
+
     const SettingContent = () => {
         const onFinish = (values) => {
-            Dialog.alert({
-                content: <pre>{JSON.stringify(values, null, 2)}</pre>,
-            })
+            setDrawnConfig(values)
+            setVisible(false)
         }
         return (<div>
             <Form
                 layout='horizontal'
                 onFinish={onFinish}
+                initialValues={drawnConfig}
                 footer={
                     <Button block type='submit' color='primary' size='large'>
-                        提交
+                        ส่ง
                     </Button>
                 }
             >
-                <Form.Header>设置是否自动获取下一个数字</Form.Header>
+                <Form.Header>ตั้งค่าการรับหมายเลขถัดไปโดยอัตโนมัติหรือไม่</Form.Header>
                 <Form.Item
-                    name='delivery'
-                    label='自动'
+                    name='auto'
+                    label='อัตโนมัติ'
                     valuePropName="checked"
                     childElementPosition='right'
                 >
                     <Switch />
                 </Form.Item>
-                <Form.Item name='amount' label='分钟' childElementPosition='right'>
+                <Form.Item
+                    name='second'
+                    label='วินาที'
+                    childElementPosition='right'
+                    initialValue={0}
+                    rules={[
+                        {
+                            max: 60,
+                            min: 5,
+                            type: 'number',
+                        },
+                    ]}>
                     <Stepper />
                 </Form.Item>
             </Form>
@@ -103,7 +123,9 @@ const BingoDrawer = () => {
                 <SetOutline onClick={() => setVisible(true)} />
             </div>
             <Space block direction="vertical" className="mb-4">
-                <Button color="primary" className="w-100px h-100px" size='large' onClick={drawNumber}>🎲</Button>
+                <Button color="primary" className="w-100px h-100px p-0 m-0 bg-transparent border-transparent" size='large' onClick={() => debouncedDrawNumber()}>
+                    <div className=' font-bold text-88px'>🎲</div>
+                </Button>
             </Space>
 
             <div className="mt-6">
@@ -115,14 +137,7 @@ const BingoDrawer = () => {
                     {drawnNumbers.map((num) => (
                         <span
                             key={num}
-                            className={`
-                                flex justify-center items-center w-40px h-40px rounded-full text-sm font-bold
-                                ${num <= 15 ? 'bg-red-500' : ''}
-                                ${num > 15 && num <= 30 ? 'bg-green-500' : ''}
-                                ${num > 30 && num <= 45 ? 'bg-blue-500' : ''}
-                                ${num > 45 && num <= 60 ? 'bg-orange-500' : ''}
-                                ${num > 60 ? 'bg-yellow-900' : ''}
-                            `}
+                            className={`flex justify-center items-center w-40px h-40px rounded-full text-sm font-bold ${getNumberColor(num)}`}
                         >
                             {num}
                         </span>
@@ -139,6 +154,27 @@ const BingoDrawer = () => {
             >
                 {SettingContent()}
             </Popup>
+            <CenterPopup
+                visible={modalVisible}
+                destroyOnClose
+                onMaskClick={() => {
+                    setModalVisible(false)
+                }}
+            >
+                <div className='p-12px'>
+                    <div className='flex justify-center items-center gap-8px min-h-100px w-full'>
+                        <div className={`flex justify-center items-center text-66px w-100px h-100px rounded-full font-bold ${getNumberColor(currentNum)}`}>{currentNum}</div>
+                    </div>
+                    {drawnConfig?.auto && <Countdown
+                        seconds={drawnConfig?.second}
+                        onFinish={() => {
+                            console.log("倒计时结束！");
+                            setModalVisible(false);
+                            debouncedDrawNumber();
+                        }}
+                    />}
+                </div>
+            </CenterPopup>
         </div>
     );
 };

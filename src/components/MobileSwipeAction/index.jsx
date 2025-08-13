@@ -6,7 +6,7 @@ import { Dialog, SwipeAction, Toast } from 'antd-mobile'
 import "./index.less";
 import useMyfHook from "./useHook.js";
 
-export default ({ children, editCallBack, deleteCallBack }) => {
+export default function MobileSwipeAction({ children, editCallBack, deleteCallBack }) {
   useMyfHook();
   const ref = useRef(null);
   const leftActions = [

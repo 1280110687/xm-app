@@ -10,7 +10,7 @@ import MobileSwipeAction from '@/components/MobileSwipeAction';
 import { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-export default () => {
+export default function Home() {
   useMyfHook();
   const navigate = useNavigate();
   const [form] = Form.useForm();
@@ -111,27 +111,7 @@ export default () => {
     <List>
       {locaList?.map((item, index) => (
         <List.Item key={index}>
-          <MobileSwipeAction
-            editCallBack={() => editCallBack(item)}
-            deleteCallBack={() => deleteCallBack(item)}
-            children={
-              <Collapse accordion>
-                <Collapse.Panel key={index} title={itemTitleRender(index)}>
-                  <Stepper
-                    value={item.num}
-                    onChange={value => {
-                      setLocaList((e) => {
-                        e[index].num += 1
-                        console.log(e)
-                        localStorage.LocaList = JSON.stringify(e);
-                        return e;
-                      })
-                    }}
-                  />
-                </Collapse.Panel>
-              </Collapse>
-            }
-          />
+
         </List.Item>
       ))}
       <div className='flex justify-center items-center py-16px mx-auto w-120px'>
@@ -149,7 +129,7 @@ export default () => {
       bodyStyle={{
         borderTopLeftRadius: '8px',
         borderTopRightRadius: '8px',
-        minHeight: '40vh',
+        // minHeight: '40vh',
       }}
     >
       {formRender()}

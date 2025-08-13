@@ -27,7 +27,7 @@ const IndexPages = () => {
 
 
     return <div className={`IndexPages-page`}>
-        {pathMap[path] ? pathMap[path] : '404'}
+        {pathMap[path] ? pathMap[path] : pathMap["home"]}
     </div>;
 };
 export default IndexPages;

@@ -12,3 +12,11 @@ export const drawnNumbersAtom = atomWithStorage(
     [],
     createJSONStorage(() => localStorage)
 );
+export const drawnConfigAtom = atomWithStorage(
+    'bingo_drawn_config',
+    {
+        auto: false,
+        second: 0
+    },
+    createJSONStorage(() => localStorage)
+);

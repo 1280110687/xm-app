@@ -3,7 +3,7 @@ import { useCreateFavicon } from '@/utils/createFavicon';
 import { Outlet } from 'react-router-dom';
 
 
-export default () => {
+export default function Layout() {
   const { doCreate } = useCreateFavicon();
 
   useLayoutEffect(() => {
@@ -12,7 +12,6 @@ export default () => {
   }, [])
 
   return (
-
     <div>
       <header>
         {/* <Nav /> */}
@@ -24,11 +23,9 @@ export default () => {
         </main>
       </Suspense>
 
-
       <footer>
-        {/* <FooterTab /> */}
+        {/* <div>XM-App ©2025 Created by XM</div> */}
       </footer>
-
 
     </div>
   )

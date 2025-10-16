@@ -10,7 +10,7 @@
 
 <body>
   <div id="root"></div>
-  <!-- <div id="global-loading">
+  <div id="global-loading">
     <style>
       .loader {
         position: absolute;
@@ -303,8 +303,13 @@
     <div class="longfazers">
       <span></span><span></span><span></span><span></span>
     </div>
-  </div> -->
+  </div>
   <script type="module" src="/src/main.jsx"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js');
+    }
+  </script>
 </body>
 
 </html>

@@ -8,6 +8,7 @@ import IndexPages from '@/pages/IndexPages';
 import Home from '@/pages/Home';
 // import Letter from '@/pages/Letter';
 import Bingo from '@/pages/Bingo';
+import Notes from '@/pages/Notes';
 
 // const Home = lazy(() => import('@/pages/Home'));
 
@@ -23,6 +24,7 @@ const AppRouter = () => {
                 <Route path="/home" element={<Home />} />
                 {/* <Route path="/letter" element={<Letter />} /> */}
                 <Route path="/bingo" element={<Bingo />} />
+                <Route path="/notes" element={<Notes />} />
             </Route>
             {/* 未匹配路由的重定向 */}
             <Route path="/*" element={<NotFound />} />

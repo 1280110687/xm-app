@@ -28,7 +28,6 @@ export const useCreateFavicon = () => {
         return this
     };
     const doCreate = () => {
-        // 后期改为后台可配置
         const url = ico;
         createFavicon({ url, rel: 'shortcut icon', id: 'Favicon' });
         createFavicon({ url, rel: 'apple-touch-icon', id: 'FaviconIos' });

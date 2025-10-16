@@ -6,6 +6,7 @@ import './index.less';
 import Home from '@/pages/Home';
 import Letter from '@/pages/letter';
 import Bingo from '@/pages/Bingo';
+import Notes from '@/pages/Notes';
 import { ErrorBlock } from 'antd-mobile'
 import { GetQueryString } from '@/utils';
 
@@ -23,6 +24,7 @@ const IndexPages = () => {
         "home": <Home />,
         "letter": <Letter />,
         "bingo": <Bingo />,
+        "notes": <Notes />,
     }
 
 

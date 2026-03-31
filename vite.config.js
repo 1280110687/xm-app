@@ -60,9 +60,6 @@ export default defineConfig({
     preprocessorOptions: {
       less: {
         javascriptEnabled: true,
-      },
-      scss: {
-        additionalData: `@import "@/styles/global.scss";` // 自动引入全局样式
       }
     }
   }

@@ -1,4 +1,4 @@
-
+/* eslint-disable no-undef */
 
 import { readdir, stat, mkdir, writeFile } from 'fs/promises';
 import path from 'path';
@@ -79,7 +79,8 @@ async function create_folder(folderName, foldersPath) {
     }
     const folders = await getComponentFolders(foldersPath)
     if (folders.includes(folderName)) {
-      console.error(`文件夹${foldersPath}\/${folderName}已经存在`);
+      const pathName = `${foldersPath}/${folderName}`
+      console.error(`文件夹${pathName}已经存在`);
       return
     }
     await create_folder(folderName, foldersPath)

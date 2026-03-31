@@ -6,7 +6,6 @@ import { atomWithStorage, createJSONStorage } from 'jotai/utils';
 export const homeMarketTabsAtom = atom([]);
 
 
-// export const drawnNumbersAtom = atomWithStorage('bingo_drawn_numbers', []);
 export const drawnNumbersAtom = atomWithStorage(
     'bingo_drawn_numbers',
     [],

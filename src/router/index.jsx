@@ -1,5 +1,5 @@
 // src/router.js
-import React, { Suspense, lazy } from 'react';
+import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import usePrivateHook from './usePrivateHook';
 

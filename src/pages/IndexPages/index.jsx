@@ -1,7 +1,7 @@
 /**
 * IndexPages-page
 */
-import React, { useEffect, lazy, useMemo } from 'react';
+import { useMemo } from 'react';
 import './index.less';
 import Home from '@/pages/Home';
 import Letter from '@/pages/letter';

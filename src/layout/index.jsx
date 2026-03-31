@@ -1,4 +1,4 @@
-import React, { Suspense, useLayoutEffect } from 'react';
+import { Suspense, useLayoutEffect } from 'react';
 import { useCreateFavicon } from '@/utils/createFavicon';
 import { Outlet } from 'react-router-dom';
 

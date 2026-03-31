@@ -1,8 +1,8 @@
 /**
  * mobile-swipe-action-component
  */
-import { useState, useRef } from "react";
-import { Dialog, SwipeAction, Toast } from 'antd-mobile'
+import { useRef } from "react";
+import { Dialog, SwipeAction } from 'antd-mobile'
 import "./index.less";
 import useMyfHook from "./useHook.js";
 

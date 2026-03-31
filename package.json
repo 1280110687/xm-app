@@ -12,6 +12,7 @@
     "create_p": "node devAutomation/generateFolder.js src/pages "
   },
   "dependencies": {
+    "antd-mobile-icons": "^0.3.0",
     "eslint-import-resolver-alias": "^1.1.2",
     "jotai": "^2.12.2",
     "less": "^4.2.1",

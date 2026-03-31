@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 const LetterPage = () => {
     // 原始 HTML 内容

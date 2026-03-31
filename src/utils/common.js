@@ -1,5 +1,3 @@
-import { Toast } from 'antd-mobile';
-
 export const isNumber = (value) => !isNaN(value) && Number.isFinite(Number(value));
 
 export const getFullSize = (size) => (isNumber(size) ? `${size}px` : size);

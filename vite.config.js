@@ -44,13 +44,13 @@ export default defineConfig({
   // 开发服务器配置
   server: {
     host: '0.0.0.0', // 支持局域网访问
-    port: 9527, // 自定义端口
+    port: 3000, // 开发端口
     open: false, // 启动后自动打开浏览器
     proxy: proxy
   },
 
   preview: {
-    port: 6666, // 你希望使用的端口
+    port: 3000, // 预览端口
     strictPort: false,
     // open: true, // 预览时自动打开浏览器
   },
